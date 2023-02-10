@@ -11,6 +11,9 @@ class Auth extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
+    /**
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View|\Illuminate\Http\RedirectResponse|\Illuminate\Routing\Redirector
+     */
     public function checkIp() {
         if(request()->ip() == '192.168.0.15'){
             return redirect('/dev');
