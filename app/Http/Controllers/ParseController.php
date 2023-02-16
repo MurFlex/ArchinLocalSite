@@ -141,9 +141,18 @@ class ParseController extends Controller
             return redirect('/parse');
         } else {
             $dir = '../app/Logs/';
-            $files = scandir($_SERVER['DOCUMENT_ROOT'].$dir);
+            $files = scandir($dir);
 
-            return view('parse', ['files' => $files]);
+            $filtered_files = array();
+            foreach(array_slice($files, 2) as $file) {
+                $exploded_array = explode(" ", $file);
+//                dd(end($exploded_array));
+                if(end($exploded_array) !== "Started.json" and end($exploded_array) !== 'Ended.json') {
+                    $filtered_files[] = $file;
+                }
+            }
+
+            return view('parse', ['files' => $filtered_files]);
         }
     }
 }
