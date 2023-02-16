@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+{{--<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">--}}
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -45,7 +45,8 @@
             /*margin: auto;*/
             min-width: 100vh;
             height: 10%;
-            background-color: lightseagreen;
+            background-color: #125ea8;
+            color: white;
         }
 
         /*.footer {*/
@@ -83,7 +84,7 @@
 
         input[type=submit] {
             width: 100%;
-            background-color: lightseagreen;
+            background-color: #125ea8;
             color: white;
             padding: 14px 20px;
             margin: 8px 0;
@@ -93,7 +94,7 @@
         }
 
         input[type=submit]:hover {
-            background-color: seagreen;
+            background-color: #125ee0;
         }
 
         .table_top {
@@ -120,10 +121,10 @@
         }
 
         .table_element-1 {
-             background-color: white;
-             border: 1px solid black;
-             margin: 1px auto;
-         }
+            background-color: white;
+            border: 1px solid black;
+            margin: 1px auto;
+        }
 
         .table_element-2 {
             background-color: #f2f2f2;
@@ -155,83 +156,95 @@
         form {
             min-height: 100%;
         }
+
+        .nav_item {
+            text-decoration: none;
+        }
+
+        a {
+            color: white;
+            text-decoration: none;
+        }
+
     </style>
 
 </head>
 <body>
 
-@if (request()->ip() == '192.168.0.15')
-    <div class="header">
-        <div class="header_elements">
-            <div class="nav_item"> Navigation-item </div>
-            <div class="nav_item"> Navigation-item </div>
-            <div class="nav_item"> Navigation-item </div>
-            <div class="nav_item"> Navigation-item </div>
-            <div class="nav_item"> Navigation-item </div>
-            <div class="nav_item"> Navigation-item </div>
-
-        </div>
+@if (request()->ip() == '192.168.0.15' || request()->ip() == '192.168.0.22')
+<div class="header">
+    <div class="header_elements">
+        <div class="nav_item"> Логотип  </div>
+        <div class="nav_item"> <a href="http://192.168.0.15/dev"> На главную </a> </div>
+        <div class="nav_item"> <a href="http://192.168.0.15/parse"> Парсинг </a> </div>
+        <div class="nav_item">  </div>
+        <div class="nav_item">  </div>
+        <div class="nav_item">  </div>
     </div>
+</div>
 
 <!--    <h class="centered"> Good </h>-->
-    <div class="wrap">
-        <div class="table">
-            <div class="table_top">
-                @if (isset($request['company_name']))
-                    <h2 class="table_header"> Результаты поиска по компании: <span class="request_name"> {{ $request['company_name'] }} </span></h2>
-                @else
-                    <h2 class="table_header"> Список компаний </h2>
-                @endif
-            </div>
-            <div class="table_content">
-                @if(isset($results))
-                    @foreach ($results as $item)
-                        <div id="1234255235" class="table_element-1">
-                            {{ $item }}
-                        </div>
-                    @endforeach
-                @elseif(!empty($request))
-                    <h2 class="table_header"> Ничего не найдено. </h2>
-                @else
-                    <h2 class="table_header"> Компании </h2>            <!--            todo Check if input is empty-->
-                @endif
-            </div>
+
+<div class="wrap">
+    <div class="table">
+        <div class="table_top">
+            @if (isset($request['company_name']))
+            <h2 class="table_header"> Результаты поиска по компании: <span class="request_name"> {{ $request['company_name'] }} </span></h2>
+            @else
+            <h2 class="table_header"> Список компаний </h2>
+            @endif
         </div>
-        <div class="search">
-            <form style="height: 100%;" action="#" method="get">
-                <div class="search_form">
-                    <div class="top_search_form">
-                        <label for="cname">Название компании</label>
-                        <input type="text" id="cname" name="company_name" placeholder="Название компании" value="{{ $request['company_name'] ?? '' }}">
+        <div class="table_content">
+            @if(isset($results))
+            @foreach ($results as $item)
+            <div id="{{ $item }}" class="table_element-1">
+                {{ $item }}
+            </div>
+            @endforeach
+            @elseif(isset($request) && (!isset($request['company_name']) && !isset($request['device_name'])))
+            <script>window.location = "/dev";</script>
+            @elseif(!empty($request))
+            <h2 class="table_header"> Ничего не найдено. </h2>
+            @else
+            <h2 class="table_header"> Список компаний </h2>
+            @endif
+        </div>
+    </div>
+    <div class="search">
+        <form style="height: 100%;" action="#" method="get">
+            <div class="search_form">
+                <div class="top_search_form">
+                    <label for="cname">Название компании</label>
+                    <input type="text" id="cname" name="company_name" placeholder="Название компании" value="{{ $request['company_name'] ?? '' }}">
 
-                        <label for="dname">Название прибора</label>
-                        <input type="text" id="dname" name="device_name" placeholder="Название прибора" value="{{ $request['device_name'] ?? '' }}">
+                    <label for="dname">Название прибора</label>
+                    <input type="text" id="dname" name="device_name" placeholder="Название прибора" value="{{ $request['device_name'] ?? '' }}">
 
-                        <label for="add_options">Дополнительные опции</label>
-                        <select id="add_options" name="add_options">
-                            <option value="option 1">option 1</option>
-                            <option value="option 2">option 2</option>
-                            <option value="option 3">option 3</option>
-                        </select>
-                    </div>
-                    <div class="submit_button">
-                        <input type="submit" value="Поиск">
-                    </div>
+                    <label for="add_options">Дополнительные опции</label>
+                    <select id="add_options" name="add_options">
+                        <option value="option 1">option 1</option>
+                        <option value="option 2">option 2</option>
+                        <option value="option 3">option 3</option>
+                    </select>
                 </div>
-            </form>
-        </div>
+                <div class="submit_button">
+                    <input type="submit" value="Поиск">
+                </div>
+            </div>
+        </form>
     </div>
-    <div class="footer">
-        <div class="footer_elements">
-            <div class="footer_element">footer_element</div>
-            <div class="footer_element">footer_element</div>
-            <div class="footer_element">footer_element</div>
-            <div class="footer_element">footer_element</div>
-        </div>
+</div>
+<div class="footer">
+    <div class="footer_elements">
+        <div class="footer_element">Тел. </div>
+        <div class="footer_element">Адрес </div>
+        <div class="footer_element">Инфо </div>
+        <div class="footer_element">Инфо</div>
     </div>
+</div>
 
 @else
-    <h class="centered"> Access denied </h>
+<h class="centered"> Access denied </h>
 @endif
 
 <script>
