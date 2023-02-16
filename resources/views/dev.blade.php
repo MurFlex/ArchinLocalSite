@@ -123,7 +123,8 @@
         .table_element-1 {
             background-color: white;
             border: 1px solid black;
-            margin: 1px auto;
+            margin: 5px auto;
+            padding: 10px;
         }
 
         .table_element-2 {
@@ -189,24 +190,26 @@
     <div class="table">
         <div class="table_top">
             @if (isset($request['company_name']))
-            <h2 class="table_header"> Результаты поиска по компании: <span class="request_name"> {{ $request['company_name'] }} </span></h2>
+                <h2 class="table_header"> Результаты поиска по компании: <span class="request_name"> {{ $request['company_name'] }} </span></h2>
             @else
-            <h2 class="table_header"> Список компаний </h2>
+                <h2 class="table_header"> Список компаний </h2>
             @endif
         </div>
         <div class="table_content">
             @if(isset($results))
-            @foreach ($results as $item)
-            <div id="{{ $item }}" class="table_element-1">
-                {{ $item }}
-            </div>
-            @endforeach
+                @foreach ($results as $id => $item)
+                <div id="{{ $id }}" class="table_element-1">
+                    {{ $item }}
+                </div>
+                @endforeach
             @elseif(isset($request) && (!isset($request['company_name']) && !isset($request['device_name'])))
-            <script>window.location = "/dev";</script>
+                <script>window.location = "/dev";</script>
             @elseif(!empty($request))
-            <h2 class="table_header"> Ничего не найдено. </h2>
+                <h2 class="table_header"> Ничего не найдено. </h2>
             @else
-            <h2 class="table_header"> Список компаний </h2>
+                @foreach ($companies as $company)
+                    <h3 class="table_element-1"> {{ $company }} </h3>
+                @endforeach
             @endif
         </div>
     </div>
@@ -248,15 +251,12 @@
 @endif
 
 <script>
-    url = 'http://192.168.0.15/device/';
+    url = 'http://192.168.0.15/company-';
 
     $(".table_element-1").dblclick(function(event){
-        window.location.href = url.concat(event.target.id)
+        window.location.href = url.concat($(event.target).text())
     });
 
-    $(".table_element-2").dblclick(function(event){
-        window.location = url.concat(event.target.id)
-    });
 </script>
 
 </body>

@@ -155,7 +155,8 @@
 
         form {
             min-width: 50%;
-            padding: 20px;
+            /*padding: 20px;*/
+            margin-right: 40px;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
@@ -178,7 +179,6 @@
             border: none;
             border-radius: 4px;
             cursor: pointer;
-            margin: 20px;
         }
 
         .content_top {
@@ -186,17 +186,21 @@
         }
 
         .files_table {
+            margin-right: 50px;
             overflow: auto;
             display: flex;
             flex-direction: column;
-            max-height: 50%;
+            height: 100%;
         }
 
         .files_table_element {
-            margin: 10px 0;
-            padding: 10px
-            border: 2px solid black;
-            width: 100%;
+            margin: 10px;
+            padding: 10px;
+        }
+
+        .color {
+            border-bottom: 2px solid black;
+            /*border-radius: 5px;*/
         }
     </style>
 
@@ -216,40 +220,47 @@
 </div>
 
 <div class="wrap">
-    <div style="display: flex; flex-direction: column; justify-content: space-between" class="content">
-        <div style="display: flex" class="content_top">
-            <form action="#" method="get">
+    <div style='display: flex; flex-direction: row; justify-content: space-between; width: 100%; padding: 40px' class="content">
+        <div style="display: flex; flex-direction: column; justify-content: space-between;" class="content_left">
+            <div style="display: flex" class="content_top">
+                <form action="#" method="get">
+                        <div class="top_search_form">
+                            <h2 style="margin-bottom: 10px"> Выгрузка приборов по категориям </h2>
+
+                            <label for="from"> От </label>
+                            <input type="text" id="from" name="from" placeholder="От" value="{{ $request['company_name'] ?? '' }}" required>
+
+                            <label for="until"> До </label>
+                            <input type="text" id="until" name="until" placeholder="До" value="{{ $request['device_name'] ?? '' }}" required>
+
+                        </div>
+                        <div class="submit_button">
+                            <label style='visibility: hidden'> ъуъ </label>
+                            <input id="submit" type="submit" value="Поиск">
+                        </div>
+                </form>
+
+                <form action="#" method="get">
                     <div class="top_search_form">
-                        <h2 style="margin-bottom: 10px"> Выгрузка приборов по категориям </h2>
+                        <h2 style="margin-bottom: 10px"> Выгрузка прибора по id </h2>
 
-                        <label for="from"> От </label>
-                        <input type="text" id="from" name="from" placeholder="От" value="{{ $request['company_name'] ?? '' }}" required>
+                        <label style='visibility: hidden'> ъуъ </label>
+                        <input type="text" id="search_id" name="id" placeholder="id прибора" value="{{ $request['company_name'] ?? '' }}" required>
 
-                        <label for="until"> До </label>
-                        <input type="text" id="until" name="until" placeholder="До" value="{{ $request['device_name'] ?? '' }}" required>
 
                     </div>
                     <div class="submit_button">
-                        <label style='visibility: hidden'> ъуъ </label>
-                        <input id="submit" type="submit" value="Поиск">
+                        <input type="submit" value="Поиск">
                     </div>
-            </form>
+                </form>
 
-            <form action="#" method="get">
-                <div class="top_search_form">
-                    <h2 style="margin-bottom: 10px"> Выгрузка прибора по id </h2>
-
-                    <label style='visibility: hidden'> ъуъ </label>
-                    <input type="text" id="search_id" name="id" placeholder="id прибора" value="{{ $request['company_name'] ?? '' }}" required>
-
-
-                </div>
-                <div class="submit_button">
-                    <input type="submit" value="Поиск">
-                </div>
-            </form>
+            </div>
+            <div class="content_bottom">
+                <button class="product_bottom_buttons" type="button" onclick="history.back();"> Назад </button>
+            </div>
         </div>
-        <div class="content_bottom">
+        <div class="content_right">
+            <h2 style="margin-bottom: 10px"> Список файлов </h2>
             <div class="files_table">
                 @if (isset( $files ))
                     @foreach ($files as $file)
@@ -257,20 +268,23 @@
                     @endforeach
                 @endif
             </div>
-            <button class="product_bottom_buttons" type="button" onclick="history.back();"> Назад </button>
         </div>
     </div>
 </div>
-
-
-
 <div class="footer">
 
 </div>
-
 @else
 <h class="centered"> Access denied </h>
 @endif
+
+<script>
+    const addclass = 'color';
+    const $cols = $('.files_table_element').click(function (e) {
+        $cols.removeClass(addclass);
+        $(this).addClass(addclass);
+    });
+</script>
 
 </body>
 </html>
