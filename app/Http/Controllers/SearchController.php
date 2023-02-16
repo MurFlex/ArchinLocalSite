@@ -4,28 +4,31 @@ namespace App\Http\Controllers;
 
 use App\Models\Devices;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 class SearchController extends Controller
 {
     public function index(Request $request)
     {
         if(!empty($request->all())){
-            $result = array();
-            $devices = Devices::all()->where('name', '=', $request->all()['company_name']);
+            $request = $request->all();
+            $results = array();
+            $devices = DB::select(DB::raw('SELECT * FROM devices WHERE LOWER(name) LIKE ' . "'%" . strtolower($request['company_name'] . "%'")));
+
             foreach($devices as $device) {
-                array_push($result, $device->getAttribute('category_id'));
+                $results[] = $device->category_id;
             }
 
             if(empty($result)) {
                 return view('dev',
                     [
-                        'request' => $request->all(),
+                        'request' => $request,
                     ]);
             } else {
                 return view('dev',
                     [
-                        'results' => $result,
-                        'request' => $request->all(),
+                        'results' => $results,
+                        'request' => $request,
                     ]);
             }
 

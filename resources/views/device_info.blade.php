@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Archin</title>
+    <title> Archin </title>
     <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -40,11 +40,20 @@
         }
 
         .header, .footer {
+            display: flex;
+            justify-content: flex-start;
             /*margin: auto;*/
             min-width: 100vh;
             height: 10%;
-            background-color: lightseagreen;
+            background-color: #125ea8;
+            color: white;
         }
+
+        /*.footer {*/
+        /*    position: absolute;*/
+        /*    bottom: 0;*/
+        /*    left: 0;*/
+        /*}*/
 
         .table {
             border-right: 2px solid black;
@@ -57,7 +66,7 @@
             border-bottom: 2px solid black;
         }
 
-        .search_form {
+        .search {
             margin: 0 auto;
             max-width: 20%;
             padding: 20px;
@@ -75,7 +84,7 @@
 
         input[type=submit] {
             width: 100%;
-            background-color: lightseagreen;
+            background-color: #125ea8;
             color: white;
             padding: 14px 20px;
             margin: 8px 0;
@@ -85,13 +94,7 @@
         }
 
         input[type=submit]:hover {
-            background-color: seagreen;
-        }
-
-        div {
-            /*border-radius: 5px;*/
-            background-color: #f2f2f2;
-            /*padding: 20px;*/
+            background-color: #125ee0;
         }
 
         .table_top {
@@ -101,7 +104,7 @@
         .table_header {
             height: 100%;
             padding: 1.5vh;
-            font-size: 1.5vh;
+            font-size: 1.75vh;
         }
 
         .table_content {
@@ -124,31 +127,57 @@
         }
 
         .table_element-2 {
+            background-color: #f2f2f2;
             border: 1px solid black;
             margin: 1px auto;
         }
 
-        .content {
+        .header_elements, .footer_elements {
+            display: flex;
+            justify-content: space-between;
+            margin: 0 auto;
+            width: 80%;
+            padding-top: 1.5em;
+            font-size: 2vh;
+            font-weight: bold;
+        }
+
+        .footer_element, .nav_item {
+            cursor: pointer;
+        }
+
+        .search_form {
+            height: 100%;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
         }
 
+        form {
+            min-height: 100%;
+        }
+
+        .nav_item {
+            text-decoration: none;
+        }
+
+        a {
+            color: white;
+            text-decoration: none;
+        }
+
         .product_bottom_buttons {
             width: 100%;
-            background-color: lightseagreen;
+            background-color: #125ea8;
             color: white;
             padding: 14px 20px;
             border: none;
             border-radius: 4px;
             cursor: pointer;
-            margin: 10px;
         }
 
         #list {
             list-style-type: none;
-            padding: 14px 20px;
-            margin: 10px;
         }
 
         #list > li {
@@ -159,20 +188,34 @@
             display: none;
             padding-bottom: 2px;
         }
+
+        .content {
+            margin: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
     </style>
 
 </head>
 <body>
 
-@if (request()->ip() == '192.168.0.15')
+@if (request()->ip() == '192.168.0.15' || request()->ip() == '192.168.0.22')
 <div class="header">
-
+    <div class="header_elements">
+        <div class="nav_item"> Логотип  </div>
+        <div class="nav_item"> <a href="http://192.168.0.15/dev"> На главную </a> </div>
+        <div class="nav_item"> <a href="http://192.168.0.15/parse"> Парсинг </a> </div>
+        <div class="nav_item">  </div>
+        <div class="nav_item">  </div>
+        <div class="nav_item">  </div>
+    </div>
 </div>
 
 <div class="wrap">
     <div class="content">
         <div class="content_top">
-            <h1 style="padding: 15px 0 0 15px;"> Device id: {{ $id }} </h1>
+            <h1 style="margin-bottom: 10px"> Device id: {{ $id }} </h1>
             <ul id="list">
                 <li> Список приборов
                     <ul>
@@ -187,7 +230,7 @@
             </ul>
         </div>
         <div class="content_bottom">
-            <button class="product_bottom_buttons" type="button" onclick="history.back();">Back</button>
+            <button class="product_bottom_buttons" type="button" onclick="history.back();"> Назад </button>
         </div>
     </div>
 
