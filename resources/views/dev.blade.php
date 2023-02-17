@@ -108,15 +108,15 @@
         }
 
         .table_content {
-            max-height: 89%;
+            max-height: 89.5%;
             display: flex;
             flex-direction: column;
             overflow: auto
         }
 
-        .table_element-1, .table_element-2 {
+        .table_element-1 {
             min-height: 10vh;
-            min-width: 99%;
+            min-width: 98%;
             border-radius: 5px;
         }
 
@@ -125,12 +125,7 @@
             border: 1px solid black;
             margin: 5px auto;
             padding: 10px;
-        }
-
-        .table_element-2 {
-            background-color: #f2f2f2;
-            border: 1px solid black;
-            margin: 1px auto;
+            cursor: pointer;
         }
 
         .header_elements, .footer_elements {
@@ -177,7 +172,7 @@
     <div class="header_elements">
         <div class="nav_item"> Логотип  </div>
         <div class="nav_item"> <a href="http://192.168.0.15/dev"> На главную </a> </div>
-        <div class="nav_item"> <a href="http://192.168.0.15/parse"> Парсинг </a> </div>
+        <div class="nav_item"> <a href="http://192.168.0.15/parse"> Admin </a> </div>
         <div class="nav_item">  </div>
         <div class="nav_item">  </div>
         <div class="nav_item">  </div>
@@ -204,11 +199,11 @@
                 @endforeach
             @elseif(isset($request) && (!isset($request['company_name']) && !isset($request['device_name'])))
                 <script>window.location = "/dev";</script>
-            @elseif(!empty($request))
+            @elseif(!empty($request) and empty($companies))
                 <h2 class="table_header"> Ничего не найдено. </h2>
             @else
-                @foreach ($companies as $company)
-                    <h3 class="table_element-1"> {{ $company }} </h3>
+                @foreach ($companies as $id => $company)
+                    <div id="{{ $id }}" class="table_element-1"> {{ $company }} </div>
                 @endforeach
             @endif
         </div>
@@ -251,7 +246,7 @@
 @endif
 
 <script>
-    url = 'http://192.168.0.15/company-';
+    url = 'http://192.168.0.15/company/';
 
     $(".table_element-1").dblclick(function(event){
         window.location.href = url.concat($(event.target).text())

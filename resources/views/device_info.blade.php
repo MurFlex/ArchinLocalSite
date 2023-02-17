@@ -205,7 +205,7 @@
     <div class="header_elements">
         <div class="nav_item"> Логотип  </div>
         <div class="nav_item"> <a href="http://192.168.0.15/dev"> На главную </a> </div>
-        <div class="nav_item"> <a href="http://192.168.0.15/parse"> Парсинг </a> </div>
+        <div class="nav_item"> <a href="http://192.168.0.15/parse"> Admin </a> </div>
         <div class="nav_item">  </div>
         <div class="nav_item">  </div>
         <div class="nav_item">  </div>

@@ -59,7 +59,6 @@ class ParseController extends Controller
                 $start = (int) $request['from'];
                 $end = (int) $request['until'];
                 $n = 0;
-//                file_put_contents('../app/Logs/result-' . date("Y-m-d H-i-s") . ' Started' . '.json', '');
                 $result = array();
 
                 foreach($data as $category_id => $item) {
@@ -72,10 +71,7 @@ class ParseController extends Controller
                         foreach($item->id as $id) {
                             $current_url = $service_url . $id;
                             $device_data = $this->getData($current_url);
-//                            dd($device_data);
                             if($data !== 'Bad response!') {
-//                                $result[] = $device_data;
-//                                dd($id);
                                 $result[$id] = $device_data;
                             } else {
                                 print('Bad Response!');
@@ -96,28 +92,6 @@ class ParseController extends Controller
                     fclose($fp);
                     $result = [];
                 }
-
-//                while($start <= $end) {
-//                    $current_url = $service_url . $start;
-//                    $data = $this->getData($current_url);
-//
-//                    if($data !== 'Bad response!') {
-//                        $result[] = $data;
-//                    } else {
-//                        print('Bad Response!');
-//                    }
-//
-//                    $start = $start + 1;
-//
-//                    if((time() - $current_time) > $delay) {
-//                        $current_time = time();
-//                        $fp = fopen('../app/Logs/result-' . date("Y-m-d H-i-s") . '.json', 'w');
-//                        fwrite($fp, json_encode($result, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT ));
-//                        fclose($fp);
-//                    }
-//
-//                    sleep(1);
-//                }
 
                 $fp = fopen('../app/Logs/' . date("Y-m-d H-i-s") . '.json', 'w');
                 fwrite($fp, json_encode($result, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));

@@ -201,7 +201,7 @@
         }
 
         .content_top {
-            max-height: 58vh;
+            max-height: 55vh;
             overflow: auto;
         }
     </style>
