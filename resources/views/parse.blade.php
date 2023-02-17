@@ -190,7 +190,7 @@
             overflow: auto;
             display: flex;
             flex-direction: column;
-            height: 100%;
+            max-height: 92%;
         }
 
         .files_table_element {
@@ -212,7 +212,7 @@
     <div class="header_elements">
         <div class="nav_item"> Логотип  </div>
         <div class="nav_item"> <a href="http://192.168.0.15/dev"> На главную </a> </div>
-        <div class="nav_item"> <a href="http://192.168.0.15/parse"> Парсинг </a> </div>
+        <div class="nav_item"> <a href="http://192.168.0.15/parse"> Admin </a> </div>
         <div class="nav_item">  </div>
         <div class="nav_item">  </div>
         <div class="nav_item">  </div>
@@ -281,8 +281,14 @@
 <script>
     const addclass = 'color';
     const $cols = $('.files_table_element').click(function (e) {
-        $cols.removeClass(addclass);
-        $(this).addClass(addclass);
+        if ($(this).hasClass(addclass)) {
+            $(this).removeClass(addclass);
+        } else if($cols.hasClass(addclass)) {
+            $cols.removeClass(addclass);
+            $(this).addClass(addclass);
+        } else {
+            $(this).addClass(addclass);
+        }
     });
 </script>
 
