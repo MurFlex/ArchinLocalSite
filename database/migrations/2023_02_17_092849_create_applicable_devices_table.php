@@ -15,10 +15,10 @@ class CreateApplicableDevicesTable extends Migration
     {
         Schema::create('applicable_devices', function (Blueprint $table) {
             $table->id('device_id');
-            $table->integer('company_id');
-            $table->string('certNum');
-            $table->string('signPass');
-            $table->string('signMi');
+            $table->integer('company_id')->nullable();
+            $table->string('certNum')->nullable();
+            $table->string('signPass')->nullable();
+            $table->string('signMi')->nullable();
             $table->timestamps();
         });
     }

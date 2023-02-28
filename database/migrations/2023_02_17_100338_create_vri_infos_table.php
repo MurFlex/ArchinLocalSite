@@ -15,14 +15,14 @@ class CreateVriInfosTable extends Migration
     {
         Schema::create('vri_infos', function (Blueprint $table) {
             $table->id('device_id');
-            $table->string('organization');
-            $table->string('signCipher');
-            $table->string('miOwner');
-            $table->string('vrfDate');
-            $table->string('validDate');
-            $table->string('vriType');
-            $table->string('docTitle');
-            $table->string('applicable');
+            $table->text('organization')->nullable();
+            $table->string('signCipher')->nullable();
+            $table->text('miOwner')->nullable();
+            $table->string('vrfDate')->nullable();
+            $table->string('validDate')->nullable();
+            $table->string('vriType')->nullable();
+            $table->string('docTitle')->nullable();
+            $table->string('applicable')->nullable();
             $table->timestamps();
         });
     }

@@ -190,22 +190,39 @@
         }
 
         .content {
+            width: 100%;
             margin: 20px;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
+        }
+
+        .main_content {
+            overflow: auto;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            border: 2px solid rgb(200, 200, 200);
+            letter-spacing: 1px;
+        }
+
+        td {
+            border: 2px solid black;
+            padding: 10px;
         }
     </style>
 
 </head>
 <body>
 
-@if (request()->ip() == '192.168.0.15' || request()->ip() == '192.168.0.22')
 <div class="header">
     <div class="header_elements">
         <div class="nav_item"> Логотип  </div>
         <div class="nav_item"> <a href="http://192.168.0.15/dev"> На главную </a> </div>
-        <div class="nav_item"> <a href="http://192.168.0.15/parse"> Admin </a> </div>
+        @if (request()->ip() == '192.168.0.15') <div class="nav_item"> <a href="http://192.168.0.15/parse"> Admin </a> </div> @endif
         <div class="nav_item">  </div>
         <div class="nav_item">  </div>
         <div class="nav_item">  </div>
@@ -215,19 +232,53 @@
 <div class="wrap">
     <div class="content">
         <div class="content_top">
-            <h1 style="margin-bottom: 10px"> Device id: {{ $id }} </h1>
-            <ul id="list">
-                <li> Список приборов
-                    <ul>
-                        <li>sublist</li>
-                        <li>sublist</li>
-                        <li>sublist</li>
-                        <li>sublist</li>
-                        <li>sublist</li>
-                        <li>sublist</li>
-                    </ul>
-                </li>
-            </ul>
+            <h1 style="margin-bottom: 10px"> Прибор №{{ $device['device_id'] }} </h1>
+        </div>
+        <div class="main_content">
+{{--            @foreach($device as $index => $param)--}}
+{{--                <p>{{ $index }} : {{ $param }} </p>--}}
+{{--            @endforeach--}}
+            <table>
+                <tr style="font-weight: bold">
+                    <td>
+                        Наименование
+                    </td>
+                    <td>
+                        Результат
+                    </td>
+                </tr>
+
+                @foreach($device as $index => $param)
+                    @if(isset($decoding[$index]))
+                    <tr>
+                        <td style="font-weight: bold">
+                            {{ $decoding[$index] }}
+                        </td>
+                        <td>
+                            @if($index == 'mitypeNumber')
+                                <a style="color: black" href="{{ $device['mitypeURL'] }}">{{ $param }}</a>
+                                @php
+                                    continue;
+                                @endphp
+                            @endif
+                            @if($index == 'device_id')
+                                <a style="color: black" href="https://fgis.gost.ru/fundmetrology/cm/results/1-{{ $param }}">{{ $param }}</a>
+                                @php
+                                    continue;
+                                @endphp
+                            @endif
+                            @if($param == 'Y' || $param == 'N')
+                                {{ $param == 'Y' ? 'Да' : 'Нет' }}
+                                @php
+                                    continue;
+                                @endphp
+                            @endif
+                            {{ $param == '' || $param == '0' ? 'Нет данных' : $param }}
+                        </td>
+                    </tr>
+                    @endif
+                @endforeach
+            </table>
         </div>
         <div class="content_bottom">
             <button class="product_bottom_buttons" type="button" onclick="history.back();"> Назад </button>
@@ -241,10 +292,6 @@
 <div class="footer">
 
 </div>
-
-@else
-<h class="centered"> Access denied </h>
-@endif
 
 <script>
     $(document).ready(function () {

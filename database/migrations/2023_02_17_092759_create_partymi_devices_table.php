@@ -15,11 +15,11 @@ class CreatePartymiDevicesTable extends Migration
     {
         Schema::create('partymi_devices', function (Blueprint $table) {
             $table->id('device_id');
-            $table->string('mitypeNumber');
-            $table->string('mitypeURL');
-            $table->string('mitypeTitle');
-            $table->string('mitypeType');
-            $table->integer('quantity');
+            $table->string('mitypeNumber')->nullable();
+            $table->string('mitypeURL')->nullable();
+            $table->string('mitypeTitle')->nullable();
+            $table->string('mitypeType')->nullable();
+            $table->integer('quantity')->nullable();
             $table->timestamps();
         });
     }

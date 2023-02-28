@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Auth;
+use App\Http\Controllers\CompanyCategoriesController;
 use App\Http\Controllers\CompanyListController;
 use App\Http\Controllers\FilesToDbTransition;
 use App\Http\Controllers\ParseController;
@@ -29,5 +30,7 @@ Route::get('device/{id}', [ProductController::class, 'index']);
 Route::get('/parse', [ParseController::class, 'index']);
 
 Route::get('/company/{name}', [CompanyListController::class, 'index']);
+
+Route::get('/company/{name}/{category_id}', [CompanyCategoriesController::class, 'index']);
 
 Route::get('/trans', [FilesToDbTransition::class, 'index']);
