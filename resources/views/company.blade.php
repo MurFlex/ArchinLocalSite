@@ -6,7 +6,6 @@
 
     <title> Archin </title>
     <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
-    <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
     <style>
@@ -19,15 +18,6 @@
         body {
             font-family: 'Nunito', sans-serif;
             height: 100vh;
-        }
-
-        .centered {
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            font-weight: bold;
-            font-size: 30px;
-            transform: translate(-50%, -50%);
         }
 
         .wrap {
@@ -49,21 +39,10 @@
             color: white;
         }
 
-        /*.footer {*/
-        /*    position: absolute;*/
-        /*    bottom: 0;*/
-        /*    left: 0;*/
-        /*}*/
-
         .table {
             border-right: 2px solid black;
             height: 100%;
             min-width: 80%;
-        }
-
-        .table_top {
-            height: 10%;
-            border-bottom: 2px solid black;
         }
 
         .search {
@@ -87,7 +66,7 @@
             background-color: #125ea8;
             color: white;
             padding: 14px 20px;
-            margin: 8px 0;
+            /*margin: 8px 0;*/
             border: none;
             border-radius: 4px;
             cursor: pointer;
@@ -95,10 +74,6 @@
 
         input[type=submit]:hover {
             background-color: #125ee0;
-        }
-
-        .table_top {
-
         }
 
         .table_header {
@@ -191,6 +166,7 @@
 
         .content {
             margin: 20px;
+            width: 100%;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
@@ -202,19 +178,57 @@
 
         .content_top {
             max-height: 55vh;
-            overflow: auto;
+            overflow: auto
+        }
+
+        .red {
+            background-color: red;
+            color: white;
+        }
+
+        td {
+            border: 2px solid black;
+            padding: 10px;
+        }
+
+        table {
+            border-collapse: collapse;
+            border: 2px solid rgb(200, 200, 200);
+            letter-spacing: 1px;
+        }
+
+        .table_element {
+
+        }
+
+        .pager {
+            width: 30%;
+            display: flex;
+        }
+
+        .table_top {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .page_button {
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+
+        .active {
+            background-color: darkblue;
         }
     </style>
 
 </head>
 <body>
 
-@if (request()->ip() == '192.168.0.15' || request()->ip() == '192.168.0.22')
 <div class="header">
     <div class="header_elements">
         <div class="nav_item"> Логотип  </div>
         <div class="nav_item"> <a href="http://192.168.0.15/dev"> На главную </a> </div>
-        <div class="nav_item"> <a href="http://192.168.0.15/parse"> Парсинг </a> </div>
+        @if (request()->ip() == '192.168.0.15') <div class="nav_item"> <a href="http://192.168.0.15/parse"> Admin </a> </div> @endif
         <div class="nav_item">  </div>
         <div class="nav_item">  </div>
         <div class="nav_item">  </div>
@@ -224,15 +238,40 @@
 <div class="wrap">
     <div class="content">
         <div class="main_content">
-            <h1 style="margin-bottom: 10px;"> {{ $name }} </h1>
+            <div class="table_top">
+                <h1 style="margin-bottom: 10px;"> {{ $name }} ({{ $category['category_title'] }})</h1>
+            </div>
             <div class="content_top">
-                @foreach ($devices as $id => $device)
-                    <p id="{{ $id }}">  {{ $device }} </p>
-                @endforeach
+                <table id="myTable" style="width: 100%" class="content_table">
+                    <tr style="font-weight: bold; text-align: center">
+                        <td>Номер прибора в реестре</td>
+                        <td>СИ пригодно</td>
+                        <td>Название типа СИ</td>
+                        <td>Тип СИ</td>
+                        <td>Модификация</td>
+                        <td>Дата поверки</td>
+                        <td>Действительна до</td>
+                        <td>Год выпуска СИ</td>
+                        <td>Тип поверки</td>
+                    </tr>
+                    @foreach ($devices as $device)
+                    <tr id="{{ $device['device_id'] }}" style="text-align: center" @if($device['applicable'] == 'N') class="red" @endif>
+                        <td>{{ $device['device_id'] }}</td>
+                        <td>{{ $device['applicable'] == 'Y' ? 'Да' : 'Нет' }}</td>
+                        <td>{{ $category['category_title'] }}</td>
+                        <td>{{ $category['category_type'] }}</td>
+                        <td>{{ $device['modification'] }}</td>
+                        <td>{{ $device['vrfDate'] }}</td>
+                        <td>{{ $device['validDate'] }}</td>
+                        <td>{{ isset($device['manufactureYear']) ? $device['manufactureYear'] : 'Нет данных' }}</td>
+                        <td>{{ $device['vriType'] }}</td>
+                    </tr>
+                    @endforeach
+                </table>
             </div>
         </div>
         <div class="content_bottom">
-            <button class="product_bottom_buttons" type="button" onclick="history.back();"> Назад </button>
+            <button class="product_bottom_buttons" type="button" onclick="window.location.href = '/company/{{ $name }}'"> Назад </button>
         </div>
     </div>
 
@@ -244,16 +283,18 @@
 
 </div>
 
-@else
-<h class="centered"> Access denied </h>
-@endif
-
 <script>
     $(document).ready(function () {
         $('#list > li').click(function (event) {
             $(this).children("ul").slideToggle();
             event.stopPropagation();
         });
+    });
+
+    url = 'http://192.168.0.15/device/';
+
+    $('tr').not(':first').dblclick(function(){
+        window.location.href = url.concat($(this).closest('tr').attr('id'));
     });
 </script>
 

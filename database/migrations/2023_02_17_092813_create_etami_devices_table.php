@@ -17,15 +17,15 @@ class CreateEtamiDevicesTable extends Migration
             $table->id('device_id');
             $table->string('regNumber');
             $table->string('mitypeNumber');
-            $table->string('mitypeURL');
+            $table->string('mitypeURL')->nullable();
             $table->string('mitypeTitle');
-            $table->string('mitypeType');
-            $table->string('modification');
-            $table->string('manufactureNum');
-            $table->string('manufactureYear');
-            $table->string('rankCode');
-            $table->string('rankTitle');
-            $table->string('schemaTitle');
+            $table->string('mitypeType')->nullable();
+            $table->string('modification')->nullable();
+            $table->string('manufactureNum')->nullable();
+            $table->string('manufactureYear')->nullable();
+            $table->string('rankCode')->nullable();
+            $table->string('rankTitle')->nullable();
+            $table->string('schemaTitle')->nullable();
             $table->timestamps();
         });
     }

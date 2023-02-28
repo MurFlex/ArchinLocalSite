@@ -186,7 +186,6 @@
         }
 
         .files_table {
-            margin-right: 50px;
             overflow: auto;
             display: flex;
             flex-direction: column;
@@ -202,12 +201,27 @@
             border-bottom: 2px solid black;
             /*border-radius: 5px;*/
         }
+
+        .button {
+            background-color: #125ea8;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            text-align: center;
+        }
+
+        .content_right {
+            height: 80%;
+        }
     </style>
 
 </head>
 <body>
 
-@if (request()->ip() == '192.168.0.15' || request()->ip() == '192.168.0.22')
+@if (request()->ip() == '192.168.0.15')
 <div class="header">
     <div class="header_elements">
         <div class="nav_item"> Логотип  </div>
@@ -267,6 +281,9 @@
                         <div class="files_table_element"> {{ $file }} </div>
                     @endforeach
                 @endif
+            </div>
+            <div class="button" onclick="window.location.href='/trans'">
+                <span> Начать выгрузку </span>
             </div>
         </div>
     </div>

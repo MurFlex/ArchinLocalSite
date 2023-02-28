@@ -8,109 +8,99 @@ use Illuminate\Support\Facades\DB;
 
 class SearchController extends Controller
 {
+    /**
+     * @param $value
+     * @return string
+     */
+    private function switcher_ru($value)
+    {
+        $converter = array(
+            'f' => 'а',	',' => 'б',	'd' => 'в',	'u' => 'г',	'l' => 'д',	't' => 'е',	'`' => 'ё',
+            ';' => 'ж',	'p' => 'з',	'b' => 'и',	'q' => 'й',	'r' => 'к',	'k' => 'л',	'v' => 'м',
+            'y' => 'н',	'j' => 'о',	'g' => 'п',	'h' => 'р',	'c' => 'с',	'n' => 'т',	'e' => 'у',
+            'a' => 'ф',	'[' => 'х',	'w' => 'ц',	'x' => 'ч',	'i' => 'ш',	'o' => 'щ',	'm' => 'ь',
+            's' => 'ы',	']' => 'ъ',	"'" => "э",	'.' => 'ю',	'z' => 'я',
+
+            'F' => 'А',	'<' => 'Б',	'D' => 'В',	'U' => 'Г',	'L' => 'Д',	'T' => 'Е',	'~' => 'Ё',
+            ':' => 'Ж',	'P' => 'З',	'B' => 'И',	'Q' => 'Й',	'R' => 'К',	'K' => 'Л',	'V' => 'М',
+            'Y' => 'Н',	'J' => 'О',	'G' => 'П',	'H' => 'Р',	'C' => 'С',	'N' => 'Т',	'E' => 'У',
+            'A' => 'Ф',	'{' => 'Х',	'W' => 'Ц',	'X' => 'Ч',	'I' => 'Ш',	'O' => 'Щ',	'M' => 'Ь',
+            'S' => 'Ы',	'}' => 'Ъ',	'"' => 'Э',	'>' => 'Ю',	'Z' => 'Я',
+
+            '@' => '"',	'#' => '№',	'$' => ';',	'^' => ':',	'&' => '?',	'/' => '.',	'?' => ',',
+        );
+
+        $value = strtr($value, $converter);
+        return $value;
+    }
+
+    /**
+     * @param Request $request
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
+     */
     public function index(Request $request)
     {
-        if ($request['company_name'] == '' && $request['device_name'] == '') {
-//            $companies = array();
-//            $dir = '../app/Logs/';
-////            $data = json_decode(file_get_contents('../app/Logs/result-2023-02-16 10-07-15.json'));
-//            $filtered_files = array();
-//            $data = array();
-//            $files = scandir($dir);
-//
-//            foreach(array_slice($files, 2) as $file) {
-//                $exploded_array = explode(" ", $file);
-//                if(end($exploded_array) !== "Started.json" and end($exploded_array) !== 'Ended.json') {
-//                    $filtered_files[] = $file;
-//                }
-//            }
-//
-//            foreach ($filtered_files as $file) {
-//
-//                $data = array_merge($data, json_decode(file_get_contents($dir . $file), 1));
-//            }
-//
-//            foreach($data as $id => $element) {
-//                if(isset($element['vriInfo']['miOwner']))
-//                    $miOwner = $element['vriInfo']['miOwner'];
-//                if(!in_array($miOwner, $companies)) {
-//                    $companies[] = $miOwner;
-//                }
-//            }
 
+        $page = isset(
+            $request['page']) && $request['page'] !== '<<'? $request['page'] : 1;
+
+        if ($request['company_name'] == '' && $request['device_name'] == '') {
             $companies = array();
 
-            $data = json_decode(Company::all(), 1);
-
-            foreach($data as $item) {
-                $companies[$item['company_id']] = $item['company_name'];
-            }
-
-//            dd($companies);
+//            $data = json_decode(Company::all(), 1);
+//
+//            foreach($data as $item) {
+//                $companies[$item['company_id']] = $item['company_name'];
+//            }
+//
+//            $companies = array_chunk($companies, 15);
 
             return view('dev', [
-                'companies' => $companies,
+                'max_page' => count($companies),
+                'page' => $page,
+                'companies' => isset(
+                    $companies[$page - 1]) ? $companies[$page - 1] : [],
             ]);
         } else {
-//            $dir = '../app/Logs/';
-//            $filtered_files = array();
-//            $data = array();
-//            $files = scandir($dir);
-//
-//            foreach(array_slice($files, 2) as $file) {
-//                $exploded_array = explode(" ", $file);
-//                if(end($exploded_array) !== "Started.json" and end($exploded_array) !== 'Ended.json') {
-//                    $filtered_files[] = $file;
-//                }
-//            }
-//
-//            foreach ($filtered_files as $file) {
-//                $data = array_merge($data, json_decode(file_get_contents($dir . $file), 1));
-//            }
-//
-//            $request = $request->all();
-//            $results = array();
-//            $companies = array();
-//            $devices = DB::select(DB::raw('SELECT * FROM devices WHERE LOWER(name) LIKE ' . "'%" . strtolower($request['company_name'] . "%'")));
-
-
-//            $data = json_decode(file_get_contents('../app/Logs/result-2023-02-16 10-07-15.json'));
-
-//            foreach($data as $id => $element) {
-//                if (isset($element['vriInfo']['miOwner']))
-//                    $miOwner = $element['vriInfo']['miOwner'];
-//                if (!in_array($miOwner, $companies)) {
-//                    $companies[] = $miOwner;
-//                }
-//
-//                if (str_contains(mb_strtolower($miOwner), mb_strtolower($request['company_name']))) {
-//                    $results[$miOwner] = $miOwner; #todo company id instead id
-//                }
-//            }
-
             $companies = array();
 
-            $data = DB::select(DB::raw('SELECT * FROM companies WHERE LOWER(company_name) LIKE \'%' . mb_strtolower($request['company_name'] . '%\'')));
+            $data = DB::select(
+                DB::raw(
+                    'SELECT
+                                *
+                            FROM
+                                 companies
+                            WHERE
+                                  LOWER(company_name)
+                            LIKE
+                                  \'%' . mb_strtolower(
+                                      $request['company_name'] . '%\'')
+                ));
+
+            if(empty($data)) $data = DB::select(
+                DB::raw(
+                    'SELECT
+                                *
+                            FROM
+                                 companies
+                            WHERE
+                                  LOWER(company_name)
+                            LIKE
+                                  \'%' . mb_strtolower(
+                                      $this->switcher_ru(
+                                          $request['company_name']) . '%\'')
+                ));
 
             foreach($data as $item) {
                 $companies[$item->company_id] = $item->company_name;
             }
 
-//            dd($companies);
-            if(empty($results)) {
-                return view('dev',
-                    [
-                        'companies' => $companies,
-                        'request' => $request,
-                    ]);
-            } else {
-                return view('dev',
-                    [
-                        'companies' => $companies,
-                        'results' => $results,
-                        'request' => $request,
-                    ]);
-            }
+            return view('dev',
+                [
+                    'companies' => isset($companies) ? $companies : [],
+                    'request' => $request,
+                ]);
+
         }
     }
 }

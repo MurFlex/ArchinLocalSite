@@ -22,7 +22,12 @@ class ParseController extends Controller
                 return ('Bad response!');
             }
 
-            return json_decode(stristr($curl_response, '{'), 1)['result'];
+            return isset(json_decode(stristr(
+                $curl_response,
+                '{'),
+                    1)['result']) ? json_decode(stristr(
+                        $curl_response, '{'),
+                1)['result'] : 'Bad response';
         }
 
         private function printData (array $array)
@@ -54,8 +59,11 @@ class ParseController extends Controller
 
 
         if(!empty($request)) {
-            file_put_contents('../app/Logs/result-' . date("Y-m-d H-i-s") . ' Started' . '.json', '');
-            if(isset($request['from']) && isset($request['until']) && !isset($request['id'])) {
+            file_put_contents(
+                '../app/Logs/result-' . date(
+                    "Y-m-d H-i-s") . ' Started' . '.json', '');
+            if(isset($request['from'])
+                && isset($request['until']) && !isset($request['id'])) {
                 $start = (int) $request['from'];
                 $end = (int) $request['until'];
                 $n = 0;
@@ -79,31 +87,54 @@ class ParseController extends Controller
 
                             if((time() - $current_time) > $delay) {
                                 $current_time = time();
-                                $fp = fopen('../app/Logs/result-' . date("Y-m-d H-i-s") . '.json', 'w');
-                                fwrite($fp, json_encode($result, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT ));
+                                $fp = fopen(
+                                    '../app/Logs/result-' .
+                                    date("Y-m-d H-i-s") .
+                                    '.json', 'w');
+                                fwrite($fp, json_encode(
+                                    $result,
+                                    JSON_UNESCAPED_UNICODE |
+                                    JSON_PRETTY_PRINT ));
                                 fclose($fp);
                             }
 
                             sleep(1);
                         }
                     }
-                    $fp = fopen('../app/Logs/' . $category_id . '.json', 'w');
-                    fwrite($fp, json_encode($result, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT ));
+                    $fp = fopen(
+                        '../app/Logs/' .
+                        $category_id . '.json', 'w');
+                    fwrite($fp, json_encode(
+                        $result,
+                        JSON_UNESCAPED_UNICODE |
+                        JSON_PRETTY_PRINT ));
                     fclose($fp);
                     $result = [];
                 }
 
-                $fp = fopen('../app/Logs/' . date("Y-m-d H-i-s") . '.json', 'w');
-                fwrite($fp, json_encode($result, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+                $fp = fopen(
+                    '../app/Logs/' .
+                    date("Y-m-d H-i-s") .
+                    '.json', 'w');
+                fwrite($fp, json_encode(
+                    $result,
+                    JSON_UNESCAPED_UNICODE |
+                    JSON_PRETTY_PRINT));
                 fclose($fp);
 
-            } elseif(isset($request['id']) && !isset($request['from']) && !isset($request['until'])) {
+            } elseif(isset($request['id'])
+                && !isset($request['from']) && !isset($request['until'])) {
                 $current_url = $service_url . $request['id'];
                 $data = $this->getData($current_url);
                 if($data !== 'Bad response!') {
-//                    $this->printData((array)$data);
-                    $fp = fopen('../app/Logs/result-' . date("Y-m-d H-i-s") . '.json', 'w');
-                    fwrite($fp, json_encode($data, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+                    $fp = fopen(
+                        '../app/Logs/result-' .
+                        date("Y-m-d H-i-s") .
+                        '.json', 'w');
+                    fwrite($fp, json_encode(
+                        $data,
+                        JSON_UNESCAPED_UNICODE |
+                        JSON_PRETTY_PRINT));
                     fclose($fp);
                 } else {
                     print('Bad Response!');
@@ -111,7 +142,11 @@ class ParseController extends Controller
             } else {
                 print('Wrong request!');
             }
-            file_put_contents('../app/Logs/result-' . date("Y-m-d H-i-s") . ' Ended' . '.json', '');
+            file_put_contents(
+                '../app/Logs/result-' .
+                date("Y-m-d H-i-s") .
+                ' Ended' .
+                '.json', '');
             return redirect('/parse');
         } else {
             $dir = '../app/Logs/';
@@ -120,8 +155,9 @@ class ParseController extends Controller
             $filtered_files = array();
             foreach(array_slice($files, 2) as $file) {
                 $exploded_array = explode(" ", $file);
-//                dd(end($exploded_array));
-                if(end($exploded_array) !== "Started.json" and end($exploded_array) !== 'Ended.json') {
+                if(end(
+                    $exploded_array) !== "Started.json"
+                    and end($exploded_array) !== 'Ended.json') {
                     $filtered_files[] = $file;
                 }
             }
