@@ -44,9 +44,12 @@
             justify-content: flex-start;
             /*margin: auto;*/
             min-width: 100vh;
-            height: 10%;
             background-color: #125ea8;
             color: white;
+        }
+
+        .footer {
+            height: 6em;
         }
 
         /*.footer {*/
@@ -86,8 +89,7 @@
             width: 100%;
             background-color: #125ea8;
             color: white;
-            padding: 10px;
-            /*margin: 8px 0;*/
+            padding: 12px 20px;
             border: none;
             border-radius: 4px;
             cursor: pointer;
@@ -122,12 +124,14 @@
             min-height: 10vh;
             min-width: 98%;
             border-radius: 5px;
+
         }
 
         .table_element-1 {
             background-color: white;
             border: 1px solid black;
-            margin: 5px auto;
+            margin-top: 5px;
+            /*margin: 5px auto;*/
             padding: 10px;
             cursor: pointer;
         }
@@ -137,9 +141,14 @@
             justify-content: space-between;
             margin: 0 auto;
             width: 80%;
-            padding-top: 1.5em;
-            font-size: 2vh;
+            /*font-size: 2vh;*/
+            font-size: 20px;
             font-weight: bold;
+        }
+
+        .header_elements:first-child {
+            margin-top: 0;
+            margin-bottom: 20px;
         }
 
         .footer_element, .nav_item {
@@ -158,7 +167,12 @@
         }
 
         .nav_item {
+            padding-top: 30px;
             text-decoration: none;
+        }
+
+        .nav_item:first-child {
+            padding-top: 20px;
         }
 
         a {
@@ -182,6 +196,13 @@
         .active {
             background-color: darkblue !important;
         }
+
+        img {
+            max-height: 50px;
+            max-width: 100%;
+            width: auto;
+        }
+
     </style>
 
 </head>
@@ -189,7 +210,7 @@
 
 <div class="header">
     <div class="header_elements">
-        <div class="nav_item"> Логотип  </div>
+        <div class="nav_item" style="display: block"> <a href="http://192.168.0.15/dev"> <img src="{{ asset('storage/1.png') }}" alt='ООО "ПРИБОРЭЛЕКТРО"' width="812" height="140"> </a> </div>
         <div class="nav_item"> <a href="http://192.168.0.15/dev"> На главную </a> </div>
         @if (request()->ip() == '192.168.0.15') <div class="nav_item"> <a href="http://192.168.0.15/parse"> Admin </a> </div> @endif
         <div class="nav_item">  </div>
@@ -202,7 +223,11 @@
     <div class="table">
         <div class="table_top">
             @if (isset($request['company_name']))
-                <h2 class="table_header"> Результаты поиска по компании: <span class="request_name"> {{ $request['company_name'] }} </span></h2>
+                @if(!$found)
+                    <h2 class="table_header"> Результаты поиска по компании: <span class="request_name"> {{ $request['company_name'] }} </span></h2>
+                @else
+                    <h2 class="table_header"> Результатов по запросу <span class="request_name"> "{{ $request['company_name'] }}" </span> не найдено, выполнен поиск по <span class="request_name">"{{ $found }}"</span></h2>
+                @endif
             @else
                 <h2 class="table_header"> Список компаний </h2>
 {{--                <form action="#" method="get" class="pager">--}}
@@ -273,7 +298,7 @@
                     <input type="text" id="cname" name="company_name" placeholder="Название компании" value="{{ $request['company_name'] ?? '' }}">
 
                     <label for="dname">Название прибора</label>
-                    <input disabled type="text" id="dname" name="device_name" placeholder="Название прибора" value="{{ $request['device_name'] ?? '' }}">
+                    <input type="text" id="dname" name="device_name" placeholder="Название прибора" value="{{ $request['device_name'] ?? '' }}">
 
                     <label for="add_options">Дополнительные опции</label>
                     <select disabled id="add_options" name="add_options">
@@ -298,14 +323,26 @@
 {{--    </div>--}}
 </div>
 
-
 <script>
-    url = 'http://192.168.0.15/company/';
+    function setCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+    }
 
-    $(".table_element-1").dblclick(function(event){
-        window.location.href = url.concat($(event.target).text())
+    $( document).ready(function() {
+        setCookie('searching_history', $(location).attr('href'));
     });
 
+    url = 'http://192.168.0.15/company/';
+
+    $(".table_element-1").dblclick(function(event) {
+        window.location.href = url.concat($(event.target).text());
+    });
 </script>
 
 </body>

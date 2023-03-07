@@ -16,6 +16,8 @@ class CompanyListController extends Controller
     public function index($name, Request $request) {
         $name = trim($name);
 
+
+        // todo change query to a one
         try {
             $company_id = DB::select(DB::raw(
                 'SELECT
@@ -23,7 +25,7 @@ class CompanyListController extends Controller
                         FROM
                              companies
                         WHERE
-                              LOWER(company_name) =' . "'" . $name . "'")
+                              LOWER(company_name) = ' . "'" . $name . "'")
             )[0]->company_id;
         } catch (\Exception $e) {
             abort(404);
@@ -68,11 +70,11 @@ class CompanyListController extends Controller
 //        dd($applicable);
 
         return view('company_categories', [
-            'category_types' => $category_type,
-            'applicable' => $applicable,
-            'inapplicable' => $inapplicable,
-            'categories' => $categories,
-            'name'      => $name,
+            'category_types'    => $category_type,
+            'applicable'        => $applicable,
+            'inapplicable'      => $inapplicable,
+            'categories'        => $categories,
+            'name'              => $name,
         ]);
     }
 }

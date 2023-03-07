@@ -16,7 +16,7 @@ class CreateCompaniesTable extends Migration
         Schema::create('companies', function (Blueprint $table) {
             $table->id('company_id')->autoIncrement();
             $table->text('company_name');
-            $table->string('company_description')->nullable();
+            $table->text('company_description')->nullable();
             $table->timestamps();
         });
     }

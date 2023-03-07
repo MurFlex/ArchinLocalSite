@@ -142,6 +142,7 @@
         }
 
         .product_bottom_buttons {
+            width: 10%;
             background-color: #125ea8;
             color: white;
             padding: 14px 20px;
@@ -274,7 +275,6 @@
             <button class="product_bottom_buttons" type="button" onclick="window.location.href = '/company/{{ $name }}'"> Назад </button>
         </div>
     </div>
-
 </div>
 
 
