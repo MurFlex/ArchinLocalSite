@@ -12,6 +12,7 @@ class CompanyCategoriesController extends Controller
     public function index($name ,$category_id, Request $request) {
         $name = trim($name);
 
+        // todo change query to a single one
         try {
             $company_id = DB::select(DB::raw(
                 'SELECT
@@ -19,7 +20,7 @@ class CompanyCategoriesController extends Controller
                         FROM
                              companies
                         WHERE
-                              LOWER(company_name) =' . "'" . $name . "'")
+                              LOWER(company_name) = ' . "'" . $name . "'")
             )[0]->company_id;
         } catch (\Exception $e) {
             abort(404);

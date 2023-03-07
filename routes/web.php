@@ -25,9 +25,13 @@ Route::get('/', [Auth::class, 'checkIp']);
 
 Route::get('/dev', [SearchController::class, 'index']);
 
-Route::get('device/{id}', [ProductController::class, 'index']);
+Route::get('/device/{id}', [ProductController::class, 'index']);
 
 Route::get('/parse', [ParseController::class, 'index']);
+
+Route::get('/updateStorage', [ParseController::class, 'updateStorage']);
+
+Route::post('/api/device/{id}', [ParseController::class, 'insertDevice']);
 
 Route::get('/company/{name}', [CompanyListController::class, 'index']);
 

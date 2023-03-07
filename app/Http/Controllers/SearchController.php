@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Company;
+use App\Models\Device;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
@@ -34,17 +35,20 @@ class SearchController extends Controller
         return $value;
     }
 
+
+
     /**
      * @param Request $request
      * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
      */
     public function index(Request $request)
     {
+        $found = False;
 
         $page = isset(
             $request['page']) && $request['page'] !== '<<'? $request['page'] : 1;
 
-        if ($request['company_name'] == '' && $request['device_name'] == '') {
+        if ($request['company_name'] == null && $request['device_name'] == null) {
             $companies = array();
 
 //            $data = json_decode(Company::all(), 1);
@@ -52,55 +56,80 @@ class SearchController extends Controller
 //            foreach($data as $item) {
 //                $companies[$item['company_id']] = $item['company_name'];
 //            }
-//
+
 //            $companies = array_chunk($companies, 15);
 
             return view('dev', [
-                'max_page' => count($companies),
-                'page' => $page,
-                'companies' => isset(
-                    $companies[$page - 1]) ? $companies[$page - 1] : [],
+                'max_page'  => count($companies),
+                'page'      => $page,
+                'companies' => !empty(
+                    $companies) ? $companies : [],
             ]);
-        } else {
+
+        } elseif($request['company_name'] !== null && $request['device_name'] == null) {
             $companies = array();
 
-            $data = DB::select(
-                DB::raw(
-                    'SELECT
-                                *
-                            FROM
-                                 companies
-                            WHERE
-                                  LOWER(company_name)
-                            LIKE
-                                  \'%' . mb_strtolower(
-                                      $request['company_name'] . '%\'')
-                ));
+            $data = Company::where('company_name', 'LIKE', '%' . mb_strtoupper($request['company_name'] . '%'))->get();
 
-            if(empty($data)) $data = DB::select(
-                DB::raw(
-                    'SELECT
-                                *
-                            FROM
-                                 companies
-                            WHERE
-                                  LOWER(company_name)
-                            LIKE
-                                  \'%' . mb_strtolower(
-                                      $this->switcher_ru(
-                                          $request['company_name']) . '%\'')
-                ));
+            if(count($data) == 0) {
+                $found = $this->switcher_ru($request['company_name']);
+                $data = Company::where('company_name', 'LIKE', '%' . mb_strtoupper($this->switcher_ru($request['company_name'] . '%')))->get();
+            }
+        } elseif ($request['device_name'] !== null) {
+            $companies = array();
 
-            foreach($data as $item) {
+//            $data = Company::where('company_name', 'LIKE', '%' . mb_strtoupper($request['company_name'] . '%'))->first();
+
+//            $data = Device::all()->leftJoin('companies', function($join) {
+//               $join->on('devices.company_id', '=', 'companies.company_id');
+//            })->where('company_name', 'LIKE', '%' . mb_strtoupper($request['company_name'] . '%'));
+
+            $data = Company::where('company_name', 'LIKE', '%' . mb_strtoupper($request['company_name'] . '%'))->leftJoin('devices', function ($join){
+                $join->on('companies.company_id', '=', 'devices.company_id');
+            })->leftJoin('categories', function ($join) {
+                $join->on('categories.category_id', '=', 'devices.category_id');
+            })->where('category_type', 'LIKE', '%' . $request['device_name'] . '%')->get();
+
+            // Swap to english analogue
+            $swapWords = [
+                'C' => 'С',
+                'K' => 'К',
+                'M' => 'М',
+                'P' => 'Р',
+                'H' => 'Н',
+                'E' => 'Е',
+                'A' => 'А',
+                'X' => 'Х',
+                'B' => 'В',
+                'T' => 'Т',
+            ];
+
+            $request['device_name'] = strtr($request['device_name'], $swapWords);
+
+            $addtionalData = Company::where('company_name', 'LIKE', '%' . mb_strtoupper($request['company_name'] . '%'))->leftJoin('devices', function ($join){
+                $join->on('companies.company_id', '=', 'devices.company_id');
+            })->leftJoin('categories', function ($join) {
+                $join->on('categories.category_id', '=', 'devices.category_id');
+            })->where('category_type', 'LIKE', '%' . $request['device_name'] . '%')->get();
+        }
+
+        if(isset($data)) {
+            foreach ($data as $item) {
                 $companies[$item->company_id] = $item->company_name;
             }
-
-            return view('dev',
-                [
-                    'companies' => isset($companies) ? $companies : [],
-                    'request' => $request,
-                ]);
-
         }
+
+        if(isset($addtionalData)) {
+            foreach ($addtionalData as $item) {
+                $companies[$item->company_id] = $item->company_name;
+            }
+        }
+
+        return view('dev',
+            [
+                'found'     => $found,
+                'companies' => isset($companies) ? $companies : [],
+                'request'   => $request,
+            ]);
     }
 }

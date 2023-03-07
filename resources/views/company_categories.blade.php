@@ -142,6 +142,7 @@
         }
 
         .product_bottom_buttons {
+            width: 10%;
             background-color: #125ea8;
             color: white;
             padding: 14px 20px;
@@ -226,8 +227,8 @@
 
 <div class="header">
     <div class="header_elements">
-        <div class="nav_item"> Логотип  </div>
-        <div class="nav_item"> <a href="http://192.168.0.15/dev"> На главную </a> </div>
+        <div class="nav_item" onclick="window.location.replace(getCookie('searching_history'))"> Логотип  </div>
+        <div class="nav_item"> <a onclick="window.location.replace(getCookie('searching_history'))"> На главную </a> </div>
         @if (request()->ip() == '192.168.0.15') <div class="nav_item"> <a href="http://192.168.0.15/parse"> Admin </a> </div> @endif
         <div class="nav_item">  </div>
         <div class="nav_item">  </div>
@@ -252,24 +253,16 @@
                     @foreach ($categories as $id => $category)
                         <tr id="{{ $id }}">
                             <td>{{ $category}}</td>
-                            <td>{{ $category_types[$id] }}</td>
+                            <td>{{ trim($category_types[$id]) !== '' ? $category_types[$id] : 'Нет данных' }}</td>
                             <td>{{ $applicable[$id] + $inapplicable[$id] }}</td>
                             <td>{{ $inapplicable[$id] }}</td>
                         </tr>
                     @endforeach
-
-{{--                    @for($i = 0; $i < count($categories); $i++)--}}
-{{--                        <tr id="{{ $categories[key($categories)] }}">--}}
-{{--                            <td>{{ $categories[key($categories)] }}</td>--}}
-{{--                            <td>{{ $applicable[key($categories)] }}</td>--}}
-{{--                            <td>{{ $inapplicable[key($categories)] }}</td>--}}
-{{--                        </tr>--}}
-{{--                    @endfor--}}
                 </table>
             </div>
         </div>
         <div class="content_bottom">
-            <button class="product_bottom_buttons" type="button" onclick="window.location.href = '/'"> Назад </button>
+            <button class="product_bottom_buttons" type="button" onclick="window.location.replace(getCookie('searching_history'))"> Назад </button>
         </div>
     </div>
 
@@ -282,6 +275,17 @@
 </div>
 
 <script>
+    function getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)===' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+
     $(document).ready(function () {
         $('#list > li').click(function (event) {
             $(this).children("ul").slideToggle();

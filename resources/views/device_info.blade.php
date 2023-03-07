@@ -167,7 +167,7 @@
         }
 
         .product_bottom_buttons {
-            width: 100%;
+            width: 10%;
             background-color: #125ea8;
             color: white;
             padding: 14px 20px;
@@ -263,6 +263,12 @@
                             @endif
                             @if($index == 'device_id')
                                 <a style="color: black" href="https://fgis.gost.ru/fundmetrology/cm/results/1-{{ $param }}">{{ $param }}</a>
+                                @php
+                                    continue;
+                                @endphp
+                            @endif
+                            @if($index == 'signPass' || $index == 'signMi')
+                                {{ $param == 1 ? 'Да' : 'Нет' }}
                                 @php
                                     continue;
                                 @endphp

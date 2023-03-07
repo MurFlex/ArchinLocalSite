@@ -285,6 +285,9 @@
             <div class="button" onclick="window.location.href='/trans'">
                 <span> Начать выгрузку </span>
             </div>
+            <div class="button" onclick="window.location.href='/updateStorage'">
+                <span> Обновить склад </span>
+            </div>
         </div>
     </div>
 </div>
