@@ -121,6 +121,8 @@
         }
 
         .table_element-1 {
+            display: flex;
+            justify-content: space-between;
             min-height: 10vh;
             min-width: 98%;
             border-radius: 5px;
@@ -203,6 +205,13 @@
             width: auto;
         }
 
+        .edit_table_element {
+            padding: 10px;
+            border: 1px solid black;
+            border-radius: 5px;
+            margin-bottom: 5px;
+        }
+
     </style>
 
 </head>
@@ -230,46 +239,6 @@
                 @endif
             @else
                 <h2 class="table_header"> Список компаний </h2>
-{{--                <form action="#" method="get" class="pager">--}}
-{{--<!--                    --><?php //dd($max_page) ?>--}}
-{{--                    @if($max_page < 5 and $max_page >= 2)--}}
-{{--                        @for($i = 1; $i <= $max_page; $i++)--}}
-{{--                            <input class="@if($i == $page) active @endif page_button" name='page' type="submit" value="{{ $i }}">--}}
-{{--                        @endfor--}}
-{{--                    @elseif($max_page == 1)--}}
-{{--                    @else--}}
-{{--                        @if($page == 1)--}}
-{{--                            @for($i = $page; $i < $page + 5; $i++)--}}
-{{--                                <input class="page_button @if($i == $page) active @endif" name='page' type="submit" value="{{ $i }}">--}}
-{{--                            @endfor--}}
-{{--                            <input class="page_button" name='page' type="submit" value="{{ $max_page }}">--}}
-{{--                        @elseif($page == 2)--}}
-{{--                            @for($i = $page; $i < $page + 5; $i++)--}}
-{{--                                <input class="page_button @if($i == $page+1) active @endif" name='page' type="submit" value="{{ $i-1 }}">--}}
-{{--                            @endfor--}}
-{{--                            <input class="page_button" name='page' type="submit" value="{{ $max_page }}">--}}
-{{--                        @elseif($page == $max_page-1)--}}
-{{--                                <input class="page_button" name='page' type="submit" value="<<">--}}
-{{--                            @for($i = $page-3; $i <= $max_page; $i++)--}}
-{{--                                <input class="page_button @if($i == $max_page) active @endif" name='page' type="submit" value="{{ $i-1 }}">--}}
-{{--                            @endfor--}}
-{{--                            <input class="page_button" name='page' type="submit" value="{{ $max_page }}">--}}
-{{--                        @elseif($page == $max_page)--}}
-{{--                            <input class="page_button" name='page' type="submit" value="<<">--}}
-{{--                            @for($i = $page-4; $i <= $max_page+1; $i++)--}}
-{{--                                <input class="page_button @if($i == $max_page+1) active @endif" name='page' type="submit" value="{{ $i-1 }}">--}}
-{{--                            @endfor--}}
-{{--                        @else--}}
-{{--                            @if($page > 3)--}}
-{{--                                <input class="page_button" name='page' type="submit" value="<<">--}}
-{{--                            @endif--}}
-{{--                            @for($i = $page; $i < $page + 5; $i++)--}}
-{{--                                <input class="page_button @if($i == $page+2) active @endif" name='page' type="submit" value="{{ $i-2 }}">--}}
-{{--                            @endfor--}}
-{{--                            <input class="page_button" name='page' type="submit" value="{{ $max_page }}">--}}
-{{--                        @endif--}}
-{{--                    @endif--}}
-{{--                </form>--}}
             @endif
         </div>
         <div class="table_content">
@@ -280,13 +249,33 @@
                 </div>
                 @endforeach
             @elseif(isset($request) && (!isset($request['company_name']) && !isset($request['device_name'])))
-                <script>window.location = "/dev";</script>
+{{--                <script>window.location = "/dev";</script>--}}
             @elseif(!empty($request) and empty($companies))
                 <h2 class="table_header"> Ничего не найдено. </h2>
             @else
-                @foreach ($companies as $id => $company)
-                    <div id="{{ $id }}" class="table_element-1"> {{ $company }} </div>
-                @endforeach
+                @if($request['edit_mode'] !== 'True')
+                    @if($storages !== null)
+                        @foreach ($storages as $id => $storage)
+                            <div id="{{ $id }}" class="table_element-1"> {{ $companies[$id] !== '' ? $companies[$id] : '-' }} <b> Количество: {{ $storage }}, не прошло: {{ $inapplicable[$id] }} </b> </div>
+                        @endforeach
+                    @else
+                        @foreach ($companies as $id => $company)
+                            <div id="{{ $id }}" class="table_element-1"> {{ $company }} </div>
+                        @endforeach
+                    @endif
+                @else
+                    <form action="#">
+                    @foreach ($companies as $id => $company)
+                        <div id="{{ $id }}" class="edit_table_element">
+                            <input type="checkbox" id="element-{{ $id }}" name="{{ $id }}">
+                            <label for="element-{{ $id }}"> {{ $company }} </label>
+                        </div>
+                    @endforeach
+                        <div class="submit_button">
+                            <input type="submit" value="Принять">
+                        </div>
+                    </form>
+                @endif
             @endif
         </div>
     </div>
@@ -300,12 +289,16 @@
                     <label for="dname">Название прибора</label>
                     <input type="text" id="dname" name="device_name" placeholder="Название прибора" value="{{ $request['device_name'] ?? '' }}">
 
-                    <label for="add_options">Дополнительные опции</label>
-                    <select disabled id="add_options" name="add_options">
-                        <option value="option 1">option 1</option>
-                        <option value="option 2">option 2</option>
-                        <option value="option 3">option 3</option>
+                    <label for="year-select">Год поверки:</label>
+                    <select name="years" id="year-select">
+                        <option value="">Не работает</option>
+                        @for($i = $year; $i >= 2022; $i--)
+                            <option value="{{ $i }}">{{ $i }}</option>
+                        @endfor
                     </select>
+                    @if (request()->ip() == '192.168.0.15') <label for="edit_mode">Edit mode</label>
+                    <input type="checkbox" id="edit_mode" name="edit_mode" value="True" @if($request['edit_mode'] == 'True') checked @endif/>
+                    @endif
                 </div>
                 <div class="submit_button">
                     <input type="submit" value="Поиск">
@@ -324,6 +317,21 @@
 </div>
 
 <script>
+    function getQueryVariable(variable)
+    {
+        var query = window.location.search.substring(1);
+        var vars = query.split("&");
+        for (var i=0;i<vars.length;i++)
+        {
+            var pair = vars[i].split("=");
+            if (pair[0] === variable)
+            {
+                return pair[1];
+            }
+        }
+        return -1; //not found
+    }
+
     function setCookie(name,value,days) {
         var expires = "";
         if (days) {
@@ -334,15 +342,30 @@
         document.cookie = name + "=" + (value || "")  + expires + "; path=/";
     }
 
-    $( document).ready(function() {
+    $(document).ready(function() {
         setCookie('searching_history', $(location).attr('href'));
+        if($('#dname').attr('value').length > 0) {
+            document.getElementById("cname").disabled = true;
+            $('#cname').attr('placeholder', 'Недоступен');
+        }
     });
 
     url = 'http://192.168.0.15/company/';
 
     $(".table_element-1").dblclick(function(event) {
-        window.location.href = url.concat($(event.target).text());
+        window.location.href = url.concat($(event.target).closest('div').text().substr(0, $(event.target).text().indexOf('Количество')-1));
     });
+
+    dname.onchange = function () {
+        if (this.value != "" || this.value.length > 0) {
+            document.getElementById("cname").disabled = true;
+            $('#cname').attr('placeholder', 'Недоступен');
+        } else {
+            document.getElementById('cname').disabled = false;
+            $('#cname').attr('placeholder', 'Название компании');
+        }
+    }
+
 </script>
 
 </body>

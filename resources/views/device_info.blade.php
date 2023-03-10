@@ -235,9 +235,6 @@
             <h1 style="margin-bottom: 10px"> Прибор №{{ $device['device_id'] }} </h1>
         </div>
         <div class="main_content">
-{{--            @foreach($device as $index => $param)--}}
-{{--                <p>{{ $index }} : {{ $param }} </p>--}}
-{{--            @endforeach--}}
             <table>
                 <tr style="font-weight: bold">
                     <td>

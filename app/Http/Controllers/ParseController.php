@@ -77,7 +77,6 @@ class ParseController extends Controller
                         $storage->type = $device->mitypeType;
                         $storage->modification = $device->modification;
                         $storage->count = 1;
-                        $storage->updated_at = date("Y-m-d H:i:s");
                         if($device->applicable == 'N') $storage->inapplicable = 1;
                         else $storage->inapplicable = 0;
                         $storage->save();
@@ -87,18 +86,14 @@ class ParseController extends Controller
                                 ['type', '=', $device->mitypeType],
                                 ['company_id', '=', $device->company_id],
                                 ['modification', '=', $device->modification],
-                            ])
-                                ->update('updated_at', date("Y-m-d H:i:s"))
-                                ->increment('inapplicable', 1);
+                            ])->increment('inapplicable', 1);
                         }
 
                         Storage::where([
                             ['type', '=', $device->mitypeType],
                             ['company_id', '=', $device->company_id],
                             ['modification', '=', $device->modification],
-                        ])
-                            ->update('updated_at', date("Y-m-d H:i:s"))
-                            ->increment('count', 1);
+                        ])->increment('count', 1);
                     }
                 }
 //                return response()->json(['response' => 'updating has been done']);
@@ -230,7 +225,6 @@ class ParseController extends Controller
                         break;
                     }
                 }
-                return response()->json(['response' => 'device has been successfully added to database.']);
             } else {
                 return response()->json(['response' => 'device data is empty or category doesn`t exist.']);
             }
@@ -246,7 +240,6 @@ class ParseController extends Controller
             $current_time = time();
             $delay = 30 * 60;
             $data = json_decode(file_get_contents('../app/Helpers/new_result.json'));
-
 
             if(!empty($request)) {
                 file_put_contents(

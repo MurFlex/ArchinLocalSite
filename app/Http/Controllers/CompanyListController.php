@@ -15,7 +15,8 @@ class CompanyListController extends Controller
 
     public function index($name, Request $request) {
         $name = trim($name);
-
+        $count = 0;
+        $inapplicableCount = 0;
 
         // todo change query to a one
         try {
@@ -67,9 +68,16 @@ class CompanyListController extends Controller
             }
         }
 
+//        dd($inapplicable);
+
+        $count = array_sum($applicable);
+        $inapplicableCount = array_sum($inapplicable);
+
 //        dd($applicable);
 
         return view('company_categories', [
+            'count'             => $count,
+            'inapplicableCount' => $inapplicableCount,
             'category_types'    => $category_type,
             'applicable'        => $applicable,
             'inapplicable'      => $inapplicable,

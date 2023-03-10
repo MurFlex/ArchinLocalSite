@@ -20,7 +20,6 @@ class CreateStoragesTable extends Migration
             $table->string('modification')->nullable();
             $table->integer('count');
             $table->integer('inapplicable');
-            $table->date('updated_at');
             $table->timestamps();
         });
     }
