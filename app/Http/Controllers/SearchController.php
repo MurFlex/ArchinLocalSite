@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Company;
 use App\Models\Device;
+use App\Models\Storage;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
@@ -59,11 +60,13 @@ class SearchController extends Controller
 
 //            $companies = array_chunk($companies, 15);
 
+//            dd(1);
             return view('dev', [
-                'max_page'  => count($companies),
-                'page'      => $page,
-                'companies' => !empty(
-                    $companies) ? $companies : [],
+                'found'     => null,
+                'request'   => $request,
+                'year'      => date('Y'),
+                'storages'  => null,
+                'companies' => null,
             ]);
 
         } elseif($request['company_name'] !== null && $request['device_name'] == null) {
@@ -78,21 +81,41 @@ class SearchController extends Controller
         } elseif ($request['device_name'] !== null) {
             $companies = array();
 
-//            $data = Company::where('company_name', 'LIKE', '%' . mb_strtoupper($request['company_name'] . '%'))->first();
+            $swapWords = [
+                'С' => 'C', # Ru to eng
+                'К' => 'K',
+                'М' => 'M',
+                'Р' => 'P',
+                'Н' => 'H',
+                'Е' => 'E',
+                'А' => 'A',
+                'Х' => 'X',
+                'В' => 'B',
+                'Т' => 'T',
+            ];
 
-//            $data = Device::all()->leftJoin('companies', function($join) {
-//               $join->on('devices.company_id', '=', 'companies.company_id');
-//            })->where('company_name', 'LIKE', '%' . mb_strtoupper($request['company_name'] . '%'));
+            $request['device_name'] = strtr(mb_strtoupper($request['device_name']), $swapWords);
 
-            $data = Company::where('company_name', 'LIKE', '%' . mb_strtoupper($request['company_name'] . '%'))->leftJoin('devices', function ($join){
-                $join->on('companies.company_id', '=', 'devices.company_id');
-            })->leftJoin('categories', function ($join) {
-                $join->on('categories.category_id', '=', 'devices.category_id');
-            })->where('category_type', 'LIKE', '%' . $request['device_name'] . '%')->get();
+//            dd($request['device_name']);
+            $data = Storage::where('type', 'LIKE', '%' . $request['device_name'] . '%')->leftJoin('companies', function($join) {
+                $join->on('storages.company_id', '=', 'companies.company_id');
+            })->get();
+
+//            dd($data);
+
+//             $data = Device::where('mitypeType', 'LIKE', '%' . $request['device_name'] . '%')->leftJoin('vri_Infos', function ($join) {
+//                $join->on('vri_Infos.device_id', '=', 'devices.device_id');
+//            })->leftJoin('companies', function ($join) {
+//                $join->on('companies.company_id', '=', 'devices.company_id');
+//            })->where('vrfDate', 'LIKE', '%' .  $request['years'])->leftJoin('storages', function ($join) {
+//                $join->on('storages.type', '=', 'devices.mitypeType');
+//            })->get();
+
+//            dd($devices);
 
             // Swap to english analogue
             $swapWords = [
-                'C' => 'С',
+                'C' => 'С', # Eng to ru
                 'K' => 'К',
                 'M' => 'М',
                 'P' => 'Р',
@@ -104,29 +127,63 @@ class SearchController extends Controller
                 'T' => 'Т',
             ];
 
-            $request['device_name'] = strtr($request['device_name'], $swapWords);
+            $request['device_name'] = strtr(mb_strtoupper($request['device_name']), $swapWords);
 
-            $addtionalData = Company::where('company_name', 'LIKE', '%' . mb_strtoupper($request['company_name'] . '%'))->leftJoin('devices', function ($join){
-                $join->on('companies.company_id', '=', 'devices.company_id');
-            })->leftJoin('categories', function ($join) {
-                $join->on('categories.category_id', '=', 'devices.category_id');
-            })->where('category_type', 'LIKE', '%' . $request['device_name'] . '%')->get();
+//            dd($request['device_name']);
+
+            $addtionalData = Storage::where('type', 'LIKE', '%' . $request['device_name'] . '%')->leftJoin('companies', function($join) {
+                $join->on('storages.company_id', '=', 'companies.company_id');
+            })->get();
+
+//            $data += $addtionalData;
+//            dd($addtionalData);
+
+            if(count($data) == 0 && count($addtionalData) == 0) {
+                $data = Company::where('company_name', 'LIKE', '%' . mb_strtoupper($request['company_name']) . '%')->leftJoin('devices', function ($join){
+                    $join->on('companies.company_id', '=', 'devices.company_id');
+                })->leftJoin('categories', function ($join) {
+                    $join->on('categories.category_id', '=', 'devices.category_id');
+                })->where('category_type', 'LIKE', '%' . $request['device_name'] . '%')->get();
+            }
         }
+
+        $storage = array();
+        $inapplicable = array();
 
         if(isset($data)) {
             foreach ($data as $item) {
                 $companies[$item->company_id] = $item->company_name;
+                if(!isset($storage[$item->company_id]) && !isset($inapplicable[$item->company_id]) && $request['device_name'] !== null) {
+                    $storage[$item->company_id] = $item->count;
+                    $inapplicable[$item->company_id] = $item->inapplicable;
+                } elseif($request['device_name'] !== null) {
+                    $storage[$item->company_id] += $item->count;
+                    $inapplicable[$item->company_id] += $item->inapplicable;
+                }
+
             }
         }
 
         if(isset($addtionalData)) {
             foreach ($addtionalData as $item) {
                 $companies[$item->company_id] = $item->company_name;
+                if(!isset($storage[$item->company_id]) && !isset($inapplicable[$item->company_id]) && $request['device_name'] !== null) {
+                    $storage[$item->company_id] = $item->count;
+                    $inapplicable[$item->company_id] = $item->inapplicable;
+                } elseif($request['device_name'] !== null) {
+                    $storage[$item->company_id] += $item->count;
+                    $inapplicable[$item->company_id] += $item->inapplicable;
+                }
             }
         }
 
+        arsort($storage);
+
         return view('dev',
             [
+                'year'      => date('Y'),
+                'inapplicable' => $inapplicable,
+                'storages'   => !empty($storage) ? $storage : null,
                 'found'     => $found,
                 'companies' => isset($companies) ? $companies : [],
                 'request'   => $request,

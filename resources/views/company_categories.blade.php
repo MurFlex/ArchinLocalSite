@@ -247,8 +247,8 @@
                     <tr style="font-weight: bold;">
                         <td>Название категории</td>
                         <td style="width: 20%">Тип СИ</td>
-                        <td style="width: 20%">СИ всего</td>
-                        <td style="width: 20%">СИ непригодно</td>
+                        <td style="width: 20%">СИ всего ({{ $count }})</td>
+                        <td style="width: 20%">СИ непригодно ({{ $inapplicableCount }})</td>
                     </tr>
                     @foreach ($categories as $id => $category)
                         <tr id="{{ $id }}">
