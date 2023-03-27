@@ -1,0 +1,121 @@
+{
+    "216209752": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42991-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353601",
+                "mitypeType": "ИМИ-02",
+                "mitypeTitle": "Измерители мощности излучения",
+                "manufactureNum": "58",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "16.01.2023",
+            "validDate": "15.01.2024",
+            "vriType": "2",
+            "docTitle": "МП. Приложение 1 к РЭ",
+            "applicable": {
+                "certNum": "С-А\/16-01-2023\/216209752",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZA.0031.2015",
+                    "title": "ГРЭ единицы средней мощности непрерывного и импульсного оптического излучения в диапазоне от 10[^-6] до 10 Вт на длинах волн от 450 до 1100 нм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/414770"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "50576-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362452",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "019923019"
+                },
+                {
+                    "mitypeNumber": "60449-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373727",
+                    "mitypeTitle": "Осциллографы",
+                    "number": "MY55160110"
+                },
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011276",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "6157"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок управления измерителя № 58",
+            "briefIndicator": false
+        }
+    },
+    "196418241": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42991-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353601",
+                "mitypeType": "ИМИ-02",
+                "mitypeTitle": "Измерители мощности излучения",
+                "manufactureNum": "56",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "19.10.2022",
+            "validDate": "18.10.2023",
+            "vriType": "2",
+            "docTitle": "МП. Приложение 1 к РЭ",
+            "applicable": {
+                "certNum": "С-А\/19-10-2022\/196418241",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZA.0031.2015",
+                    "title": "ГРЭ единицы средней мощности непрерывного и импульсного оптического излучения в диапазоне от 10[^-6] до 10 Вт на длинах волн от 450 до 1100 нм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/414770"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "50576-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362452",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "019923019"
+                },
+                {
+                    "mitypeNumber": "60449-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373727",
+                    "mitypeTitle": "Осциллографы",
+                    "number": "MY55160110"
+                },
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011276",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "6157"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок управления измерителя № 56",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-196418241\/protocol"
+        }
+    }
+}

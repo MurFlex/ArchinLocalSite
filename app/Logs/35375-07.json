@@ -1,0 +1,83 @@
+{
+    "182024111": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "35375.07.3Р.00664339",
+                "mitypeNumber": "35375-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389753",
+                "mitypeTitle": "Стандарты частоты и времени рубидиевые",
+                "mitypeType": "Ч1-1015",
+                "modification": "Без модификации",
+                "manufactureNum": "111201",
+                "manufactureYear": 2012,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "гэт1-2022"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "29.08.2022",
+            "validDate": "28.08.2023",
+            "vriType": "2",
+            "docTitle": "ИРГА.433741.004 РЭ. Стандарты частоты и времени рубидиевый Ч1-1015. РЭ Раздел 7. Поверка прибора.",
+            "applicable": {
+                "certNum": "С-БН\/29-08-2022\/182024111",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41567.09.4Р.00156948",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/156948",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90ХL",
+                    "manufactureNum": "256712",
+                    "manufactureYear": 2013,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №1621 от 31.07.2018 г. \"Об утверждении государственной поверочной схемы для средств измерений времени и час"
+                },
+                {
+                    "regNumber": "40466.09.2Р.00365635",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/365635",
+                    "mitypeNumber": "40466-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389508",
+                    "mitypeTitle": "Стандарты частоты и времени водородные",
+                    "notation": "Ч1-1007",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "257 20",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения времени и частоты"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27687-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334393",
+                    "mitypeTitle": "Компараторы частотные",
+                    "number": "011.04"
+                },
+                {
+                    "mitypeNumber": "24021-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328871",
+                    "mitypeTitle": "Осциллографы цифровые люминофорные",
+                    "number": "С010035"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-182024111\/protocol"
+        }
+    }
+}

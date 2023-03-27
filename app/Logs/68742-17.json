@@ -1,0 +1,58 @@
+{
+    "216326292": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "68742-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382827",
+                "mitypeType": "Нет данных",
+                "mitypeTitle": "Системы контроля, мониторинга и управления трафиком",
+                "manufactureNum": "S0006",
+                "modification": "Система КМУТ"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЖЕНЕР ЦЕНТР\"(ООО \"ИНЖЕНЕР ЦЕНТР\")",
+            "signCipher": "ЕДТ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "01.12.2022",
+            "validDate": "30.11.2024",
+            "vriType": "2",
+            "docTitle": "ЦТСВ.466961.001 МП",
+            "applicable": {
+                "certNum": "С-ЕДТ\/01-12-2022\/216326292",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "65643.16.РЭ.00648537",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/648537",
+                    "mitypeNumber": "65643-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379447",
+                    "mitypeTitle": "Комплексы измерительные",
+                    "notation": "ВЕКТОР-ИКИ-2016",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0006",
+                    "manufactureYear": 2018,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для систем и устройств измерения объемов цифровой информации, передаваемых по каналам Интернет и телефонии ГОСТ Р 8.873-2014"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "82393-21",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1392098",
+                    "mitypeTitle": "Термогигрометры автономные",
+                    "number": "22797"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#midfde005af-99c1-412f-9d2e-237a5e19d7d1"
+        }
+    }
+}

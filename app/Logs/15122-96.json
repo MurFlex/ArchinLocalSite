@@ -1,0 +1,51 @@
+{
+    "141739987": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15122-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/312759",
+                "mitypeType": "CM (мод. CM 6B, CM 11, CM 7B, CM 14)",
+                "mitypeTitle": "Преобразователи актинометрические измерительные",
+                "manufactureNum": "966102",
+                "manufactureYear": 1996,
+                "modification": "CM 11"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЛАВНАЯ ГЕОФИЗИЧЕСКАЯ ОБСЕРВАТОРИЯ ИМ А.И. ВОЕЙКОВА\"(ФГБУ \"ГГО\")",
+            "signCipher": "БАГ",
+            "miOwner": "ФГБУ \"ААНИИ\"",
+            "vrfDate": "22.03.2022",
+            "validDate": "21.03.2023",
+            "vriType": "2",
+            "docTitle": "Преобразователи актинометрические серии СМ (модели СМ6В, СМ 11, СМ7В, СМ14). Инструкция по поверке, согл. ГЦИ СИ ВНИИМ",
+            "applicable": {
+                "certNum": "С-БАГ\/22-03-2022\/141739987",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "48281.11.2Р.22938",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/22938",
+                    "mitypeNumber": "48281-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359740",
+                    "mitypeTitle": "Пиранометры",
+                    "notation": "СМР6 и СМР21",
+                    "modification": "CMP21",
+                    "manufactureNum": "100440",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.195-2013"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-141739987\/protocol"
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "214295760": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "27407-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390106",
+                "mitypeType": "ИПС изделия 14И267",
+                "mitypeTitle": "Измерители параметров сигналов",
+                "manufactureNum": "02",
+                "modification": "ТСЮИ.468169.017"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЙ ИНСТИТУТ РАДИОНАВИГАЦИИ И ВРЕМЕНИ\"(АО \"РИРВ\")",
+            "signCipher": "ГАР",
+            "miOwner": "АО \"РИРВ\"",
+            "vrfDate": "10.01.2023",
+            "validDate": "09.01.2025",
+            "vriType": "2",
+            "docTitle": "Раздел 6.1 \"Методика поверки ИПС\". Руководство по эксплуатации ТСЮИ.468169.017 РЭ",
+            "applicable": {
+                "certNum": "С-ГАР\/10-01-2023\/214295760",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41189.09.РЭ.00552777",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/552777",
+                    "mitypeNumber": "41189-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351464",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-82",
+                    "modification": "В7-82",
+                    "manufactureNum": "26",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерения постоянного электрического напряжения и ЭДС(Приказ Росстандарта №3457 от30.12.2019г)"
+                },
+                {
+                    "regNumber": "41189.09.РЭ.00552779",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/552779",
+                    "mitypeNumber": "41189-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351464",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-82",
+                    "modification": "В7-82",
+                    "manufactureNum": "26",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерения постоянного тока(Приказ Росстандарта №2091 от01.10.2018г)"
+                },
+                {
+                    "regNumber": "41189.09.3Р.00552781",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/552781",
+                    "mitypeNumber": "41189-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351464",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-82",
+                    "modification": "В7-82",
+                    "manufactureNum": "26",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерения переменного электрического напряжения (Приказ Росстандарта №1942 от03.09.2021г)"
+                },
+                {
+                    "regNumber": "41189.09.2Р.00552792",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/552792",
+                    "mitypeNumber": "41189-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351464",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-82",
+                    "modification": "В7-82",
+                    "manufactureNum": "26",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерения силы переменного электрического тока (Приказ Росстандарта №575 от14.05.2015г)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

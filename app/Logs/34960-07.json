@@ -1,0 +1,47 @@
+{
+    "219793596": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "34960.07.2Р.00195144",
+                "mitypeNumber": "34960-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343958",
+                "mitypeTitle": "Установка поверочная средств измерений напряженности магнитного поля",
+                "mitypeType": "П1-13\/1",
+                "modification": "Нет модификации",
+                "manufactureNum": "004",
+                "manufactureYear": 2006,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГПС для средств измерений напряженности магнитного поля в диапазоне частот 0,000005 до 1000 МГц, приказ № 3469 от 30.12.2019 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\"",
+            "vrfDate": "03.02.2023",
+            "validDate": "02.02.2025",
+            "vriType": "2",
+            "docTitle": "документом \"Установка поверочная средств измерений напряженности магнитного поля П1-13\/1. Методика поверки\". ПАЭМ.411721.003 МП",
+            "applicable": {
+                "certNum": "С-Т\/03-02-2023\/219793596",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZТ.0081.2013",
+                    "title": "ГРЭ единицы напряженности магнитного поля 1разряда в диапазоне частот от 5 Гц до 10 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/423998"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-219793596\/protocol",
+            "additional_info": "#mide03a8ac9-ecab-4b4b-bd78-66f001f100e6"
+        }
+    }
+}

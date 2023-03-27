@@ -1,0 +1,63 @@
+{
+    "211912316": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18558-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/319580",
+                "mitypeType": "Магистраль-2",
+                "mitypeTitle": "Комплексы информационно-измерительные",
+                "manufactureNum": "4317",
+                "modification": "Магистраль-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОЛГОГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ВОЛГОГРАДСКИЙ ЦСМ\")",
+            "signCipher": "БИ",
+            "miOwner": "ООО \"РИТЭК\"",
+            "vrfDate": "23.12.2022",
+            "validDate": "22.12.2023",
+            "vriType": "2",
+            "docTitle": "3И1.310.013 РЭ",
+            "applicable": {
+                "certNum": "С-БИ\/23-12-2022\/211912316",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1162.58.3Р.64671",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/64671",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р331",
+                    "manufactureNum": "242698",
+                    "manufactureYear": 1975,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 ГПС для СИ электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "20580.00.2Р.00206509",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/206509",
+                    "mitypeNumber": "20580-00",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323092",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-2000",
+                    "modification": "ИКСУ-2000",
+                    "manufactureNum": "23-0939",
+                    "manufactureYear": 2005,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 ГПС для СИ силы постоянного электрического тока в диапазоне 1×10⁻¹⁶ ÷ 100 А"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

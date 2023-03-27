@@ -1,0 +1,89 @@
+{
+    "193480824": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "26972.04.1Р.00692176",
+                "mitypeNumber": "26972-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390131",
+                "mitypeTitle": "Аппаратура",
+                "mitypeType": "М026М",
+                "modification": "Нет модификации",
+                "manufactureNum": "001",
+                "manufactureYear": 2002,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "12.10.2022",
+            "validDate": "11.10.2023",
+            "vriType": "2",
+            "docTitle": "Хд1.420.108 Д3.1",
+            "applicable": {
+                "certNum": "С-В\/12-10-2022\/193480824",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт12-2021",
+                    "title": "ГПЭ единиц магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390912"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-193480824\/protocol",
+            "additional_info": "#mid9d148598-2aed-4687-b06c-56eebfb9f8af"
+        }
+    },
+    "142209054": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "26972.04.1Р.00577604",
+                "mitypeNumber": "26972-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390131",
+                "mitypeTitle": "Аппаратура",
+                "mitypeType": "М026М",
+                "modification": "Нет модификации",
+                "manufactureNum": "001",
+                "manufactureYear": 2002,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "22.03.2022",
+            "vriType": "2",
+            "docTitle": "Хд1.420.108 Д3.1",
+            "inapplicable": {
+                "noticeNum": "И-В\/22-03-2022\/142209054"
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт12-2021",
+                    "title": "ГПЭ единиц магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390912"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-142209054\/protocol",
+            "additional_info": "#mid108e21b6-42fa-4424-9c41-6c6b9a1fa9ce"
+        }
+    }
+}

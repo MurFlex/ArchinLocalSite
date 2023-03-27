@@ -1,0 +1,68 @@
+{
+    "164168065": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "13634-93",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/309418",
+                "mitypeType": "ТПР-0192, ТПР-0292",
+                "mitypeTitle": "Термопреобразователи термоэлектрические",
+                "manufactureNum": "66",
+                "manufactureYear": 2003,
+                "modification": "ТПР-0192"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "16.06.2022",
+            "validDate": "15.06.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.338-2002 \"ГСИ. Преобразователи термоэлектрические. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-СЕ\/16-06-2022\/164168065",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZCE.1229.2018",
+                    "title": "Государственный рабочий эталон единицы температуры 0 разряда в диапазоне значений от 600 ºС до 1800 ºС",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/398449"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53762-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366137",
+                    "mitypeTitle": "Микрометры цифровые",
+                    "number": "81041586"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "022"
+                },
+                {
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "number": "004"
+                },
+                {
+                    "mitypeNumber": "20048-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322203",
+                    "mitypeTitle": "Линейки измерительные металлические",
+                    "number": "01"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "класс допуска 3"
+        }
+    }
+}

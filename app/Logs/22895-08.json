@@ -1,0 +1,94 @@
+{
+    "199948824": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "22895-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327065",
+                "mitypeType": "SPECTROIL (мод. M, M\/N, M\/C, M\/F)",
+                "mitypeTitle": "Спектрометры атомно-эмиссионные",
+                "manufactureNum": "6064",
+                "modification": "SPECTROIL мод. M\/C"
+            }
+        },
+        "vriInfo": {
+            "organization": "УРАЛЬСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ(УРАЛЬСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ)",
+            "signCipher": "С",
+            "miOwner": "-",
+            "vrfDate": "08.11.2022",
+            "validDate": "07.11.2023",
+            "vriType": "2",
+            "docTitle": "МП 21-224-2002 \"ГСИ. Спектрометры атомно-эмиссионные SPECTROIL. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-С\/08-11-2022\/199948824",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 10066-2012",
+                    "title": "СО СОДЕРЖАНИЯ МЕТАЛЛОВ В НЕФТЕПРОДУКТАХ (СО СМН-ПА)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/390116",
+                    "manufactureYear": 2021
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "153977708": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "22895-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327065",
+                "mitypeType": "SPECTROIL (мод. M, M\/N, M\/C, M\/F)",
+                "mitypeTitle": "Спектрометры атомно-эмиссионные",
+                "manufactureNum": "6242\/10",
+                "modification": "М\/С"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "ООО «НОВАТЭК-ТАРКОСАЛЕНЕФТЕГАЗ»",
+            "vrfDate": "28.03.2022",
+            "validDate": "27.03.2023",
+            "vriType": "2",
+            "docTitle": "МП 21-224-2007",
+            "applicable": {
+                "certNum": "С-ВЯ\/28-03-2022\/153977708",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 10066-2012",
+                    "title": "СО СОДЕРЖАНИЯ МЕТАЛЛОВ В НЕФТЕПРОДУКТАХ (СО СМН-ПА)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/390116",
+                    "manufactureYear": 2020
+                }
+            ],
+            "reagent": [
+                {
+                    "number": "ДРГ.50",
+                    "type": "Другое",
+                    "title": "Mg (магний)"
+                },
+                {
+                    "number": "ДРГ.52",
+                    "type": "Другое",
+                    "title": "Zn (цинк)"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "(id:3940906010073)"
+        }
+    }
+}

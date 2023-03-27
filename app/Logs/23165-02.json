@@ -1,0 +1,63 @@
+{
+    "190197943": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "23165-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327501",
+                "mitypeType": "CLI-1750\/LST-1700",
+                "mitypeTitle": "Анализаторы распределительных сетей телевидения",
+                "manufactureNum": "0608472",
+                "modification": "CLI-1750"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ  И ИСПЫТАНИЙ В СМОЛЕНСКОЙ ОБЛАСТИ\"(ФБУ \"СМОЛЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЧ",
+            "miOwner": "Общество с ограниченной ответственностью \"ОРБИТА ПЛЮС ВЯЗЬМА\"",
+            "vrfDate": "04.10.2022",
+            "validDate": "03.10.2023",
+            "vriType": "2",
+            "docTitle": "Анализаторы распределительных сетей телевидения CLI-1750\/LST-1700. Методика поверки, ФБУ \"Тест-Санкт-Петербург\", 2002.",
+            "applicable": {
+                "certNum": "С-ВЧ\/04-10-2022\/190197943",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "57319.14.4Р.00595436",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595436",
+                    "mitypeNumber": "57319-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370160",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "АКИП-5102, АКИП-5102\/1",
+                    "modification": "АКИП-5102",
+                    "manufactureNum": "TW00028378",
+                    "manufactureYear": 2017,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 31.07.2018 № 1621 «ГПС для средств измерений времени и частоты»"
+                },
+                {
+                    "regNumber": "5477.76.2Р.00619584",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/619584",
+                    "mitypeNumber": "5477-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367253",
+                    "mitypeTitle": "Вольтметры переменного тока диодные компенсационные",
+                    "notation": "В3-49",
+                    "modification": "В3-49",
+                    "manufactureNum": "3613",
+                    "manufactureYear": 1984,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 03.09.2021 № 1942"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

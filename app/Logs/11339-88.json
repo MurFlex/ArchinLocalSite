@@ -1,0 +1,431 @@
+{
+    "211156107": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "11339.88.2Р.00530846",
+                "mitypeNumber": "11339-88",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305935",
+                "mitypeTitle": "Ваттметры проходные образцовые",
+                "mitypeType": "ВПО-4",
+                "modification": "Нет модификации",
+                "manufactureNum": "900205\/28342",
+                "manufactureYear": 1990,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "АО \"ЦНИРТИ им. академика А.И. Берга\"",
+            "vrfDate": "26.12.2022",
+            "validDate": "25.12.2023",
+            "vriType": "2",
+            "docTitle": "ПИ1.400.911 ТО",
+            "applicable": {
+                "certNum": "С-Т\/26-12-2022\/211156107",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт26-2010",
+                    "title": "ГПЭ единицы мощности электромагнитных колебаний  в волноводных и коаксиальных трактах в диапазоне частот от 0,03 до 37,5 ГГц",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397911"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "11326.90.3Р.00539968",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/539968",
+                    "mitypeNumber": "11326-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305921",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "notation": "Р4834",
+                    "modification": "Р4834",
+                    "manufactureNum": "14223",
+                    "manufactureYear": 1990,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 3456 от 30 декабря 2019 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "9864-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388905",
+                    "mitypeTitle": "Комплекты для измерений соединителей коаксиальных",
+                    "number": "183"
+                },
+                {
+                    "mitypeNumber": "6014-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390670",
+                    "mitypeTitle": "Приборы для поверки вольтметров программируемые",
+                    "number": "0734"
+                },
+                {
+                    "mitypeNumber": "36419-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345771",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "MY46520879"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-211156107\/protocol",
+            "additional_info": "#mid146885ee-4f5f-46e1-93e5-a9818dc56500"
+        }
+    },
+    "181021929": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "11339.88.1Р.00662684",
+                "mitypeNumber": "11339-88",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305935",
+                "mitypeTitle": "Ваттметры проходные образцовые",
+                "mitypeType": "ВПО-4",
+                "modification": "Без модификации",
+                "manufactureNum": "910931\/44210",
+                "manufactureYear": 1991,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "приказ Росстандарта № 3461 от 30 декабря 2019 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "25.08.2022",
+            "validDate": "24.08.2023",
+            "vriType": "2",
+            "docTitle": "ПИ1.400.911 ТО «Ваттметр проходной образцовый ВПО-4. Техническое описание и инструкция по эксплуатации» Раздел 13.",
+            "applicable": {
+                "certNum": "С-БН\/25-08-2022\/181021929",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.0217.2013",
+                    "title": "Государственный эталон 1 разряда единицы мощности электромагнитных колебаний в диапазоне значений (1·10[^-4] – 1,0) Вт и диапазоне частот (0,05 – 18) ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/424320"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "5412.76.1Р.00588298",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/588298",
+                    "mitypeNumber": "5412-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366545",
+                    "mitypeTitle": "Комплекты преобразователей напряжения",
+                    "notation": "ПНТЭ-6А",
+                    "modification": "Без модификации",
+                    "manufactureNum": "458",
+                    "manufactureYear": 1987,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 03.09.2021 года № 1942"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "54848-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367345",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "MY55200368"
+                },
+                {
+                    "mitypeNumber": "53450-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395694",
+                    "mitypeTitle": "Анализаторы цепей скалярные",
+                    "number": "08006008"
+                },
+                {
+                    "mitypeNumber": "9864-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388905",
+                    "mitypeTitle": "Комплекты для измерений соединителей коаксиальных",
+                    "number": "22"
+                },
+                {
+                    "mitypeNumber": "3297-72",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341504",
+                    "mitypeTitle": "Магазины сопротивления измерительные. Магазины постоянного тока",
+                    "number": "0621"
+                },
+                {
+                    "mitypeNumber": "3297-72",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341504",
+                    "mitypeTitle": "Магазины сопротивления измерительные. Магазины постоянного тока",
+                    "number": "134"
+                },
+                {
+                    "mitypeNumber": "53941-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366334",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "MY53400005"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "182777464": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "11339.88.3Р.00388848",
+                "mitypeNumber": "11339-88",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305935",
+                "mitypeTitle": "Ваттметры проходные образцовые",
+                "mitypeType": "ВПО-4",
+                "modification": "ВПО-4",
+                "manufactureNum": "900216",
+                "manufactureYear": 1990,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В САМАРСКОЙ ОБЛАСТИ\"(ФБУ \"САМАРСКИЙ ЦСМ\")",
+            "signCipher": "БЯ",
+            "miOwner": "Публичное акционерное общество \"Самарский завод \"Экран\"",
+            "vrfDate": "23.08.2022",
+            "validDate": "22.08.2023",
+            "vriType": "2",
+            "docTitle": "ПИ1.400.911 ТО «Ваттметр проходной образцовый ВПО-4. Техническое описание и инструкция по эксплуатации» Раздел 13.",
+            "applicable": {
+                "certNum": "С-БЯ\/23-08-2022\/182777464",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "70888.18.4Р.94301",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/94301",
+                    "mitypeNumber": "70888-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395868",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90",
+                    "modification": "-",
+                    "manufactureNum": "442993",
+                    "manufactureYear": 2019,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "36419.07.4Р.94362",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/94362",
+                    "mitypeNumber": "36419-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345771",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "notation": "E8257D, E8267D",
+                    "modification": "E8257D",
+                    "manufactureNum": "MY51110923",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "79336.20.4Р.00207295",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/207295",
+                    "mitypeNumber": "79336-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1382839",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "notation": "ZNB40 мод. 82 и 84",
+                    "modification": "84",
+                    "manufactureNum": "101344",
+                    "manufactureYear": 2020,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ Росстандарта№ 1621 от 31 июля 2018 г."
+                },
+                {
+                    "regNumber": "54535.13.3Р.00478944",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/478944",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC18",
+                    "manufactureNum": "101475 (101119)",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00478945",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/478945",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC18",
+                    "manufactureNum": "101475 (101119)",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                },
+                {
+                    "regNumber": "76526.19.4Р.00587206",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/587206",
+                    "mitypeNumber": "76526-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953283",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "notation": "N9000В, N9010В, N9020В",
+                    "modification": "N9010В",
+                    "manufactureNum": "MY60240398",
+                    "manufactureYear": 2020,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-182777464\/protocol"
+        }
+    },
+    "177629270": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "11339.88.2Р.00384926",
+                "mitypeNumber": "11339-88",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305935",
+                "mitypeTitle": "Ваттметры проходные образцовые",
+                "mitypeType": "ВПО-4",
+                "modification": "ВПО-4",
+                "manufactureNum": "910915\/34400",
+                "manufactureYear": 1991,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ № 3461 от 30.12.2019"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"НПК Авиаприбор\"",
+            "vrfDate": "08.08.2022",
+            "validDate": "07.08.2023",
+            "vriType": "2",
+            "docTitle": "ПИ1.400.908 ТО. Техническое описание и инструкция по эксплуатации. Раздел 13.",
+            "applicable": {
+                "certNum": "С-СП\/08-08-2022\/177629270",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "43579.10.1Р.00260074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260074",
+                    "mitypeNumber": "43579-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354297",
+                    "mitypeTitle": "Ваттметр поглощаемой мощности эталонный",
+                    "notation": "ВПМЭ-2",
+                    "modification": "ВПМЭ-2",
+                    "manufactureNum": "001",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц. Приказ ФАТРИМ №3461 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "43579.10.3Р.00485043",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/485043",
+                    "mitypeNumber": "43579-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354297",
+                    "mitypeTitle": "Ваттметр поглощаемой мощности эталонный",
+                    "notation": "ВПМЭ-2",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "001",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "39089-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348990",
+                    "mitypeTitle": "Генераторы сигналов СВЧ",
+                    "number": "101282"
+                },
+                {
+                    "mitypeNumber": "37229-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389650",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "MY49002170"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-177629270\/protocol"
+        }
+    },
+    "124167419": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "11339.88.2Р.00530846",
+                "mitypeNumber": "11339-88",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305935",
+                "mitypeTitle": "Ваттметры проходные образцовые",
+                "mitypeType": "ВПО-4",
+                "modification": "Нет модификации",
+                "manufactureNum": "900205\/28342",
+                "manufactureYear": 1990,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "13.01.2022",
+            "validDate": "12.01.2023",
+            "vriType": "2",
+            "docTitle": "ПИ1.400.911 ТО",
+            "applicable": {
+                "certNum": "С-Т\/13-01-2022\/124167419",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт26-2010",
+                    "title": "ГПЭ единицы мощности электромагнитных колебаний  в волноводных и коаксиальных трактах в диапазоне частот от 0,03 до 37,5 ГГц",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397911"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-124167419\/protocol",
+            "additional_info": "ГПС, утвержденная приказом ФАТРИМ № 3461 от 30 декабря 2019 г. #mid0771c569-feaf-47fd-a02f-7ac3ca10b6d8"
+        }
+    }
+}

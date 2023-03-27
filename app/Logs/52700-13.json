@@ -1,0 +1,48 @@
+{
+    "133525348": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "52700.13.1Р.00558095",
+                "mitypeNumber": "52700-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364933",
+                "mitypeTitle": "Гигрометр эталонный 1-го разряда",
+                "mitypeType": "Optica",
+                "modification": "модификации нет",
+                "manufactureNum": "0481010",
+                "manufactureYear": 2011,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Государственная поверочная схема для средств измерений влажности газов и температуры конденсации углеводородов, утвержденная При"
+            }
+        },
+        "vriInfo": {
+            "organization": "Восточно-Сибирский филиал ФГУП \"ВНИИФТРИ\"(Восточно-Сибирский филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "И",
+            "miOwner": "ЗАО НИЦ \"ИНКОМСИСТЕМ\"",
+            "vrfDate": "18.02.2022",
+            "validDate": "17.02.2023",
+            "vriType": "2",
+            "docTitle": "\"Гигрометр эталонный 1-го разряда Optica. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-И\/18-02-2022\/133525348",
+                "stickerNum": "ГМС 20014906581",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт151-2020",
+                    "title": "ГПЭ единиц относительной влажности газов, молярной (объемной) доли влаги, температуры точки росы\/инея, температуры конденсации углеводородов",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1387040"
+                }
+            ]
+        },
+        "info": {
+            "structure": "измерительный преобразователь мод. D-2SP № 0481010, измерительный преобразователь мод. 1211H  № 0031010",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-133525348\/protocol"
+        }
+    }
+}

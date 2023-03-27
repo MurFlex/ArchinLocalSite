@@ -1,0 +1,57 @@
+{
+    "154426980": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "26502-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332709",
+                "mitypeType": "ISQ 5, ISQ 5-LO, ISR 12-LO, IGAR 12-LO, ISR 50-LO",
+                "mitypeTitle": "Пирометры двухспектральные",
+                "manufactureNum": "2137",
+                "modification": "IGAR 12-LO"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "11.05.2022",
+            "validDate": "10.05.2024",
+            "vriType": "2",
+            "docTitle": "МП 26502-09",
+            "applicable": {
+                "certNum": "С-МА\/11-05-2022\/154426980",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0183.2013",
+                    "title": "ГЭЕ температуры 2 разряда в диапазоне значений от 600 до 3000 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/459326"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "43275.09.1Р.21163",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/21163",
+                    "mitypeNumber": "43275-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353936",
+                    "mitypeTitle": "Пирометры инфракрасные",
+                    "notation": "IS 12-TSP, IGA 12-TSP",
+                    "modification": "IS 12-TSP",
+                    "manufactureNum": "1004",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "79b1855a-16e3-42b1-8634-ecac201ff2e4"
+        }
+    }
+}

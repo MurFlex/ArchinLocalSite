@@ -1,0 +1,90 @@
+{
+    "197072290": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44893.10.ВЭ.00299765",
+                "mitypeNumber": "44893-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355801",
+                "mitypeTitle": "Профилометр оптический",
+                "mitypeType": "TALYSURF CCI 6000",
+                "modification": "-",
+                "manufactureNum": "142",
+                "manufactureYear": 2009,
+                "rankCode": "ВЭ",
+                "rankTitle": "Вторичный эталон",
+                "schemaTitle": "ГПС, утвержденная Приказом Росстандарта № 2657 от 06.11.2019 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "ФГБУ \"ВНИИМС\"",
+            "vrfDate": "13.09.2022",
+            "validDate": "12.09.2023",
+            "vriType": "2",
+            "docTitle": "МП 44893-10",
+            "applicable": {
+                "certNum": "С-М\/13-09-2022\/197072290",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт113-2014",
+                    "title": "ГПСЭ единицы длины в области измерений параметров шероховатости R[_max], R[_z] и R[_a]",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397804"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "46835.11.ВЭ.00669303",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/669303",
+                    "mitypeNumber": "46835-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357973",
+                    "mitypeTitle": "Меры профильные",
+                    "notation": "ПРО-10",
+                    "modification": "-",
+                    "manufactureNum": "Т1-02-04",
+                    "manufactureYear": 2013,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "приказ Росстандарта от 06.11.2019 г. № 2657"
+                },
+                {
+                    "regNumber": "46835.11.ВЭ.00669304",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/669304",
+                    "mitypeNumber": "46835-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357973",
+                    "mitypeTitle": "Меры профильные",
+                    "notation": "ПРО-10",
+                    "modification": "-",
+                    "manufactureNum": "Т1-02-01",
+                    "manufactureYear": 2013,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "приказ Росстандарта от 06.11.2019 г. № 2657"
+                },
+                {
+                    "regNumber": "46835.11.ВЭ.00669305",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/669305",
+                    "mitypeNumber": "46835-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357973",
+                    "mitypeTitle": "Меры профильные",
+                    "notation": "ПРО-10",
+                    "modification": "-",
+                    "manufactureNum": "Т1-01-08",
+                    "manufactureYear": 2013,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "приказ Росстандарта от 06.11.2019 г. № 2657"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-197072290\/protocol"
+        }
+    }
+}

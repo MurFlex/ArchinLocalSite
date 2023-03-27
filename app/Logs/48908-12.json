@@ -1,0 +1,40 @@
+{
+    "151574461": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48908-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360457",
+                "mitypeType": "СЕГ-WAM-200",
+                "mitypeTitle": "Спектрометры энергии гамма-излучения мониторинговые",
+                "manufactureNum": "VF0801245",
+                "modification": "СЕГ-WAM-200 модель К0809-01"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"ИЗОТОП\"(ООО НПП \"ИЗОТОП\")",
+            "signCipher": "ВОБ",
+            "miOwner": "Владелец СИ",
+            "vrfDate": "20.04.2022",
+            "validDate": "19.04.2023",
+            "vriType": "2",
+            "docTitle": "Раздел \"Методика поверки\" Руководства по эксплуатации К0002-06-В",
+            "applicable": {
+                "certNum": "С-ВОБ\/20-04-2022\/151574461",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ВОБ.0010.2015",
+                    "title": "Рабочий эталон единиц активности источников фотонного излучения радионуклидных закрытых 1 разряда в диапазоне (1.077·10[^4] ÷ 1.096·10[^6]) Бк.",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446997"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "217946756": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25006-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/330445",
+                "mitypeType": "ДКДа-01-\"ИФТП\"",
+                "mitypeTitle": "Дозиметры клинические на основе алмазного детектора для радиотерапевтических установок",
+                "manufactureNum": "08-04",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "25.01.2023",
+            "validDate": "24.01.2024",
+            "vriType": "2",
+            "docTitle": "РД50-691-89",
+            "applicable": {
+                "certNum": "С-Т\/25-01-2023\/217946756",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "детектор алмазный токовый ПДПС-1К № 17-06",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-217946756\/protocol",
+            "additional_info": "#mid00000000-0000-0000-0000-000000000000"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "141620060": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "21906-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325412",
+                "mitypeType": "Пирамида",
+                "mitypeTitle": "Системы информационно-измерительные контроля и учета энергопотребления",
+                "manufactureNum": "0331",
+                "modification": "Пирамида 2 канала ( 2 канала)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ВО ВЛАДИМИРСКОЙ ОБЛАСТИ\"(ФБУ \"ВЛАДИМИРСКИЙ ЦСМ\")",
+            "signCipher": "БЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "16.03.2022",
+            "validDate": "15.03.2026",
+            "vriType": "2",
+            "docTitle": "ВЛСТ 150.00.000 И1 «Системы информационноизмерительные контроля и учета энергопотребления «Пирамида». Методика поверки»",
+            "applicable": {
+                "certNum": "С-БЗ\/16-03-2022\/141620060",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55278.13.1Р.78322",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/78322",
+                    "mitypeNumber": "55278-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367835",
+                    "mitypeTitle": "Трансформаторы тока измерительные лабораторные",
+                    "notation": "ТТИ-5000.51",
+                    "modification": "ТТИ-5000.51",
+                    "manufactureNum": "08-15",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приложение к приказу № 2768 от 27.12.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "37854-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347488",
+                    "mitypeTitle": "Приборы сравнения",
+                    "number": "242-19"
+                },
+                {
+                    "mitypeNumber": "44154-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354976",
+                    "mitypeTitle": "Секундомеры электронные",
+                    "number": "418211"
+                },
+                {
+                    "mitypeNumber": "46942-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358102",
+                    "mitypeTitle": "Трансформаторы напряжения измерительные лабораторные",
+                    "number": "27"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

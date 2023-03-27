@@ -1,0 +1,470 @@
+{
+    "216408627": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "11804.89.1Р.10210",
+                "mitypeNumber": "11804-89",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306577",
+                "mitypeTitle": "Термометры сопротивления платиновые образцовые",
+                "mitypeType": "ПТС-10М",
+                "modification": "ПТС-10М",
+                "manufactureNum": "807",
+                "manufactureYear": 1991,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.558-2009"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "18.01.2023",
+            "validDate": "17.01.2025",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.571-98 \"ГСИ. Термометры сопротивления платиновые эталонные 1-го и 2-го разрядов. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-СЕ\/18-01-2023\/216408627",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСЕ.1549.2022",
+                    "title": "-",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1401479"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "30917-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338715",
+                    "mitypeTitle": "Калибраторы температуры",
+                    "number": "225"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "092"
+                },
+                {
+                    "mitypeNumber": "53668-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366030",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "2626"
+                },
+                {
+                    "mitypeNumber": "20048-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322203",
+                    "mitypeTitle": "Линейки измерительные металлические",
+                    "number": "01"
+                },
+                {
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359043",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "MY53001433"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "от 0 °С до 419,527 °С",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-216408627\/protocol",
+            "additional_info": "Поверяемый эталон прослеживается к гэт34-2020."
+        }
+    },
+    "202879388": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "11804.89.1Р.93796",
+                "mitypeNumber": "11804-89",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306577",
+                "mitypeTitle": "Термометры сопротивления платиновые образцовые",
+                "mitypeType": "ПТС-10М",
+                "modification": "ПТС-10М",
+                "manufactureNum": "2446",
+                "manufactureYear": 2010,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.558-2009"
+            }
+        },
+        "vriInfo": {
+            "organization": "Западно-Сибирский филиал ФГУП \"ВНИИФТРИ\"(Западно-Сибирский филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Н",
+            "miOwner": "ФБУ«Томский ЦСМ»",
+            "vrfDate": "18.11.2022",
+            "validDate": "17.11.2024",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.571-98",
+            "applicable": {
+                "certNum": "С-Н\/18-11-2022\/202879388",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZH.0154.2015",
+                    "title": "ГЭЕ температуры 0 разряда номинальным значением 0,01 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/408595"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "74918.19.РЭ.00509204",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/509204",
+                    "mitypeNumber": "74918-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/582659",
+                    "mitypeTitle": "Измерители температуры двухканальные прецизионные",
+                    "notation": "МИТ 8.20",
+                    "modification": "МИТ 8.20",
+                    "manufactureNum": "005",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 15 февраля 2016 года N 146"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00580775",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/580775",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "мод. Р331",
+                    "manufactureNum": "092578",
+                    "manufactureYear": 1963,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений электрического сопротивления постоянного и переменного тока» введённа в"
+                },
+                {
+                    "regNumber": "11567.88.1Р.00645889",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/645889",
+                    "mitypeNumber": "11567-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306249",
+                    "mitypeTitle": "Термометры сопротивления платиновые низкотемпературные образцовые",
+                    "notation": "ТСПН-5В, ТСПН-4В, ТСПН-4М",
+                    "modification": "ТСПН-4М",
+                    "manufactureNum": "98",
+                    "manufactureYear": 1989,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 Поверочная схема для контактных термометров  в диапазоне от 0,3 К до 273,16 К  (от минус 272,85 °С до 0,01 °С)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-202879388\/protocol"
+        }
+    },
+    "192120536": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "11804.89.1Р.00689004",
+                "mitypeNumber": "11804-89",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306577",
+                "mitypeTitle": "Термометры сопротивления платиновые образцовые",
+                "mitypeType": "ПТС-10М",
+                "modification": "Без модификации",
+                "manufactureNum": "713",
+                "manufactureYear": 1991,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.558-2009 «ГСИ. Государственная поверочная схема для средств измерений температуры»"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "11.10.2022",
+            "validDate": "10.10.2025",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.571-98",
+            "applicable": {
+                "certNum": "С-БН\/11-10-2022\/192120536",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.2923.2022",
+                    "title": "Государственный рабочий эталон единицы температуры 0 разряда в диапазоне значений от минус 196 °С до 1084,62 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1398901"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-192120536\/protocol",
+            "additional_info": "ГЭТ 34-2020, в диапазоне от 0,01 °С до 419,527 °С"
+        }
+    },
+    "180686724": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "11804.89.1Р.00662093",
+                "mitypeNumber": "11804-89",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306577",
+                "mitypeTitle": "Термометры сопротивления платиновые образцовые",
+                "mitypeType": "ПТС-10М",
+                "modification": "ПТС-10М",
+                "manufactureNum": "2043",
+                "manufactureYear": 1997,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.558-2009"
+            }
+        },
+        "vriInfo": {
+            "organization": "Западно-Сибирский филиал ФГУП \"ВНИИФТРИ\"(Западно-Сибирский филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Н",
+            "miOwner": "ФБУ \"Томский ЦСМ\"",
+            "vrfDate": "11.08.2022",
+            "validDate": "10.08.2025",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.571-98",
+            "applicable": {
+                "certNum": "С-Н\/11-08-2022\/180686724",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZH.0157.2015",
+                    "title": "ГЭЕ температуры 0 разряда номинальным значением 231,928 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/405829"
+                },
+                {
+                    "number": "3.1.ZZH.0159.2015",
+                    "title": "ГЭЕ температуры 0 разряда номинальным значением 660,323 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/440557"
+                },
+                {
+                    "number": "3.1.ZZH.0158.2015",
+                    "title": "ГЭЕ температуры 0 разряда номинальным значением 419,527 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/405833"
+                },
+                {
+                    "number": "3.1.ZZH.0154.2015",
+                    "title": "ГЭЕ температуры 0 разряда номинальным значением 0,01 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/408595"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "8238.81.1Р.00432443",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432443",
+                    "mitypeNumber": "8238-81",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386585",
+                    "mitypeTitle": "Меры электрического сопротивления",
+                    "notation": "Р3030",
+                    "modification": "Р3030",
+                    "manufactureNum": "0188",
+                    "manufactureYear": 1995,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений электрического сопротивления постоянного и переменного тока» введённа в"
+                },
+                {
+                    "regNumber": "74918.19.РЭ.00509204",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/509204",
+                    "mitypeNumber": "74918-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/582659",
+                    "mitypeTitle": "Измерители температуры двухканальные прецизионные",
+                    "notation": "МИТ 8.20",
+                    "modification": "МИТ 8.20",
+                    "manufactureNum": "005",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 15 февраля 2016 года N 146"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-180686724\/protocol"
+        }
+    },
+    "168698685": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "11804.89.2Р.00637126",
+                "mitypeNumber": "11804-89",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306577",
+                "mitypeTitle": "Термометры сопротивления платиновые образцовые",
+                "mitypeType": "ПТС-10М",
+                "modification": "ПТС-10М",
+                "manufactureNum": "163",
+                "manufactureYear": 1989,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ 8.558-2009"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"СЛАНЦЫ\"",
+            "vrfDate": "06.07.2022",
+            "validDate": "05.07.2025",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.571-98; ГСИ. Термометры сопротивления платиновые для низких температур образцовые. Методика поверки",
+            "applicable": {
+                "certNum": "С-СП\/06-07-2022\/168698685",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZСП.0765.2015",
+                    "title": "Государственный вторичный эталон (ВЭТ 34-25-97) единицы температуры в диапазоне значений от 77,3 К до 1357,77 К (от минус 195,85 °С до 1084,62 °С)",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/445751"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "16006-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/314621",
+                    "mitypeTitle": "Барометры рабочие сетевые",
+                    "number": "1206398"
+                },
+                {
+                    "mitypeNumber": "19924-00",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390516",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "20 1013п"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-168698685\/protocol",
+            "additional_info": "ДИ температуры, 0С:  от 0 до 419,527."
+        }
+    },
+    "163304330": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "11804.89.2Р.00624923",
+                "mitypeNumber": "11804-89",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306577",
+                "mitypeTitle": "Термометры сопротивления платиновые образцовые",
+                "mitypeType": "ПТС-10М",
+                "modification": "Нет модификации",
+                "manufactureNum": "851",
+                "manufactureYear": 1991,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ 8.558-2009 (гэт34-2020)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "-",
+            "vrfDate": "14.06.2022",
+            "validDate": "13.06.2025",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.571-98 «ГСИ. Термометры сопротивления платиновые эталонные 1-го и 2-го разрядов. Методика поверки»",
+            "applicable": {
+                "certNum": "С-ВЯ\/14-06-2022\/163304330",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт34-2020",
+                    "title": "ГПЭ единицы температуры в диапазоне от 0 до 3200 °C",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1385580"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "61103.15.ВЭ.00387612",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/387612",
+                    "mitypeNumber": "61103-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374465",
+                    "mitypeTitle": "Мосты-компараторы постоянного тока для измерения электрического сопротивления автоматические",
+                    "notation": "6622A мод. 6622A-B, 6622A-XR, 6622A-XPR, 6622A-XPS, 6622A-HV, 6622A-T",
+                    "modification": "6622A-HV-T",
+                    "manufactureNum": "70892",
+                    "manufactureYear": 2016,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г."
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": true,
+            "briefCharacteristics": "поверено в диапазоне температур от 0,01 °С до 419,527 °С",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-163304330\/protocol",
+            "additional_info": "(id:3998004010073)"
+        }
+    },
+    "146816282": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "11804.89.1Р.00587919",
+                "mitypeNumber": "11804-89",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306577",
+                "mitypeTitle": "Термометры сопротивления платиновые образцовые",
+                "mitypeType": "ПТС-10М",
+                "modification": "ПТС-10М",
+                "manufactureNum": "2835",
+                "manufactureYear": 1991,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.558-2009"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "07.04.2022",
+            "validDate": "06.04.2024",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.571-98",
+            "applicable": {
+                "certNum": "С-МА\/07-04-2022\/146816282",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0008.2012",
+                    "title": "ГЭЕ температуры 0 разряда в диапазоне значений от 77 до 1358,15 К",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/463234"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "В диапазоне от +0,01 °С до +419,527 °С",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-146816282\/protocol",
+            "additional_info": "bca7f137-2627-4c6d-8fd6-b59d8043bd02"
+        }
+    }
+}

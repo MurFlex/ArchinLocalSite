@@ -1,0 +1,236 @@
+{
+    "217322422": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "36177.07.2Р.00771707",
+                "mitypeNumber": "36177-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345490",
+                "mitypeTitle": "Установки калибровочные",
+                "mitypeType": "CU-01",
+                "modification": "CU-01",
+                "manufactureNum": "1108003",
+                "manufactureYear": 2011,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта от 12.11.2021 г. № 2537"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Общество с ограниченной ответственностью \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"КИРИШИНЕФТЕОРГСИНТЕЗ\"",
+            "vrfDate": "23.01.2023",
+            "validDate": "22.01.2026",
+            "vriType": "2",
+            "docTitle": "Установки калибровочные CU-01. Методика поверки",
+            "applicable": {
+                "certNum": "С-СП\/23-01-2023\/217322422",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZСП.0731.2015",
+                    "title": "Государственный вторичный эталон (ВЭТ 57-02-03) единицы ускорения при ударном движении в диапазоне значений от 1·10[^2]до 1·10[^6] м\/с[^2] при длительностях фронта ударного импульса от 5 мс до 25 мкс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/445808"
+                }
+            ]
+        },
+        "info": {
+            "structure": "тестовый генератор STG-02 № 1110011, устройство передачи ударных импульсов \"минибар\" № 1108003, датчик-возбудитель ударных импульсов",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-217322422\/protocol"
+        }
+    },
+    "196869436": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36177-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345490",
+                "mitypeType": "CU-01",
+                "mitypeTitle": "Установки калибровочные",
+                "manufactureNum": "1706140\/1637\/1704279",
+                "modification": "CU-01"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "25.10.2022",
+            "validDate": "24.10.2025",
+            "vriType": "2",
+            "docTitle": "МП 36177-07",
+            "applicable": {
+                "certNum": "С-М\/25-10-2022\/196869436",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56990.14.1Р.50784",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/50784",
+                    "mitypeNumber": "56990-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369777",
+                    "mitypeTitle": "Акселерометры",
+                    "notation": "320, 333, 350, 352, 353, 357 и 393",
+                    "modification": "350A13",
+                    "manufactureNum": "63670",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.137-84"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Установка калибровочная CU-01 в составе тестового генератора STG-02 зав. № 1706140, датчика – возбудителя ударных импульсов 40000 зав. № 1637 и устройства передачи ударных импульсов типа 16016 зав. № 1704279",
+            "briefIndicator": false
+        }
+    },
+    "189080287": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36177-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345490",
+                "mitypeType": "CU-01",
+                "mitypeTitle": "Установки калибровочные",
+                "manufactureNum": "1706137\/1644\/1704278",
+                "modification": "CU-01"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "27.09.2022",
+            "validDate": "26.09.2025",
+            "vriType": "2",
+            "docTitle": "МП 36177-07",
+            "applicable": {
+                "certNum": "С-М\/27-09-2022\/189080287",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56990.14.1Р.50784",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/50784",
+                    "mitypeNumber": "56990-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369777",
+                    "mitypeTitle": "Акселерометры",
+                    "notation": "320, 333, 350, 352, 353, 357 и 393",
+                    "modification": "350A13",
+                    "manufactureNum": "63670",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.137-84"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Установка калибровочная CU-01 в составе тестового генератора STG-02 зав. № 1706137, датчика – возбудителя ударных импульсов 40000 зав. № 1644 и устройства передачи ударных импульсов типа 16016 зав. № 1704278",
+            "briefIndicator": false
+        }
+    },
+    "142484733": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36177-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345490",
+                "mitypeType": "CU-01",
+                "mitypeTitle": "Установки калибровочные",
+                "manufactureNum": "0223003\/0321003",
+                "modification": "CU-01"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "23.03.2022",
+            "validDate": "22.03.2025",
+            "vriType": "2",
+            "docTitle": "МП 36177-07",
+            "applicable": {
+                "certNum": "С-М\/23-03-2022\/142484733",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56990.14.1Р.50784",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/50784",
+                    "mitypeNumber": "56990-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369777",
+                    "mitypeTitle": "Акселерометры",
+                    "notation": "320, 333, 350, 352, 353, 357 и 393",
+                    "modification": "350A13",
+                    "manufactureNum": "63670",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.137-84"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Установка калибровочная CU-01 в составе тестового генератора STG-02 зав. № 0223003, датчика – возбудителя ударных импульсов 40000 зав. № 1024 и устройства передачи ударных импульсов типа 16016 зав. № 0321003"
+        }
+    },
+    "128552088": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "36177.07.2Р.00541678",
+                "mitypeNumber": "36177-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345490",
+                "mitypeTitle": "Установки калибровочные",
+                "mitypeType": "CU-01",
+                "modification": "CU-01",
+                "manufactureNum": "1647069",
+                "manufactureYear": 2010,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ № 2537 от 12.11.2021"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ФБУ \"Астраханский ЦСМ\"",
+            "vrfDate": "03.02.2022",
+            "validDate": "02.02.2025",
+            "vriType": "2",
+            "docTitle": "МП ВНИИМС \"Установки калибровочные CU-01. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-СП\/03-02-2022\/128447488",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZСП.0731.2015",
+                    "title": "Государственный вторичный эталон (ВЭТ 57-02-03) единицы ускорения при ударном движении в диапазоне значений от 1·10[^2]до 1·10[^6] м\/с[^2] при длительностях фронта ударного импульса от 5 мс до 25 мкс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/445808"
+                }
+            ]
+        },
+        "info": {
+            "structure": "STG-02 № 1048097, \"минибар\" № 1647069, датчик ударных импульсов 40000",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-128552088\/protocol"
+        }
+    }
+}

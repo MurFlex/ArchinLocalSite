@@ -1,0 +1,2765 @@
+{
+    "220124931": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00419267",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "Нет модификации",
+                "manufactureNum": "10001",
+                "manufactureYear": 2014,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 49-263-2002, МП 09Б.18.10.00, МП 36905-000-00, МП 51473-12."
+            }
+        },
+        "vriInfo": {
+            "organization": "Забайкальский центр метрологии – структурное подразделение Забайкальской железной дороги – филиала ОАО «РЖД»(ДЦМ ЗАБ)",
+            "signCipher": "АУН",
+            "miOwner": "ОАО \"РЖД\", ТРПУ-17 ЗАБ",
+            "vrfDate": "31.01.2023",
+            "validDate": "30.01.2024",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-АУН\/31-01-2023\/220124931",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "16688.97.3Р.00375574",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/375574",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "0230",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "««Государственной поверочной схемой для средств измерений постоянного электрического напряжения и электродвижущей силы», утверж"
+                },
+                {
+                    "regNumber": "57319.14.4Р.00615208",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/615208",
+                    "mitypeNumber": "57319-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370160",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "АКИП-5102, АКИП-5102\/1",
+                    "modification": "АКИП-5102",
+                    "manufactureNum": "TW00028390",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений времени и частоты (приказ № 382 от 16 февраля 2022 г.)"
+                },
+                {
+                    "regNumber": "27908.05.РЭ.00623292",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/623292",
+                    "mitypeNumber": "27908-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334725",
+                    "mitypeTitle": "Осциллографы-мультиметры (скопметры)",
+                    "notation": "Fluke 192B, 196B, 196С, 199B, 199C",
+                    "modification": "Fluke 199C",
+                    "manufactureNum": "16210021",
+                    "manufactureYear": 2011,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "МП21.Д4-14"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00636262",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/636262",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1388691",
+                    "mitypeTitle": "Мультиметpы",
+                    "notation": "В7-64,В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "0230",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 1942 от 03.09.2021"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5968-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372875",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "15879"
+                },
+                {
+                    "mitypeNumber": "14883-95",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/312247",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "56304"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-220124931\/protocol"
+        }
+    },
+    "222424936": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "manufactureNum": "10001",
+                "manufactureYear": 2012,
+                "modification": "БС-КПА\/USB"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"ОКТЯБРЬ\"(ФГУП \"ПО \"ОКТЯБРЬ\")",
+            "signCipher": "ААЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "26.01.2023",
+            "validDate": "25.01.2024",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-ААЮ\/26-01-2023\/222424936",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "6081.77.4Р.00350636",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/350636",
+                    "mitypeNumber": "6081-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374128",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-57",
+                    "modification": "Ч3-57",
+                    "manufactureNum": "506577",
+                    "manufactureYear": 1987,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "52147.12.3Р.00585258",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/585258",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00019336",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "217965937": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "manufactureNum": "10005",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "Горьковская дирекция по ремонту тягового подвижного состава - структурное подразделение Дирекции по ремонту тягового подвижного состава - филиала ОАО «РЖД»(ГОРЬК ТР)",
+            "signCipher": "АЭФ",
+            "miOwner": "ОАО \"РЖД\", КЛНГ ТР",
+            "vrfDate": "13.01.2023",
+            "validDate": "12.01.2024",
+            "vriType": "2",
+            "docTitle": "Блок связи БС-КПА\/USB  комплекса поверочной аппаратуры КПА-САУТ-ЦМ\/485. Методика поверки. МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-АЭФ\/13-01-2023\/217965937",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "34295.07.3Р.00273366",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/273366",
+                    "mitypeNumber": "34295-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343129",
+                    "mitypeTitle": "Вольтметры универсальные цифровые",
+                    "notation": "GDM-8135, GDM-8145, GDM-8245, GDM-8246",
+                    "modification": "GDM-8145",
+                    "manufactureNum": "Е872727",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 3457 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "29608.05.РЭ.00651820",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/651820",
+                    "mitypeNumber": "29608-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336977",
+                    "mitypeTitle": "Осциллографы электронно-лучевые",
+                    "notation": "GOS-620, GOS-620FG, GOS-622G, GOS-652G, GOS-653G",
+                    "modification": "GOS-620",
+                    "manufactureNum": "E914775",
+                    "manufactureYear": 2005,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "СВТИ.401263.002 ИЗ; МП 108-233-2009; 99Г.03.00.00 МП; 98Г.08.00.00 МП"
+                },
+                {
+                    "regNumber": "56478.14.4Р.00655536",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/655536",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Без модификации",
+                    "manufactureNum": "6С6038007",
+                    "manufactureYear": 2017,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "гэт1-2022"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5969-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372886",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "092071"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "45123154"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "546"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "210936222": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00136989",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "КПА-САУТ-ЦМ\/485",
+                "manufactureNum": "10005",
+                "manufactureYear": 2011,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 51473-12, 09Б.18.10.00 МП с Изменением 1, МП 49-263-2002, МП 49-263-2002 с Изменением 1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННЫЙ КОМПЛЕКС СЕРВИСНОГО ОБСЛУЖИВАНИЯ\"(ООО \"НПК СО\")",
+            "signCipher": "ВОС",
+            "miOwner": "Юр.лицо",
+            "vrfDate": "22.12.2022",
+            "validDate": "21.12.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010 \"ГСИ. Блок связи БС-КПА\/USB комплекса проверочной аппаратуры КПА-САУТ-ЦМ\/485. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-ВОС\/22-12-2022\/210936222",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31773.06.3Р.00247502",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/247502",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00014631",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 №3457 \"ГПС для СИ постоянного электрического напряжения и электродвижущей силы\""
+                },
+                {
+                    "regNumber": "29607.05.2Р.00270248",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/270248",
+                    "mitypeNumber": "29607-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336976",
+                    "mitypeTitle": "Осциллографы электронно-лучевые",
+                    "notation": "GOS-6030, GOS-6031, GOS-6050, GOS-6051, GOS-6103, GOS-6103C, GOS-6112, GOS-6200, GRS-6032A, GRS-6052A",
+                    "modification": "GOS-6031",
+                    "manufactureNum": "ЕК884191",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3463 от 30.12.2019"
+                },
+                {
+                    "regNumber": "56478.14.4Р.00745129",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/745129",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6A513012",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Пр. № 2360 от 26.09.2022 г. «Государственная поверочная схема для средств измерений времени и частоты»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "34295-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343129",
+                    "mitypeTitle": "Вольтметры универсальные цифровые",
+                    "number": "CI831979"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "60284"
+                },
+                {
+                    "mitypeNumber": "47135-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358335",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "7853"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "212061109": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "manufactureNum": "10013",
+                "manufactureYear": 2011,
+                "modification": "БС-КПА\/USB"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"ОКТЯБРЬ\"(ФГУП \"ПО \"ОКТЯБРЬ\")",
+            "signCipher": "ААЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "20.12.2022",
+            "validDate": "19.12.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-ААЮ\/20-12-2022\/212061109",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "6081.77.4Р.00350636",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/350636",
+                    "mitypeNumber": "6081-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374128",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-57",
+                    "modification": "Ч3-57",
+                    "manufactureNum": "506577",
+                    "manufactureYear": 1987,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "52147.12.3Р.00585258",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/585258",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00019336",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "206804796": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00736971",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "-",
+                "manufactureNum": "10014(07.21)",
+                "manufactureYear": 2021,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 44-264-2018 с изменением №1, МП 43-264-2018, МП 01Б.01.00.00-2018"
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточная дирекция по ремонту тягового подвижного состава – структурное подразделение Дирекции по ремонту тягового подвижного состава – филиала ОАО «РЖД»(ДВОСТ ТР)",
+            "signCipher": "БМХ",
+            "miOwner": "Дальневосточная дирекция по ремонту тягового подвижного состава- структурное подразделение Дирекции по ремонту тягового подвижного состава - филиала ОАО \"РЖД\"",
+            "vrfDate": "05.12.2022",
+            "validDate": "04.12.2023",
+            "vriType": "1",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-БМХ\/05-12-2022\/206804796",
+                "stickerNum": "21018491626",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00331546",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/331546",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/6",
+                    "manufactureNum": "6D4038016",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "\"ГПС для СИ времени и частоты\". Приказ № 1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "69742.17.3Р.00333519",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/333519",
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "B7-78\/1, B7-78\/2, B7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00030954",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "№3457 от 30 декабря 2019г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "43942-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354728",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "number": "GES151677"
+                },
+                {
+                    "mitypeNumber": "39934-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349992",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "600205010727210014"
+                },
+                {
+                    "mitypeNumber": "22129-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325758",
+                    "mitypeTitle": "Термогигрометры электронные",
+                    "number": "210503466"
+                },
+                {
+                    "mitypeNumber": "3424-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343066",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "567612"
+                },
+                {
+                    "mitypeNumber": "34295-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343129",
+                    "mitypeTitle": "Вольтметры универсальные цифровые",
+                    "number": "GCS814552"
+                }
+            ]
+        },
+        "info": {
+            "structure": "−",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-206804796\/protocol"
+        }
+    },
+    "201132021": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "manufactureNum": "10007",
+                "manufactureYear": 2012,
+                "modification": "КПА-САУТ-ЦМ\/485"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННЫЙ КОМПЛЕКС СЕРВИСНОГО ОБСЛУЖИВАНИЯ\"(ООО \"НПК СО\")",
+            "signCipher": "ВОС",
+            "miOwner": "Юр.лицо",
+            "vrfDate": "13.11.2022",
+            "validDate": "12.11.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010 \"ГСИ. Блок связи БС-КПА\/USB комплекса проверочной аппаратуры КПА-САУТ-ЦМ\/485. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-ВОС\/13-11-2022\/201132021",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00172022",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/172022",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6А513012",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "31773.06.3Р.00247502",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/247502",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00014631",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 №3457 \"ГПС для СИ постоянного электрического напряжения и электродвижущей силы\""
+                },
+                {
+                    "regNumber": "29607.05.2Р.00270248",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/270248",
+                    "mitypeNumber": "29607-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336976",
+                    "mitypeTitle": "Осциллографы электронно-лучевые",
+                    "notation": "GOS-6030, GOS-6031, GOS-6050, GOS-6051, GOS-6103, GOS-6103C, GOS-6112, GOS-6200, GRS-6032A, GRS-6052A",
+                    "modification": "GOS-6031",
+                    "manufactureNum": "ЕК884191",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3463 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "47135-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358335",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "7853"
+                },
+                {
+                    "mitypeNumber": "34295-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343129",
+                    "mitypeTitle": "Вольтметры универсальные цифровые",
+                    "number": "CI831979"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "60284"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "193468706": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00463978",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "КПА-САУТ-ЦМ\/485",
+                "manufactureNum": "10022",
+                "manufactureYear": 2012,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ЛПС 1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Дирекция по ремонту тягового подвижного состава - филиала ОАО \"РЖД\"",
+            "vrfDate": "11.10.2022",
+            "validDate": "10.10.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-СП\/11-10-2022\/193468706",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25787.08.3Р.00583382",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/583382",
+                    "mitypeNumber": "25787-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "2000, 2001, 2002, 2010",
+                    "modification": "2002",
+                    "manufactureNum": "4053596",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 03.09.2021 № 1942"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "number": "977266"
+                },
+                {
+                    "mitypeNumber": "24021-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328871",
+                    "mitypeTitle": "Осциллографы цифровые люминофорные",
+                    "number": "B013612"
+                },
+                {
+                    "mitypeNumber": "52141-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364284",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "151046129"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "190487844": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00437557",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "Нет модификации",
+                "manufactureNum": "10010",
+                "manufactureYear": 2018,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 49-263-2002, МП 09Б.18.10.00, МП 36905-000-00, МП 51473-12."
+            }
+        },
+        "vriInfo": {
+            "organization": "Забайкальский центр метрологии – структурное подразделение Забайкальской железной дороги – филиала ОАО «РЖД»(ДЦМ ЗАБ)",
+            "signCipher": "АУН",
+            "miOwner": "ОАО \"РЖД\", ТРПУ-21 ЗАБ",
+            "vrfDate": "25.09.2022",
+            "validDate": "24.09.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-АУН\/25-09-2022\/190487844",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52147.12.3Р.00375566",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/375566",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00031041",
+                    "manufactureYear": 2017,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "««Государственной поверочной схемой для средств измерений постоянного электрического напряжения и электродвижущей силы», утверж"
+                },
+                {
+                    "regNumber": "57319.14.4Р.00615208",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/615208",
+                    "mitypeNumber": "57319-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370160",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "АКИП-5102, АКИП-5102\/1",
+                    "modification": "АКИП-5102",
+                    "manufactureNum": "TW00028390",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений времени и частоты (приказ № 382 от 16 февраля 2022 г.)"
+                },
+                {
+                    "regNumber": "27908.05.РЭ.00623292",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/623292",
+                    "mitypeNumber": "27908-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334725",
+                    "mitypeTitle": "Осциллографы-мультиметры (скопметры)",
+                    "notation": "Fluke 192B, 196B, 196С, 199B, 199C",
+                    "modification": "Fluke 199C",
+                    "manufactureNum": "16210021",
+                    "manufactureYear": 2011,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "МП21.Д4-14"
+                },
+                {
+                    "regNumber": "52147.12.3Р.00637978",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/637978",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00031041",
+                    "manufactureYear": 2017,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 1942 от 03.09.2021"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "14883-95",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/312248",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "56304"
+                },
+                {
+                    "mitypeNumber": "5968-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372875",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "15879"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-190487844\/protocol"
+        }
+    },
+    "186749109": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00675392",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "нет модификаций",
+                "manufactureNum": "10023",
+                "manufactureYear": 2012,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 51473-12, 09Б.18.10.00 МП с изменением 1, МП 49-263-2002, МП 49-263-2002 с Изменением 1"
+            }
+        },
+        "vriInfo": {
+            "organization": "Южно-Уральская дирекция по ремонту тягового подвижного состава – структурное подразделение Дирекции по ремонту тягового подвижного состава – филиала ОАО «РЖД»(ЮУР ТР)",
+            "signCipher": "ВОК",
+            "miOwner": "Южно-Уральская дирекция по ремонту тягового подвижного состава- структурное подразделение Дирекции по ремонту тягового подвижного состава - филиала ОАО \"РЖД\"",
+            "vrfDate": "15.09.2022",
+            "validDate": "14.09.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010 \"ГСИ. Блок Связи БС-КПА\/USB комплекса проверочной аппаратуры КПА-САУТ-ЦМ\/485. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-ВОК\/15-09-2022\/186749109",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00150346",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/150346",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "ЧЗ-85\/5",
+                    "manufactureNum": "6С6037015",
+                    "manufactureYear": 2017,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "29607.05.РЭ.00150387",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/150387",
+                    "mitypeNumber": "29607-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336976",
+                    "mitypeTitle": "Осциллографы электронно-лучевые",
+                    "notation": "GOS-6030, GOS-6031, GOS-6050, GOS-6051, GOS-6103, GOS-6103C, GOS-6112, GOS-6200, GRS-6032A, GRS-6052A",
+                    "modification": "GOS-6031",
+                    "manufactureNum": "EG844630",
+                    "manufactureYear": 2020,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "МП 45-263-2010 \"ГСИ. Блок связи БС-КПА\/USB комплекса поверочной аппаратуры КПА-САУТ-ЦМ\/485"
+                },
+                {
+                    "regNumber": "31773.06.3Р.00385623",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/385623",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00022842",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №3457 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "75436-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/718358",
+                    "mitypeTitle": "Источники питания",
+                    "number": "18080053"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "570"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39265777\/702"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-186749109\/protocol"
+        }
+    },
+    "186888650": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00675689",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "Нет модификации",
+                "manufactureNum": "10014",
+                "manufactureYear": 2012,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 44-264-2018, МП 43-264-2018, МП 01Б.01.00.00-2018"
+            }
+        },
+        "vriInfo": {
+            "organization": "Восточно - Сибирская дирекция по ремонту тягового подвижного состава – структурное подразделение Дирекции по ремонту тягового подвижного состава – филиала ОАО «РЖД»(ВСИБ ТР)",
+            "signCipher": "ГВД",
+            "miOwner": "ОАО \"РЖД\" ВС ТР ТРПУ-18",
+            "vrfDate": "09.09.2022",
+            "validDate": "08.09.2023",
+            "vriType": "2",
+            "docTitle": "99Г.03.00.00 МП \"Блок связи комплекса поверочной аппаратуры БС-КПА\"",
+            "applicable": {
+                "certNum": "С-ГВД\/09-09-2022\/186888650",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "29607.05.РЭ.00379512",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/379512",
+                    "mitypeNumber": "29607-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336976",
+                    "mitypeTitle": "Осциллографы электронно-лучевые",
+                    "notation": "GOS-6030, GOS-6031, GOS-6050, GOS-6051, GOS-6103, GOS-6103C, GOS-6112, GOS-6200, GRS-6032A, GRS-6052A",
+                    "modification": "GOS-6031",
+                    "manufactureNum": "EG813615",
+                    "manufactureYear": 2007,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "99Г.03.00.00 МП \"ГСИ. Блок связи комплекса проверочной аппаратуры БС-КПА. Методика поверки\"; МП  45-263-2010 \"ГСИ. Блок связи БС"
+                },
+                {
+                    "regNumber": "52147.12.3Р.00640771",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/640771",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00022175",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 3457 от 30.12.2019 г. «ГПС для СИ постоянного электрического напряжения и электродвижущей силы»"
+                },
+                {
+                    "regNumber": "56478.14.4Р.00646652",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/646652",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6В613022",
+                    "manufactureYear": 2017,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«приказ № 1621 от 31 июля 2018 г. ГПС для средств измерений времени и частоты»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "6830"
+                },
+                {
+                    "mitypeNumber": "20189-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322455",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "GES890204"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-186888650\/protocol"
+        }
+    },
+    "183937906": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "manufactureNum": "10017",
+                "manufactureYear": 2012,
+                "modification": "КПА-САУТ-ЦМ\/485"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННЫЙ КОМПЛЕКС СЕРВИСНОГО ОБСЛУЖИВАНИЯ\"(ООО \"НПК СО\")",
+            "signCipher": "ВОС",
+            "miOwner": "Юр.лицо",
+            "vrfDate": "02.09.2022",
+            "validDate": "01.09.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010 \"ГСИ. Блок связи БС-КПА\/USB комплекса проверочной аппаратуры КПА-САУТ-ЦМ\/485. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-ВОС\/02-09-2022\/183937906",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00172022",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/172022",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6А513012",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "31773.06.3Р.00247502",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/247502",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00014631",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 №3457 \"ГПС для СИ постоянного электрического напряжения и электродвижущей силы\""
+                },
+                {
+                    "regNumber": "29607.05.2Р.00270248",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/270248",
+                    "mitypeNumber": "29607-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336976",
+                    "mitypeTitle": "Осциллографы электронно-лучевые",
+                    "notation": "GOS-6030, GOS-6031, GOS-6050, GOS-6051, GOS-6103, GOS-6103C, GOS-6112, GOS-6200, GRS-6032A, GRS-6052A",
+                    "modification": "GOS-6031",
+                    "manufactureNum": "ЕК884191",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3463 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "47135-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358336",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "7853"
+                },
+                {
+                    "mitypeNumber": "34295-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343129",
+                    "mitypeTitle": "Вольтметры универсальные цифровые",
+                    "number": "CI831979"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "60284"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183937907": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00668464",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "КПА-САУТ-ЦМ\/485",
+                "manufactureNum": "10017",
+                "manufactureYear": 2012,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 51473-12"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННЫЙ КОМПЛЕКС СЕРВИСНОГО ОБСЛУЖИВАНИЯ\"(ООО \"НПК СО\")",
+            "signCipher": "ВОС",
+            "miOwner": "Юр.лицо",
+            "vrfDate": "02.09.2022",
+            "validDate": "01.09.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010 \"ГСИ. Блок связи БС-КПА\/USB комплекса проверочной аппаратуры КПА-САУТ-ЦМ\/485. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-ВОС\/02-09-2022\/183937907",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00172022",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/172022",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6А513012",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "31773.06.3Р.00247502",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/247502",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00014631",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 №3457 \"ГПС для СИ постоянного электрического напряжения и электродвижущей силы\""
+                },
+                {
+                    "regNumber": "29607.05.2Р.00270248",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/270248",
+                    "mitypeNumber": "29607-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336976",
+                    "mitypeTitle": "Осциллографы электронно-лучевые",
+                    "notation": "GOS-6030, GOS-6031, GOS-6050, GOS-6051, GOS-6103, GOS-6103C, GOS-6112, GOS-6200, GRS-6032A, GRS-6052A",
+                    "modification": "GOS-6031",
+                    "manufactureNum": "ЕК884191",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3463 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "47135-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358336",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "7853"
+                },
+                {
+                    "mitypeNumber": "34295-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343129",
+                    "mitypeTitle": "Вольтметры универсальные цифровые",
+                    "number": "CI831979"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "60284"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-183937907\/protocol"
+        }
+    },
+    "181899101": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.06580",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "Нет модификаций",
+                "manufactureNum": "10034",
+                "manufactureYear": 2012,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 51473-12, 09Б.18.10.00 МП, 09Б.18.10.00 МП с изменением 1, МП 49-263-2002, 49-263-2002 с Изменением 1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННЫЙ КОМПЛЕКС СЕРВИСНОГО ОБСЛУЖИВАНИЯ\"(ООО \"НПК СО\")",
+            "signCipher": "ВОС",
+            "miOwner": "Юр.лицо",
+            "vrfDate": "25.08.2022",
+            "validDate": "24.08.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010 \"ГСИ. Блок связи БС-КПА\/USB комплекса проверочной аппаратуры КПА-САУТ-ЦМ\/485. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-ВОС\/25-08-2022\/181899101",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00172022",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/172022",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6А513012",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "31773.06.3Р.00247502",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/247502",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00014631",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 №3457 \"ГПС для СИ постоянного электрического напряжения и электродвижущей силы\""
+                },
+                {
+                    "regNumber": "29607.05.2Р.00270248",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/270248",
+                    "mitypeNumber": "29607-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336976",
+                    "mitypeTitle": "Осциллографы электронно-лучевые",
+                    "notation": "GOS-6030, GOS-6031, GOS-6050, GOS-6051, GOS-6103, GOS-6103C, GOS-6112, GOS-6200, GRS-6032A, GRS-6052A",
+                    "modification": "GOS-6031",
+                    "manufactureNum": "ЕК884191",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3463 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "47135-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358336",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "7853"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "60284"
+                },
+                {
+                    "mitypeNumber": "34295-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343129",
+                    "mitypeTitle": "Вольтметры универсальные цифровые",
+                    "number": "CI831979"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-181899101\/protocol"
+        }
+    },
+    "183565992": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00437318",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "нет модификаций",
+                "manufactureNum": "10024",
+                "manufactureYear": 2012,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 51473-12, 09Б.18.10.00 МП с изменением 1, МП 49-263-2002, МП 49-263-2002 с Изменением 1"
+            }
+        },
+        "vriInfo": {
+            "organization": "Южно-Уральская дирекция по ремонту тягового подвижного состава – структурное подразделение Дирекции по ремонту тягового подвижного состава – филиала ОАО «РЖД»(ЮУР ТР)",
+            "signCipher": "ВОК",
+            "miOwner": "Южно-Уральская дирекция по ремонту тягового подвижного состава- структурное подразделение Дирекции по ремонту тягового подвижного состава - филиала ОАО \"РЖД\"",
+            "vrfDate": "25.08.2022",
+            "validDate": "24.08.2023",
+            "vriType": "2",
+            "docTitle": "МП 51473-12, 09Б.18.10.00 МП с изменением 1, МП 49-263-2002, МП 49-263-2002 с Изменением 1",
+            "applicable": {
+                "certNum": "С-ВОК\/25-08-2022\/183565992",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00150346",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/150346",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "ЧЗ-85\/5",
+                    "manufactureNum": "6С6037015",
+                    "manufactureYear": 2017,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "29607.05.РЭ.00150387",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/150387",
+                    "mitypeNumber": "29607-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336976",
+                    "mitypeTitle": "Осциллографы электронно-лучевые",
+                    "notation": "GOS-6030, GOS-6031, GOS-6050, GOS-6051, GOS-6103, GOS-6103C, GOS-6112, GOS-6200, GRS-6032A, GRS-6052A",
+                    "modification": "GOS-6031",
+                    "manufactureNum": "EG844630",
+                    "manufactureYear": 2020,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "МП 45-263-2010 \"ГСИ. Блок связи БС-КПА\/USB комплекса поверочной аппаратуры КПА-САУТ-ЦМ\/485"
+                },
+                {
+                    "regNumber": "31773.06.3Р.00385623",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/385623",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00022842",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №3457 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "75436-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/718358",
+                    "mitypeTitle": "Источники питания",
+                    "number": "18080053"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "570"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39265777\/702"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-183565992\/protocol"
+        }
+    },
+    "179898870": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "manufactureNum": "10008",
+                "manufactureYear": 2012,
+                "modification": "КПА-САУТ-ЦМ\/485"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННЫЙ КОМПЛЕКС СЕРВИСНОГО ОБСЛУЖИВАНИЯ\"(ООО \"НПК СО\")",
+            "signCipher": "ВОС",
+            "miOwner": "ООО \"АВП Технология\"",
+            "vrfDate": "21.08.2022",
+            "validDate": "20.08.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010 \"ГСИ. Блок связи БС-КПА\/USB комплекса проверочной аппаратуры КПА-САУТ-ЦМ\/485. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-ВОС\/21-08-2022\/179822451",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00172022",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/172022",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6А513012",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "31773.06.3Р.00247502",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/247502",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00014631",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 №3457 \"ГПС для СИ постоянного электрического напряжения и электродвижущей силы\""
+                },
+                {
+                    "regNumber": "29607.05.2Р.00270248",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/270248",
+                    "mitypeNumber": "29607-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336976",
+                    "mitypeTitle": "Осциллографы электронно-лучевые",
+                    "notation": "GOS-6030, GOS-6031, GOS-6050, GOS-6051, GOS-6103, GOS-6103C, GOS-6112, GOS-6200, GRS-6032A, GRS-6052A",
+                    "modification": "GOS-6031",
+                    "manufactureNum": "ЕК884191",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3463 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "47135-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358336",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "7853"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "60284"
+                },
+                {
+                    "mitypeNumber": "34295-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343129",
+                    "mitypeTitle": "Вольтметры универсальные цифровые",
+                    "number": "CI831979"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "179425026": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00659388",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "КПА-САУТ-ЦМ\/485",
+                "manufactureNum": "10009",
+                "manufactureYear": 2018,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 49-263-2002, МП 49-263-2002 (с изменением № 1)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Дирекция по ремонту тягового подвижного состава - филиала ОАО \"РЖД\"",
+            "vrfDate": "17.08.2022",
+            "validDate": "16.08.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-СП\/17-08-2022\/179425026",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25787.08.2Р.00284470",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284470",
+                    "mitypeNumber": "25787-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "2000, 2001, 2002, 2010",
+                    "modification": "2002",
+                    "manufactureNum": "4053596",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "24021.02.2Р.00537976",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/537976",
+                    "mitypeNumber": "24021-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328871",
+                    "mitypeTitle": "Осциллографы цифровые люминофорные",
+                    "notation": "TDS3012B, TDS3014B, TDS3032B, TDS3034B, TDS3052B, TDS3054B",
+                    "modification": "TDS3032B",
+                    "manufactureNum": "B013612",
+                    "manufactureYear": 2002,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 3463 от 30.12.2019"
+                },
+                {
+                    "regNumber": "25787.08.3Р.00583382",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/583382",
+                    "mitypeNumber": "25787-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "2000, 2001, 2002, 2010",
+                    "modification": "2002",
+                    "manufactureNum": "4053596",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 03.09.2021 № 1942"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "number": "977266"
+                },
+                {
+                    "mitypeNumber": "52141-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364284",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "151046129"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-179425026\/protocol"
+        }
+    },
+    "177942369": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "manufactureNum": "10010",
+                "modification": "БС-КПА\/USB"
+            }
+        },
+        "vriInfo": {
+            "organization": "Свердловская дирекция по ремонту тягового подвижного состава – структурное подразделение Дирекции по ремонту тягового подвижного состава – филиала ОАО «РЖД»(СВЕРД ТР)",
+            "signCipher": "БИЛ",
+            "miOwner": "-",
+            "vrfDate": "10.08.2022",
+            "validDate": "09.08.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-БИЛ\/10-08-2022\/177942369",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.48242",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/48242",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "69317009",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "52147.12.3Р.00347154",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/347154",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00021871",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3457 от 30.12.2019"
+                },
+                {
+                    "regNumber": "38084.08.2Р.00487823",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/487823",
+                    "mitypeNumber": "38084-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347763",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "notation": "GDS-71022, GDS-71042, GDS-71062, GDS-71102",
+                    "modification": "GDS-71062",
+                    "manufactureNum": "EM170493",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта 3463 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "55898-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368520",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "GER856536"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39509719\/602"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "174581662": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "manufactureNum": "10012",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "Западно-Сибирская дирекция по ремонту тягового подвижного состава – структурное подразделение Дирекции по ремонту тягового подвижного состава – филиала ОАО «РЖД»(ЗСИБ ТР)",
+            "signCipher": "ВШЕ",
+            "miOwner": "ОАО \"РЖД\" (ТРПУ-1 Московка)",
+            "vrfDate": "27.07.2022",
+            "validDate": "26.07.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010 \"ГСИ. Блок связи БС-КПА\/USB комплекса проверочной аппаратуры КПА-САУТ-ЦМ\/485. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-ВШЕ\/27-07-2022\/174581662",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00289988",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/289988",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "68408035",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "для средств измерений времени и частоты Приказ № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "54848.13.3Р.00453346",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/453346",
+                    "mitypeNumber": "54848-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367345",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34401A, 34460A, 34461A",
+                    "modification": "мод. 34401A",
+                    "manufactureNum": "MY53004833",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "38084-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347763",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "number": "GRN190148"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39513818\/ 705"
+                },
+                {
+                    "mitypeNumber": "20189-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322455",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "GEQ810077"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "27\/1\/8-248"
+        }
+    },
+    "172935494": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00388454",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "-",
+                "manufactureNum": "10005",
+                "manufactureYear": 2012,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 51473-12; 09Б.18.10.00 МП с изменением № 1"
+            }
+        },
+        "vriInfo": {
+            "organization": "Свердловская дирекция по ремонту тягового подвижного состава – структурное подразделение Дирекции по ремонту тягового подвижного состава – филиала ОАО «РЖД»(СВЕРД ТР)",
+            "signCipher": "БИЛ",
+            "miOwner": "ОАО \"РЖД\" (ТРПУ-33)",
+            "vrfDate": "25.07.2022",
+            "validDate": "24.07.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-БИЛ\/25-07-2022\/172935494",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.48242",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/48242",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "69317009",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "52147.12.3Р.00347154",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/347154",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00021871",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3457 от 30.12.2019"
+                },
+                {
+                    "regNumber": "38084.08.2Р.00487823",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/487823",
+                    "mitypeNumber": "38084-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347763",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "notation": "GDS-71022, GDS-71042, GDS-71062, GDS-71102",
+                    "modification": "GDS-71062",
+                    "manufactureNum": "EM170493",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта 3463 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "55898-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368520",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "GER856536"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39509719\/602"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-172935494\/protocol"
+        }
+    },
+    "169836208": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "manufactureNum": "10021",
+                "modification": "КПА-САУТ-ЦМ\/485"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОЛГОГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ВОЛГОГРАДСКИЙ ЦСМ\")",
+            "signCipher": "БИ",
+            "miOwner": "Приволжская дирекция по ремонту тягового подвижного состава - структурное подразделение Дирекции по ремонту тягового подвижного состава - филиал ОАО \"РЖД\"",
+            "vrfDate": "11.07.2022",
+            "validDate": "10.07.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-БИ\/11-07-2022\/169836208",
+                "stickerNum": "20015952463",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "57319.14.3Р.58190",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/58190",
+                    "mitypeNumber": "57319-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370160",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "АКИП-5102, АКИП-5102\/1",
+                    "modification": "АКИП-5102",
+                    "manufactureNum": "TW00038822",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "31773.06.3Р.66146",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/66146",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00001895",
+                    "manufactureYear": 2006,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.2019 ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389851",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "C102588"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "166115445": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "manufactureNum": "10030",
+                "manufactureYear": 2012,
+                "modification": "КПА-САУТ-ЦМ\/485"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННЫЙ КОМПЛЕКС СЕРВИСНОГО ОБСЛУЖИВАНИЯ\"(ООО \"НПК СО\")",
+            "signCipher": "ВОС",
+            "miOwner": "Юр.лицо",
+            "vrfDate": "26.06.2022",
+            "validDate": "25.06.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010 \"ГСИ. Блок связи БС-КПА\/USB комплекса проверочной аппаратуры КПА-САУТ-ЦМ\/485. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-ВОС\/26-06-2022\/166115445",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00172022",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/172022",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6А513012",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "29607.05.2Р.00270248",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/270248",
+                    "mitypeNumber": "29607-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336976",
+                    "mitypeTitle": "Осциллографы электронно-лучевые",
+                    "notation": "GOS-6030, GOS-6031, GOS-6050, GOS-6051, GOS-6103, GOS-6103C, GOS-6112, GOS-6200, GRS-6032A, GRS-6052A",
+                    "modification": "GOS-6031",
+                    "manufactureNum": "ЕК884191",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3463 от 30.12.2019"
+                },
+                {
+                    "regNumber": "69742.17.3Р.00584322",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/584322",
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "B7-78\/1, B7-78\/2, B7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00041696",
+                    "manufactureYear": 2021,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 №3457 \"ГПС для СИ постоянного электрического напряжения и электродвижущей силы\""
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "47135-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358336",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "7854"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "63523"
+                },
+                {
+                    "mitypeNumber": "34295-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343129",
+                    "mitypeTitle": "Вольтметры универсальные цифровые",
+                    "number": "CI831979"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "159388555": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00419267",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "Нет модификации",
+                "manufactureNum": "10001",
+                "manufactureYear": 2014,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 49-263-2002, МП 09Б.18.10.00, МП 36905-000-00, МП 51473-12."
+            }
+        },
+        "vriInfo": {
+            "organization": "Забайкальский центр метрологии – структурное подразделение Забайкальской железной дороги – филиала ОАО «РЖД»(ДЦМ ЗАБ)",
+            "signCipher": "АУН",
+            "miOwner": "ОАО \"РЖД\", ТРПУ-22 ЗАБ",
+            "vrfDate": "30.05.2022",
+            "validDate": "29.05.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-АУН\/30-05-2022\/159388555",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "16688.97.3Р.00375574",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/375574",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "0230",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "««Государственной поверочной схемой для средств измерений постоянного электрического напряжения и электродвижущей силы», утверж"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00375575",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/375575",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1388691",
+                    "mitypeTitle": "Мультиметpы",
+                    "notation": "В7-64,В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "0230",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 1053 от 29.05.2018 «Государственная поверочная схема для средств измерений переменного электрического напряжения до 1000"
+                },
+                {
+                    "regNumber": "9084.90.4Р.00482754",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/482754",
+                    "mitypeNumber": "9084-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387757",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-63\/1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0309036",
+                    "manufactureYear": 2003,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты согласно приказа Росстандарта от 31.07.2018г. №1621"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "14883-95",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/312248",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "56304"
+                },
+                {
+                    "mitypeNumber": "5968-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372875",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "15879"
+                },
+                {
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389851",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "C101308"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-159388555\/protocol"
+        }
+    },
+    "152717533": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00601291",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "-",
+                "manufactureNum": "10014(08.11)",
+                "manufactureYear": 2011,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 44-264-2018, МП 43-264-2018, МП 01Б.01.00.00-2018"
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточная дирекция по ремонту тягового подвижного состава – структурное подразделение Дирекции по ремонту тягового подвижного состава – филиала ОАО «РЖД»(ДВОСТ ТР)",
+            "signCipher": "БМХ",
+            "miOwner": "Дальневосточная дирекция по ремонту тягового подвижного состава- структурное подразделение Дирекции по ремонту тягового подвижного состава - филиала ОАО \"РЖД\"",
+            "vrfDate": "29.04.2022",
+            "validDate": "28.04.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-БМХ\/29-04-2022\/152717533",
+                "stickerNum": "21018486478",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00375556",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/375556",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6В613040",
+                    "manufactureYear": 2017,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ № 1621 от 31 июля 2018 г."
+                },
+                {
+                    "regNumber": "31773.06.3Р.00582457",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/582457",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00010176",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "«ПРИКАЗ ФАТРИМ №3457 от 30.12.2019»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "43942-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354728",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "number": "GES151676"
+                },
+                {
+                    "mitypeNumber": "20189-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322455",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "GES890134"
+                },
+                {
+                    "mitypeNumber": "15500-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313585",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "45026"
+                },
+                {
+                    "mitypeNumber": "21507-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/324703",
+                    "mitypeTitle": "Измерители сопротивления изоляции",
+                    "number": "1351098"
+                }
+            ]
+        },
+        "info": {
+            "structure": "−",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-152717533\/protocol"
+        }
+    },
+    "150197252": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "manufactureNum": "10009",
+                "manufactureYear": 2012,
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "Горьковская дирекция по ремонту тягового подвижного состава - структурное подразделение Дирекции по ремонту тягового подвижного состава - филиала ОАО «РЖД»(ГОРЬК ТР)",
+            "signCipher": "АЭФ",
+            "miOwner": "ОАО «РЖД» », КЛНГ ТР",
+            "vrfDate": "01.04.2022",
+            "validDate": "31.03.2023",
+            "vriType": "2",
+            "docTitle": "ГСИ «Блок связи БС-КПА\/USB комплекса проверочной аппаратуры КПА-САУТ-ЦМ\/485. Методика поверки МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-АЭФ\/01-04-2022\/150197252",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00191880",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/191880",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/6",
+                    "manufactureNum": "6С6038007",
+                    "manufactureYear": 2017,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №1621 от 31.07.2018 г. \"Об утверждении государственной поверочной схемы для средств измерений времени и час"
+                },
+                {
+                    "regNumber": "29608.05.СИ.00204796",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/204796",
+                    "mitypeNumber": "29608-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336977",
+                    "mitypeTitle": "Осциллографы электронно-лучевые",
+                    "notation": "GOS-620, GOS-620FG, GOS-622G, GOS-652G, GOS-653G",
+                    "modification": "GOS-620",
+                    "manufactureNum": "Е914775",
+                    "manufactureYear": 2005,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений импульсного электрического напряжения , утвержденная приказом Росстандар"
+                },
+                {
+                    "regNumber": "34295.07.3Р.00273366",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/273366",
+                    "mitypeNumber": "34295-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343129",
+                    "mitypeTitle": "Вольтметры универсальные цифровые",
+                    "notation": "GDM-8135, GDM-8145, GDM-8245, GDM-8246",
+                    "modification": "GDM-8145",
+                    "manufactureNum": "Е872727",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 3457 от 30.12.2019 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5969-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372886",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "092071"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "546"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "45123154"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "141921551": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "manufactureNum": "10015",
+                "manufactureYear": 2012,
+                "modification": "КПА-САУТ-ЦМ\/485"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННЫЙ КОМПЛЕКС СЕРВИСНОГО ОБСЛУЖИВАНИЯ\"(ООО \"НПК СО\")",
+            "signCipher": "ВОС",
+            "miOwner": "Юр.лицо",
+            "vrfDate": "21.03.2022",
+            "validDate": "20.03.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010 \"ГСИ. Блок связи БС-КПА\/USB комплекса проверочной аппаратуры КПА-САУТ-ЦМ\/485. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-ВОС\/21-03-2022\/141921551",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00172022",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/172022",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6А513012",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "29607.05.2Р.00342818",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/342818",
+                    "mitypeNumber": "29607-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336976",
+                    "mitypeTitle": "Осциллографы электронно-лучевые",
+                    "notation": "GOS-6030, GOS-6031, GOS-6050, GOS-6051, GOS-6103, GOS-6103C, GOS-6112, GOS-6200, GRS-6032A, GRS-6052A",
+                    "modification": "GOS-6031",
+                    "manufactureNum": "Е912552",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3463 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "34295-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343129",
+                    "mitypeTitle": "Вольтметры универсальные цифровые",
+                    "number": "CI831979"
+                },
+                {
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "TW00014631"
+                },
+                {
+                    "mitypeNumber": "47135-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358336",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "7854"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "60284"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "140950079": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "manufactureNum": "10006",
+                "manufactureYear": 2020,
+                "modification": "КПА-САУТ-ЦМ\/485"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Дирекция по ремонту тягового подвижного состава - филиала ОАО \"РЖД\"",
+            "vrfDate": "16.03.2022",
+            "validDate": "15.03.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-СП\/16-03-2022\/140950079",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25787.08.3Р.00284468",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284468",
+                    "mitypeNumber": "25787-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "2000, 2001, 2002, 2010",
+                    "modification": "2002",
+                    "manufactureNum": "4053596",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 29.05.2018 № 1053"
+                },
+                {
+                    "regNumber": "25787.08.2Р.00284470",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284470",
+                    "mitypeNumber": "25787-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "2000, 2001, 2002, 2010",
+                    "modification": "2002",
+                    "manufactureNum": "4053596",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "24021.02.2Р.00537976",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/537976",
+                    "mitypeNumber": "24021-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328871",
+                    "mitypeTitle": "Осциллографы цифровые люминофорные",
+                    "notation": "TDS3012B, TDS3014B, TDS3032B, TDS3034B, TDS3052B, TDS3054B",
+                    "modification": "TDS3032B",
+                    "manufactureNum": "B013612",
+                    "manufactureYear": 2002,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 3463 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "52141-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364284",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "151046129"
+                },
+                {
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "number": "977266"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "140950080": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "manufactureNum": "10005",
+                "manufactureYear": 2020,
+                "modification": "КПА-САУТ-ЦМ\/485"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Дирекция по ремонту тягового подвижного состава - филиала ОАО \"РЖД\"",
+            "vrfDate": "16.03.2022",
+            "validDate": "15.03.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-СП\/16-03-2022\/140950080",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25787.08.3Р.00284468",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284468",
+                    "mitypeNumber": "25787-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "2000, 2001, 2002, 2010",
+                    "modification": "2002",
+                    "manufactureNum": "4053596",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 29.05.2018 № 1053"
+                },
+                {
+                    "regNumber": "25787.08.2Р.00284470",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284470",
+                    "mitypeNumber": "25787-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "2000, 2001, 2002, 2010",
+                    "modification": "2002",
+                    "manufactureNum": "4053596",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "24021.02.2Р.00537976",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/537976",
+                    "mitypeNumber": "24021-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328871",
+                    "mitypeTitle": "Осциллографы цифровые люминофорные",
+                    "notation": "TDS3012B, TDS3014B, TDS3032B, TDS3034B, TDS3052B, TDS3054B",
+                    "modification": "TDS3032B",
+                    "manufactureNum": "B013612",
+                    "manufactureYear": 2002,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 3463 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "52141-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364284",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "151046129"
+                },
+                {
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "number": "977266"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "140950082": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00574624",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "КПА-САУТ-ЦМ\/485",
+                "manufactureNum": "10003",
+                "manufactureYear": 2020,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 49-263-2002, МП 49-263-2002 (с изменением № 1)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Дирекция по ремонту тягового подвижного состава - филиала ОАО \"РЖД\"",
+            "vrfDate": "16.03.2022",
+            "validDate": "15.03.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-СП\/16-03-2022\/140950082",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25787.08.3Р.00284468",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284468",
+                    "mitypeNumber": "25787-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "2000, 2001, 2002, 2010",
+                    "modification": "2002",
+                    "manufactureNum": "4053596",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 29.05.2018 № 1053"
+                },
+                {
+                    "regNumber": "25787.08.2Р.00284470",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284470",
+                    "mitypeNumber": "25787-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "2000, 2001, 2002, 2010",
+                    "modification": "2002",
+                    "manufactureNum": "4053596",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "24021.02.2Р.00537976",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/537976",
+                    "mitypeNumber": "24021-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328871",
+                    "mitypeTitle": "Осциллографы цифровые люминофорные",
+                    "notation": "TDS3012B, TDS3014B, TDS3032B, TDS3034B, TDS3052B, TDS3054B",
+                    "modification": "TDS3032B",
+                    "manufactureNum": "B013612",
+                    "manufactureYear": 2002,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 3463 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "52141-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364284",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "151046129"
+                },
+                {
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "number": "977266"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-140950082\/protocol"
+        }
+    },
+    "136639524": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47491.11.РЭ.00565476",
+                "mitypeNumber": "47491-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358766",
+                "mitypeTitle": "Блоки связи БС-КПА\/USB комплекса проверочной аппаратуры",
+                "mitypeType": "КПА-САУТ-ЦМ\/485",
+                "modification": "БС-КПА",
+                "manufactureNum": "10019",
+                "manufactureYear": 2012,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "«МП01Б.01.00.00-2018 ,МП51473-12»"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ  ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РОСТОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТОВСКИЙ ЦСМ\")",
+            "signCipher": "ВР",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "02.03.2022",
+            "validDate": "01.03.2023",
+            "vriType": "2",
+            "docTitle": "МП 45-263-2010",
+            "applicable": {
+                "certNum": "С-ВР\/02-03-2022\/136639524",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "4835.75.3Р.00117406",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/117406",
+                    "mitypeNumber": "4835-75",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359819",
+                    "mitypeTitle": "Вольтметры универсальные с блоками",
+                    "notation": "В7-23 (вольтметры) Я1В-13, Я1В-14, Я1В-18 (блоки)",
+                    "modification": "В7-23",
+                    "manufactureNum": "057480",
+                    "manufactureYear": 1980,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3457 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "56478.14.4Р.00138279",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/138279",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6В903035",
+                    "manufactureYear": 2016,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ Росстандарта №1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "28220.04.2Р.00300746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300746",
+                    "mitypeNumber": "28220-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335134",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "notation": "WS 422, WS 424, WS 432, WS 434, WS 452, WS 454",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "LCRY0301J18881",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений импульсного электрического напряжения. Приказ 3463"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

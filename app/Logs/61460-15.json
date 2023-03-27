@@ -1,0 +1,1619 @@
+{
+    "221022043": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00782692",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "\"ИС-24\/3\"",
+                "modification": "Без модификации",
+                "manufactureNum": "015",
+                "manufactureYear": 2017,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "методики поверки ГДЯК 468162.002 РЭ пункт 12, СТФВ.424252.008 МП, ГДЯК 468162.014 МП, ГДЯК 468784.019 МП, ГДЯК 468784.010 МП, ГД"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ФБУ \"Астраханский ЦСМ\"",
+            "vrfDate": "07.02.2023",
+            "validDate": "06.02.2024",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП",
+            "applicable": {
+                "certNum": "С-БН\/07-02-2023\/221022043",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.3Р.00769286",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/769286",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/6",
+                    "manufactureNum": "68118035",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "гэт1-2022"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "24021-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328871",
+                    "mitypeTitle": "Осциллографы цифровые люминофорные",
+                    "number": "С010035"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-221022043\/protocol"
+        }
+    },
+    "215667908": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00766915",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "нет",
+                "manufactureNum": "031",
+                "manufactureYear": 2020,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "Локальной поверочной схеме для средств измерений скорости движения транспортных средств» № 06 от 18.01.2022 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "Западно-Сибирский филиал ФГУП \"ВНИИФТРИ\"(Западно-Сибирский филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Н",
+            "miOwner": "ООО \"Метрология-НСК\"",
+            "vrfDate": "16.01.2023",
+            "validDate": "15.01.2024",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП «Имитаторы скорости движения «ИС-24\/3». Методика поверки.",
+            "applicable": {
+                "certNum": "С-Н\/16-01-2023\/215667908",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0382.2021",
+                    "title": "Государственный вторичный эталон единиц времени в диапазоне значений от 1,0 нс до 1,0·10[^6] с, частоты в диапазоне значений от 1,0·10[^-3] Гц до 4,0·10[^10] Гц и шкалы времени ВЭТ 1-19",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393889"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "70888.18.4Р.35489",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/35489",
+                    "mitypeNumber": "70888-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395868",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90",
+                    "modification": "CNT-90XL-60G",
+                    "manufactureNum": "457008",
+                    "manufactureYear": 2019,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты № 1621 от «31» июля 2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46953-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358114",
+                    "mitypeTitle": "Источники питания",
+                    "number": "EL860350"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39509456\/601"
+                },
+                {
+                    "mitypeNumber": "48472-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359951",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "C010939"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-215667908\/protocol"
+        }
+    },
+    "215667907": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00766914",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "нет",
+                "manufactureNum": "023",
+                "manufactureYear": 2019,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "Локальной поверочной схеме для средств измерений скорости движения транспортных средств» от 12.01.2022 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "Западно-Сибирский филиал ФГУП \"ВНИИФТРИ\"(Западно-Сибирский филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Н",
+            "miOwner": "Западно-Сибирский филиал ФГУП \"ВНИИФТРИ\"",
+            "vrfDate": "16.01.2023",
+            "validDate": "15.01.2024",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП «Имитаторы скорости движения «ИС-24\/3». Методика поверки.",
+            "applicable": {
+                "certNum": "С-Н\/16-01-2023\/215667907",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0382.2021",
+                    "title": "Государственный вторичный эталон единиц времени в диапазоне значений от 1,0 нс до 1,0·10[^6] с, частоты в диапазоне значений от 1,0·10[^-3] Гц до 4,0·10[^10] Гц и шкалы времени ВЭТ 1-19",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393889"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "70888.18.4Р.35489",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/35489",
+                    "mitypeNumber": "70888-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395868",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90",
+                    "modification": "CNT-90XL-60G",
+                    "manufactureNum": "457008",
+                    "manufactureYear": 2019,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты № 1621 от «31» июля 2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46953-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358114",
+                    "mitypeTitle": "Источники питания",
+                    "number": "EL860350"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39509456\/601"
+                },
+                {
+                    "mitypeNumber": "48472-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359951",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "C010939"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-215667907\/protocol"
+        }
+    },
+    "211196212": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00754282",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "ИС-24\/3",
+                "manufactureNum": "016",
+                "manufactureYear": 2017,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "«Локальная поверочная схема СИ скорости движения ТС ООО «ПриборАвтоматика» № 1-12-2019»"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"ПриборАвтоматика\"",
+            "vrfDate": "26.12.2022",
+            "validDate": "25.12.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП \"Имитаторы скорости движения \"ИС-24\/3\". Методика поверки.\"",
+            "applicable": {
+                "certNum": "С-СП\/26-12-2022\/211196212",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41567.09.4Р.00596845",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/596845",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "166867",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389851",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "С063358"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-211196212\/protocol"
+        }
+    },
+    "210430181": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeType": "ИС-24\/3",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "manufactureNum": "038",
+                "manufactureYear": 2020,
+                "modification": "ИС-24\/3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ  ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РОСТОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТОВСКИЙ ЦСМ\")",
+            "signCipher": "ВР",
+            "miOwner": "ГУП ЛНР «ЛУГАНСКСТАНДАРТМЕТРОЛОГИЯ»",
+            "vrfDate": "22.12.2022",
+            "validDate": "21.12.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП \"Имитаторы скорости движения ИС-24\/3. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-ВР\/22-12-2022\/210430181",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00152267",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/152267",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6С7033017",
+                    "manufactureYear": 2016,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ Росстандарта №1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "28220.04.2Р.00300746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300746",
+                    "mitypeNumber": "28220-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335134",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "notation": "WS 422, WS 424, WS 432, WS 434, WS 452, WS 454",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "LCRY0301J18881",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений импульсного электрического напряжения. Приказ 3463"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "40961-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351194",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "3465"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "206501169": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00735537",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "Без модификации",
+                "manufactureNum": "034",
+                "manufactureYear": 2020,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "методики поверки ГДЯК 468784.028 МП; ГДЯК 468784.025 МП; ГДЯК 468784.029 МП; ГДЯК 468784.019 МП; ГДЯК 468784.010 МП; ГДЯК 468784"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "МЕДСЕРВИС ООО",
+            "vrfDate": "07.12.2022",
+            "validDate": "06.12.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП",
+            "applicable": {
+                "certNum": "С-БН\/07-12-2022\/206501169",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.3Р.00159068",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/159068",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/6",
+                    "manufactureNum": "68118035",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №1621 от 31.07.2018 г. \"Об утверждении государственной поверочной схемы для средств измерений времени и час"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "24021-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328871",
+                    "mitypeTitle": "Осциллографы цифровые люминофорные",
+                    "number": "С010035"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-206501169\/protocol"
+        }
+    },
+    "204462385": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00727300",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "ИС-24\/3",
+                "manufactureNum": "037",
+                "manufactureYear": 2020,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГДЯК 468784.028 МП; ГДЯК 468784.025 МП; ГДЯК 468784.029 МП; ГДЯК 468784.019 МП; ГДЯК 468784.010 МП; ГДЯК 468784.022"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТВЕРСКОЙ ОБЛАСТИ\"",
+            "vrfDate": "29.11.2022",
+            "validDate": "28.11.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП \"Имитаторы скорости движения \"ИС-24\/3\". Методика поверки.\"",
+            "applicable": {
+                "certNum": "С-СП\/29-11-2022\/204462385",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41567.09.4Р.00596845",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/596845",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "166867",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389851",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "С063358"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-204462385\/protocol"
+        }
+    },
+    "204456476": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00715093",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "ИС-24\/3",
+                "manufactureNum": "035",
+                "manufactureYear": 2020,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ЛПС-004-07 «Локальная поверочная схема для средств измерения скорости движения транспортных средств»"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ФБУ \"Тульский ЦСМ\"",
+            "vrfDate": "14.11.2022",
+            "validDate": "13.11.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП",
+            "applicable": {
+                "certNum": "С-СП\/14-11-2022\/201329221",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41567.09.4Р.00596845",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/596845",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "166867",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389851",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "С063358"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-204456476\/protocol"
+        }
+    },
+    "200118420": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeType": "ИС-24\/3",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "manufactureNum": "008",
+                "manufactureYear": 2013,
+                "modification": "ИС-24\/3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СТАВРОПОЛЬСКОМ КРАЕ, РЕСПУБЛИКЕ ИНГУШЕТИЯ И КАРАЧАЕВО-ЧЕРКЕССКОЙ РЕСПУБЛИКЕ\"(ФБУ \"СЕВЕРО-КАВКАЗСКИЙ ЦСМ\")",
+            "signCipher": "АЬ",
+            "miOwner": "АО СИТРОНИКС",
+            "vrfDate": "08.11.2022",
+            "validDate": "07.11.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП. Имитатор скорости движения ИС-24\/3",
+            "applicable": {
+                "certNum": "С-АЬ\/08-11-2022\/200118420",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32359.06.4Р.00688739",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/688739",
+                    "mitypeNumber": "32359-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340667",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/3",
+                    "modification": "Ч3-85\/3",
+                    "manufactureNum": "63040186",
+                    "manufactureYear": 2006,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«приказ Росстандарта № 1621 от 31.07.2018г. Об утверждении ГПС для СИ времени и частоты»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "40908-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351138",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "number": "LCRY0102J20238"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "185425748": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00423499",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "ИС-24\/3",
+                "manufactureNum": "027",
+                "manufactureYear": 2019,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "Локальная поверочная схема для средств измерений скорости движения транспортных средств."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО \"Вольт-Ампер\"",
+            "vrfDate": "12.09.2022",
+            "validDate": "11.09.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП",
+            "applicable": {
+                "certNum": "С-МА\/12-09-2022\/185425748",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41567.09.4Р.00274383",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/274383",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "125711",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "60450.15.2Р.00338051",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/338051",
+                    "mitypeNumber": "60450-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373729",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "DSOX6002A, MSOX6002A, DSOX6004A, MSOX6004A",
+                    "modification": "DSOX6002A",
+                    "manufactureNum": "MY56270150",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  от 30 декабря 2019 г. № 3463"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-185425748\/protocol",
+            "additional_info": "0137d177-d052-42dc-8966-875ceff3d329"
+        }
+    },
+    "183492492": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00413080",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "ИС-24\/3",
+                "manufactureNum": "045",
+                "manufactureYear": 2021,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГДЯК 468784.028 МП; ГДЯК 468784.025 МП; ГДЯК 468784.029 МП; ГДЯК 468784.019 МП; ГДЯК 468784.010 МП; ГДЯК 468784.022 МП"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПРИМОРСКОМ КРАЕ\"(ФБУ \"ПРИМОРСКИЙ ЦСМ\")",
+            "signCipher": "АЭ",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Приморском крае\"",
+            "vrfDate": "01.09.2022",
+            "validDate": "31.08.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП",
+            "applicable": {
+                "certNum": "С-АЭ\/01-09-2022\/183492492",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "60893.15.2Р.00142435",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/142435",
+                    "mitypeNumber": "60893-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374220",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "notation": "HDO, WaveJet, WaveSurfer",
+                    "modification": "WaveJet Touch 354R",
+                    "manufactureNum": "LCRY0122J50236",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.761-2011 \"ГПС для СИ импульсного электрического напряжения\"."
+                },
+                {
+                    "regNumber": "9084.83.4Р.00142460",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/142460",
+                    "mitypeNumber": "9084-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387755",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-63",
+                    "modification": "Ч3-63",
+                    "manufactureNum": "8908049",
+                    "manufactureYear": 1989,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "\"ГПС для СИ времени и частоты\". Приказ № 1621 от 31.07.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334071",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "5115"
+                },
+                {
+                    "mitypeNumber": "27022-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333470",
+                    "mitypeTitle": "Осциллографы промышленные портативные",
+                    "number": "DM9500590"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-183492492\/protocol"
+        }
+    },
+    "180266074": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00659445",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "ИС-24\/3",
+                "manufactureNum": "051",
+                "manufactureYear": 2022,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГДЯК 468784.028 МП; ГДЯК 468784.025 МП; ГДЯК 468784.029 МП; ГДЯК 468784.019 МП; ГДЯК 468784.010 МП; ГДЯК 468784.022 МП"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"Симикон\"",
+            "vrfDate": "18.08.2022",
+            "validDate": "17.08.2023",
+            "vriType": "1",
+            "docTitle": "ГДЯК 464965.023 МП \"Имитаторы скорости движения \"ИС-24\/3\". Методика поверки.\"",
+            "applicable": {
+                "certNum": "С-СП\/18-08-2022\/179437531",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41567.09.4Р.00596845",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/596845",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "166867",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389851",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "C063358"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-180266074\/protocol"
+        }
+    },
+    "170321230": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00640002",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "ИС-24\/3",
+                "manufactureNum": "050",
+                "manufactureYear": 2022,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГДЯК 468784.028 МП; ГДЯК 468784.025 МП; ГДЯК 468784.029 МП; ГДЯК 468784.019 МП; ГДЯК 468784.010 МП; ГДЯК 468784.022 МП"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"Симикон\"",
+            "vrfDate": "13.07.2022",
+            "validDate": "12.07.2023",
+            "vriType": "1",
+            "docTitle": "ГДЯК 464965.023 МП \"Имитаторы скорости движения \"ИС-24\/3\". Методика поверки.\"",
+            "applicable": {
+                "certNum": "С-СП\/13-07-2022\/170321230",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41567.09.4Р.00596845",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/596845",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "166867",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389851",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "C063358"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-170321230\/protocol"
+        }
+    },
+    "159612872": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00616171",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "ИС-24\/3",
+                "manufactureNum": "012",
+                "manufactureYear": 2015,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "«ГДЯК 468162.014 МП \"Измеритель скорости транспортных средств радиолокационный с видеофиксацией \"БИНАР\". Методика поверки\"»"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ САХА (ЯКУТИЯ)\"(ФБУ \"ЯКУТСКИЙ ЦСМ\")",
+            "signCipher": "АС",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Республике Саха (Якутия)\"",
+            "vrfDate": "31.05.2022",
+            "validDate": "30.05.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП. \"Имитаторы скорости движения \"ИС2-24\/3\". Методика поверки\"",
+            "applicable": {
+                "certNum": "С-АС\/31-05-2022\/159612872",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52147.12.3Р.00345492",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/345492",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "manufactureNum": "TW00035833",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 1053 от 29.05.2018 «Государственная поверочная схема для средств измерений переменного электрического напряжения до 1000"
+                },
+                {
+                    "regNumber": "31222.06.3Р.00529529",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529529",
+                    "mitypeNumber": "31222-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339120",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FS 725",
+                    "modification": "FS 725",
+                    "manufactureNum": "107592",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ № 1621 от 31 июля 2018 г."
+                },
+                {
+                    "regNumber": "51532.12.4Р.00529532",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529532",
+                    "mitypeNumber": "51532-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363561",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "Tektronix FCA3000, FCA3003, FCA3020, FCA3100, FCA3103, FCA3120, MCA3027, MCA3040",
+                    "modification": "Tektronix MCA 3027",
+                    "manufactureNum": "232620",
+                    "manufactureYear": 2013,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ № 1621 от 31 июля 2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "42467-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/352982",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "3591"
+                },
+                {
+                    "mitypeNumber": "33756-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342446",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "EG 220676"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "OF76"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "159612876": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00616172",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "ИС-24\/3",
+                "manufactureNum": "012",
+                "manufactureYear": 2015,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "«ГДЯК 468784.010 МП \"Комплексы измерения скорости движения транспортных средств фоторадарные \"КРИС\". Методика поверки\"»"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ САХА (ЯКУТИЯ)\"(ФБУ \"ЯКУТСКИЙ ЦСМ\")",
+            "signCipher": "АС",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Республике Саха (Якутия)\"",
+            "vrfDate": "31.05.2022",
+            "validDate": "30.05.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП. \"Имитаторы скорости движения \"ИС2-24\/3\". Методика поверки\"",
+            "applicable": {
+                "certNum": "С-АС\/31-05-2022\/159612876",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52147.12.3Р.00345492",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/345492",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "manufactureNum": "TW00035833",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 1053 от 29.05.2018 «Государственная поверочная схема для средств измерений переменного электрического напряжения до 1000"
+                },
+                {
+                    "regNumber": "31222.06.3Р.00529529",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529529",
+                    "mitypeNumber": "31222-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339120",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FS 725",
+                    "modification": "FS 725",
+                    "manufactureNum": "107592",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ № 1621 от 31 июля 2018 г."
+                },
+                {
+                    "regNumber": "51532.12.4Р.00529532",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529532",
+                    "mitypeNumber": "51532-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363561",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "Tektronix FCA3000, FCA3003, FCA3020, FCA3100, FCA3103, FCA3120, MCA3027, MCA3040",
+                    "modification": "Tektronix MCA 3027",
+                    "manufactureNum": "232620",
+                    "manufactureYear": 2013,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ № 1621 от 31 июля 2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "42467-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/352982",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "3591"
+                },
+                {
+                    "mitypeNumber": "33756-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342446",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "EG 220676"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "OF76"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "158048369": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00612517",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "ИС-24\/3",
+                "manufactureNum": "001",
+                "manufactureYear": 2015,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ЛПС 433\/3 от -.04.2015 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"Симикон\"",
+            "vrfDate": "24.05.2022",
+            "validDate": "23.05.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.005 МП",
+            "applicable": {
+                "certNum": "С-СП\/24-05-2022\/158048369",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41567.09.4Р.00596845",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/596845",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "166867",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389851",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "С063358"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-158048369\/protocol"
+        }
+    },
+    "149119071": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeType": "ИС-24\/3",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "manufactureNum": "018",
+                "modification": "ИС-24\/3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ХАБАРОВСКОМ КРАЕ И ЕВРЕЙСКОЙ АВТОНОМНОЙ ОБЛАСТИ\"(ФБУ \"ХАБАРОВСКИЙ ЦСМ\")",
+            "signCipher": "АЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "15.04.2022",
+            "validDate": "14.04.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП",
+            "applicable": {
+                "certNum": "С-АЮ\/15-04-2022\/149119071",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32869.06.3Р.00568153",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/568153",
+                    "mitypeNumber": "32869-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341374",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/3R",
+                    "modification": "Ч3-85\/3R",
+                    "manufactureNum": "203120647",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ № 1621 от 31 июля 2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "40908-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351138",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "number": "LCRY0102J19650"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "148191260": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00273221",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "ИС-24\/3",
+                "manufactureNum": "040",
+                "manufactureYear": 2021,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГДЯК 468784.028 МП; ГДЯК 468784.025 МП; ГДЯК 468784.029 МП; ГДЯК 468784.019 МП; ГДЯК 468784.010 МП; ГДЯК 468784.022 МП"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И  ИСПЫТАНИЙ В ЛИПЕЦКОЙ ОБЛАСТИ\"(ФБУ \"ЛИПЕЦКИЙ ЦСМ\")",
+            "signCipher": "ВБ",
+            "miOwner": "ФБУ \"Липецкий ЦСМ\"",
+            "vrfDate": "31.03.2022",
+            "validDate": "30.03.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП",
+            "applicable": {
+                "certNum": "С-ВБ\/31-03-2022\/148191260",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41567.09.4Р.00585720",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/585720",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "116700",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "129862526": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00216890",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "ИС-24\/3",
+                "manufactureNum": "015",
+                "manufactureYear": 2017,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГДЯК 468162.002 РЭ пункт 12, СТФВ.424252.008 МП,¶ГДЯК 468162.014 МП, ГДЯК 468784.019 МП, ГДЯК 468784.010 МП"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ФБУ \"Астраханский ЦСМ\"",
+            "vrfDate": "08.02.2022",
+            "validDate": "07.02.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП",
+            "applicable": {
+                "certNum": "С-БН\/08-02-2022\/129862526",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.3Р.00159068",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/159068",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/6",
+                    "manufactureNum": "68118035",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №1621 от 31.07.2018 г. \"Об утверждении государственной поверочной схемы для средств измерений времени и час"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "24021-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328871",
+                    "mitypeTitle": "Осциллографы цифровые люминофорные",
+                    "number": "С010035"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-129862526\/protocol"
+        }
+    },
+    "126864538": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00537564",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "нет модификации",
+                "manufactureNum": "031",
+                "manufactureYear": 2020,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ЛПС для средств измерений скорости движения транспортных средств ООО«Метрология-НСК»№06"
+            }
+        },
+        "vriInfo": {
+            "organization": "Западно-Сибирский филиал ФГУП \"ВНИИФТРИ\"(Западно-Сибирский филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Н",
+            "miOwner": "ООО «Метрология-НСК»",
+            "vrfDate": "27.01.2022",
+            "validDate": "26.01.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП «Имитаторы скорости движения «ИС-24\/3». Методика поверки»",
+            "applicable": {
+                "certNum": "С-Н\/27-01-2022\/126864538",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0382.2021",
+                    "title": "Государственный вторичный эталон единиц времени в диапазоне значений от 1,0 нс до 1,0·10[^6] с, частоты в диапазоне значений от 1,0·10[^-3] Гц до 4,0·10[^10] Гц и шкалы времени ВЭТ 1-19",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393889"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39509456\/601"
+                },
+                {
+                    "mitypeNumber": "36640-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346024",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "18100115"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-126864538\/protocol"
+        }
+    },
+    "126962508": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeType": "ИС-24\/3",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "manufactureNum": "030",
+                "modification": "Без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ИРЗ ООО",
+            "vrfDate": "27.01.2022",
+            "validDate": "26.01.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП",
+            "applicable": {
+                "certNum": "С-БН\/27-01-2022\/126962508",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.3Р.00159068",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/159068",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/6",
+                    "manufactureNum": "68118035",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №1621 от 31.07.2018 г. \"Об утверждении государственной поверочной схемы для средств измерений времени и час"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "24021-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328871",
+                    "mitypeTitle": "Осциллографы цифровые люминофорные",
+                    "number": "С010035"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "126959089": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00187071",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "ИС-24\/3",
+                "manufactureNum": "016",
+                "manufactureYear": 2017,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "«Локальная поверочная схема СИ скорости движения ТС ООО «ПриборАвтоматика» № 1-12-2019»"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"ПриборАвтоматика\"",
+            "vrfDate": "27.01.2022",
+            "validDate": "26.01.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП \"Имитаторы скорости движения \"ИС-24\/3\". Методика поверки.\"",
+            "applicable": {
+                "certNum": "С-СП\/27-01-2022\/126959089",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41567.09.4Р.00195417",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/195417",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "166867",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389851",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "C063358"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-126959089\/protocol"
+        }
+    },
+    "124396836": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00531989",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "ИС-24\/3",
+                "manufactureNum": "014",
+                "manufactureYear": 2017,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "«Локальная поверочная схема ФБУ «УРАЛТЕСТ» 4302-01-2021 для средств измерений линейной скорости»"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "ФБУ \"УРАЛТЕСТ\", 4302",
+            "vrfDate": "14.01.2022",
+            "validDate": "13.01.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП \"Имитаторы скорости движения \"ИС-24\/3\". Методика поверки\", утверждённым ФБУ \"Тест-С.Петербург\" 15.05.2015 г.",
+            "applicable": {
+                "certNum": "С-СЕ\/14-01-2022\/124396836",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "9084.90.4Р.00173752",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/173752",
+                    "mitypeNumber": "9084-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387757",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-63\/1",
+                    "modification": "Ч3-63\/1",
+                    "manufactureNum": "9103210",
+                    "manufactureYear": 2000,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "81793.21.2Р.00517467",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/517467",
+                    "mitypeNumber": "81793-21",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1388582",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие АКИП-4129, АКИП-4129A",
+                    "notation": "АКИП-4129",
+                    "modification": "АКИП-4129",
+                    "manufactureNum": "SDS2PDDQ5R1755",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3463 от 30.12.2019"
+                },
+                {
+                    "regNumber": "81793.21.4Р.00517491",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/517491",
+                    "mitypeNumber": "81793-21",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1388582",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие АКИП-4129, АКИП-4129A",
+                    "notation": "АКИП-4129",
+                    "modification": "АКИП-4129",
+                    "manufactureNum": "SDS2PDDQ5R1755",
+                    "manufactureYear": 2021,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1621 от 31.07.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "036"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-124396836\/protocol",
+            "additional_info": "Поверяемый эталон прослеживается к гэт1-2018."
+        }
+    },
+    "122176684": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61460.15.РЭ.00526885",
+                "mitypeNumber": "61460-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374870",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24\/3",
+                "modification": "нет модификации",
+                "manufactureNum": "023",
+                "manufactureYear": 2019,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ЛПС для средств измерения скорости движения транспортных средств утв. Зам. Директора ЗСФ ФГУП \"ВНИИФТРИ от 12.01.2022"
+            }
+        },
+        "vriInfo": {
+            "organization": "Западно-Сибирский филиал ФГУП \"ВНИИФТРИ\"(Западно-Сибирский филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Н",
+            "miOwner": "Западно-Сибирский филиал ФГУП \"ВНИИФТРИ\"",
+            "vrfDate": "12.01.2022",
+            "validDate": "11.01.2023",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.023 МП «Имитаторы скорости движения «ИС-24\/3",
+            "applicable": {
+                "certNum": "С-Н\/12-01-2022\/122176111",
+                "stickerNum": "20014701484",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0382.2021",
+                    "title": "Государственный вторичный эталон единиц времени в диапазоне значений от 1,0 нс до 1,0·10[^6] с, частоты в диапазоне значений от 1,0·10[^-3] Гц до 4,0·10[^10] Гц и шкалы времени ВЭТ 1-19",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393889"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39509456\/601"
+                },
+                {
+                    "mitypeNumber": "36640-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346024",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "18100115"
+                }
+            ]
+        },
+        "info": {
+            "structure": "антенна калибровочная зав. № ДА07",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-122176684\/protocol"
+        }
+    }
+}

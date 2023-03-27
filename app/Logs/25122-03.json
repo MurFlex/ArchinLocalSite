@@ -1,0 +1,63 @@
+{
+    "142221511": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25122-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/330606",
+                "mitypeType": "SA-2000A",
+                "mitypeTitle": "Приборы для измерений коэффициента стоячей волны и потерь на отражение",
+                "manufactureNum": "1050811",
+                "modification": "SA-2000A"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КООРДИНАЦИОННО-ИНФОРМАЦИОННОЕ АГЕНТСТВО\"(ООО \"КИА\")",
+            "signCipher": "ГДИ",
+            "miOwner": "АО «НСН»",
+            "vrfDate": "15.03.2022",
+            "validDate": "14.03.2023",
+            "vriType": "2",
+            "docTitle": "920-7002А800 МП",
+            "applicable": {
+                "certNum": "С-ГДИ\/15-03-2022\/142221511",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "12494.90.2Р.00515710",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/515710",
+                    "mitypeNumber": "12494-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/307571",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3-1, Н3-2, Н3-3, Н3-4, Н3-5, Н3-6, Н3-7",
+                    "modification": "Н3-2",
+                    "manufactureNum": "1016",
+                    "manufactureYear": 1990,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ волнового сопротивления, ККО и ККП в коаксиальных волноводах по ГОСТ Р 8.813-2013"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "9273-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388035",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "8802176"
+                },
+                {
+                    "mitypeNumber": "7055-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384789",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности",
+                    "number": "23424\/21404"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

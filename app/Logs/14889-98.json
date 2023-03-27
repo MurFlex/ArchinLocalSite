@@ -1,0 +1,63 @@
+{
+    "208474583": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14889-98",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/312262",
+                "mitypeType": "MOSCAD",
+                "mitypeTitle": "Системы информационно-измерительные и управляющие",
+                "manufactureNum": "214SDW0922",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ «ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КЕМЕРОВСКОЙ ОБЛАСТИ - КУЗБАССЕ»(ФБУ «КУЗБАССКИЙ ЦСМ»)",
+            "signCipher": "БЧ",
+            "miOwner": "юридическое лицо",
+            "vrfDate": "24.08.2022",
+            "validDate": "23.08.2023",
+            "vriType": "2",
+            "docTitle": "Информационно-измерительная и управляющая система MOSCAD. Методика поверки.",
+            "applicable": {
+                "certNum": "С-БЧ\/24-08-2022\/208474583",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "57747.14.2Р.00111445",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/111445",
+                    "mitypeNumber": "57747-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370659",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "3010R, 3041R, 3041TR, 3050R, 3050TR, 1000R, 1000TR",
+                    "modification": "3010R",
+                    "manufactureNum": "J1361G20",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока.Приказ 2091"
+                },
+                {
+                    "regNumber": "56318.14.1Р.00299111",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/299111",
+                    "mitypeNumber": "56318-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368996",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов прецизионные",
+                    "notation": "ЭЛЕМЕР-ИКСУ-2012",
+                    "modification": "ИКСУ-2012",
+                    "manufactureNum": "234-0672",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

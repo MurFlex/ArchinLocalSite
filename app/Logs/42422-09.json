@@ -1,0 +1,77 @@
+{
+    "144573768": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42422-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/352923",
+                "mitypeType": "СДКТ-АЭС",
+                "mitypeTitle": "Системы диагностики коррозионного состояния трубопроводов АЭС",
+                "manufactureNum": "090338",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "31.03.2022",
+            "validDate": "30.03.2023",
+            "vriType": "2",
+            "docTitle": "МП 2512-0003-2009",
+            "applicable": {
+                "certNum": "С-В\/31-03-2022\/144573768",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZВ.0019.2014",
+                    "title": "ГРЭ 1 разряда единицы длины - метра в диапазоне 10[^-6] – 1100 мм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/454974"
+                },
+                {
+                    "number": "3.1.ZZB.0196.2015",
+                    "title": "Государственный рабочий эталон 3 разряда единицы длины в диапазоне от 10[^-4] до 200 мм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/485775"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "28048.04.РЭ.92865",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/92865",
+                    "mitypeNumber": "28048-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334906",
+                    "mitypeTitle": "Штангенциркули цифровые",
+                    "notation": "RD-10, RD-20, RD-30",
+                    "modification": "RD-30",
+                    "manufactureNum": "3326",
+                    "manufactureYear": 2005,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЛПС для средств измерений линейных размеров в диапазоне от 0 до 500 мм, № 2-251\/03-2020-ВНИИМ от 27.08.2020"
+                },
+                {
+                    "regNumber": "56792.14.2Р.00110385",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/110385",
+                    "mitypeNumber": "56792-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369557",
+                    "mitypeTitle": "Приборы для измерений параметров шероховатости поверхности",
+                    "notation": "Surftest SJ-500, Surftest SV-2100, Surftest SV-3100, Surftest SV-3000 CNC серии 178",
+                    "modification": "Surftest SV-2100 серии 178",
+                    "manufactureNum": "A00061809",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "поверочной схеме ГОСТ 8.296-2015"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid8d0fc8b1-3f03-41c9-b95a-11496916b1e4"
+        }
+    }
+}

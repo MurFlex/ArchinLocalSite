@@ -1,0 +1,3224 @@
+{
+    "217524100": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49406482",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО НПП \"АВИАКОМ\"",
+            "vrfDate": "24.01.2023",
+            "validDate": "23.01.2024",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/24-01-2023\/217524100",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "48368.11.2Р.60448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60448",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "R&S RSC (с модулем 03)",
+                    "manufactureNum": "101312",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ ослабления электромагнитных колебаний в диапазоне частот от 0 до 178 ГГц. Приказ ФАТРИМ  №3383 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                },
+                {
+                    "regNumber": "41567.09.4Р.00730221",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/730221",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "210988",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 26.09.2022 г. № 2360"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00734947",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/734947",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "212847",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 26.09.2022 г. № 2360"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "255667aa-1ec6-4bbe-ae77-ed57b8d8281b"
+        }
+    },
+    "214319552": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49709573",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "10.01.2023",
+            "validDate": "09.01.2024",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/10-01-2023\/214319552",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "48368.11.2Р.60448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60448",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "R&S RSC (с модулем 03)",
+                    "manufactureNum": "101312",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ ослабления электромагнитных колебаний в диапазоне частот от 0 до 178 ГГц. Приказ ФАТРИМ  №3383 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                },
+                {
+                    "regNumber": "41567.09.4Р.00730221",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/730221",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "210988",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 26.09.2022 г. № 2360"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00734947",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/734947",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "212847",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 26.09.2022 г. № 2360"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "b5d87077-621a-4d84-a33a-51def30aa0d6"
+        }
+    },
+    "210515832": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49408147",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Публичное Акционерное Общество «Роствертол» им. Б.Н. Слюсаря",
+            "vrfDate": "22.12.2022",
+            "validDate": "21.12.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/22-12-2022\/210515832",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "48368.11.2Р.60448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60448",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "R&S RSC (с модулем 03)",
+                    "manufactureNum": "101312",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ ослабления электромагнитных колебаний в диапазоне частот от 0 до 178 ГГц. Приказ ФАТРИМ  №3383 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                },
+                {
+                    "regNumber": "41567.09.4Р.00730221",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/730221",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "210988",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 26.09.2022 г. № 2360"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00734947",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/734947",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "212847",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 26.09.2022 г. № 2360"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "5d774bd9-f4e3-4e54-a756-8473e31b4a91"
+        }
+    },
+    "208905033": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49810924",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "16.12.2022",
+            "validDate": "15.12.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/16-12-2022\/208905033",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "48368.11.2Р.60448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60448",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "R&S RSC (с модулем 03)",
+                    "manufactureNum": "101312",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ ослабления электромагнитных колебаний в диапазоне частот от 0 до 178 ГГц. Приказ ФАТРИМ  №3383 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                },
+                {
+                    "regNumber": "41567.09.4Р.00730221",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/730221",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "210988",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 26.09.2022 г. № 2360"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00734947",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/734947",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "212847",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 26.09.2022 г. № 2360"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "53665b28-76b0-4262-bba1-2b27c1d997a6"
+        }
+    },
+    "207047724": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49608811",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "09.12.2022",
+            "validDate": "08.12.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/09-12-2022\/207047724",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "48368.11.2Р.60448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60448",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "R&S RSC (с модулем 03)",
+                    "manufactureNum": "101312",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ ослабления электромагнитных колебаний в диапазоне частот от 0 до 178 ГГц. Приказ ФАТРИМ  №3383 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                },
+                {
+                    "regNumber": "41567.09.4Р.00730221",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/730221",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "210988",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 26.09.2022 г. № 2360"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00734947",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/734947",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "212847",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 26.09.2022 г. № 2360"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "3384c539-f595-46ad-aa01-928b4fc465ef"
+        }
+    },
+    "205599592": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49101597",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "владелец",
+            "vrfDate": "02.12.2022",
+            "validDate": "01.12.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-ТТ\/02-12-2022\/205599592",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "8485.81.1Р.00242543",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/242543",
+                    "mitypeNumber": "8485-81",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386929",
+                    "mitypeTitle": "Набор мер КСВН и полного сопротивления 1-го разряда",
+                    "notation": "ЭК9-140",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "012",
+                    "manufactureYear": 2007,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ волнового сопротивления, ККО и ККП в коаксиальных волноводах по ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "41567.09.4Р.00385334",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/385334",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "179905",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "9180.83.1Р.00571836",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/571836",
+                    "mitypeNumber": "9180-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387898",
+                    "mitypeTitle": "Установки для измерения ослаблений и фазового сдвига образцовые",
+                    "notation": "ДК1-16",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "06124",
+                    "manufactureYear": 1993,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ ФАТРИМ № 3383 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "31222.06.3Р.00579476",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/579476",
+                    "mitypeNumber": "31222-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339120",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FS 725",
+                    "modification": "FS 725",
+                    "manufactureNum": "107483",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                },
+                {
+                    "regNumber": "43642.10.2Р.00641501",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/641501",
+                    "mitypeNumber": "43642-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354371",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP-Z31, NRP-Z56",
+                    "modification": "NRP-Z31",
+                    "manufactureNum": "102041",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "[ID=f65b9d25-7463-11ed-b0eb-0050568d0b47]"
+        }
+    },
+    "200690694": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49809914",
+                "manufactureYear": 2016,
+                "modification": "Анализатор цепей векторный E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ НАУЧНО-ПРОИЗВОДСТВЕННАЯ КОМПАНИЯ \"ЭТАЛОН-ТЕСТ\"(ООО НПК \"ЭТАЛОН-ТЕСТ\")",
+            "signCipher": "ВСА",
+            "miOwner": "-",
+            "vrfDate": "08.11.2022",
+            "validDate": "07.11.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-ВСА\/08-11-2022\/200690694",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31222.06.3Р.22798",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/22798",
+                    "mitypeNumber": "31222-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339120",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FS 725",
+                    "modification": "FS 725",
+                    "manufactureNum": "84106",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения времени и частоты"
+                },
+                {
+                    "regNumber": "36021.07.1Р.00414883",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/414883",
+                    "mitypeNumber": "36021-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345290",
+                    "mitypeTitle": "Наборы мер КСВН и полного сопротивления 1-го разряда",
+                    "notation": "ЭК9-140",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "005",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС дл СИ волнового сопротивления, ККО и передачи в коаксиальных волноводах в диапазоне частот от 0,01 до 65 ГГц"
+                },
+                {
+                    "regNumber": "10692.86.2Р.00414885",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/414885",
+                    "mitypeNumber": "10692-86",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305044",
+                    "mitypeTitle": "Наборы мер комплексного коэффициента передачи",
+                    "notation": "ДК2-70",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "003",
+                    "manufactureYear": 1990,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС дл СИ волнового сопротивления, ККО и передачи в коаксиальных волноводах в диапазоне частот от 0,01 до 65 ГГц"
+                },
+                {
+                    "regNumber": "43642.10.2Р.00571834",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/571834",
+                    "mitypeNumber": "43642-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354371",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP-Z31, NRP-Z56",
+                    "modification": "NRP-Z56",
+                    "manufactureNum": "101451",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                },
+                {
+                    "regNumber": "43642.10.3Р.00571835",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/571835",
+                    "mitypeNumber": "43642-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354371",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP-Z31, NRP-Z56",
+                    "modification": "NRP-Z56",
+                    "manufactureNum": "101451",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "39089-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/491339",
+                    "mitypeTitle": "Генераторы сигналов СВЧ",
+                    "number": "101999"
+                },
+                {
+                    "mitypeNumber": "9273-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388035",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "9112137"
+                },
+                {
+                    "mitypeNumber": "37173-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346676",
+                    "mitypeTitle": "Анализаторы электрических цепей векторные\/ анализаторы спектра",
+                    "number": "100704"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "199016446": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49408092",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКАЯ КОРПОРАЦИЯ РАКЕТНО-КОСМИЧЕСКОГО ПРИБОРОСТРОЕНИЯ И ИНФОРМАЦИОННЫХ СИСТЕМ\"(АО \"РОССИЙСКИЕ КОСМИЧЕСКИЕ СИСТЕМЫ\")",
+            "signCipher": "БТК",
+            "miOwner": "АО \"Российские космические системы\"",
+            "vrfDate": "02.11.2022",
+            "validDate": "01.11.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31-МП",
+            "applicable": {
+                "certNum": "С-БТК\/02-11-2022\/199016446",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "23671.14.2Р.53588",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/53588",
+                    "mitypeNumber": "23671-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328363",
+                    "mitypeTitle": "Стандарты частоты и времени водородные",
+                    "notation": "Ч1-76А",
+                    "modification": "Ч1-76А",
+                    "manufactureNum": "80126",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ времени и частоты, приказ 1621"
+                },
+                {
+                    "regNumber": "69958.17.3Р.00505735",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/505735",
+                    "mitypeNumber": "69958-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384139",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP18T, NRP18TN, NRP33T, NRP33TN NRP40T, NRP40TN, NRP50T, NRP50TN, NRP67T, NRP67TN, NRP110T",
+                    "modification": "NRP33T",
+                    "manufactureNum": "101186",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                },
+                {
+                    "regNumber": "69958.17.2Р.00505736",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/505736",
+                    "mitypeNumber": "69958-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384139",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP18T, NRP18TN, NRP33T, NRP33TN NRP40T, NRP40TN, NRP50T, NRP50TN, NRP67T, NRP67TN, NRP110T",
+                    "modification": "NRP33T",
+                    "manufactureNum": "101186",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                },
+                {
+                    "regNumber": "53567.13.2Р.00615554",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/615554",
+                    "mitypeNumber": "53567-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365915",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "85054D, 85032F, 85054B, 85052D, 85033E, 85052B, 85956D, 85956A, 85058E. 85058B, 85055A, 85053B, 85057B, 85058V",
+                    "modification": "85055A",
+                    "manufactureNum": "2815А01023",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "8485.81.1Р.00665927",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/665927",
+                    "mitypeNumber": "8485-81",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386929",
+                    "mitypeTitle": "Набор мер КСВН и полного сопротивления 1-го разряда",
+                    "notation": "ЭК9-140",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "029",
+                    "manufactureYear": 1991,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "195078981": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49609222",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "19.10.2022",
+            "validDate": "18.10.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/19-10-2022\/195078981",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "48368.11.2Р.60448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60448",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "R&S RSC (с модулем 03)",
+                    "manufactureNum": "101312",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ ослабления электромагнитных колебаний в диапазоне частот от 0 до 178 ГГц. Приказ ФАТРИМ  №3383 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "41567.09.4Р.00282331",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/282331",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "210988",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00508307",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/508307",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "212847",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "5dc07a54-6930-4755-a795-9236f9024915"
+        }
+    },
+    "190486908": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49809915",
+                "manufactureYear": 2016,
+                "modification": "Анализатор цепей векторный E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ НАУЧНО-ПРОИЗВОДСТВЕННАЯ КОМПАНИЯ \"ЭТАЛОН-ТЕСТ\"(ООО НПК \"ЭТАЛОН-ТЕСТ\")",
+            "signCipher": "ВСА",
+            "miOwner": "-",
+            "vrfDate": "03.10.2022",
+            "validDate": "02.10.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-ВСА\/03-10-2022\/190486908",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31222.06.3Р.22798",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/22798",
+                    "mitypeNumber": "31222-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339120",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FS 725",
+                    "modification": "FS 725",
+                    "manufactureNum": "84106",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения времени и частоты"
+                },
+                {
+                    "regNumber": "36021.07.1Р.00414883",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/414883",
+                    "mitypeNumber": "36021-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345290",
+                    "mitypeTitle": "Наборы мер КСВН и полного сопротивления 1-го разряда",
+                    "notation": "ЭК9-140",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "005",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС дл СИ волнового сопротивления, ККО и передачи в коаксиальных волноводах в диапазоне частот от 0,01 до 65 ГГц"
+                },
+                {
+                    "regNumber": "10692.86.2Р.00414885",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/414885",
+                    "mitypeNumber": "10692-86",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305044",
+                    "mitypeTitle": "Наборы мер комплексного коэффициента передачи",
+                    "notation": "ДК2-70",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "003",
+                    "manufactureYear": 1990,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС дл СИ волнового сопротивления, ККО и передачи в коаксиальных волноводах в диапазоне частот от 0,01 до 65 ГГц"
+                },
+                {
+                    "regNumber": "43642.10.1Р.00571833",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/571833",
+                    "mitypeNumber": "43642-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354371",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP-Z31, NRP-Z56",
+                    "modification": "NRP-Z56",
+                    "manufactureNum": "101451",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности в диапазоне частот от 37,50 до 78,33 ГГц, приказ от 29 декабря 2018 г. № 2839"
+                },
+                {
+                    "regNumber": "43642.10.2Р.00571834",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/571834",
+                    "mitypeNumber": "43642-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354371",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP-Z31, NRP-Z56",
+                    "modification": "NRP-Z56",
+                    "manufactureNum": "101451",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                },
+                {
+                    "regNumber": "43642.10.3Р.00571835",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/571835",
+                    "mitypeNumber": "43642-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354371",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP-Z31, NRP-Z56",
+                    "modification": "NRP-Z56",
+                    "manufactureNum": "101451",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "39089-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348990",
+                    "mitypeTitle": "Генераторы сигналов СВЧ",
+                    "number": "101999"
+                },
+                {
+                    "mitypeNumber": "37173-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346676",
+                    "mitypeTitle": "Анализаторы электрических цепей векторные\/ анализаторы спектра",
+                    "number": "100704"
+                },
+                {
+                    "mitypeNumber": "9273-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388035",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "9112137"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "190486905": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49809913",
+                "manufactureYear": 2016,
+                "modification": "Анализатор цепей векторный E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ НАУЧНО-ПРОИЗВОДСТВЕННАЯ КОМПАНИЯ \"ЭТАЛОН-ТЕСТ\"(ООО НПК \"ЭТАЛОН-ТЕСТ\")",
+            "signCipher": "ВСА",
+            "miOwner": "-",
+            "vrfDate": "03.10.2022",
+            "validDate": "02.10.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-ВСА\/03-10-2022\/190486905",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31222.06.3Р.22798",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/22798",
+                    "mitypeNumber": "31222-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339120",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FS 725",
+                    "modification": "FS 725",
+                    "manufactureNum": "84106",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения времени и частоты"
+                },
+                {
+                    "regNumber": "36021.07.1Р.00414883",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/414883",
+                    "mitypeNumber": "36021-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345290",
+                    "mitypeTitle": "Наборы мер КСВН и полного сопротивления 1-го разряда",
+                    "notation": "ЭК9-140",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "005",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС дл СИ волнового сопротивления, ККО и передачи в коаксиальных волноводах в диапазоне частот от 0,01 до 65 ГГц"
+                },
+                {
+                    "regNumber": "10692.86.2Р.00414885",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/414885",
+                    "mitypeNumber": "10692-86",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305044",
+                    "mitypeTitle": "Наборы мер комплексного коэффициента передачи",
+                    "notation": "ДК2-70",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "003",
+                    "manufactureYear": 1990,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС дл СИ волнового сопротивления, ККО и передачи в коаксиальных волноводах в диапазоне частот от 0,01 до 65 ГГц"
+                },
+                {
+                    "regNumber": "43642.10.2Р.00571834",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/571834",
+                    "mitypeNumber": "43642-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354371",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP-Z31, NRP-Z56",
+                    "modification": "NRP-Z56",
+                    "manufactureNum": "101451",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                },
+                {
+                    "regNumber": "43642.10.3Р.00571835",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/571835",
+                    "mitypeNumber": "43642-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354371",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP-Z31, NRP-Z56",
+                    "modification": "NRP-Z56",
+                    "manufactureNum": "101451",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "39089-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348990",
+                    "mitypeTitle": "Генераторы сигналов СВЧ",
+                    "number": "101999"
+                },
+                {
+                    "mitypeNumber": "37173-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346676",
+                    "mitypeTitle": "Анализаторы электрических цепей векторные\/ анализаторы спектра",
+                    "number": "100704"
+                },
+                {
+                    "mitypeNumber": "9273-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388035",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "9112137"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "188036495": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49811547",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО НПП \"Прима\"",
+            "vrfDate": "21.09.2022",
+            "validDate": "20.09.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/21-09-2022\/188036495",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "48368.11.2Р.60448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60448",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "R&S RSC (с модулем 03)",
+                    "manufactureNum": "101312",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ ослабления электромагнитных колебаний в диапазоне частот от 0 до 178 ГГц. Приказ ФАТРИМ  №3383 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "41567.09.4Р.00282331",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/282331",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "210988",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00508307",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/508307",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "212847",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                },
+                {
+                    "regNumber": "70750.18.2Р.00596783",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/596783",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Нагрузки из набора мер Н3М-13 НР3-20-13Р,НР2-20-13Р",
+                    "manufactureNum": "2408100106",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ волнового сопротивления, ККО и ККП в коаксиальных волноводах по ГОСТ Р 8.813-2013"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "04b49474-5fd4-4ca7-aff4-2bef683d19d7"
+        }
+    },
+    "185833772": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49204145",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КОНЦЕРН \"СОЗВЕЗДИЕ\"(АО \"КОНЦЕРН \"СОЗВЕЗДИЕ\")",
+            "signCipher": "АФТ",
+            "miOwner": "-",
+            "vrfDate": "09.09.2022",
+            "validDate": "08.09.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП \"Инструкция. Анализаторы цепей векторные E5061B, E5072A. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-АФТ\/09-09-2022\/185833772",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "37008.08.3Р.00540033",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/540033",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102705",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                },
+                {
+                    "regNumber": "36021.07.1Р.00558892",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/558892",
+                    "mitypeNumber": "36021-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345290",
+                    "mitypeTitle": "Наборы мер КСВН и полного сопротивления 1-го разряда",
+                    "notation": "ЭК9-140",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "009",
+                    "manufactureYear": 1990,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС дл СИ волнового сопротивления, ККО и передачи в коаксиальных волноводах в диапазоне частот от 0,01 до 65 ГГц"
+                },
+                {
+                    "regNumber": "32869.06.3Р.00575608",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/575608",
+                    "mitypeNumber": "32869-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341374",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/3R",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "203090457",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ времени и частоты, приказ Росстандарта №1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "8935.82.1Р.00619387",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/619387",
+                    "mitypeNumber": "8935-82",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387549",
+                    "mitypeTitle": "Наборы мер полного и волнового сопротивления 1-го разряда",
+                    "notation": "ЭК9-145",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "078",
+                    "manufactureYear": 1988,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "протокол поверки Р-2214-2022"
+        }
+    },
+    "183055019": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49709635",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФНПЦ АО \"НПП \"Полет\"",
+            "vrfDate": "01.09.2022",
+            "validDate": "31.08.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/01-09-2022\/183055019",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "48368.11.2Р.60448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60448",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "R&S RSC (с модулем 03)",
+                    "manufactureNum": "101312",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ ослабления электромагнитных колебаний в диапазоне частот от 0 до 178 ГГц. Приказ ФАТРИМ  №3383 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "41567.09.4Р.00282331",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/282331",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "210988",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00508307",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/508307",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "212847",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ]
+        },
+        "info": {
+            "structure": "опция 235",
+            "briefIndicator": false,
+            "additional_info": "87577d71-8dd9-457b-bb97-62169b715b4c"
+        }
+    },
+    "179363281": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49811533",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО НПП \"Прима\"",
+            "vrfDate": "18.08.2022",
+            "validDate": "17.08.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/18-08-2022\/179363281",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "48368.11.2Р.60448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60448",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "R&S RSC (с модулем 03)",
+                    "manufactureNum": "101312",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ ослабления электромагнитных колебаний в диапазоне частот от 0 до 178 ГГц. Приказ ФАТРИМ  №3383 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "41567.09.4Р.00282331",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/282331",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "210988",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00508307",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/508307",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "212847",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "0c43863a-4520-4349-a5b6-ce939bd5bbc2"
+        }
+    },
+    "179363283": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49811532",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО НПП \"Прима\"",
+            "vrfDate": "18.08.2022",
+            "validDate": "17.08.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/18-08-2022\/179363283",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "48368.11.2Р.60448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60448",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "R&S RSC (с модулем 03)",
+                    "manufactureNum": "101312",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ ослабления электромагнитных колебаний в диапазоне частот от 0 до 178 ГГц. Приказ ФАТРИМ  №3383 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "41567.09.4Р.00282331",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/282331",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "210988",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00508307",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/508307",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "212847",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "754a2c6d-733f-429c-b60d-8be997eb3082"
+        }
+    },
+    "176874983": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49203476",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО \"РОДЕ И ШВАРЦ РУС\"",
+            "vrfDate": "08.08.2022",
+            "validDate": "07.08.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/08-08-2022\/176874983",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "48368.11.2Р.60448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60448",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "R&S RSC (с модулем 03)",
+                    "manufactureNum": "101312",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ ослабления электромагнитных колебаний в диапазоне частот от 0 до 178 ГГц. Приказ ФАТРИМ  №3383 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "41567.09.4Р.00282331",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/282331",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "210988",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00508307",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/508307",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "212847",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ]
+        },
+        "info": {
+            "structure": "опции 115, 020",
+            "briefIndicator": false,
+            "additional_info": "e83fe31a-3e3b-42ec-a0bf-58168f963f02"
+        }
+    },
+    "167523732": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49406874",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО НПП \"Прима\"",
+            "vrfDate": "01.07.2022",
+            "validDate": "30.06.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/01-07-2022\/167523732",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "36021.07.1Р.11198",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/11198",
+                    "mitypeNumber": "36021-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345291",
+                    "mitypeTitle": "Наборы мер КСВН и полного сопротивления 1-го разряда",
+                    "notation": "ЭК9-140",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "002",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "41567.09.4Р.00282316",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/282316",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90",
+                    "manufactureNum": "344513",
+                    "manufactureYear": 2016,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "69958.17.2Р.00415700",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/415700",
+                    "mitypeNumber": "69958-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384139",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP18T, NRP18TN, NRP33T, NRP33TN NRP40T, NRP40TN, NRP50T, NRP50TN, NRP67T, NRP67TN, NRP110T",
+                    "modification": "NRP18T",
+                    "manufactureNum": "102162",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00508301",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/508301",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "205837",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "6ba5fe01-d829-4ba1-bd6a-f948f6d6822d"
+        }
+    },
+    "164574704": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49305496",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Республике Мордовия\"(ФБУ \"Мордовский ЦСМ\")",
+            "signCipher": "АК",
+            "miOwner": "Публичное акционерное общество \"Ковылкинский электромеханический завод\"",
+            "vrfDate": "20.06.2022",
+            "validDate": "19.06.2023",
+            "vriType": "2",
+            "docTitle": "МП 47220-11",
+            "applicable": {
+                "certNum": "С-АК\/20-06-2022\/164574704",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "36021.07.1Р.57930",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/57930",
+                    "mitypeNumber": "36021-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345291",
+                    "mitypeTitle": "Наборы мер КСВН и полного сопротивления 1-го разряда",
+                    "notation": "ЭК9-140",
+                    "modification": "ЭК9-140",
+                    "manufactureNum": "020",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "57152.14.3Р.00401714",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/401714",
+                    "mitypeNumber": "57152-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369961",
+                    "mitypeTitle": "Стандарты частоты и времени рубидиевые",
+                    "notation": "Ч1-1011",
+                    "modification": "Ч1-1011",
+                    "manufactureNum": "0614008",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "53318.13.3Р.00446960",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/446960",
+                    "mitypeNumber": "53318-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365626",
+                    "mitypeTitle": "Установки для поверки ваттметров",
+                    "notation": "СВЧ УПВ-1",
+                    "modification": "УПВ-1",
+                    "manufactureNum": "10",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                },
+                {
+                    "regNumber": "53318.13.2Р.00446961",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/446961",
+                    "mitypeNumber": "53318-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365626",
+                    "mitypeTitle": "Установки для поверки ваттметров",
+                    "notation": "СВЧ УПВ-1",
+                    "modification": "УПВ-1",
+                    "manufactureNum": "10",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                },
+                {
+                    "regNumber": "51532.12.4Р.00504934",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/504934",
+                    "mitypeNumber": "51532-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363561",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "Tektronix FCA3000, FCA3003, FCA3020, FCA3100, FCA3103, FCA3120, MCA3027, MCA3040",
+                    "modification": "Tektronix FCA3000, FCA3003, FCA3020, FCA3100, FCA3103, FCA3120, MCA3027, MCA3040",
+                    "manufactureNum": "368658",
+                    "manufactureYear": 2016,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений времени и частоты»"
+                },
+                {
+                    "regNumber": "60436.15.2Р.00528565",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/528565",
+                    "mitypeNumber": "60436-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373713",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "3663-1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1726001",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ волнового сопротивления, ККО и ККП в коаксиальных волноводах по ГОСТ Р 8.813-2013"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "60237-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373486",
+                    "mitypeTitle": "Аттенюаторы ступенчатые ручные",
+                    "number": "MY61350078"
+                },
+                {
+                    "mitypeNumber": "60237-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373486",
+                    "mitypeTitle": "Аттенюаторы ступенчатые ручные",
+                    "number": "MY61350274"
+                },
+                {
+                    "mitypeNumber": "60766-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374075",
+                    "mitypeTitle": "Аттенюаторы",
+                    "number": "MY39270324"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "158322596": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49608694",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "25.05.2022",
+            "validDate": "24.05.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/25-05-2022\/158322596",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "48368.11.2Р.60448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60448",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "R&S RSC (с модулем 03)",
+                    "manufactureNum": "101312",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ ослабления электромагнитных колебаний в диапазоне частот от 0 до 178 ГГц. Приказ ФАТРИМ  №3383 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "41567.09.4Р.00282331",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/282331",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "210988",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00508307",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/508307",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "212847",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "7de276f3-8502-4649-8ceb-4073870d2681"
+        }
+    },
+    "156613320": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49810065",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "18.05.2022",
+            "validDate": "17.05.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/18-05-2022\/156613320",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "48368.11.1Р.00280948",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/280948",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "101544",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ ФАТРИМ № 3383 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "41567.09.4Р.00282316",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/282316",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90",
+                    "manufactureNum": "344513",
+                    "manufactureYear": 2016,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "69958.17.2Р.00415700",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/415700",
+                    "mitypeNumber": "69958-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384139",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP18T, NRP18TN, NRP33T, NRP33TN NRP40T, NRP40TN, NRP50T, NRP50TN, NRP67T, NRP67TN, NRP110T",
+                    "modification": "NRP18T",
+                    "manufactureNum": "102162",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00508301",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/508301",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "205837",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                }
+            ]
+        },
+        "info": {
+            "structure": "опции 3L5, 005",
+            "briefIndicator": false,
+            "additional_info": "7bba4550-f2fe-413f-adf7-c3fcf286375e"
+        }
+    },
+    "156914537": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY51401488",
+                "modification": "E5072A"
+            }
+        },
+        "vriInfo": {
+            "organization": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯРОСЛАВСКИЙ РАДИОЗАВОД\"(ПАО \"ЯРОСЛАВСКИЙ РАДИОЗАВОД\")",
+            "signCipher": "БХЯ",
+            "miOwner": "ПАО \"Ярославский радиозавод\"",
+            "vrfDate": "27.04.2022",
+            "validDate": "26.04.2023",
+            "vriType": "2",
+            "docTitle": "Инструкция. Анализаторы цепей векторные E5061В, Е5072А. Методика поверки 651-14-31 МП.",
+            "applicable": {
+                "certNum": "С-БХЯ\/27-04-2022\/156914537",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41567.09.4Р.00115478",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/115478",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT90XL",
+                    "manufactureNum": "259714",
+                    "manufactureYear": 2013,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени, частоты и национальной шкалы времени. Приказ 1621"
+                },
+                {
+                    "regNumber": "43642.10.2Р.00260033",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260033",
+                    "mitypeNumber": "43642-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354371",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP-Z31, NRP-Z56",
+                    "modification": "NRP-Z56",
+                    "manufactureNum": "101748",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС по ГОСТ Р 8.562-2007"
+                },
+                {
+                    "regNumber": "53566.13.2Р.00364480",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/364480",
+                    "mitypeNumber": "53566-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365913",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "85054D, 85032F, 85054B, 85052D, 85033E , 85052B, 85056D, 85056A, 85058E, 85058B",
+                    "modification": "85054D",
+                    "manufactureNum": "MY39200502",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ волнового сопротивления, ККО и ККП в коаксиальных волноводах по ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "31222.06.3Р.00437206",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/437206",
+                    "mitypeNumber": "31222-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339120",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FS 725",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "107010",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ времени и частоты, приказ Росстандарта №1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "53567.13.2Р.00516536",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/516536",
+                    "mitypeNumber": "53567-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365916",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "85054D, 85032F, 85054B, 85052D, 85033E, 85052B, 85956D, 85956A, 85058E. 85058B, 85055A, 85053B, 85057B, 85058V",
+                    "modification": "85055A",
+                    "manufactureNum": "MY2815A00921",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ волнового сопротивления, ККО и ККП в коаксиальных волноводах по ГОСТ Р 8.813-2013"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "146503682": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49608774",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО НПП \"Прима\"",
+            "vrfDate": "07.04.2022",
+            "validDate": "06.04.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/07-04-2022\/146503682",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "48368.11.1Р.00280948",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/280948",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "101544",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ ФАТРИМ № 3383 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "41567.09.4Р.00282331",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/282331",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "210988",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00508307",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/508307",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "212847",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ]
+        },
+        "info": {
+            "structure": "опция 115",
+            "briefIndicator": false,
+            "additional_info": "e9032c3a-3277-4065-a448-d52acda1ccb2"
+        }
+    },
+    "146503679": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61316-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374708",
+                "mitypeType": "E5061B, E5072A",
+                "mitypeTitle": "Анализаторы цепей векторные",
+                "manufactureNum": "MY49810312",
+                "modification": "E5061B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО НПП \"Прима\"",
+            "vrfDate": "07.04.2022",
+            "validDate": "06.04.2023",
+            "vriType": "2",
+            "docTitle": "651-14-31 МП",
+            "applicable": {
+                "certNum": "С-МА\/07-04-2022\/146503679",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17682",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "48368.11.1Р.00280948",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/280948",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "101544",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ ФАТРИМ № 3383 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "41567.09.4Р.00282331",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/282331",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "210988",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "70750.18.1Р.00448829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448829",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "70750.18.ВЭ.00448830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/448830",
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "notation": "Н3М",
+                    "modification": "Н3М-11",
+                    "manufactureNum": "2659100103",
+                    "manufactureYear": 2021,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00508307",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/508307",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RG",
+                    "manufactureNum": "212847",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ]
+        },
+        "info": {
+            "structure": "опция 115",
+            "briefIndicator": false,
+            "additional_info": "e0549447-abf9-4822-a40b-352b4e394559"
+        }
+    }
+}

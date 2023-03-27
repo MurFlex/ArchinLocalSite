@@ -1,0 +1,145 @@
+{
+    "192950728": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "21553-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/324784",
+                "mitypeType": "DSPec",
+                "mitypeTitle": "Спектрометры цифровые многоканальные гамма- и рентгеновского излучения",
+                "manufactureNum": "529",
+                "manufactureYear": 2005,
+                "modification": "DSPec Plus"
+            }
+        },
+        "vriInfo": {
+            "organization": "Филиал АО «Концерн Росэнергоатом» - Белоярская атомная станция (Филиал АО «Концерн Росэнергоатом» - Белоярская атомная станция )",
+            "signCipher": "АДЧ",
+            "miOwner": "Филиал АО «Концерн Росэнергоатом» «Белоярская АЭС»",
+            "vrfDate": "27.09.2022",
+            "validDate": "26.09.2024",
+            "vriType": "2",
+            "docTitle": "МИ 1916-88",
+            "applicable": {
+                "certNum": "С-АДЧ\/27-09-2022\/192950728",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "19793-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321727",
+                    "mitypeTitle": "Дозиметры рентгеновского и гамма-излучения",
+                    "number": "44431"
+                },
+                {
+                    "mitypeNumber": "46383-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357402",
+                    "mitypeTitle": "Источники фотонного излучения радионуклидные закрытые спектрометрические эталонные",
+                    "number": "6985, 6967, 6999"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39512990\/704"
+                }
+            ]
+        },
+        "info": {
+            "structure": "детектор GEM30 № 45-TP12138A, цифровой анализатор DSPec Plus № 529",
+            "briefIndicator": false
+        }
+    },
+    "186991959": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "21553-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/324784",
+                "mitypeType": "DSPec",
+                "mitypeTitle": "Спектрометры цифровые многоканальные гамма- и рентгеновского излучения",
+                "manufactureNum": "09168375",
+                "modification": "DSPec"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"ИЗОТОП\"(ООО НПП \"ИЗОТОП\")",
+            "signCipher": "ВОБ",
+            "miOwner": "ФГБУ ГНЦ ФМБЦ им. А.И.Бурназяна ФМБА России",
+            "vrfDate": "13.09.2022",
+            "validDate": "12.09.2024",
+            "vriType": "2",
+            "docTitle": "МИ 1916-88",
+            "applicable": {
+                "certNum": "С-ВОБ\/13-09-2022\/186991959",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "46383.11.1Р.00152410",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/152410",
+                    "mitypeNumber": "46383-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357402",
+                    "mitypeTitle": "Источники фотонного излучения радионуклидные закрытые спектрометрические эталонные",
+                    "notation": "ОСГИ-3",
+                    "modification": "ОСГИ-3-2",
+                    "manufactureNum": "7959",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утвержденная приказом Росстандарта от 29 декабря 2018 г. № 2841"
+                },
+                {
+                    "regNumber": "46383.11.1Р.00152415",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/152415",
+                    "mitypeNumber": "46383-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357402",
+                    "mitypeTitle": "Источники фотонного излучения радионуклидные закрытые спектрометрические эталонные",
+                    "notation": "ОСГИ-3",
+                    "modification": "ОСГИ-3-2",
+                    "manufactureNum": "7214",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утвержденная приказом Росстандарта от 29 декабря 2018 г. № 2841"
+                },
+                {
+                    "regNumber": "44591.10.2Р.00193111",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/193111",
+                    "mitypeNumber": "44591-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355459",
+                    "mitypeTitle": "Источники радионуклидные фотонного излучения метрологического назначения закрытые",
+                    "notation": "ИМН-Г",
+                    "modification": "ИМН-Г-3-Н",
+                    "manufactureNum": "101.11",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС утвержденная приказом № 2841"
+                },
+                {
+                    "regNumber": "46383.11.1Р.00274344",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/274344",
+                    "mitypeNumber": "46383-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357402",
+                    "mitypeTitle": "Источники фотонного излучения радионуклидные закрытые спектрометрические эталонные",
+                    "notation": "ОСГИ-3",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "7640",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС, утвержденная приказом Росстандарта № 2841 от 29.12.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "structure": "ППД HPGe Ortec mod. GMX 50P4-83-SMV № 49-TN22771B, анализатор импульсов ORTEC digiDART № 09168375, ПО «GammaVision»",
+            "briefIndicator": false
+        }
+    }
+}

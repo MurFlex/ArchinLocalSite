@@ -1,0 +1,47 @@
+{
+    "189949283": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "31052.06.2Р.00434825",
+                "mitypeNumber": "31052-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338899",
+                "mitypeTitle": "Излучатель",
+                "mitypeType": "Blackbody 400-3",
+                "modification": "Нет модификации",
+                "manufactureNum": "579001\/809001",
+                "manufactureYear": 2007,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "ФБУ \"Тест-С.-Петербург\"",
+            "vrfDate": "03.10.2022",
+            "validDate": "02.10.2023",
+            "vriType": "2",
+            "docTitle": "МП «Излучатель “Blackbody 400-3” Методика поверки», МП ВНИИМ, 2005 год",
+            "applicable": {
+                "certNum": "С-В\/03-10-2022\/189949283",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZB.0109.2014",
+                    "title": "ГРЭ 1 разряда единицы температуры в диапазоне от минус 50 до 3000 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/414766"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-189949283\/protocol",
+            "additional_info": "#mid3fa49235-87ce-4b6f-8851-f030047be8c6"
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "186100481": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "26284-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332341",
+                "mitypeType": "СТИ-3",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "09",
+                "modification": "СТИ-3МТ"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР \"КУРЧАТОВСКИЙ ИНСТИТУТ\"(НИЦ \"КУРЧАТОВСКИЙ ИНСТИТУТ\")",
+            "signCipher": "АФС",
+            "miOwner": "НИЦ \"Курчатовский институт\"",
+            "vrfDate": "14.09.2022",
+            "validDate": "13.09.2024",
+            "vriType": "2",
+            "docTitle": "ЕМКП.468 169.006 РЭ",
+            "applicable": {
+                "certNum": "С-АФС\/14-09-2022\/186100481",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "5751.76.4Р.00398247",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/398247",
+                    "mitypeNumber": "5751-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370387",
+                    "mitypeTitle": "Магазины электрического сопротивления измерительные хладостойкие",
+                    "notation": "Р4075, Р4076, Р4077, Р4078",
+                    "modification": "Р4077",
+                    "manufactureNum": "0647",
+                    "manufactureYear": 1978,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "3297.72.4Р.00399268",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/399268",
+                    "mitypeNumber": "3297-72",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341504",
+                    "mitypeTitle": "Магазины сопротивления измерительные. Магазины постоянного тока",
+                    "notation": "Р 327",
+                    "modification": "Р327",
+                    "manufactureNum": "0699",
+                    "manufactureYear": 1984,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г"
+                },
+                {
+                    "regNumber": "2577.70.4Р.00400374",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/400374",
+                    "mitypeNumber": "2577-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331567",
+                    "mitypeTitle": "Меры электрического сопротивления",
+                    "notation": "Р-4080, Р-4081, Р-4082, Р-4083",
+                    "modification": "Р-4081",
+                    "manufactureNum": "0692",
+                    "manufactureYear": 1974,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "46628.11.2Р.00655486",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/655486",
+                    "mitypeNumber": "46628-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357706",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Н4-17",
+                    "modification": "Н4-17",
+                    "manufactureNum": "009916",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "structure": "Измерительный канал силы постоянного тока",
+            "briefIndicator": false
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "202409084": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "45551-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1396571",
+                "mitypeType": "СИСУР-1",
+                "mitypeTitle": "Система измерительная для стенда испытаний угловых редукторов вертолетов",
+                "manufactureNum": "01",
+                "manufactureYear": 2010,
+                "modification": "СИСУР-1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПЕРМСКОМ КРАЕ\"(ФБУ \"ПЕРМСКИЙ ЦСМ\")",
+            "signCipher": "ВН",
+            "miOwner": "АО \"Редуктор-ПМ\"",
+            "vrfDate": "28.10.2022",
+            "validDate": "27.10.2023",
+            "vriType": "2",
+            "docTitle": "СТ3-010.01 МП",
+            "applicable": {
+                "certNum": "С-ВН\/28-10-2022\/202409084",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "53064.13.4Р.00134144",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/134144",
+                    "mitypeNumber": "53064-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365348",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "АКИП-3409\/1, АКИП-3409\/2, АКИП-3409\/3, АКИП-3409\/4, АКИП-3409\/5",
+                    "modification": "АКИП-3409\/1",
+                    "manufactureNum": "NDG10GAD1R0924",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "57747.14.2Р.00209234",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/209234",
+                    "mitypeNumber": "57747-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370659",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "3010R, 3041R, 3041TR, 3050R, 3050TR, 1000R, 1000TR",
+                    "modification": "3041TR",
+                    "manufactureNum": "R1274F18",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ №3457"
+                },
+                {
+                    "regNumber": "16347.03.1Р.00213733",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/213733",
+                    "mitypeNumber": "16347-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315299",
+                    "mitypeTitle": "Калибраторы давления",
+                    "notation": "DPI",
+                    "modification": "DPI мод. DPI 610",
+                    "manufactureNum": "61017369",
+                    "manufactureYear": 2004,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1339 от 29.06.2018"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Датчики давления ДДС № 10206, № 10207",
+            "briefIndicator": false
+        }
+    }
+}

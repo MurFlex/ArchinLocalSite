@@ -1,0 +1,88 @@
+{
+    "180630072": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "1490-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/312286",
+                "mitypeType": "ЛИР-1",
+                "mitypeTitle": "Интерферометры лабораторные",
+                "manufactureNum": "793076",
+                "modification": "ЛИР-1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ОАО \"ЭХМЗ им.Н.Д.Зелинского\"",
+            "vrfDate": "24.08.2022",
+            "validDate": "23.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 601-84",
+            "applicable": {
+                "certNum": "С-МА\/24-08-2022\/180630072",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0589.2019",
+                    "title": "Государственный рабочий эталон единицы длины волны 1 разряда в диапазоне значений от 400 до 700 нм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1392472"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "a783503c-f7ad-45af-85d4-ecdc6fba0d91"
+        }
+    },
+    "173543798": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "1490-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/312286",
+                "mitypeType": "ЛИР-1",
+                "mitypeTitle": "Интерферометры лабораторные",
+                "manufactureNum": "813105",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "Акционерное общество \"Башкирская содовая компания\"",
+            "vrfDate": "18.07.2022",
+            "validDate": "17.07.2023",
+            "vriType": "2",
+            "docTitle": "Методическими указаниями на методы и средства поверки интерферометра лабораторного ЛИР-1",
+            "applicable": {
+                "certNum": "С-АБ\/18-07-2022\/173543798",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "69551.17.3Р.00300270",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300270",
+                    "mitypeNumber": "69551-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383685",
+                    "mitypeTitle": "Термометры лабораторные электронные",
+                    "notation": "LTA",
+                    "modification": "LTA\/Б-Э",
+                    "manufactureNum": "871183",
+                    "manufactureYear": 2021,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "204057130": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39758-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349775",
+                "mitypeType": "МИКРОКОН МЕТ",
+                "mitypeTitle": "Комплексы аппаратно-программные",
+                "manufactureNum": "570312",
+                "modification": "Комплекс аппаратно-программный МИКРОКОН МЕТ МАГ-310"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИСКАТЕЛЬ - 2\"(ООО \"ИСКАТЕЛЬ - 2\")",
+            "signCipher": "АКЗ",
+            "miOwner": "ООО \"УЗД Спецсервис\"",
+            "vrfDate": "23.11.2022",
+            "validDate": "22.11.2023",
+            "vriType": "1",
+            "docTitle": "Раздел 8 1.3.015.00 РЭ",
+            "applicable": {
+                "certNum": "С-АКЗ\/23-11-2022\/204057130",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "64196.16.2Р.00661168",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/661168",
+                    "mitypeNumber": "64196-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377851",
+                    "mitypeTitle": "Гигрометры",
+                    "notation": "Rotronic мод. HygroPalm, HygroLog NT, HygroLab C1, HL-20D, HL-1D, GTS",
+                    "modification": "HP23A",
+                    "manufactureNum": "61789791",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений влажности газов и температуры конденсации углеводородов"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53064-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365348",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "number": "NDG10GAD2R1398"
+                },
+                {
+                    "mitypeNumber": "6578-78",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                    "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                    "number": "12"
+                },
+                {
+                    "mitypeNumber": "634-50",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376990",
+                    "mitypeTitle": "Микроскопы измерительные универсальные",
+                    "number": "560011"
+                },
+                {
+                    "mitypeNumber": "49918-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361647",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "ADS-2111MV1806635"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Поверено с применением эталонов: 3.2.АКЗ.0098.2019, 3.2.АКЗ.0100.2019,  3.2.АКЗ.0150.2019,  3.2.АКЗ.0147.2019, 3.2.АКЗ.01382019 . 16667\/F"
+        }
+    }
+}

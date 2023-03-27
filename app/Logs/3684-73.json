@@ -1,0 +1,370 @@
+{
+    "214126046": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3684-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346259",
+                "mitypeType": "В4-14",
+                "mitypeTitle": "Милливольтметры импульсные",
+                "manufactureNum": "360808",
+                "modification": "В4-14"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ИМ. Б.А. ДУБОВИКОВА В САРАТОВСКОЙ ОБЛАСТИ\"(ФБУ \"САРАТОВСКИЙ ЦСМ ИМ. Б.А. ДУБОВИКОВА\")",
+            "signCipher": "ВУ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "23.12.2022",
+            "validDate": "22.12.2023",
+            "vriType": "2",
+            "docTitle": "ЕЭ2.711.038 ТО «Милливольтметр импульсного тока В4-14. ТО и ИЭ», раздел 12 «Поверка милливольтметра»",
+            "applicable": {
+                "certNum": "С-ВУ\/23-12-2022\/214126046",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "53104.13.2Р.00555533",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/555533",
+                    "mitypeNumber": "53104-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365387",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "DPO7054C, DPO7104C, DPO7254C, DPO7354C",
+                    "modification": "DPO7254C",
+                    "manufactureNum": "C132002",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3463 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "80010.20.3Р.00645879",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/645879",
+                    "mitypeNumber": "80010-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1384599",
+                    "mitypeTitle": "Калибраторы напряжения переменного тока широкополосные ",
+                    "notation": "Н5-8, Н5-8\/1",
+                    "modification": "Н5-8\/1",
+                    "manufactureNum": "003",
+                    "manufactureYear": 2022,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №1942 от 03 сентября 2021г."
+                },
+                {
+                    "regNumber": "72902.18.1Р.00727048",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/727048",
+                    "mitypeNumber": "72902-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492419",
+                    "mitypeTitle": "Вольтметры высокочастотные",
+                    "notation": "В3-100",
+                    "modification": "В3-100",
+                    "manufactureNum": "010",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказ Росстандарта № 1942 от 03.09.2021 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "по каналу измерения амплитуды импульсов положительной полярности",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-214126046\/protocol"
+        }
+    },
+    "189495990": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3684-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346259",
+                "mitypeType": "В4-14",
+                "mitypeTitle": "Милливольтметры импульсные",
+                "manufactureNum": "04112",
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ\"(ФГУП \"РФЯЦ - ВНИИЭФ\")",
+            "signCipher": "АЗЯ",
+            "miOwner": "филиал ФГУП РФЯЦ ВНИИЭФ \"НИИИС им. Седакова\"",
+            "vrfDate": "27.07.2022",
+            "validDate": "26.07.2023",
+            "vriType": "2",
+            "docTitle": "ТО и ИЭ \"Милливольтметр импульсного тока В4-14\"",
+            "applicable": {
+                "certNum": "С-АЗЯ\/27-07-2022\/189495990",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "48998.12.2Р.00488403",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/488403",
+                    "mitypeNumber": "48998-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360570",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "DSO-X 2002A, DSO-X 2004A, DSO-X 2012A, DSO-X 2014A, DSO-X 2022A, DSO-X 2024A, MSO-X 2002A, MSO-X 2004A, MSO-X 2012A, MSO-X 2014A, MSO-X 2022A, MSO-X 2024A, DSO-X 3012A, DSO-X 3014A, DSO-X 3024A, DSO-X 3032A, DSO-X 3034A, DSO-X 3052A, DSO-X 3054A",
+                    "modification": "DSO-X 3034A",
+                    "manufactureNum": "MY53280139",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30 декабря 2019г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "184374786": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3684-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346259",
+                "mitypeType": "В4-14",
+                "mitypeTitle": "Милливольтметры импульсные",
+                "manufactureNum": "04112",
+                "modification": "без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКСПЕРИМЕНТАЛЬНОЙ ФИЗИКИ\"(ФГУП \"РФЯЦ - ВНИИЭФ\")",
+            "signCipher": "АЗЯ",
+            "miOwner": "Филиал ФГУП \"РФЯЦ-ВНИИЭФ\" \"НИИИС им. Ю.Е. Седакова\"",
+            "vrfDate": "27.07.2022",
+            "validDate": "26.07.2023",
+            "vriType": "2",
+            "docTitle": "Техническое описание и инструкция по эксплуатации \"Милливольтметр импульсного тока В4-14\"",
+            "applicable": {
+                "certNum": "С-АЗЯ\/27-07-2022\/184374786",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "48998.12.2Р.00658717",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/658717",
+                    "mitypeNumber": "48998-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360571",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "DSO-X 2002A, DSO-X 2004A, DSO-X 2012A, DSO-X 2014A, DSO-X 2022A, DSO-X 2024A, MSO-X 2002A, MSO-X 2004A, MSO-X 2012A, MSO-X 2014A, MSO-X 2022A, MSO-X 2024A, DSO-X 3012A, DSO-X 3014A, DSO-X 3024A, DSO-X 3032A, DSO-X 3034A, DSO-X 3052A, DSO-X 3054A",
+                    "modification": "DSO-X 3034A",
+                    "manufactureNum": "MY53280139",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "средства измерений в соответствии с «Государственной поверочной схемой для средств измерений импульсного электрического напряжен"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "148525192": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3684-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346259",
+                "mitypeType": "В4-14",
+                "mitypeTitle": "Милливольтметры импульсные",
+                "manufactureNum": "02035",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "11.04.2022",
+            "validDate": "10.04.2023",
+            "vriType": "2",
+            "docTitle": "ЕЭ2.711.038 ТО",
+            "applicable": {
+                "certNum": "С-ДИЭ\/11-04-2022\/148525192",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "53104-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365387",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "7412"
+                },
+                {
+                    "mitypeNumber": "40374-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350502",
+                    "mitypeTitle": "Вольтметры универсальные высокочастотные",
+                    "number": "6321"
+                },
+                {
+                    "mitypeNumber": "36972-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346414",
+                    "mitypeTitle": "Генераторы импульсов",
+                    "number": "369"
+                },
+                {
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "0369"
+                },
+                {
+                    "mitypeNumber": "56005-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368649",
+                    "mitypeTitle": "Генераторы сигналов сложной\/произвольной формы",
+                    "number": "755"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "136100154": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3684-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346259",
+                "mitypeType": "В4-14",
+                "mitypeTitle": "Милливольтметры импульсные",
+                "manufactureNum": "06053",
+                "modification": "В4-14"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЙ ИНСТИТУТ МОЩНОГО РАДИОСТРОЕНИЯ\"(АО \"РИМР\")",
+            "signCipher": "БЗР",
+            "miOwner": "АО \"Северный пресс\"",
+            "vrfDate": "01.03.2022",
+            "validDate": "28.02.2023",
+            "vriType": "2",
+            "docTitle": "ТО и МП",
+            "applicable": {
+                "certNum": "С-БЗР\/01-03-2022\/136100154",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "51160.12.2Р.00366696",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/366696",
+                    "mitypeNumber": "51160-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363134",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "Fluke 5522А (5520A)",
+                    "modification": "Fluke 5522A",
+                    "manufactureNum": "2220901",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений импульсного электрического напряжения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "48998-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360571",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "MY52390419"
+                },
+                {
+                    "mitypeNumber": "40102-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350202",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "TW00012152"
+                },
+                {
+                    "mitypeNumber": "8598-82",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387073",
+                    "mitypeTitle": "Генераторы импульсов",
+                    "number": "03791"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "128143937": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3684-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346259",
+                "mitypeType": "В4-14",
+                "mitypeTitle": "Милливольтметры импульсные",
+                "manufactureNum": "11006",
+                "modification": "В4-14"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЙ ИНСТИТУТ МОЩНОГО РАДИОСТРОЕНИЯ\"(АО \"РИМР\")",
+            "signCipher": "БЗР",
+            "miOwner": "АО \"Северный пресс\"",
+            "vrfDate": "01.02.2022",
+            "validDate": "31.01.2023",
+            "vriType": "2",
+            "docTitle": "ТО и МП",
+            "applicable": {
+                "certNum": "С-БЗР\/01-02-2022\/128143937",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "51160.12.2Р.00366696",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/366696",
+                    "mitypeNumber": "51160-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363134",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "Fluke 5522А (5520A)",
+                    "modification": "Fluke 5522A",
+                    "manufactureNum": "2220901",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений импульсного электрического напряжения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "48998-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360571",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "MY52390419"
+                },
+                {
+                    "mitypeNumber": "40102-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350202",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "TW00012152"
+                },
+                {
+                    "mitypeNumber": "8598-82",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387073",
+                    "mitypeTitle": "Генераторы импульсов",
+                    "number": "03791"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

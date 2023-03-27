@@ -1,0 +1,1330 @@
+{
+    "219990581": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "232912-0201-0017",
+                "modification": "Пирометр точечный мод. ThermoPoint 6 ProPlus"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИСКАТЕЛЬ - 2\"(ООО \"ИСКАТЕЛЬ - 2\")",
+            "signCipher": "АКЗ",
+            "miOwner": "Филиал АО \"РИР\" в городе Новоуральске",
+            "vrfDate": "31.01.2023",
+            "validDate": "30.01.2024",
+            "vriType": "2",
+            "docTitle": "МП ВНИИОФИ",
+            "applicable": {
+                "certNum": "С-АКЗ\/31-01-2023\/219990581",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "64196.16.2Р.00661168",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/661168",
+                    "mitypeNumber": "64196-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377851",
+                    "mitypeTitle": "Гигрометры",
+                    "notation": "Rotronic мод. HygroPalm, HygroLog NT, HygroLab C1, HL-20D, HL-1D, GTS",
+                    "modification": "HP23A",
+                    "manufactureNum": "61789791",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений влажности газов и температуры конденсации углеводородов"
+                },
+                {
+                    "regNumber": "22249.15.2Р.00671570",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/671570",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "Деметра-М",
+                    "manufactureNum": "2003",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "22249.08.2Р.00671571",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/671571",
+                    "mitypeNumber": "22249-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325979",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "Электра",
+                    "manufactureNum": "1004",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "1007"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Поверено с применением эталонов: 3.2.АКЗ.0101.2019, 3.2.АКЗ.0141.2019, 3.2.АКЗ.0138.2019, 3.2.АКЗ.0145.2019.. 0302\/K"
+        }
+    },
+    "210383401": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "262924-0301-0004",
+                "modification": "8 ProPlus"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"Вимм-Билль-Данн\"",
+            "vrfDate": "22.12.2022",
+            "validDate": "21.12.2023",
+            "vriType": "2",
+            "docTitle": "МП ГР №15433-01",
+            "applicable": {
+                "certNum": "С-МА\/22-12-2022\/210383401",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0099.2013",
+                    "title": "ГЭЕ температуры 1 разряда в диапазоне значений от минус 50 до плюс 50 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/424565"
+                },
+                {
+                    "number": "3.1.ZMA.0178.2013",
+                    "title": "ГЭЕ температуры 2 разряда в диапазоне значений от 30 до 600 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/459761"
+                },
+                {
+                    "number": "3.1.ZMA.0106.2013",
+                    "title": "ГЭЕ температуры 2 разряда в диапазоне значений от 200 до 1150 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/423878"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "48130.11.1Р.00263467",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/263467",
+                    "mitypeNumber": "48130-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359557",
+                    "mitypeTitle": "Пирометр",
+                    "notation": "TRT II",
+                    "modification": "нет модификации",
+                    "manufactureNum": "2821",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "48130.11.1Р.00579302",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/579302",
+                    "mitypeNumber": "48130-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359557",
+                    "mitypeTitle": "Пирометр",
+                    "notation": "TRT II",
+                    "modification": "нет модификации",
+                    "manufactureNum": "2821",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "befe6de1-ac46-40bd-8e7a-85efb69250e0"
+        }
+    },
+    "210383392": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "225200-0101-0004",
+                "modification": "6 ProPlus"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"Вимм-Билль-Данн\"",
+            "vrfDate": "22.12.2022",
+            "validDate": "21.12.2023",
+            "vriType": "2",
+            "docTitle": "МП ГР №15433-01",
+            "applicable": {
+                "certNum": "С-МА\/22-12-2022\/210383392",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0099.2013",
+                    "title": "ГЭЕ температуры 1 разряда в диапазоне значений от минус 50 до плюс 50 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/424565"
+                },
+                {
+                    "number": "3.1.ZMA.0178.2013",
+                    "title": "ГЭЕ температуры 2 разряда в диапазоне значений от 30 до 600 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/459761"
+                },
+                {
+                    "number": "3.1.ZMA.0106.2013",
+                    "title": "ГЭЕ температуры 2 разряда в диапазоне значений от 200 до 1150 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/423878"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "48130.11.1Р.00263467",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/263467",
+                    "mitypeNumber": "48130-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359557",
+                    "mitypeTitle": "Пирометр",
+                    "notation": "TRT II",
+                    "modification": "нет модификации",
+                    "manufactureNum": "2821",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "48130.11.1Р.00579302",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/579302",
+                    "mitypeNumber": "48130-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359557",
+                    "mitypeTitle": "Пирометр",
+                    "notation": "TRT II",
+                    "modification": "нет модификации",
+                    "manufactureNum": "2821",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "536f2daf-afe7-438f-ae6c-c1f86054f601"
+        }
+    },
+    "206631372": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "2308650201-0003",
+                "modification": "8 Pro Plus"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "08.12.2022",
+            "validDate": "07.12.2023",
+            "vriType": "2",
+            "docTitle": "МП ГР №15433-01",
+            "applicable": {
+                "certNum": "С-МА\/08-12-2022\/206631372",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0099.2013",
+                    "title": "ГЭЕ температуры 1 разряда в диапазоне значений от минус 50 до плюс 50 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/424565"
+                },
+                {
+                    "number": "3.1.ZMA.0178.2013",
+                    "title": "ГЭЕ температуры 2 разряда в диапазоне значений от 30 до 600 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/459761"
+                },
+                {
+                    "number": "3.1.ZMA.0106.2013",
+                    "title": "ГЭЕ температуры 2 разряда в диапазоне значений от 200 до 1150 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/423878"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "48130.11.1Р.00263467",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/263467",
+                    "mitypeNumber": "48130-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359557",
+                    "mitypeTitle": "Пирометр",
+                    "notation": "TRT II",
+                    "modification": "нет модификации",
+                    "manufactureNum": "2821",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "48130.11.1Р.00579302",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/579302",
+                    "mitypeNumber": "48130-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359557",
+                    "mitypeTitle": "Пирометр",
+                    "notation": "TRT II",
+                    "modification": "нет модификации",
+                    "manufactureNum": "2821",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "48c65318-3207-425a-8684-e51a01938ad6"
+        }
+    },
+    "205469753": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "232912-0201-0019",
+                "modification": "Пирометр точечный мод. ThermoPoint 6 ProPlus"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИСКАТЕЛЬ - 2\"(ООО \"ИСКАТЕЛЬ - 2\")",
+            "signCipher": "АКЗ",
+            "miOwner": "Филиал АО \"РИР\" в городе Новоуральске",
+            "vrfDate": "02.12.2022",
+            "validDate": "01.12.2023",
+            "vriType": "2",
+            "docTitle": "МП ВНИИОФИ",
+            "applicable": {
+                "certNum": "С-АКЗ\/02-12-2022\/205469753",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "64196.16.2Р.00661168",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/661168",
+                    "mitypeNumber": "64196-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377851",
+                    "mitypeTitle": "Гигрометры",
+                    "notation": "Rotronic мод. HygroPalm, HygroLog NT, HygroLab C1, HL-20D, HL-1D, GTS",
+                    "modification": "HP23A",
+                    "manufactureNum": "61789791",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений влажности газов и температуры конденсации углеводородов"
+                },
+                {
+                    "regNumber": "22249.15.2Р.00671570",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/671570",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "Деметра-М",
+                    "manufactureNum": "2003",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "22249.08.2Р.00671571",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/671571",
+                    "mitypeNumber": "22249-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325979",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "Электра",
+                    "manufactureNum": "1004",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "1007"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Поверено с применением эталонов: 3.2.АКЗ.0101.2019, 3.2.АКЗ.0141.2019, 3.2.АКЗ.0138.2019, 3.2.АКЗ.0145.2019.. 2775\/K"
+        }
+    },
+    "199188417": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "2261530101-0019",
+                "manufactureYear": 2003,
+                "modification": "6 ProPlus"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "ГАЗПРОМ ТРАНСГАЗ ЮГОРСК ООО",
+            "vrfDate": "03.11.2022",
+            "validDate": "02.11.2023",
+            "vriType": "2",
+            "docTitle": "«Методика поверки пирометров моделей ThermoPoint 2 Pro - 8 ProPlus, 90, 400, 450»",
+            "applicable": {
+                "certNum": "С-ВЯ\/03-11-2022\/199188417",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22249.15.1Р.00512268",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512268",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                },
+                {
+                    "regNumber": "22249.15.1Р.00512269",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512269",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "22249.08.1Р.00512270",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512270",
+                    "mitypeNumber": "22249-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325979",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Электра\"",
+                    "manufactureNum": "1104",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "(id:4236358010073)"
+        }
+    },
+    "194384233": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "2329120201-0010",
+                "manufactureYear": 2004,
+                "modification": "ThermoPoint 6 ProPlus"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Филиал АО \"РИР\" в городе Новоуральске",
+            "vrfDate": "18.10.2022",
+            "validDate": "17.10.2023",
+            "vriType": "2",
+            "docTitle": "\"Методика поверки пирометров моделей ThermoРoint 2 Pro-8 ProPlus, 90,400,450\",  утв. ВНИИОФИ",
+            "applicable": {
+                "certNum": "С-СЕ\/18-10-2022\/194384233",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "61461.15.1Р.00652615",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/652615",
+                    "mitypeNumber": "61461-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374871",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "АЧТ -50\/120 мод. АЧТ 60\/-50\/50, АЧТ 70\/-40\/80, АЧТ 80\/-35\/80",
+                    "modification": "мод. АЧТ 70\/-40\/80",
+                    "manufactureNum": "2002",
+                    "manufactureYear": 2002,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                },
+                {
+                    "regNumber": "61461.15.1Р.00652616",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/652616",
+                    "mitypeNumber": "61461-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374871",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "АЧТ -50\/120 мод. АЧТ 60\/-50\/50, АЧТ 70\/-40\/80, АЧТ 80\/-35\/80",
+                    "modification": "мод. АЧТ 70\/-40\/80",
+                    "manufactureNum": "2002",
+                    "manufactureYear": 2002,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "22249.15.1Р.00652618",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/652618",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Электра+\"",
+                    "manufactureNum": "2008",
+                    "manufactureYear": 2008,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "44113-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354926",
+                    "mitypeTitle": "Дальномеры лазерные",
+                    "number": "00103"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "059"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "178114383": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "2256270101-0016",
+                "manufactureYear": 2003,
+                "modification": "6 ProPlus"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "-",
+            "vrfDate": "11.08.2022",
+            "validDate": "10.08.2023",
+            "vriType": "2",
+            "docTitle": "«Методика поверки пирометров моделей ThermoPoint 2 Pro - 8 ProPlus, 90, 400, 450»",
+            "applicable": {
+                "certNum": "С-ВЯ\/11-08-2022\/178114383",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22249.15.1Р.00512268",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512268",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                },
+                {
+                    "regNumber": "22249.15.1Р.00512269",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512269",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "22249.08.1Р.00512270",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512270",
+                    "mitypeNumber": "22249-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325979",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Электра\"",
+                    "manufactureNum": "1104",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "(id:4105010010073)"
+        }
+    },
+    "165236128": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "225200-0301-0001",
+                "manufactureYear": 2005,
+                "modification": "ThermoPoint 2 Pro"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "ООО «ШТС»",
+            "vrfDate": "22.06.2022",
+            "validDate": "21.06.2023",
+            "vriType": "2",
+            "docTitle": "«Методика поверки пирометров моделей ThermoPoint 2 Pro - 8 ProPlus, 90, 400, 450»",
+            "applicable": {
+                "certNum": "С-ВЯ\/22-06-2022\/165236128",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22249.15.1Р.00512268",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512268",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                },
+                {
+                    "regNumber": "22249.15.1Р.00512269",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512269",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "22249.08.1Р.00512270",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512270",
+                    "mitypeNumber": "22249-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325979",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Электра\"",
+                    "manufactureNum": "1104",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "(id:4012071010073)"
+        }
+    },
+    "165236130": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "225200-0301-0006",
+                "manufactureYear": 2005,
+                "modification": "ThermoPoint 2 Pro"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "ООО «ШТС»",
+            "vrfDate": "22.06.2022",
+            "validDate": "21.06.2023",
+            "vriType": "2",
+            "docTitle": "«Методика поверки пирометров моделей ThermoPoint 2 Pro - 8 ProPlus, 90, 400, 450»",
+            "applicable": {
+                "certNum": "С-ВЯ\/22-06-2022\/165236130",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22249.15.1Р.00512268",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512268",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                },
+                {
+                    "regNumber": "22249.15.1Р.00512269",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512269",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "22249.08.1Р.00512270",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512270",
+                    "mitypeNumber": "22249-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325979",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Электра\"",
+                    "manufactureNum": "1104",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "(id:4012069010073)"
+        }
+    },
+    "159973945": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "2261530101-0018",
+                "manufactureYear": 2003,
+                "modification": "6 ProPlus"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "-",
+            "vrfDate": "31.05.2022",
+            "validDate": "30.05.2023",
+            "vriType": "2",
+            "docTitle": "«Методика поверки пирометров моделей ThermoPoint 2 Pro - 8 ProPlus, 90, 400, 450»",
+            "applicable": {
+                "certNum": "С-ВЯ\/31-05-2022\/159973945",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22249.15.1Р.00512268",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512268",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                },
+                {
+                    "regNumber": "22249.15.1Р.00512269",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512269",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "22249.08.1Р.00512270",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512270",
+                    "mitypeNumber": "22249-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325979",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Электра\"",
+                    "manufactureNum": "1104",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "(id:3972547010073)"
+        }
+    },
+    "145224197": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "2319580101-0003",
+                "modification": "ThermoPoint 2 Pro"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "04.04.2022",
+            "validDate": "03.04.2023",
+            "vriType": "2",
+            "docTitle": "МП ГР № 15433-01",
+            "applicable": {
+                "certNum": "С-МА\/04-04-2022\/145224197",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0099.2013",
+                    "title": "ГЭЕ температуры 1 разряда в диапазоне значений от минус 50 до плюс 50 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/424565"
+                },
+                {
+                    "number": "3.1.ZMA.0178.2013",
+                    "title": "ГЭЕ температуры 2 разряда в диапазоне значений от 30 до 600 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/459761"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "76915.19.1Р.28505",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/28505",
+                    "mitypeNumber": "76915-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011066",
+                    "mitypeTitle": "Пирометр",
+                    "notation": "TRT IV.82",
+                    "modification": "нет",
+                    "manufactureNum": "3931",
+                    "manufactureYear": 2017,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "3f779b35-14dd-4d3a-bae0-c2d172080ac4"
+        }
+    },
+    "143139013": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "2249790101-0004",
+                "modification": "Без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "28.03.2022",
+            "validDate": "27.03.2023",
+            "vriType": "2",
+            "docTitle": "Методикой поверки пирометров ThermoPoint 2Pro-8ProPlus, 90, 400, 450.",
+            "applicable": {
+                "certNum": "С-БН\/28-03-2022\/143139013",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22249.15.1Р.00242496",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/242496",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Электра\"",
+                    "manufactureNum": "1502",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "22249.15.1Р.00242497",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/242497",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1109",
+                    "manufactureYear": 2017,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "22249.15.1Р.00540250",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/540250",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1109",
+                    "manufactureYear": 2017,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "137261274": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "2261530101-0005",
+                "manufactureYear": 2003,
+                "modification": "6 ProPlus"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "ООО «Газпром трансгаз Югорск»",
+            "vrfDate": "04.03.2022",
+            "validDate": "03.03.2023",
+            "vriType": "2",
+            "docTitle": "«Методика поверки пирометров моделей ThermoPoint 2 Pro - 8 ProPlus, 90, 400, 450»",
+            "applicable": {
+                "certNum": "С-ВЯ\/04-03-2022\/137261274",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22249.15.1Р.00512268",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512268",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                },
+                {
+                    "regNumber": "22249.15.1Р.00512269",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512269",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "22249.08.1Р.00512270",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512270",
+                    "mitypeNumber": "22249-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325979",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Электра\"",
+                    "manufactureNum": "1104",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "(id:3855963010073)"
+        }
+    },
+    "135962736": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "2261530101-0008",
+                "manufactureYear": 2003,
+                "modification": "6 ProPlus"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "ООО \"Газпром трансгаз Югорск\"",
+            "vrfDate": "01.03.2022",
+            "validDate": "28.02.2023",
+            "vriType": "2",
+            "docTitle": "Методика поверки пирометров моделей ThermoPoint 2 Pro - 8 ProPlus, 90, 400, 450",
+            "applicable": {
+                "certNum": "С-ВЯ\/01-03-2022\/135962736",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22249.15.1Р.00512268",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512268",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                },
+                {
+                    "regNumber": "22249.15.1Р.00512269",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512269",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "22249.08.1Р.00512270",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512270",
+                    "mitypeNumber": "22249-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325979",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Электра\"",
+                    "manufactureNum": "1104",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "135351100": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "2261530101-0002",
+                "manufactureYear": 2003,
+                "modification": "6 ProPlus"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "ООО \"Газпром трансгаз Югорск\"",
+            "vrfDate": "25.02.2022",
+            "validDate": "24.02.2023",
+            "vriType": "2",
+            "docTitle": "Методика поверки пирометров моделей ThermoPoint 2 Pro - 8 ProPlus, 90, 400, 450",
+            "applicable": {
+                "certNum": "С-ВЯ\/25-02-2022\/135351100",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22249.15.1Р.00512268",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512268",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                },
+                {
+                    "regNumber": "22249.15.1Р.00512269",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512269",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "22249.08.1Р.00512270",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512270",
+                    "mitypeNumber": "22249-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325979",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Электра\"",
+                    "manufactureNum": "1104",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "127896074": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15433-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313432",
+                "mitypeType": "ThermoPoint 2 Pro, 3Pro, 6 ProPlus, 8 ProPlus, 90, 400, 450",
+                "mitypeTitle": "Пирометры точечные",
+                "manufactureNum": "2261530101-0013",
+                "manufactureYear": 2003,
+                "modification": "6 ProPlus"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "ООО «Газпром трансгаз Югорск»",
+            "vrfDate": "31.01.2022",
+            "validDate": "30.01.2023",
+            "vriType": "2",
+            "docTitle": "«Методика поверки пирометров моделей ThermoPoint 2 Pro - 8 ProPlus, 90, 400, 450»",
+            "applicable": {
+                "certNum": "С-ВЯ\/31-01-2022\/127896074",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22249.15.1Р.00512268",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512268",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                },
+                {
+                    "regNumber": "22249.15.1Р.00512269",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512269",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Деметра-М\"",
+                    "manufactureNum": "1609",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "22249.08.1Р.00512270",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512270",
+                    "mitypeNumber": "22249-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325979",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Электра\"",
+                    "manufactureNum": "1104",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "(id:3828201010073)"
+        }
+    }
+}

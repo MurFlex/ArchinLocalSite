@@ -1,0 +1,63 @@
+{
+    "207201785": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "21050-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323934",
+                "mitypeType": "Therminox-TXBI",
+                "mitypeTitle": "Термометры биметаллические",
+                "manufactureNum": "06030",
+                "modification": "Therminox-TXBI"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КАЛУЖСКОЙ ОБЛАСТИ\"(ФБУ \"КАЛУЖСКИЙ ЦСМ\")",
+            "signCipher": "БУ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "10.12.2022",
+            "validDate": "09.12.2023",
+            "vriType": "2",
+            "docTitle": "МП ВНИИМ",
+            "applicable": {
+                "certNum": "С-БУ\/10-12-2022\/207201785",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "19736.05.4Р.00333102",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/333102",
+                    "mitypeNumber": "19736-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321617",
+                    "mitypeTitle": "Измерители-регуляторы температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "мод. МИТ8.10Mrev3",
+                    "manufactureNum": "268",
+                    "manufactureYear": 2007,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ №3456 от 30.12.2019. \"Об утверждении государственной поверочной схемы для средств измерений электрического сопротивления"
+                },
+                {
+                    "regNumber": "65421.16.2Р.00471713",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/471713",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2604",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

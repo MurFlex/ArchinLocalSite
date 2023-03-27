@@ -1,0 +1,113 @@
+{
+    "170715680": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "37513-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347079",
+                "mitypeType": "VOGEL",
+                "mitypeTitle": "Микрометры цифровые для измерений толщины стенок труб",
+                "manufactureNum": "071010150",
+                "manufactureYear": 2009,
+                "modification": "МТЦ 25"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"ПСКОВСКИЙ ЦСМ\")",
+            "signCipher": "ВО",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "13.07.2022",
+            "validDate": "12.07.2023",
+            "vriType": "2",
+            "docTitle": "ГЦИ СИ ВНИИМС",
+            "applicable": {
+                "certNum": "С-ВО\/13-07-2022\/170715680",
+                "stickerNum": "20015968463",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "74059.19.3Р.00150111",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/150111",
+                    "mitypeNumber": "74059-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/537064",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные",
+                    "notation": "Нет данных",
+                    "modification": "Н21",
+                    "manufactureNum": "1953",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2840 от 29.12.2018"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "170644283": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "37513-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347079",
+                "mitypeType": "VOGEL",
+                "mitypeTitle": "Микрометры цифровые для измерений толщины стенок труб",
+                "manufactureNum": "190531627",
+                "modification": "со сферическим измерительным наконечником"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "владелец",
+            "vrfDate": "12.07.2022",
+            "validDate": "11.07.2023",
+            "vriType": "2",
+            "docTitle": "Микрометры цифровые для измерения толщины стенок труб VOGEL. Методика поверки",
+            "applicable": {
+                "certNum": "С-ТТ\/12-07-2022\/170644283",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17726.03.3Р.00181112",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/181112",
+                    "mitypeNumber": "17726-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318028",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные",
+                    "notation": "Нет данных",
+                    "modification": "Меры длины концевые плоскопараллельные, набор № 3",
+                    "manufactureNum": "Г2308",
+                    "manufactureYear": 2003,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.12.2018г. №2840"
+                },
+                {
+                    "regNumber": "9771.98.3Р.00597318",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/597318",
+                    "mitypeNumber": "9771-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388774",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные образцовые 3-го разряда длиной 100 мм",
+                    "notation": "Нет данных",
+                    "modification": "Набор № 21",
+                    "manufactureNum": "820779",
+                    "manufactureYear": 1984,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.12.2018г. №2840"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "[ID=cb41e410-0275-11ed-8dc0-0cc47a2b9faf] диапазон измерений (0-25) мм, дискретность отсчета 0,001 мм"
+        }
+    }
+}

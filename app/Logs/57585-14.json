@@ -1,0 +1,603 @@
+{
+    "201154697": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "57585-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370476",
+                "mitypeType": "NI PXI-5660, NI PXI-5661",
+                "mitypeTitle": "Анализаторы сигналов модульные",
+                "manufactureNum": "0319DE10\/031E9AF2",
+                "modification": "NI PXI-5660"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБОРЫ, СЕРВИС, ТОРГОВЛЯ\"(АО \"ПРИСТ\")",
+            "signCipher": "ВЛП",
+            "miOwner": "АО БЕТА ИР",
+            "vrfDate": "09.11.2022",
+            "validDate": "08.11.2023",
+            "vriType": "1",
+            "docTitle": "МП РТ 2105-2014, утвержденная ГЦИ СИ ФБУ Ростест-Москва 12.05.2014г.",
+            "applicable": {
+                "certNum": "С-ВЛП\/09-11-2022\/201154697",
+                "stickerNum": "20220015299",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "64926.16.2Р.00105381",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/105381",
+                    "mitypeNumber": "64926-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378636",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP6A, NRP6AN, NRP18A, NRP18AN, NRP40S, NRP40SN, NRP50S, NRP50SN",
+                    "modification": "NRP18A",
+                    "manufactureNum": "101004",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц"
+                },
+                {
+                    "regNumber": "53941.13.4Р.00149789",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149789",
+                    "mitypeNumber": "53941-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366335",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "notation": "Agilent E8257D, Agilent E8267D",
+                    "modification": "E8257D",
+                    "manufactureNum": "MY53402294",
+                    "manufactureYear": 2016,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "40466.09.2Р.00365442",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/365442",
+                    "mitypeNumber": "40466-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389508",
+                    "mitypeTitle": "Стандарты частоты и времени водородные",
+                    "notation": "Ч1-1007",
+                    "modification": "Ч1-1007",
+                    "manufactureNum": "08414",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Времени и частоты"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "64926-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378636",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "number": "101004"
+                },
+                {
+                    "mitypeNumber": "40466-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389508",
+                    "mitypeTitle": "Стандарты частоты и времени водородные",
+                    "number": "08414"
+                },
+                {
+                    "mitypeNumber": "75130-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/615435",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "16430019"
+                },
+                {
+                    "mitypeNumber": "53941-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366334",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "MY53402294"
+                },
+                {
+                    "mitypeNumber": "41402-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351703",
+                    "mitypeTitle": "Генераторы импульсов",
+                    "number": "DE47C00305"
+                }
+            ]
+        },
+        "info": {
+            "structure": "_",
+            "briefIndicator": false,
+            "additional_info": "по наряду № 20220015299"
+        }
+    },
+    "186442364": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "57585-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370476",
+                "mitypeType": "NI PXI-5660, NI PXI-5661",
+                "mitypeTitle": "Анализаторы сигналов модульные",
+                "manufactureNum": "OxED5ABF",
+                "modification": "NI PXI 5661"
+            }
+        },
+        "vriInfo": {
+            "organization": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯРОСЛАВСКИЙ РАДИОЗАВОД\"(ПАО \"ЯРОСЛАВСКИЙ РАДИОЗАВОД\")",
+            "signCipher": "БХЯ",
+            "miOwner": "АО \"Ярославский радиозавод\"",
+            "vrfDate": "14.09.2022",
+            "validDate": "13.09.2023",
+            "vriType": "2",
+            "docTitle": "Анализаторы спектра PXI-5660\/5661 фирмы \"National Instruments\", США. Методика поверки PXI5660.5661.2008.01 МП",
+            "applicable": {
+                "certNum": "С-БХЯ\/14-09-2022\/186442364",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31222.06.3Р.00117468",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/117468",
+                    "mitypeNumber": "31222-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339120",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FS 725",
+                    "modification": "FS 725",
+                    "manufactureNum": "121367",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ времени и частоты, приказ 1621"
+                },
+                {
+                    "regNumber": "43642.10.2Р.00260033",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260033",
+                    "mitypeNumber": "43642-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354371",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP-Z31, NRP-Z56",
+                    "modification": "NRP-Z56",
+                    "manufactureNum": "101748",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС по ГОСТ Р 8.562-2007"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "58300-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371310",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "number": "103042"
+                },
+                {
+                    "mitypeNumber": "35616-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344783",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "104361"
+                },
+                {
+                    "mitypeNumber": "35617-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389743",
+                    "mitypeTitle": "Генераторы сигналов СВЧ",
+                    "number": "102159"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "186442359": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "57585-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370476",
+                "mitypeType": "NI PXI-5660, NI PXI-5661",
+                "mitypeTitle": "Анализаторы сигналов модульные",
+                "manufactureNum": "ОxF10527",
+                "modification": "NI PXI 5660"
+            }
+        },
+        "vriInfo": {
+            "organization": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯРОСЛАВСКИЙ РАДИОЗАВОД\"(ПАО \"ЯРОСЛАВСКИЙ РАДИОЗАВОД\")",
+            "signCipher": "БХЯ",
+            "miOwner": "АО \"Ярославский радиозавод\"",
+            "vrfDate": "14.09.2022",
+            "validDate": "13.09.2023",
+            "vriType": "2",
+            "docTitle": "Анализаторы спектра PXI-5660\/5661 фирмы \"National Instruments\", США. Методика поверки PXI5660.5661.2008.01 МП",
+            "applicable": {
+                "certNum": "С-БХЯ\/14-09-2022\/186442359",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31222.06.3Р.00117468",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/117468",
+                    "mitypeNumber": "31222-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339120",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FS 725",
+                    "modification": "FS 725",
+                    "manufactureNum": "121367",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ времени и частоты, приказ 1621"
+                },
+                {
+                    "regNumber": "43642.10.2Р.00260033",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260033",
+                    "mitypeNumber": "43642-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354371",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP-Z31, NRP-Z56",
+                    "modification": "NRP-Z56",
+                    "manufactureNum": "101748",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС по ГОСТ Р 8.562-2007"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "58300-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371310",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "number": "103042"
+                },
+                {
+                    "mitypeNumber": "35616-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344783",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "104361"
+                },
+                {
+                    "mitypeNumber": "35617-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389743",
+                    "mitypeTitle": "Генераторы сигналов СВЧ",
+                    "number": "102159"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "173957358": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "57585-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370476",
+                "mitypeType": "NI PXI-5660, NI PXI-5661",
+                "mitypeTitle": "Анализаторы сигналов модульные",
+                "manufactureNum": "EDA3A7\/ED4731",
+                "modification": "NI PXI-5660, NI PXI-5661"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧЕЛЯБИНСКИЙ РАДИОЗАВОД \"ПОЛЕТ\"(АО \"ЧРЗ \"ПОЛЕТ\")",
+            "signCipher": "БСЧ",
+            "miOwner": "АО \"Челябинский радиозавод \"Полет\"",
+            "vrfDate": "15.06.2022",
+            "validDate": "14.06.2023",
+            "vriType": "2",
+            "docTitle": "Нет данных",
+            "applicable": {
+                "certNum": "С-БСЧ\/15-06-2022\/173957358",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31222.06.3Р.00446771",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/446771",
+                    "mitypeNumber": "31222-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339120",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FS 725",
+                    "modification": "FS725",
+                    "manufactureNum": "121685",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ 1621 от 31.07.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "43643-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354372",
+                    "mitypeTitle": "Ваттметры проходящей мощности СВЧ",
+                    "number": "100187"
+                },
+                {
+                    "mitypeNumber": "39089-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348990",
+                    "mitypeTitle": "Генераторы сигналов СВЧ",
+                    "number": "104548"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "163127191": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "57585-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370476",
+                "mitypeType": "NI PXI-5660, NI PXI-5661",
+                "mitypeTitle": "Анализаторы сигналов модульные",
+                "manufactureNum": "321574C\/1ECD1BD",
+                "modification": "NI PXI-5661"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБОРЫ, СЕРВИС, ТОРГОВЛЯ\"(АО \"ПРИСТ\")",
+            "signCipher": "ВЛП",
+            "miOwner": "АО БЕТА ИР",
+            "vrfDate": "07.06.2022",
+            "validDate": "06.06.2023",
+            "vriType": "1",
+            "docTitle": "МП РТ 2105-2014, утвержденная ГЦИ СИ ФБУ Ростест-Москва 12.05.2014г.",
+            "applicable": {
+                "certNum": "С-ВЛП\/07-06-2022\/163127191",
+                "stickerNum": "20220006493",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "64926.16.2Р.00105381",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/105381",
+                    "mitypeNumber": "64926-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378636",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP6A, NRP6AN, NRP18A, NRP18AN, NRP40S, NRP40SN, NRP50S, NRP50SN",
+                    "modification": "NRP18A",
+                    "manufactureNum": "101004",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц"
+                },
+                {
+                    "regNumber": "53941.13.4Р.00149789",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149789",
+                    "mitypeNumber": "53941-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366335",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "notation": "Agilent E8257D, Agilent E8267D",
+                    "modification": "E8257D",
+                    "manufactureNum": "MY53402294",
+                    "manufactureYear": 2016,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "40466.09.2Р.00365442",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/365442",
+                    "mitypeNumber": "40466-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389508",
+                    "mitypeTitle": "Стандарты частоты и времени водородные",
+                    "notation": "Ч1-1007",
+                    "modification": "Ч1-1007",
+                    "manufactureNum": "08414",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Времени и частоты"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "41402-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351704",
+                    "mitypeTitle": "Генераторы импульсов",
+                    "number": "DE47C00305"
+                },
+                {
+                    "mitypeNumber": "64926-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378636",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "number": "101004"
+                },
+                {
+                    "mitypeNumber": "40466-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389508",
+                    "mitypeTitle": "Стандарты частоты и времени водородные",
+                    "number": "08414"
+                },
+                {
+                    "mitypeNumber": "53941-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366334",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "MY53402294"
+                },
+                {
+                    "mitypeNumber": "75130-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/615435",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "16430019"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "по наряду № 20220006493"
+        }
+    },
+    "156931106": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "57585-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370476",
+                "mitypeType": "NI PXI-5660, NI PXI-5661",
+                "mitypeTitle": "Анализаторы сигналов модульные",
+                "manufactureNum": "PXI-5142 № F162EC, PXI-5600 № EF6E4A",
+                "modification": "NI PXI-5661"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АКТИ-МАСТЕР\"(АО \"АКТИ-МАСТЕР\")",
+            "signCipher": "ВКИ",
+            "miOwner": "АО \"МНИИРС\"",
+            "vrfDate": "18.05.2022",
+            "validDate": "17.05.2023",
+            "vriType": "2",
+            "docTitle": "методикой поверки ФБУ «Ростест-Москва», МП РТ 2105-2014",
+            "applicable": {
+                "certNum": "С-ВКИ\/18-05-2022\/156931106",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ВКИ.0001.2015",
+                    "title": "Рабочий эталон единицы частоты номинального значения 10 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/486411"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "69958.17.2Р.00564334",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/564334",
+                    "mitypeNumber": "69958-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384139",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP18T, NRP18TN, NRP33T, NRP33TN NRP40T, NRP40TN, NRP50T, NRP50TN, NRP67T, NRP67TN, NRP110T",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "101441",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС, утвержденная приказом ФАТРИМ № 3461 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "69958.17.3Р.00564335",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/564335",
+                    "mitypeNumber": "69958-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384139",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP18T, NRP18TN, NRP33T, NRP33TN NRP40T, NRP40TN, NRP50T, NRP50TN, NRP67T, NRP67TN, NRP110T",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "101441",
+                    "manufactureYear": 2021,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС, утвержденная приказом ФАТРИМ № 3461 от 30 декабря 2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "140902653": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "57585-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370476",
+                "mitypeType": "NI PXI-5660, NI PXI-5661",
+                "mitypeTitle": "Анализаторы сигналов модульные",
+                "manufactureNum": "00EB8D55\/00EA3794",
+                "modification": "NI PXI-5661"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "18.03.2022",
+            "validDate": "17.03.2023",
+            "vriType": "2",
+            "docTitle": "МП РТ 2105-2014",
+            "applicable": {
+                "certNum": "С-МА\/18-03-2022\/140902653",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52615.13.0Р.38604",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/38604",
+                    "mitypeNumber": "52615-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364831",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "notation": "R&S FSW8, R&S FSW13, R&S FSW26",
+                    "modification": "FSW26",
+                    "manufactureNum": "101898",
+                    "manufactureYear": 2020,
+                    "rankCode": "0Р",
+                    "rankTitle": "Эталон 0-го разряда",
+                    "schemaTitle": "ГПС для средств измерений коэффицента амплитудной модуляции высокочастотных колебаний"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00273779",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/273779",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RR",
+                    "manufactureNum": "997693",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "60450.15.4Р.00338050",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/338050",
+                    "mitypeNumber": "60450-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373729",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "DSOX6002A, MSOX6002A, DSOX6004A, MSOX6004A",
+                    "modification": "DSOX6002A",
+                    "manufactureNum": "MY56270150",
+                    "manufactureYear": 2017,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  от 31 июля 2018 г. № 1621"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ]
+        },
+        "info": {
+            "structure": "модуль NI PXI-5600 № 00EB8D55, модуль NI PXI-5142 № 00EA3794",
+            "briefIndicator": false,
+            "additional_info": "911177b4-56a0-420c-9cd4-016030f78a3e"
+        }
+    }
+}

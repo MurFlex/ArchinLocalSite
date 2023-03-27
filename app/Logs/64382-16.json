@@ -1,0 +1,75 @@
+{
+    "157660632": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "64382-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378055",
+                "mitypeType": "AlSCAN",
+                "mitypeTitle": "Анализатор водорода в жидком алюминии",
+                "manufactureNum": "1266730-001",
+                "modification": "AlSCAN"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В МУРМАНСКОЙ ОБЛАСТИ\"(ФБУ \"МУРМАНСКИЙ ЦСМ\")",
+            "signCipher": "ВД",
+            "miOwner": "Акционерное общество \"ОБЪЕДИНЕННАЯ КОМПАНИЯ РУСАЛ УРАЛЬСКИЙ АЛЮМИНИЙ\"",
+            "vrfDate": "19.05.2022",
+            "validDate": "18.05.2023",
+            "vriType": "2",
+            "docTitle": "МП 11-251-2015 «ГСИ. Анализатор водорода в жидком  алюминии AlSCAN. Методика поверки», утвержденному ФГУП «УНИИМ»",
+            "applicable": {
+                "certNum": "С-ВД\/19-05-2022\/157659320",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 10597-2015",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ В АЗОТЕ (N2-П-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389585",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "36304",
+                    "metroChars": "Диапазон измерений: Молярная доля компонента Водорода 9,95 %, погрешность и (или) неопределенность (класс, разряд): 0,11 %"
+                },
+                {
+                    "number": "ГСО 10597-2015",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ В АЗОТЕ (N2-П-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389585",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "36239",
+                    "metroChars": "Диапазон измерений: Молярная доля компонента Водорода 58,53 %, погрешность и (или) неопределенность (класс, разряд): 0,17 %"
+                },
+                {
+                    "number": "ГСО 10597-2015",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ В АЗОТЕ (N2-П-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389585",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "36241",
+                    "metroChars": "Диапазон измерений: Молярная доля компонента Водорода 0,999 %, погрешность и (или) неопределенность (класс, разряд): 0,015 %"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "7476.91.3Р.00326038",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326038",
+                    "mitypeNumber": "7476-91",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385551",
+                    "mitypeTitle": "Компараторы напряжения",
+                    "notation": "Р3003, Р3003М1",
+                    "modification": "Р3003М1",
+                    "manufactureNum": "427",
+                    "manufactureYear": 1992,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "199454423": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25511-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331177",
+                "mitypeType": "СПЕКТРАН-119М",
+                "mitypeTitle": "Анализаторы инфракрасные",
+                "manufactureNum": "АТ0006",
+                "modification": "СПЕКТРАН-119М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ГБУ Краснодарского края \"Кропоткинская краевая ветеринарная либоратория\"",
+            "vrfDate": "03.11.2022",
+            "validDate": "02.11.2023",
+            "vriType": "2",
+            "docTitle": "приложение А к Ю-30.67.111 РЭ1",
+            "applicable": {
+                "certNum": "С-СП\/03-11-2022\/199454423",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "47321.11.РЭ.00646805",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/646805",
+                    "mitypeNumber": "47321-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358550",
+                    "mitypeTitle": "Комплекты мер диффузного отражения",
+                    "notation": "ОДО-4",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "10-31",
+                    "manufactureYear": 2022,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 27.11.2018 №2517"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        },
+        "publication": {
+            "status": "Запись была модифицирована",
+            "reason": "1",
+            "date": "22.02.2023"
+        }
+    },
+    "161912874": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25511-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331177",
+                "mitypeType": "СПЕКТРАН-119М",
+                "mitypeTitle": "Анализаторы инфракрасные",
+                "manufactureNum": "АВ0034",
+                "modification": "СПЕКТРАН-119М"
+            }
+        },
+        "vriInfo": {
+            "organization": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Республике Татарстан\"(ФБУ \"ЦСМ Татарстан\")",
+            "signCipher": "АМ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "01.06.2022",
+            "validDate": "31.05.2023",
+            "vriType": "2",
+            "docTitle": "документом Ю-30.67.111 \"Анализатор инфракрасный СПЕКТРАН-119М.Методика поверки\" Приложение А к Руководству по эксплуатации.",
+            "applicable": {
+                "certNum": "С-АМ\/01-06-2022\/161912874",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 9734-2010",
+                    "title": "СО СОСТАВА ЗЕРНА И ПРОДУКТОВ ЕГО ПЕРЕРАБОТКИ",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/390450",
+                    "manufactureYear": 2021
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

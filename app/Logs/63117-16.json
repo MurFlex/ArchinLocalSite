@@ -1,0 +1,50 @@
+{
+    "178481836": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63117-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376698",
+                "mitypeType": "ТСЮИ.403511.013",
+                "mitypeTitle": "Система единого времени монтажно-испытательного корпуса космической головной части",
+                "manufactureNum": "101",
+                "manufactureYear": 2016,
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "21.06.2022",
+            "validDate": "20.06.2023",
+            "vriType": "2",
+            "docTitle": "ТСЮИ.403511.013 МП",
+            "applicable": {
+                "certNum": "С-Х\/21-06-2022\/165284598",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0381.2021",
+                    "title": "Государственный вторичный эталон единиц времени в диапазоне значений от 1,0 нс до 1,0·10[^6] с, частоты в диапазоне значений от 1,0·10[^-3] Гц до 4,0·10[^10] Гц и шкалы времени ВЭТ 1-7",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393892"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "67603-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381573",
+                    "mitypeTitle": "Датчики",
+                    "number": "0151"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-178481836\/protocol"
+        }
+    }
+}

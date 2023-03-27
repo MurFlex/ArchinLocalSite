@@ -1,0 +1,89 @@
+{
+    "184140858": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "6783-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381808",
+                "mitypeType": "12XJ039",
+                "mitypeTitle": "Генераторы измерительные",
+                "manufactureNum": "120294403B224",
+                "modification": "12XG032"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТУЛЬСКОЙ И ОРЛОВСКОЙ ОБЛАСТЯХ\"(ФБУ \"ТУЛЬСКИЙ ЦСМ\")",
+            "signCipher": "ВИ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "30.08.2022",
+            "validDate": "29.08.2023",
+            "vriType": "2",
+            "docTitle": "МУ по поверке СИ проводной связи",
+            "applicable": {
+                "certNum": "С-ВИ\/30-08-2022\/184140858",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "9135.83.4Р.00453089",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/453089",
+                    "mitypeNumber": "9135-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387836",
+                    "mitypeTitle": "Частотомеры электронно-счетные вычислительные",
+                    "notation": "Ч3-64",
+                    "modification": "Ч3-64",
+                    "manufactureNum": "8708125",
+                    "manufactureYear": 1987,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«приказ Росстандарта №1621  от 31.07.2018 г »"
+                },
+                {
+                    "regNumber": "5477.76.1Р.00628368",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/628368",
+                    "mitypeNumber": "5477-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367253",
+                    "mitypeTitle": "Вольтметры переменного тока диодные компенсационные",
+                    "notation": "В3-49",
+                    "modification": "В3-49",
+                    "manufactureNum": "3239",
+                    "manufactureYear": 1991,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказа Росстандарта №1942 от 03.09.2021 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "31953-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340128",
+                    "mitypeTitle": "Приборы для измерения электроэнергетических величин и показателей качества электрической энергии",
+                    "number": "332"
+                },
+                {
+                    "mitypeNumber": "7983-80",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386260",
+                    "mitypeTitle": "Вольтметры универсальные цифровые",
+                    "number": "00664"
+                },
+                {
+                    "mitypeNumber": "6703-78",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380941",
+                    "mitypeTitle": "Генераторы сигналов низкочастотные",
+                    "number": "43856\/5395"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "023F"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

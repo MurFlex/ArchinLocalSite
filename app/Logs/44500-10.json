@@ -1,0 +1,85 @@
+{
+    "134320708": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44500.10.ВЭ.00559996",
+                "mitypeNumber": "44500-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389359",
+                "mitypeTitle": "Установки измерительные универсальные",
+                "mitypeType": "К2-88",
+                "modification": "К2-88",
+                "manufactureNum": "001",
+                "manufactureYear": 2012,
+                "rankCode": "ВЭ",
+                "rankTitle": "Вторичный эталон",
+                "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии 3456 от 30.12.2019"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЛАВНЫЙ НАУЧНЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ(ФГБУ \"ГНМЦ\" МИНОБОРОНЫ РОССИИ)",
+            "signCipher": "ВХН",
+            "miOwner": "ФГБУ \"ГНМЦ\" МИНОБОРОНЫ РОССИИ",
+            "vrfDate": "18.02.2022",
+            "validDate": "17.02.2023",
+            "vriType": "2",
+            "docTitle": "ЦЕКВ.411182.001РЭ",
+            "applicable": {
+                "certNum": "С-ВХН\/18-02-2022\/134320708",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ВХН.0017.2020",
+                    "title": "Вторичный эталон единицы электрического сопротивления ВЭ-20-03",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1384692"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "55056-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367579",
+                    "mitypeTitle": "Меры напряжения",
+                    "number": "7240016"
+                },
+                {
+                    "mitypeNumber": "41370-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351666",
+                    "mitypeTitle": "Калибраторы-измерители нелинейных искажений",
+                    "number": "0174"
+                },
+                {
+                    "mitypeNumber": "37704-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347308",
+                    "mitypeTitle": "Меры сопротивления",
+                    "number": "011218"
+                },
+                {
+                    "mitypeNumber": "22622-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326604",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "number": "Sm856769"
+                },
+                {
+                    "mitypeNumber": "32111-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389877",
+                    "mitypeTitle": "Установки измерительные",
+                    "number": "001111"
+                },
+                {
+                    "mitypeNumber": "27520-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390097",
+                    "mitypeTitle": "Системы измерительные автоматизированные постоянного напряжения",
+                    "number": "008609"
+                }
+            ]
+        },
+        "info": {
+            "structure": "К2-88К, К2-88Н, К2-88Т",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-134320708\/protocol"
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "199942793": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25014.03.1Р.00706294",
+                "mitypeNumber": "25014-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/330454",
+                "mitypeTitle": "Установка поверочная",
+                "mitypeType": "NPL200\/350",
+                "modification": "NPL200\/350",
+                "manufactureNum": "20006707",
+                "manufactureYear": 1999,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приказ Росстандарта  №  1133 от 11.05.2022 г"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "20.10.2022",
+            "validDate": "19.10.2023",
+            "vriType": "2",
+            "docTitle": "МП РТ №863-2003",
+            "applicable": {
+                "certNum": "С-МА\/20-10-2022\/198726102",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "45158.10.5Р.00120032",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/120032",
+                    "mitypeNumber": "45158-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356111",
+                    "mitypeTitle": "Весы электронные",
+                    "notation": "K",
+                    "modification": "весы электронные КСС150",
+                    "manufactureNum": "3372753",
+                    "manufactureYear": 2013,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.12.2018 № 2818"
+                },
+                {
+                    "regNumber": "44154.16.РЭ.00636557",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/636557",
+                    "mitypeNumber": "44154-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354976",
+                    "mitypeTitle": "Секундомеры электронные",
+                    "notation": "Интеграл С-01",
+                    "modification": "Интеграл С-01",
+                    "manufactureNum": "403992",
+                    "manufactureYear": 2017,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Для средств измерений времени, частоты и импульсов"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-199942793\/protocol",
+            "additional_info": "1041f0b1-abc6-4eb6-8f68-51cd7d8339b0"
+        }
+    }
+}

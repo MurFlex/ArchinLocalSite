@@ -1,0 +1,62 @@
+{
+    "208825006": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "66663-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380542",
+                "mitypeType": "ТМСА 8.0-12.0 Б 059",
+                "mitypeTitle": "Комплекс автоматизированный измерительно-вычислительный",
+                "manufactureNum": "059",
+                "manufactureYear": 2016,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "15.12.2022",
+            "validDate": "14.12.2024",
+            "vriType": "2",
+            "docTitle": "165-16-06 МП. \"Инструкция. Комплекс автоматизированный измерительно-вычислительный ТМСА 8.0-12.0 Б 059. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-Т\/15-12-2022\/208825006",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0210.2015",
+                    "title": "Государственный вторичный эталон единиц комплексных коэффициентов передачи в диапазоне от 0 до минус 60 дБ и комплексных коэффициентов отражений в диапазоне от 0,002 до 1 в диапазоне частот от 0,05 до 65·ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/495309"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "60239-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373488",
+                    "mitypeTitle": "Аттенюаторы ступенчатые программируемые",
+                    "number": "MY46151036"
+                },
+                {
+                    "mitypeNumber": "60403-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373677",
+                    "mitypeTitle": "Системы лазерные координатно-измерительные",
+                    "number": "752362"
+                },
+                {
+                    "mitypeNumber": "55403-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/491321",
+                    "mitypeTitle": "Комплекты антенные измерительные",
+                    "number": "040115067"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid370f7bee-eec7-474b-8568-89cf02fc4c31"
+        }
+    }
+}

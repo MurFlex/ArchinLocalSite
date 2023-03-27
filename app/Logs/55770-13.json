@@ -1,0 +1,99 @@
+{
+    "215856440": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "55770.13.РЭ.00767374",
+                "mitypeNumber": "55770-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368373",
+                "mitypeTitle": "Рабочий эталон единиц длины и ослабления в световоде",
+                "mitypeType": "Нет данных",
+                "modification": "Нет модификации",
+                "manufactureNum": "34",
+                "manufactureYear": 2013,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 05.12.2019 №2862"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "7751508111 ЭКСПЕРТЛАБС ООО",
+            "vrfDate": "16.01.2023",
+            "validDate": "15.01.2024",
+            "vriType": "2",
+            "docTitle": "МП 42.Д4-11",
+            "applicable": {
+                "certNum": "С-А\/16-01-2023\/215856440",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт170-2011",
+                    "title": "ГПСЭ единиц длины и времени распространения сигнала в световоде, средней мощности, ослабления и длины волны оптического излучения для волоконно-оптических систем передачи информации",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397854"
+                }
+            ]
+        },
+        "info": {
+            "structure": "оптический генератор №17713",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-215856440\/protocol"
+        }
+    },
+    "124880958": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "55770.13.РЭ.00533537",
+                "mitypeNumber": "55770-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368373",
+                "mitypeTitle": "Рабочий эталон единиц длины и ослабления в световоде",
+                "mitypeType": "Нет данных",
+                "modification": "-",
+                "manufactureNum": "34",
+                "manufactureYear": 2013,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 05.12.2019 №2862"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "7751508111 Концепт Эксперт ООО",
+            "vrfDate": "19.01.2022",
+            "validDate": "18.01.2023",
+            "vriType": "2",
+            "docTitle": "МП 42.Д4-11",
+            "applicable": {
+                "certNum": "С-А\/19-01-2022\/124880958",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт170-2011",
+                    "title": "ГПСЭ единиц длины и времени распространения сигнала в световоде, средней мощности, ослабления и длины волны оптического излучения для волоконно-оптических систем передачи информации",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397854"
+                }
+            ],
+            "uve": [
+                {
+                    "number": "3.1.ZZA.0029.2015",
+                    "title": "ГРЭ единицы средней мощности оптического излучения в волоконно-оптических системах передачи в диапазоне от 10[^-11] до 10[^-2] Вт на длинах волн от 500 до 1700 нм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/449767"
+                }
+            ]
+        },
+        "info": {
+            "structure": "оптический генератор №17713",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-124880958\/protocol"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "174006300": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "55903-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368529",
+                "mitypeType": "Rohde&Schwarz АМ524",
+                "mitypeTitle": "Системы антенные активные",
+                "manufactureNum": "100080",
+                "modification": "Rohde&Schwarz АМ524"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "28.07.2022",
+            "validDate": "27.07.2023",
+            "vriType": "2",
+            "docTitle": "МП 55903-13",
+            "applicable": {
+                "certNum": "С-МА\/28-07-2022\/174006300",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZТТ.0048.2022",
+                    "title": "-",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1400055"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "39230.08.4Р.00246936",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/246936",
+                    "mitypeNumber": "39230-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349152",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "notation": "SMB100A",
+                    "modification": "SMB100A",
+                    "manufactureNum": "113942",
+                    "manufactureYear": 2017,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31 июля 2018 года № 1621"
+                },
+                {
+                    "regNumber": "85313.22.РЭ.00610342",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/610342",
+                    "mitypeNumber": "85313-22",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1399023",
+                    "mitypeTitle": "Установка для поверки измерительных антенн",
+                    "notation": "П1-31",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "01",
+                    "manufactureYear": 2021,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ плотности потока энергии электромагнитного поля в диапазоне частот от 0,3 до 178,4ГГц"
+                }
+            ]
+        },
+        "info": {
+            "structure": "антенна НЕ525 № 100088; антенна НЕ526 № 100081;  антенна НЕ527 № 100082; базовый блок КК524 № 100087",
+            "briefIndicator": false,
+            "additional_info": "c46dac0f-50ef-4a79-88b6-f7baa82f4305"
+        }
+    }
+}

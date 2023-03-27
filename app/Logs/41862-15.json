@@ -1,0 +1,78 @@
+{
+    "213576773": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "41862-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/352264",
+                "mitypeType": "P, PMP, ST",
+                "mitypeTitle": "Проекторы измерительные",
+                "manufactureNum": "39244",
+                "modification": "ST 600V"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КОРПОРАЦИЯ \"ТАКТИЧЕСКОЕ РАКЕТНОЕ ВООРУЖЕНИЕ\"(АО \"КОРПОРАЦИЯ \"ТАКТИЧЕСКОЕ РАКЕТНОЕ ВООРУЖЕНИЕ\")",
+            "signCipher": "ВАН",
+            "miOwner": "АО КТРВ",
+            "vrfDate": "29.12.2022",
+            "validDate": "28.12.2023",
+            "vriType": "2",
+            "docTitle": "МП ТИнТ 169-2014",
+            "applicable": {
+                "certNum": "С-ВАН\/29-12-2022\/213576773",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.7.АДЭ.0001.2021",
+                    "title": "Рабочий эталон единицы длины 2 разряда в диапазоне значений от 0 до 200 мм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1394429"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "161991943": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "41862-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/352264",
+                "mitypeType": "P, PMP, ST",
+                "mitypeTitle": "Проекторы измерительные",
+                "manufactureNum": "38036",
+                "modification": "360Н"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ООО \"НИИ Транснефть\"",
+            "vrfDate": "06.06.2022",
+            "validDate": "05.06.2023",
+            "vriType": "2",
+            "docTitle": "МП ТИнТ 169-2014 «Проекторы измерительные Р, РМР, ST. Методика поверки», утвержденной ГЦИ СИ ООО «ТестИнТех» 27.10.2014г.",
+            "applicable": {
+                "certNum": "С-АБ\/06-06-2022\/161991943",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZАБ.0056.2012",
+                    "title": "ГЭЕ длины 1 разряда в диапазоне значений (1…200) мм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/462843"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

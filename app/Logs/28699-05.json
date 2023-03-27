@@ -1,0 +1,62 @@
+{
+    "215255451": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "28699-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335775",
+                "mitypeType": "ДИЭЛТЕСТ",
+                "mitypeTitle": "Пирометры стационарные",
+                "manufactureNum": "260",
+                "modification": "ДИЭЛТЕСТ-ТВ3С"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"КОМПОЗИТ\"",
+            "vrfDate": "16.01.2023",
+            "validDate": "15.01.2024",
+            "vriType": "2",
+            "docTitle": "Методика поверки, утвержденная ГЦИ СИ \"ВНИИОФИ\" в декабре 2004 г. (Приложение к Руководству по эксплуатации пирометра ДИЭЛТЕСТ)",
+            "applicable": {
+                "certNum": "С-МА\/16-01-2023\/215255451",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0183.2013",
+                    "title": "ГЭЕ температуры 2 разряда в диапазоне значений от 600 до 3000 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/459326"
+                },
+                {
+                    "number": "3.1.ZMA.0201.2015",
+                    "title": "Государственный рабочий эталон единицы температуры 1 разряда в диапазоне значений от 1000°С до 3000°С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/406841"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "43275.09.1Р.21163",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/21163",
+                    "mitypeNumber": "43275-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353936",
+                    "mitypeTitle": "Пирометры инфракрасные",
+                    "notation": "IS 12-TSP, IGA 12-TSP",
+                    "modification": "IS 12-TSP",
+                    "manufactureNum": "1004",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "a5cacb40-e40e-4f07-8232-017d645f355e"
+        }
+    }
+}

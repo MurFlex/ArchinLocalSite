@@ -1,0 +1,53 @@
+{
+    "173616282": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3703-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346486",
+                "mitypeType": "МТ-30Н",
+                "mitypeTitle": "Приборы для измерения толщины немагнитных покрытий на ферромагнитной основе",
+                "manufactureNum": "156",
+                "manufactureYear": 1975,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОДК-САТУРН\"(ПАО \"ОДК-САТУРН\")",
+            "signCipher": "БНР",
+            "miOwner": "Публичное акционерное общество \"ОДК-Сатурн\"",
+            "vrfDate": "26.07.2022",
+            "validDate": "25.07.2023",
+            "vriType": "2",
+            "docTitle": "МП 2512-0002-2012",
+            "applicable": {
+                "certNum": "С-БНР\/26-07-2022\/173616282",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "50316.12.СИ.00640331",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/640331",
+                    "mitypeNumber": "50316-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362141",
+                    "mitypeTitle": "Меры толщины покрытий",
+                    "notation": "МТ",
+                    "modification": "мод.МТ",
+                    "manufactureNum": "522",
+                    "manufactureYear": 2015,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "«ГПС для средств измерений толщины покрытий  утвеждённая приказом Росстандарта № 3276  от 23.12.2019»"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Диапазон: от 0  до 100 мкм ,распоряжение №188\/004-191 от 11.08.2004г.",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-173616282\/protocol",
+            "additional_info": "#mid7cff1e48-28c7-4cde-9773-900ce5fb278a"
+        }
+    }
+}

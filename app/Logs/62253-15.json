@@ -1,0 +1,2160 @@
+{
+    "219791858": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "18410519",
+                "modification": "MI 3394"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"",
+            "vrfDate": "02.02.2023",
+            "validDate": "01.02.2025",
+            "vriType": "2",
+            "docTitle": "МП 62253-15",
+            "applicable": {
+                "certNum": "С-МА\/02-02-2023\/219791858",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0071.2013",
+                    "title": "Государственный вторичный эталон единицы электрического сопротивления при номинальных значениях 0,001 Ом, 0,01 Ом, 0,1 Ом, 1 Ом, 10 Ом, 100 Ом, 1 кОм, 10 кОм, 100 кОм, 1 МОм, 10 МОм, 100 МОм, 1 ГОм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/459560"
+                },
+                {
+                    "number": "3.1.ZTT.0004.2021",
+                    "title": "Государственный рабочий эталон 1 разряда единицы электрического напряжения переменного тока промышленной частоты в диапазоне значений от 1 до 346 кВ",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1392546"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "37541.08.4Р.00327912",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/327912",
+                    "mitypeNumber": "37541-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347112",
+                    "mitypeTitle": "Магазины мер сопротивлений петли короткого замыкания",
+                    "notation": "ММС-1",
+                    "modification": "ММС-1",
+                    "manufactureNum": "310012",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г"
+                },
+                {
+                    "regNumber": "63371.16.3Р.00555797",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/555797",
+                    "mitypeNumber": "63371-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376958",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34465А, 34470А",
+                    "modification": "34470А",
+                    "manufactureNum": "MY59028129",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "63371.16.4Р.00555808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/555808",
+                    "mitypeNumber": "63371-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376958",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34465А, 34470А",
+                    "modification": "34470А",
+                    "manufactureNum": "MY59028129",
+                    "manufactureYear": 2020,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ  Росстандарта  от  30 декабря 2019 г.  №3456"
+                },
+                {
+                    "regNumber": "63371.16.2Р.00555809",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/555809",
+                    "mitypeNumber": "63371-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376958",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34465А, 34470А",
+                    "modification": "34470А",
+                    "manufactureNum": "MY59028129",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ  Росстандарта от  14 мая 2015 г. №575"
+                },
+                {
+                    "regNumber": "63371.16.2Р.00555810",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/555810",
+                    "mitypeNumber": "63371-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376958",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34465А, 34470А",
+                    "modification": "34470А",
+                    "manufactureNum": "MY59028129",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ  Росстандарта  от  01 октября  2018 г. №2091"
+                },
+                {
+                    "regNumber": "63371.16.2Р.00555811",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/555811",
+                    "mitypeNumber": "63371-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376958",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34465А, 34470А",
+                    "modification": "34470А",
+                    "manufactureNum": "MY59028129",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 03.09.2021 г. № 1942"
+                },
+                {
+                    "regNumber": "51622.12.4Р.00556664",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/556664",
+                    "mitypeNumber": "51622-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363672",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "notation": "МС-3, МС-6, МС-9",
+                    "modification": "МС-9-01\/1",
+                    "manufactureNum": "313084",
+                    "manufactureYear": 2020,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ  Росстандарта  от  30 декабря 2019 г.  №3456"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "83afe8af-130a-4b6e-8387-1412fe2e2dac"
+        }
+    },
+    "219009331": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "18410496",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТУЛЬСКОЙ И ОРЛОВСКОЙ ОБЛАСТЯХ\"(ФБУ \"ТУЛЬСКИЙ ЦСМ\")",
+            "signCipher": "ВИ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "31.01.2023",
+            "validDate": "30.01.2025",
+            "vriType": "2",
+            "docTitle": "МП 62253-15",
+            "applicable": {
+                "certNum": "С-ВИ\/31-01-2023\/219009331",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31953.06.2Р.52903",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/52903",
+                    "mitypeNumber": "31953-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340128",
+                    "mitypeTitle": "Приборы для измерения электроэнергетических величин и показателей качества электрической энергии",
+                    "notation": "Энергомонитор-3.3Т",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "332",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.551-2013 «Государственная система обеспечения единства измерений. Государственная поверочная схема для средств измерений"
+                },
+                {
+                    "regNumber": "54757.13.4Р.00218962",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/218962",
+                    "mitypeNumber": "54757-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367239",
+                    "mitypeTitle": "Меры-имитаторы",
+                    "notation": "Р40116М",
+                    "modification": "Р40116М",
+                    "manufactureNum": "017",
+                    "manufactureYear": 2017,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "59844.15.РЭ.00253405",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/253405",
+                    "mitypeNumber": "59844-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373067",
+                    "mitypeTitle": "Ваттметры многофункциональные цифровые",
+                    "notation": "СМ3010",
+                    "modification": "нет модификации",
+                    "manufactureNum": "0008",
+                    "manufactureYear": 2015,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ переменного эл. тока, утв. приказом Росстандарта от 14.05.2015 г №575"
+                },
+                {
+                    "regNumber": "59844.15.РЭ.00253406",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/253406",
+                    "mitypeNumber": "59844-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373067",
+                    "mitypeTitle": "Ваттметры многофункциональные цифровые",
+                    "notation": "СМ3010",
+                    "modification": "нет модификации",
+                    "manufactureNum": "0008",
+                    "manufactureYear": 2015,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ переменного эл. напряжения до 1000 В, утв. приказом Росстандарта от 29.05.2018 г №1053"
+                },
+                {
+                    "regNumber": "59844.15.РЭ.00253409",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/253409",
+                    "mitypeNumber": "59844-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373067",
+                    "mitypeTitle": "Ваттметры многофункциональные цифровые",
+                    "notation": "СМ3010",
+                    "modification": "нет модификации",
+                    "manufactureNum": "0008",
+                    "manufactureYear": 2015,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЛПС 16-0443 ЛПС для СИ эл.мощности и частоты в цепях пост.тока и в однофазных цепях перем.тока"
+                },
+                {
+                    "regNumber": "54848.13.3Р.00268778",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/268778",
+                    "mitypeNumber": "54848-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367345",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34401A, 34460A, 34461A",
+                    "modification": "34401A",
+                    "manufactureNum": "MY47014409",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.19 г."
+                },
+                {
+                    "regNumber": "54848.13.2Р.00268830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/268830",
+                    "mitypeNumber": "54848-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367345",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34401A, 34460A, 34461A",
+                    "modification": "34401A",
+                    "manufactureNum": "MY47014409",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.18 г."
+                },
+                {
+                    "regNumber": "1162.58.3Р.00482608",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/482608",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "054226",
+                    "manufactureYear": 1966,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "«Приказ Росстандарта №3456 от 30.12.2019 »"
+                },
+                {
+                    "regNumber": "1162.58.3Р.00482609",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/482609",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "049616",
+                    "manufactureYear": 1967,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "«Приказ Росстандарта №3456 от 30.12.2019 »"
+                },
+                {
+                    "regNumber": "4614.74.4Р.00504214",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/504214",
+                    "mitypeNumber": "4614-74",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357219",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "notation": "МСР Р4830\/1, Р4830\/2, Р4830\/3",
+                    "modification": "Р4830\/1",
+                    "manufactureNum": "4007",
+                    "manufactureYear": 1993,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ  Росстандарта  от  30 декабря 2019 г.  №3456"
+                },
+                {
+                    "regNumber": "1162.58.3Р.00593038",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/593038",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "153154",
+                    "manufactureYear": 1969,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "«приказу Росстандарта №3456 от 30.12.2019»"
+                },
+                {
+                    "regNumber": "1162.58.3Р.00593040",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/593040",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "073504",
+                    "manufactureYear": 1964,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "«приказу Росстандарта №3456 от 30.12.2019»"
+                },
+                {
+                    "regNumber": "54848.13.2Р.00635310",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/635310",
+                    "mitypeNumber": "54848-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367345",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34401A, 34460A, 34461A",
+                    "modification": "34401A",
+                    "manufactureNum": "MY47014409",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 17.03.2022 № 668"
+                },
+                {
+                    "regNumber": "54848.13.3Р.00635312",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/635312",
+                    "mitypeNumber": "54848-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367345",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34401A, 34460A, 34461A",
+                    "modification": "34401A",
+                    "manufactureNum": "MY47014409",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 03.09.2021 г. № 1942"
+                },
+                {
+                    "regNumber": "1622.62.2Р.00645122",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/645122",
+                    "mitypeNumber": "1622-62",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315085",
+                    "mitypeTitle": "Амперметры",
+                    "notation": "Д553",
+                    "modification": "Д553",
+                    "manufactureNum": "49201",
+                    "manufactureYear": 1974,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«пр. Росстандарта №668 от 17.03.2022 г.»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "40999-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351236",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "А3493U"
+                },
+                {
+                    "mitypeNumber": "10194-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304361",
+                    "mitypeTitle": "Вольтметры",
+                    "number": "253"
+                },
+                {
+                    "mitypeNumber": "10194-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304361",
+                    "mitypeTitle": "Вольтметры",
+                    "number": "2958"
+                },
+                {
+                    "mitypeNumber": "10194-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304361",
+                    "mitypeTitle": "Вольтметры",
+                    "number": "3310"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "5Е33"
+                },
+                {
+                    "mitypeNumber": "63921-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377553",
+                    "mitypeTitle": "Киловольтметры",
+                    "number": "22060104693"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "218774836": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "18200113",
+                "manufactureYear": 2018,
+                "modification": "Mi 3394"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "25.01.2023",
+            "validDate": "24.01.2025",
+            "vriType": "2",
+            "docTitle": "МП 62253-15",
+            "applicable": {
+                "certNum": "С-СЕ\/25-01-2023\/218774836",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZCE.1378.2019",
+                    "title": "Государственный рабочий эталон единиц электрического напряжения постоянного тока 1 разряда в диапазоне значений от минус 1 до минус 100 кВ и от 1 до 100 кВ, электрического напряжения переменного тока промышленной частоты 1 разряда в диапазоне значений от 1 до 100 кВ",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1120030"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "9381.83.4Р.00151297",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/151297",
+                    "mitypeNumber": "9381-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388217",
+                    "mitypeTitle": "Магазины сопротивления",
+                    "notation": "Р40105, Р40106, Р40107, Р40108",
+                    "modification": "Р40108",
+                    "manufactureNum": "1066",
+                    "manufactureYear": 1987,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "1162.58.1Р.00187161",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/187161",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "002839",
+                    "manufactureYear": 1960,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "1162.58.1Р.00187162",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/187162",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "003608",
+                    "manufactureYear": 1960,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "1162.58.3Р.00539815",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/539815",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "066280, 177695, 212496",
+                    "manufactureYear": 1974,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "76322.19.3Р.00615458",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/615458",
+                    "mitypeNumber": "76322-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/891958",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "GDM-79060, GDM-79061",
+                    "modification": "GDM-79061",
+                    "manufactureNum": "GEW811909",
+                    "manufactureYear": 2022,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "76322.19.3Р.00615465",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/615465",
+                    "mitypeNumber": "76322-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/891958",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "GDM-79060, GDM-79061",
+                    "modification": "GDM-79061",
+                    "manufactureNum": "GEW811909",
+                    "manufactureYear": 2022,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "4551.74.РЭ.00726742",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/726742",
+                    "mitypeNumber": "4551-74",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356496",
+                    "mitypeTitle": "Вольтметры",
+                    "notation": "С502",
+                    "modification": "С5028",
+                    "manufactureNum": "9621",
+                    "manufactureYear": 1980,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "«ЛПС № 4400-02-2022 для СИ электрического напряжения постоянного и переменного тока в диапазоне значений от 0,3 до 30 кВ»"
+                },
+                {
+                    "regNumber": "4551.74.РЭ.00726753",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/726753",
+                    "mitypeNumber": "4551-74",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356496",
+                    "mitypeTitle": "Вольтметры",
+                    "notation": "С502",
+                    "modification": "С5028",
+                    "manufactureNum": "9621",
+                    "manufactureYear": 1980,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "«ЛПС № 4400-02-2022 для СИ электрического напряжения постоянного и переменного тока в диапазоне значений от 0,3 до 30 кВ»"
+                },
+                {
+                    "regNumber": "10194.85.РЭ.00727895",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/727895",
+                    "mitypeNumber": "10194-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304361",
+                    "mitypeTitle": "Вольтметры",
+                    "notation": "С503, С504, С505, С506, С507, С508, С509, С510, С511",
+                    "modification": "нет",
+                    "manufactureNum": "4241",
+                    "manufactureYear": 1989,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "«ЛПС № 4400-02-2022 для СИ электрического напряжения постоянного и переменного тока в диапазоне значений от 0,3 до 30 кВ»"
+                },
+                {
+                    "regNumber": "10194.85.РЭ.00727900",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/727900",
+                    "mitypeNumber": "10194-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304361",
+                    "mitypeTitle": "Вольтметры",
+                    "notation": "С503, С504, С505, С506, С507, С508, С509, С510, С511",
+                    "modification": "нет",
+                    "manufactureNum": "4241",
+                    "manufactureYear": 1989,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "«ЛПС № 4400-02-2022 для СИ электрического напряжения постоянного и переменного тока в диапазоне значений от 0,3 до 30 кВ»"
+                },
+                {
+                    "regNumber": "2303.68.РЭ.00733275",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/733275",
+                    "mitypeNumber": "2303-68",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327285",
+                    "mitypeTitle": "Киловольтметры электростатические",
+                    "notation": "С196",
+                    "modification": "С 196",
+                    "manufactureNum": "1520",
+                    "manufactureYear": 1985,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "«ЛПС № 4400-02-2022 для СИ электрического напряжения постоянного и переменного тока в диапазоне значений от 0,3 до 30 кВ»"
+                },
+                {
+                    "regNumber": "2303.68.РЭ.00733319",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/733319",
+                    "mitypeNumber": "2303-68",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327285",
+                    "mitypeTitle": "Киловольтметры электростатические",
+                    "notation": "С196",
+                    "modification": "С 196",
+                    "manufactureNum": "1520",
+                    "manufactureYear": 1985,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "«ЛПС № 4400-02-2022 для СИ электрического напряжения постоянного и переменного тока в диапазоне значений от 0,3 до 30 кВ»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "048"
+                },
+                {
+                    "mitypeNumber": "44170-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354995",
+                    "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                    "number": "А93314"
+                },
+                {
+                    "mitypeNumber": "32696-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341136",
+                    "mitypeTitle": "Приборы для измерений показателей качества электрической энергии",
+                    "number": "4325"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "без измерения силы переменного и постоянного тока утечки; без измерения мощности.",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-218774836\/protocol"
+        }
+    },
+    "207952011": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "17370631",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТУЛЬСКОЙ И ОРЛОВСКОЙ ОБЛАСТЯХ\"(ФБУ \"ТУЛЬСКИЙ ЦСМ\")",
+            "signCipher": "ВИ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "13.12.2022",
+            "validDate": "12.12.2024",
+            "vriType": "2",
+            "docTitle": "МП 62253-15",
+            "applicable": {
+                "certNum": "С-ВИ\/13-12-2022\/207952011",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "54848.13.3Р.00268778",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/268778",
+                    "mitypeNumber": "54848-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367345",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34401A, 34460A, 34461A",
+                    "modification": "34401A",
+                    "manufactureNum": "MY47014409",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.19 г."
+                },
+                {
+                    "regNumber": "54848.13.2Р.00268830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/268830",
+                    "mitypeNumber": "54848-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367345",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34401A, 34460A, 34461A",
+                    "modification": "34401A",
+                    "manufactureNum": "MY47014409",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.18 г."
+                },
+                {
+                    "regNumber": "2224.66.РЭ.00286912",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/286912",
+                    "mitypeNumber": "2224-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325965",
+                    "mitypeTitle": "Магазины сопротивлений рычажные",
+                    "notation": "Р4002",
+                    "modification": "нет модификации",
+                    "manufactureNum": "9355",
+                    "manufactureYear": 1980,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЛПС 16-0374 Локальная поверочная схема для СИ параметров кабельных линий"
+                },
+                {
+                    "regNumber": "4124.88.3Р.00437602",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/437602",
+                    "mitypeNumber": "4124-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351519",
+                    "mitypeTitle": "Меры-имитаторы",
+                    "notation": "Р4085-М1",
+                    "modification": "Р4085-М1",
+                    "manufactureNum": "069",
+                    "manufactureYear": 1991,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "1162.58.3Р.00593687",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/593687",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р331",
+                    "manufactureNum": "111478",
+                    "manufactureYear": 1963,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "«приказу Росстандарта №3456 от 30.12.2019»"
+                },
+                {
+                    "regNumber": "5596.76.3Р.00609133",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/609133",
+                    "mitypeNumber": "5596-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368591",
+                    "mitypeTitle": "Приборы для поверки вольтметров переменного тока (только в комплекте с блоками усиления напряжения)",
+                    "notation": "В1-9 (приборы) Я1В-20, Я1В-22 (блоки)",
+                    "modification": "В1-9",
+                    "manufactureNum": "63886\/56686",
+                    "manufactureYear": 1986,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "«пр. Росстандарта №1942 от 03.09.2021 г.»"
+                },
+                {
+                    "regNumber": "54848.13.2Р.00635310",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/635310",
+                    "mitypeNumber": "54848-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367345",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34401A, 34460A, 34461A",
+                    "modification": "34401A",
+                    "manufactureNum": "MY47014409",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 17.03.2022 № 668"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "022F"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "207600619": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "16050241",
+                "modification": "MI 3394"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО \"ТестСертифико\"",
+            "vrfDate": "12.12.2022",
+            "validDate": "11.12.2024",
+            "vriType": "2",
+            "docTitle": "МП 62253-15",
+            "applicable": {
+                "certNum": "С-МА\/12-12-2022\/207600619",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25984.03.2Р.00275273",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/275273",
+                    "mitypeNumber": "25984-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331871",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A",
+                    "modification": "8508A",
+                    "manufactureNum": "854447795",
+                    "manufactureYear": 2007,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3457"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326921",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326921",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "194243",
+                    "manufactureYear": 1972,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326922",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326922",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "139421",
+                    "manufactureYear": 1968,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326926",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326926",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "056859",
+                    "manufactureYear": 1967,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326927",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326927",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "048948",
+                    "manufactureYear": 1967,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "37541.08.4Р.00327912",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/327912",
+                    "mitypeNumber": "37541-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347112",
+                    "mitypeTitle": "Магазины мер сопротивлений петли короткого замыкания",
+                    "notation": "ММС-1",
+                    "modification": "ММС-1",
+                    "manufactureNum": "310012",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г"
+                },
+                {
+                    "regNumber": "38140.08.4Р.00531216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/531216",
+                    "mitypeNumber": "38140-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347823",
+                    "mitypeTitle": "Калибраторы электрического сопротивления",
+                    "notation": "КС-100К0Т5, КС-100К1Т5, КС-100К5Т",
+                    "modification": "КС-100К5Т",
+                    "manufactureNum": "470010",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ  Росстандарта  от  30 декабря 2019 г.  №3456"
+                },
+                {
+                    "regNumber": "54883.13.2Р.00579389",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/579389",
+                    "mitypeNumber": "54883-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367386",
+                    "mitypeTitle": "Делители напряжения",
+                    "notation": "ДН-50, ДН-100, ДН-200, ДН-20э, ДН-50э, ДН-100э, ДН-200э, ДН-300э, ДН-400э",
+                    "modification": "ДН-20э",
+                    "manufactureNum": "115",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ № 2316 от 31.12.2020 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "be0df63d-171c-4955-83da-8bd623496421"
+        }
+    },
+    "186681909": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "17080560",
+                "modification": "MI 3394"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО \"ПРОММАШ ТЕСТ\"",
+            "vrfDate": "17.09.2022",
+            "validDate": "16.09.2024",
+            "vriType": "2",
+            "docTitle": "МП 62253-15",
+            "applicable": {
+                "certNum": "С-МА\/17-09-2022\/186681909",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25984.03.2Р.00275273",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/275273",
+                    "mitypeNumber": "25984-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331871",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A",
+                    "modification": "8508A",
+                    "manufactureNum": "854447795",
+                    "manufactureYear": 2007,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3457"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326921",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326921",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "194243",
+                    "manufactureYear": 1972,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326922",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326922",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "139421",
+                    "manufactureYear": 1968,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326926",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326926",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "056859",
+                    "manufactureYear": 1967,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326927",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326927",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "048948",
+                    "manufactureYear": 1967,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "37541.08.4Р.00327912",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/327912",
+                    "mitypeNumber": "37541-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347112",
+                    "mitypeTitle": "Магазины мер сопротивлений петли короткого замыкания",
+                    "notation": "ММС-1",
+                    "modification": "ММС-1",
+                    "manufactureNum": "310012",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г"
+                },
+                {
+                    "regNumber": "38140.08.4Р.00531216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/531216",
+                    "mitypeNumber": "38140-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347823",
+                    "mitypeTitle": "Калибраторы электрического сопротивления",
+                    "notation": "КС-100К0Т5, КС-100К1Т5, КС-100К5Т",
+                    "modification": "КС-100К5Т",
+                    "manufactureNum": "470010",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ  Росстандарта  от  30 декабря 2019 г.  №3456"
+                },
+                {
+                    "regNumber": "54883.13.2Р.00579389",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/579389",
+                    "mitypeNumber": "54883-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367386",
+                    "mitypeTitle": "Делители напряжения",
+                    "notation": "ДН-50, ДН-100, ДН-200, ДН-20э, ДН-50э, ДН-100э, ДН-200э, ДН-300э, ДН-400э",
+                    "modification": "ДН-20э",
+                    "manufactureNum": "115",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ № 2316 от 31.12.2020 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "e5d64b90-9e17-4a86-b3b1-e4dae1cb5ac8"
+        }
+    },
+    "186326956": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "20160273",
+                "manufactureYear": 2020,
+                "modification": "MI 3394"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"НИПК \"Электрон\"",
+            "vrfDate": "15.09.2022",
+            "validDate": "14.09.2023",
+            "vriType": "2",
+            "docTitle": "МП 62253-15 \"Измерители параметров электробезопасности электроустановок MI 3394\"",
+            "applicable": {
+                "certNum": "С-СП\/15-09-2022\/186326956",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1162.58.2Р.19560",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/19560",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "073282",
+                    "manufactureYear": 1963,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.19563",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/19563",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "014956",
+                    "manufactureYear": 1963,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "16500.97.2Р.00177649",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/177649",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47065581",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 01.10.2018 № 2091"
+                },
+                {
+                    "regNumber": "16500.97.3Р.00177650",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/177650",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47065581",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "51622.12.4Р.00318155",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/318155",
+                    "mitypeNumber": "51622-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363672",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "notation": "МС-3, МС-6, МС-9",
+                    "modification": "МС-9-01\/1",
+                    "manufactureNum": "313016",
+                    "manufactureYear": 2016,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "24500.03.4Р.00412548",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/412548",
+                    "mitypeNumber": "24500-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/329619",
+                    "mitypeTitle": "Магазины сопротивлений высокоомные",
+                    "notation": "RCB-1 и RCB-3",
+                    "modification": "RCB-3",
+                    "manufactureNum": "9533714",
+                    "manufactureYear": 2006,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "23346.02.2Р.00451677",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/451677",
+                    "mitypeNumber": "23346-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327807",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Fluke 5520A",
+                    "modification": "Fluke 5520A",
+                    "manufactureNum": "8340008",
+                    "manufactureYear": 2003,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "23346.02.2Р.00451680",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/451680",
+                    "mitypeNumber": "23346-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327807",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Fluke 5520A",
+                    "modification": "Fluke 5520A",
+                    "manufactureNum": "8340008",
+                    "manufactureYear": 2003,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 03.09.2021 № 1942"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "185514487": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "19460471",
+                "modification": "MI 3394"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ОДО \"ТахатАкси\"",
+            "vrfDate": "13.09.2022",
+            "validDate": "12.09.2024",
+            "vriType": "2",
+            "docTitle": "МП 62253-15",
+            "applicable": {
+                "certNum": "С-МА\/13-09-2022\/185514487",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25984.03.2Р.00275273",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/275273",
+                    "mitypeNumber": "25984-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331871",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A",
+                    "modification": "8508A",
+                    "manufactureNum": "854447795",
+                    "manufactureYear": 2007,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3457"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326921",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326921",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "194243",
+                    "manufactureYear": 1972,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326922",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326922",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "139421",
+                    "manufactureYear": 1968,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326926",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326926",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "056859",
+                    "manufactureYear": 1967,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326927",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326927",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "048948",
+                    "manufactureYear": 1967,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "37541.08.4Р.00327912",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/327912",
+                    "mitypeNumber": "37541-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347112",
+                    "mitypeTitle": "Магазины мер сопротивлений петли короткого замыкания",
+                    "notation": "ММС-1",
+                    "modification": "ММС-1",
+                    "manufactureNum": "310012",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г"
+                },
+                {
+                    "regNumber": "38140.08.4Р.00531216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/531216",
+                    "mitypeNumber": "38140-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347823",
+                    "mitypeTitle": "Калибраторы электрического сопротивления",
+                    "notation": "КС-100К0Т5, КС-100К1Т5, КС-100К5Т",
+                    "modification": "КС-100К5Т",
+                    "manufactureNum": "470010",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ  Росстандарта  от  30 декабря 2019 г.  №3456"
+                },
+                {
+                    "regNumber": "54883.13.2Р.00579389",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/579389",
+                    "mitypeNumber": "54883-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367386",
+                    "mitypeTitle": "Делители напряжения",
+                    "notation": "ДН-50, ДН-100, ДН-200, ДН-20э, ДН-50э, ДН-100э, ДН-200э, ДН-300э, ДН-400э",
+                    "modification": "ДН-20э",
+                    "manufactureNum": "115",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ № 2316 от 31.12.2020 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "f195e59a-0036-4fdd-8600-3d2cfcb2b78d"
+        }
+    },
+    "184884891": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "19121231",
+                "modification": "MI 3394"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЦЕНТР МЕТРОЛОГИИ\"(ООО \"ЦМ\")",
+            "signCipher": "ГХС",
+            "miOwner": "ООО \"Лаборатория Серт-с\"",
+            "vrfDate": "06.09.2022",
+            "validDate": "05.09.2024",
+            "vriType": "2",
+            "docTitle": "МП 62253-15 «Измерители параметров электробезопасности электроустановок MI 3394. Методика поверки»",
+            "applicable": {
+                "certNum": "С-ГХС\/06-09-2022\/184884891",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1737.63.3Р.01069",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/1069",
+                    "mitypeNumber": "1737-63",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317343",
+                    "mitypeTitle": "Катушки электрического сопротивления",
+                    "notation": "Р322",
+                    "modification": "Р322",
+                    "manufactureNum": "131209",
+                    "manufactureYear": 1969,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственной поверочной схемы для средств измерений электрического сопротивления"
+                },
+                {
+                    "regNumber": "22125.01.2Р.00103783",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/103783",
+                    "mitypeNumber": "22125-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325751",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Н4-7, Н4-7\/1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "009705",
+                    "manufactureYear": 2005,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приложение к приказу Федерального агентства по техническому регулированию и метрологии от 14.05.2015 г. № 575"
+                },
+                {
+                    "regNumber": "52854.13.1Р.00104136",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/104136",
+                    "mitypeNumber": "52854-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365106",
+                    "mitypeTitle": "Приборы электроизмерительные эталонные многофункциональные",
+                    "notation": "Энергомонитор-3.1КМ",
+                    "modification": "ЕМ3.1КМ-02",
+                    "manufactureNum": "735",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ № 1053 от 29 мая 2018"
+                },
+                {
+                    "regNumber": "52854.13.1Р.00104137",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/104137",
+                    "mitypeNumber": "52854-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365106",
+                    "mitypeTitle": "Приборы электроизмерительные эталонные многофункциональные",
+                    "notation": "Энергомонитор-3.1КМ",
+                    "modification": "ЕМ3.1КМ-02",
+                    "manufactureNum": "735",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ № 575 от 14 мая 2015"
+                },
+                {
+                    "regNumber": "57943.14.2Р.00535656",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535656",
+                    "mitypeNumber": "57943-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370886",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Fluke 8845A и Fluke 8846A",
+                    "modification": "Fluke 8846A",
+                    "manufactureNum": "3805016",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Пр. № 2091 от 01.10.2018 «Государственная поверочная схема для средств измерений силы постоянного электрического тока в диапазон"
+                },
+                {
+                    "regNumber": "68945.17.2Р.00623211",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/623211",
+                    "mitypeNumber": "68945-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383046",
+                    "mitypeTitle": "Шунты токовые",
+                    "notation": "PCS-71000A",
+                    "modification": "PCS-71000A",
+                    "manufactureNum": "GEV111645",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ  Росстандарта  от  01 октября  2018 г. №2091"
+                }
+            ]
+        },
+        "info": {
+            "structure": "____________",
+            "briefIndicator": false
+        }
+    },
+    "160221091": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "21451410",
+                "modification": "MI 3394"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "01.06.2022",
+            "validDate": "31.05.2024",
+            "vriType": "2",
+            "docTitle": "МП 62253-15",
+            "applicable": {
+                "certNum": "С-МА\/01-06-2022\/160221091",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25984.14.2Р.00180899",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180899",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Мультиметр цифровой прецизионный Fluke 8508А\/01",
+                    "manufactureNum": "477576021",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 14.05.2015 № 575"
+                },
+                {
+                    "regNumber": "25984.14.2Р.00180902",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180902",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Мультиметр цифровой прецизионный Fluke 8508А\/01",
+                    "manufactureNum": "477576021",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 01.10.2018 № 2091"
+                },
+                {
+                    "regNumber": "25984.14.2Р.00180929",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180929",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Мультиметр цифровой прецизионный Fluke 8508А\/01",
+                    "manufactureNum": "477576021",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326921",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326921",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "194243",
+                    "manufactureYear": 1972,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326922",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326922",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "139421",
+                    "manufactureYear": 1968,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326926",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326926",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "056859",
+                    "manufactureYear": 1967,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326927",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326927",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "048948",
+                    "manufactureYear": 1967,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "37541.08.4Р.00327912",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/327912",
+                    "mitypeNumber": "37541-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347112",
+                    "mitypeTitle": "Магазины мер сопротивлений петли короткого замыкания",
+                    "notation": "ММС-1",
+                    "modification": "ММС-1",
+                    "manufactureNum": "310012",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г"
+                },
+                {
+                    "regNumber": "38140.08.4Р.00531216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/531216",
+                    "mitypeNumber": "38140-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347823",
+                    "mitypeTitle": "Калибраторы электрического сопротивления",
+                    "notation": "КС-100К0Т5, КС-100К1Т5, КС-100К5Т",
+                    "modification": "КС-100К5Т",
+                    "manufactureNum": "470010",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ  Росстандарта  от  30 декабря 2019 г.  №3456"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "2b90c8aa-e9f1-42d8-a13e-eca75c84b83d"
+        }
+    },
+    "160055717": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "16050182",
+                "modification": "MI 3394"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО \"НИЦ\"",
+            "vrfDate": "01.06.2022",
+            "validDate": "31.05.2024",
+            "vriType": "2",
+            "docTitle": "МП 62253-15",
+            "applicable": {
+                "certNum": "С-МА\/01-06-2022\/160055717",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25984.14.2Р.00180899",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180899",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Мультиметр цифровой прецизионный Fluke 8508А\/01",
+                    "manufactureNum": "477576021",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 14.05.2015 № 575"
+                },
+                {
+                    "regNumber": "25984.14.2Р.00180902",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180902",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Мультиметр цифровой прецизионный Fluke 8508А\/01",
+                    "manufactureNum": "477576021",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 01.10.2018 № 2091"
+                },
+                {
+                    "regNumber": "25984.14.2Р.00180929",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180929",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Мультиметр цифровой прецизионный Fluke 8508А\/01",
+                    "manufactureNum": "477576021",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326921",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326921",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "194243",
+                    "manufactureYear": 1972,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326922",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326922",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "139421",
+                    "manufactureYear": 1968,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326926",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326926",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "056859",
+                    "manufactureYear": 1967,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00326927",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/326927",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "048948",
+                    "manufactureYear": 1967,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                },
+                {
+                    "regNumber": "37541.08.4Р.00327912",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/327912",
+                    "mitypeNumber": "37541-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347112",
+                    "mitypeTitle": "Магазины мер сопротивлений петли короткого замыкания",
+                    "notation": "ММС-1",
+                    "modification": "ММС-1",
+                    "manufactureNum": "310012",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г"
+                },
+                {
+                    "regNumber": "38140.08.4Р.00531216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/531216",
+                    "mitypeNumber": "38140-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347823",
+                    "mitypeTitle": "Калибраторы электрического сопротивления",
+                    "notation": "КС-100К0Т5, КС-100К1Т5, КС-100К5Т",
+                    "modification": "КС-100К5Т",
+                    "manufactureNum": "470010",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ  Росстандарта  от  30 декабря 2019 г.  №3456"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "0fc8b162-b2aa-4008-8945-72eba4e14ddc"
+        }
+    },
+    "154143683": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "18410537",
+                "modification": "MI 3394"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "АО «НПК «АТРОНИК»",
+            "vrfDate": "11.05.2022",
+            "validDate": "10.05.2024",
+            "vriType": "2",
+            "docTitle": "МП 62253-15",
+            "applicable": {
+                "certNum": "С-ТТ\/11-05-2022\/154143683",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25984.03.2Р.49405",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49405",
+                    "mitypeNumber": "25984-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331871",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "952155044",
+                    "manufactureYear": 2007,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для измерений силы переменного электрического тока от 1•10^-8 до 100 А в диапазоне частот от 1•10^-1 до 1•10^6 Гц.Приказ 575"
+                },
+                {
+                    "regNumber": "25984.03.2Р.49406",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49406",
+                    "mitypeNumber": "25984-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331871",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "952155044",
+                    "manufactureYear": 2007,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для CИ силы постоянного электрического тока в диапазоне от 1•10^16 до 100 А.Приказ 2091"
+                },
+                {
+                    "regNumber": "25984.03.2Р.49409",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49409",
+                    "mitypeNumber": "25984-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331871",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "952155044",
+                    "manufactureYear": 2007,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС схемой для средств измерений постоянного электрического напряжения и электродвижущей силы.Приказ 3457"
+                },
+                {
+                    "regNumber": "38140.08.3Р.49417",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49417",
+                    "mitypeNumber": "38140-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347823",
+                    "mitypeTitle": "Калибраторы электрического сопротивления",
+                    "notation": "КС-100К0Т5, КС-100К1Т5, КС-100К5Т",
+                    "modification": "КС-100К5Т",
+                    "manufactureNum": "470031",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока.Приказ 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00179650",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/179650",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "086271",
+                    "manufactureYear": 1981,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00179651",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/179651",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "000960",
+                    "manufactureYear": 1960,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00179653",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/179653",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "049654",
+                    "manufactureYear": 1980,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "11326.90.4Р.00432766",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432766",
+                    "mitypeNumber": "11326-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305921",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "notation": "Р4834",
+                    "modification": "Р4834",
+                    "manufactureNum": "0317",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для СИ электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "41104.09.2Р.00525703",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/525703",
+                    "mitypeNumber": "41104-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351361",
+                    "mitypeTitle": "Киловольтметры спектральные цифровые",
+                    "notation": "КВЦ-120",
+                    "modification": "КВЦ-120",
+                    "manufactureNum": "3236",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 3458 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "41104.09.2Р.00525704",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/525704",
+                    "mitypeNumber": "41104-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351361",
+                    "mitypeTitle": "Киловольтметры спектральные цифровые",
+                    "notation": "КВЦ-120",
+                    "modification": "КВЦ-120",
+                    "manufactureNum": "3236",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ № 2316 от 31.12.2020 г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00543102",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/543102",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "заводское обозначение Р310",
+                    "manufactureNum": "056829",
+                    "manufactureYear": 1982,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "[ID=4e1f80f4-d101-11ec-9868-0050568d0b47]"
+        }
+    },
+    "137845958": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "21322476",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "04.03.2022",
+            "validDate": "03.03.2024",
+            "vriType": "1",
+            "docTitle": "МП 62253-15",
+            "applicable": {
+                "certNum": "С-ДИЭ\/04-03-2022\/137845958",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "70345-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384560",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "4484903"
+                },
+                {
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331750",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "MY45053220"
+                },
+                {
+                    "mitypeNumber": "4614-74",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357219",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "number": "8594"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "125393249": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "21451398",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "19.01.2022",
+            "validDate": "18.01.2024",
+            "vriType": "1",
+            "docTitle": "МП 62253-15",
+            "applicable": {
+                "certNum": "С-ДИЭ\/19-01-2022\/125393249",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "70345-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384560",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "4484903"
+                },
+                {
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "MY45053220"
+                },
+                {
+                    "mitypeNumber": "4614-74",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357219",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "number": "8594"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "125393248": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62253-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375737",
+                "mitypeType": "MI 3394",
+                "mitypeTitle": "Измерители параметров электробезопасности электроустановок",
+                "manufactureNum": "21322434",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "19.01.2022",
+            "validDate": "18.01.2024",
+            "vriType": "1",
+            "docTitle": "МП 62253-15",
+            "applicable": {
+                "certNum": "С-ДИЭ\/19-01-2022\/125393248",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "70345-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384560",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "4484903"
+                },
+                {
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "MY45053220"
+                },
+                {
+                    "mitypeNumber": "4614-74",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357219",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "number": "8594"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "199620225": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "1924-64",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320729",
+                "mitypeType": "У2-6",
+                "mitypeTitle": "Усилители",
+                "manufactureNum": "1278",
+                "modification": "У2-6"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ИВАНОВСКОЙ ОБЛАСТИ\"(ФБУ \"ИВАНОВСКИЙ ЦСМ\")",
+            "signCipher": "БО",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "07.11.2022",
+            "validDate": "06.11.2023",
+            "vriType": "2",
+            "docTitle": "МП в ТО и ИЭ раздел 8",
+            "applicable": {
+                "certNum": "С-БО\/07-11-2022\/199620225",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "7657.80.РЭ.03966",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/3966",
+                    "mitypeNumber": "7657-80",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385811",
+                    "mitypeTitle": "Микровольтметры",
+                    "notation": "В3-57",
+                    "modification": "В3-57",
+                    "manufactureNum": "5915",
+                    "manufactureYear": 1987,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЛПС № 12-54 ФБУ \"Ивановский ЦСМ\""
+                },
+                {
+                    "regNumber": "9084.90.4Р.03972",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/3972",
+                    "mitypeNumber": "9084-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387757",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-63\/1",
+                    "modification": "Ч3-63\/1",
+                    "manufactureNum": "9012288",
+                    "manufactureYear": 1991,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "7982.80.РЭ.92760",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/92760",
+                    "mitypeNumber": "7982-80",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386259",
+                    "mitypeTitle": "Вольтметры универсальные цифровые",
+                    "notation": "В7-34, В7-34\/1, В7-34А",
+                    "modification": "В7-34",
+                    "manufactureNum": "0293687",
+                    "manufactureYear": 1987,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЛПС № 12-41 ФБУ «Ивановский ЦСМ»"
+                },
+                {
+                    "regNumber": "9257.83.1Р.00600559",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/600559",
+                    "mitypeNumber": "9257-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388010",
+                    "mitypeTitle": "Приборы для поверки аттенюаторов",
+                    "notation": "Д1-13А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1007",
+                    "manufactureYear": 1987,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ ФАТРИМ № 3383 от 30 декабря 2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

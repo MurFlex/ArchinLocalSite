@@ -1,0 +1,419 @@
+{
+    "205646867": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42762-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389436",
+                "mitypeType": "14Б769М",
+                "mitypeTitle": "Базовые станции",
+                "manufactureNum": "006\/10",
+                "manufactureYear": 2010,
+                "modification": "14Б769М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"ОКБ \"ФАКЕЛ\"",
+            "vrfDate": "01.12.2022",
+            "validDate": "30.11.2023",
+            "vriType": "2",
+            "docTitle": "ИТБС.467882.019 ТУ",
+            "applicable": {
+                "certNum": "С-СП\/01-12-2022\/205646867",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22548.02.РЭ.00639681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/639681",
+                    "mitypeNumber": "22548-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326459",
+                    "mitypeTitle": "Модули приемоизмерительные синхронизирующие",
+                    "notation": "К-161В-А-Н-SMB-02-01-13",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "05",
+                    "manufactureYear": 2003,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ времени и частоты, приказ Росстандарта №1621 от 31.07.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "185377820": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42762-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389436",
+                "mitypeType": "14Б769М",
+                "mitypeTitle": "Базовые станции",
+                "manufactureNum": "007\/14",
+                "manufactureYear": 2014,
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "19.07.2022",
+            "validDate": "18.07.2023",
+            "vriType": "2",
+            "docTitle": "Базовые станции 14Б769М. Методика поверки",
+            "inapplicable": {
+                "noticeNum": "И-Х\/19-07-2022\/185377820"
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0381.2021",
+                    "title": "Государственный вторичный эталон единиц времени в диапазоне значений от 1,0 нс до 1,0·10[^6] с, частоты в диапазоне значений от 1,0·10[^-3] Гц до 4,0·10[^10] Гц и шкалы времени ВЭТ 1-7",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393892"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "63132-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376715",
+                    "mitypeTitle": "Источники питания",
+                    "number": "600594010727350003"
+                },
+                {
+                    "mitypeNumber": "67603-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381573",
+                    "mitypeTitle": "Датчики",
+                    "number": "0152"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "166787585": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42762-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389436",
+                "mitypeType": "14Б769М",
+                "mitypeTitle": "Базовые станции",
+                "manufactureNum": "004\/15",
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "27.06.2022",
+            "validDate": "26.06.2023",
+            "vriType": "2",
+            "docTitle": "Базовые станции 14Б769М. Методика поверки",
+            "applicable": {
+                "certNum": "С-Х\/27-06-2022\/166787585",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0381.2021",
+                    "title": "Государственный вторичный эталон единиц времени в диапазоне значений от 1,0 нс до 1,0·10[^6] с, частоты в диапазоне значений от 1,0·10[^-3] Гц до 4,0·10[^10] Гц и шкалы времени ВЭТ 1-7",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393892"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "63132-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376715",
+                    "mitypeTitle": "Источники питания",
+                    "number": "600594010727350003"
+                },
+                {
+                    "mitypeNumber": "67603-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381573",
+                    "mitypeTitle": "Датчики",
+                    "number": "0152"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-166787585\/protocol"
+        }
+    },
+    "166787584": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42762-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389436",
+                "mitypeType": "14Б769М",
+                "mitypeTitle": "Базовые станции",
+                "manufactureNum": "005\/15",
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "27.06.2022",
+            "validDate": "26.06.2023",
+            "vriType": "2",
+            "docTitle": "Базовые станции 14Б769М. Методика поверки",
+            "applicable": {
+                "certNum": "С-Х\/27-06-2022\/166787584",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0381.2021",
+                    "title": "Государственный вторичный эталон единиц времени в диапазоне значений от 1,0 нс до 1,0·10[^6] с, частоты в диапазоне значений от 1,0·10[^-3] Гц до 4,0·10[^10] Гц и шкалы времени ВЭТ 1-7",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393892"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "63132-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376715",
+                    "mitypeTitle": "Источники питания",
+                    "number": "600594010727350003"
+                },
+                {
+                    "mitypeNumber": "67603-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381573",
+                    "mitypeTitle": "Датчики",
+                    "number": "0152"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-166787584\/protocol"
+        }
+    },
+    "166787583": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42762-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389436",
+                "mitypeType": "14Б769М",
+                "mitypeTitle": "Базовые станции",
+                "manufactureNum": "006\/15",
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "27.06.2022",
+            "validDate": "26.06.2023",
+            "vriType": "2",
+            "docTitle": "Базовые станции 14Б769М. Методика поверки",
+            "applicable": {
+                "certNum": "С-Х\/27-06-2022\/166787583",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0381.2021",
+                    "title": "Государственный вторичный эталон единиц времени в диапазоне значений от 1,0 нс до 1,0·10[^6] с, частоты в диапазоне значений от 1,0·10[^-3] Гц до 4,0·10[^10] Гц и шкалы времени ВЭТ 1-7",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393892"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "63132-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376715",
+                    "mitypeTitle": "Источники питания",
+                    "number": "600594010727350003"
+                },
+                {
+                    "mitypeNumber": "67603-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381573",
+                    "mitypeTitle": "Датчики",
+                    "number": "0152"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-166787583\/protocol"
+        }
+    },
+    "166787582": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42762-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389436",
+                "mitypeType": "14Б769М",
+                "mitypeTitle": "Базовые станции",
+                "manufactureNum": "008\/14",
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "27.06.2022",
+            "validDate": "26.06.2023",
+            "vriType": "2",
+            "docTitle": "Базовые станции 14Б769М. Методика поверки",
+            "applicable": {
+                "certNum": "С-Х\/27-06-2022\/166787582",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0381.2021",
+                    "title": "Государственный вторичный эталон единиц времени в диапазоне значений от 1,0 нс до 1,0·10[^6] с, частоты в диапазоне значений от 1,0·10[^-3] Гц до 4,0·10[^10] Гц и шкалы времени ВЭТ 1-7",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393892"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "63132-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376715",
+                    "mitypeTitle": "Источники питания",
+                    "number": "600594010727350003"
+                },
+                {
+                    "mitypeNumber": "67603-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381573",
+                    "mitypeTitle": "Датчики",
+                    "number": "0152"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-166787582\/protocol"
+        }
+    },
+    "166787581": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42762-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389436",
+                "mitypeType": "14Б769М",
+                "mitypeTitle": "Базовые станции",
+                "manufactureNum": "010\/14",
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "27.06.2022",
+            "validDate": "26.06.2023",
+            "vriType": "2",
+            "docTitle": "Базовые станции 14Б769М. Методика поверки",
+            "applicable": {
+                "certNum": "С-Х\/27-06-2022\/166787581",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0381.2021",
+                    "title": "Государственный вторичный эталон единиц времени в диапазоне значений от 1,0 нс до 1,0·10[^6] с, частоты в диапазоне значений от 1,0·10[^-3] Гц до 4,0·10[^10] Гц и шкалы времени ВЭТ 1-7",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393892"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "63132-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376715",
+                    "mitypeTitle": "Источники питания",
+                    "number": "600594010727350003"
+                },
+                {
+                    "mitypeNumber": "67603-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381573",
+                    "mitypeTitle": "Датчики",
+                    "number": "0152"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-166787581\/protocol"
+        }
+    },
+    "166787580": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42762-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389436",
+                "mitypeType": "14Б769М",
+                "mitypeTitle": "Базовые станции",
+                "manufactureNum": "011\/14",
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "27.06.2022",
+            "validDate": "26.06.2023",
+            "vriType": "2",
+            "docTitle": "Базовые станции 14Б769М. Методика поверки",
+            "applicable": {
+                "certNum": "С-Х\/27-06-2022\/166787580",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0381.2021",
+                    "title": "Государственный вторичный эталон единиц времени в диапазоне значений от 1,0 нс до 1,0·10[^6] с, частоты в диапазоне значений от 1,0·10[^-3] Гц до 4,0·10[^10] Гц и шкалы времени ВЭТ 1-7",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393892"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "63132-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376715",
+                    "mitypeTitle": "Источники питания",
+                    "number": "600594010727350003"
+                },
+                {
+                    "mitypeNumber": "67603-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381573",
+                    "mitypeTitle": "Датчики",
+                    "number": "0152"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-166787580\/protocol"
+        }
+    }
+}

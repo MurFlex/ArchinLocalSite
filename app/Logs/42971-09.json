@@ -1,0 +1,113 @@
+{
+    "180213422": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42971-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353579",
+                "mitypeType": "Cable SHARK",
+                "mitypeTitle": "Анализаторы кабельных линий",
+                "manufactureNum": "585276",
+                "modification": "Cable SHARK"
+            }
+        },
+        "vriInfo": {
+            "organization": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Республике Татарстан\"(ФБУ \"ЦСМ Татарстан\")",
+            "signCipher": "АМ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "23.08.2022",
+            "validDate": "22.08.2024",
+            "vriType": "2",
+            "docTitle": "\"Анализаторы кабельных линий Cable sheark фирмы \"Exfo electro-optical Engineering Inc\", Канада. Методика поверки\" МП \"Воентест\"",
+            "applicable": {
+                "certNum": "С-АМ\/23-08-2022\/180213422",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "5460.76.РЭ.75104",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/75104",
+                    "mitypeNumber": "5460-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367069",
+                    "mitypeTitle": "Генераторы сигналов низкочастотные прецизионные",
+                    "notation": "Г3-110",
+                    "modification": "Г3-110",
+                    "manufactureNum": "27480",
+                    "manufactureYear": 1996,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "\"Приказ Росстандарта № 1621\" от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "41567.09.3Р.78249",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/78249",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-91R с опцией 10",
+                    "manufactureNum": "384066",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "55420.13.2Р.00204790",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/204790",
+                    "mitypeNumber": "55420-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367999",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "DSO-Х 3104A, DSO-Х 3102A, MSO-Х 3104A, MSO-Х 3102A",
+                    "modification": "DSO-Х 3102A",
+                    "manufactureNum": "MY51500104",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.761-2011  Государственная поверочная схема для средств измерений импульсного электрического напряжения"
+                },
+                {
+                    "regNumber": "5395.76.3Р.00355584",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/355584",
+                    "mitypeNumber": "5395-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366344",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "Р5025",
+                    "modification": "Без модификации",
+                    "manufactureNum": "1266",
+                    "manufactureYear": 1978,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80"
+                },
+                {
+                    "regNumber": "4614.74.4Р.00476141",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/476141",
+                    "mitypeNumber": "4614-74",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357219",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "notation": "МСР Р4830\/1, Р4830\/2, Р4830\/3",
+                    "modification": "Р4830\/2",
+                    "manufactureNum": "2924",
+                    "manufactureYear": 1981,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "№3456 от 30 декабря 2019 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "16689-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316005",
+                    "mitypeTitle": "Вольтметры переменного тока",
+                    "number": "1768"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

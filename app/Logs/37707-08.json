@@ -1,0 +1,73 @@
+{
+    "149678265": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "37707-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347312",
+                "mitypeType": "CTU",
+                "mitypeTitle": "Преобразователи термоэлектрические",
+                "manufactureNum": "КR 06130365\/GI-22 61457\/13",
+                "manufactureYear": 2013,
+                "modification": "CTU-10"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Волховский филиал АО \"Апатит\"",
+            "vrfDate": "15.03.2022",
+            "validDate": "14.03.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.338-2002 \"Преобразователи термоэлектрические. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-СП\/15-03-2022\/143475583",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "7476.79.3Р.00413325",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/413325",
+                    "mitypeNumber": "7476-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385550",
+                    "mitypeTitle": "Компараторы напряжений",
+                    "notation": "Р3003",
+                    "modification": "Р3003",
+                    "manufactureNum": "01687",
+                    "manufactureYear": 1986,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "1442.61.2Р.00414692",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/414692",
+                    "mitypeNumber": "1442-61",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311178",
+                    "mitypeTitle": "Термопары платинородий-платиновые образцовые",
+                    "notation": "ППО",
+                    "modification": "ППО",
+                    "manufactureNum": "039",
+                    "manufactureYear": 1998,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "4776-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359094",
+                    "mitypeTitle": "Установки для поверки и градуировки средств измерений температуры",
+                    "number": "429"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    }
+}

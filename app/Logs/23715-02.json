@@ -1,0 +1,49 @@
+{
+    "147789167": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "23715-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328419",
+                "mitypeType": "ИД-2-3",
+                "mitypeTitle": "Измеритель удлинения световодов",
+                "manufactureNum": "0201",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "08.04.2022",
+            "validDate": "07.04.2023",
+            "vriType": "2",
+            "docTitle": "\"Измеритель удлинения световодов ИД-2-3. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-А\/08-04-2022\/147789167",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "35362.13.РЭ.00493395",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/493395",
+                    "mitypeNumber": "35362-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344461",
+                    "mitypeTitle": "Системы лазерные измерительные",
+                    "notation": "XL-80",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "950C81",
+                    "manufactureYear": 2015,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Приказ Росстандарта № 2840 от 29.12.2018"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

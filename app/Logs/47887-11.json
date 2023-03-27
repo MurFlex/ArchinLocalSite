@@ -1,0 +1,47 @@
+{
+    "156260538": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47887.11.РЭ.00606985",
+                "mitypeNumber": "47887-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359268",
+                "mitypeTitle": "Установки измерительные эталонные 1-го разряда массовой доли влаги в твердых веществах и материалах воздушно-тепловые",
+                "mitypeType": "ЭУТ-1Т",
+                "modification": "ЭУТ-1Т",
+                "manufactureNum": "001",
+                "manufactureYear": 2011,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "приказ Росстандарта №2832 от 29.12.2018"
+            }
+        },
+        "vriInfo": {
+            "organization": "УРАЛЬСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ(УРАЛЬСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ)",
+            "signCipher": "С",
+            "miOwner": "УНИИМ - филиал ФГУП \"ВНИИМ им.Д.И.Менделеева\",  ИНН 7809022120",
+            "vrfDate": "06.05.2022",
+            "validDate": "05.05.2023",
+            "vriType": "2",
+            "docTitle": "Руководство по эксплуатации 4381-003-02567751-2011 РЭ (раздел 7)",
+            "applicable": {
+                "certNum": "С-С\/06-05-2022\/155801328",
+                "stickerNum": "20016102923",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт173-2017",
+                    "title": "ГПЭ единиц массовой доли, массовой (молярной) концентрации воды в твердых и жидких веществах и материалах",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397857"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-156260538\/protocol"
+        }
+    }
+}

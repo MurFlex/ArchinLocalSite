@@ -1,0 +1,235 @@
+{
+    "193755789": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44761.10.2Р.00275954",
+                "mitypeNumber": "44761-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355655",
+                "mitypeTitle": "Установки дозиметрические гамма-излучения",
+                "mitypeType": "УДГ-АТ130",
+                "modification": "нет",
+                "manufactureNum": "018",
+                "manufactureYear": 2014,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ Р 8.804-2012"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью Научно-производственное объединение «Спектр»(ООО НПО «Спектр»)",
+            "signCipher": "ДЭБ",
+            "miOwner": "Филиал АО «Концерн Росэнергоатом» «Ленинградская атомная станция»",
+            "vrfDate": "14.10.2022",
+            "validDate": "13.10.2023",
+            "vriType": "2",
+            "docTitle": "ТИАЯ.412118.020 МП",
+            "applicable": {
+                "certNum": "С-ДЭБ\/14-10-2022\/193755789",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25865.03.1Р.00647595",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/647595",
+                    "mitypeNumber": "25865-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                    "mitypeTitle": "Дозиметры универсальные",
+                    "notation": "ДКС-101",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "152",
+                    "manufactureYear": 2022,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "13759"
+                },
+                {
+                    "mitypeNumber": "16369-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315346",
+                    "mitypeTitle": "Дозиметры-радиометры",
+                    "number": "Д1039"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ИГИ-Ц-22-1 № 147; ИГИ-Ц-5-2 № 100; ИГИ-Ц-4-3 № 682; ИГИ-Ц-3-6 № А21",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-193755789\/protocol"
+        }
+    },
+    "188127482": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44761.10.1Р.00678004",
+                "mitypeNumber": "44761-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355655",
+                "mitypeTitle": "Установки дозиметрические гамма-излучения",
+                "mitypeType": "УДГ-АТ130",
+                "modification": "Нет модификации",
+                "manufactureNum": "011",
+                "manufactureYear": 2011,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Государственная поверочная схема для средств измерений кермы в воздухе, мощности кермы в воздухе, экспозиционной дозы, мощности"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "21.09.2022",
+            "validDate": "20.09.2025",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.087-2000, ТИАЯ.412118.020 МП",
+            "applicable": {
+                "certNum": "С-В\/21-09-2022\/188127482",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZB.0135.2015",
+                    "title": "Государственный вторичный эталон единиц: кермы в воздухе в диапазоне от 1·10[^-7] до 20Гр, мощности кермы в воздухе в диапазоне от 1·10[^-8] до 1·10[^-3]Гр\/с, экспозиционной дозы в диапазоне от 3·10[^-9] до 6·10[^-1]Кл\/кг, мощности экспозиционной дозы в диапазоне от 3·10[^-10] до 3·10[^-5]А\/кг, амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-7] до 20Зв, мощностей амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-8] до 1·10[^-3]Зв\/с гамма-излучения (ГВЭТ 8-2)",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/411524"
+                }
+            ]
+        },
+        "info": {
+            "structure": "источники гамма-излучения из радионуклида Cs-137 типа ИГИ-Ц-22-1 № 081, ИГИ-Ц-5-2 № 057, ИГИ-Ц-4-3 № 2НУ, ИГИ-Ц-3-6 № 7АК, из радионуклида Со-60 типа ГИК-2-13 № С78, из радионуклида Am-241 типа ИГИА-5м № 232",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-188127482\/protocol",
+            "additional_info": "#mid5c769c88-77c0-43f6-9fe5-a434e03b0718"
+        }
+    },
+    "173456432": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44761.10.2Р.00647028",
+                "mitypeNumber": "44761-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355655",
+                "mitypeTitle": "Установки дозиметрические гамма-излучения",
+                "mitypeType": "УДГ-АТ130",
+                "modification": "Нет модификации",
+                "manufactureNum": "006",
+                "manufactureYear": 2009,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Государственная поверочная схема для средств измерений кермы в воздухе, мощности кермы в воздухе, экспозиционной дозы, мощности"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "11.07.2022",
+            "validDate": "10.07.2025",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.087-2000, ТИАЯ.412118.020 МП",
+            "applicable": {
+                "certNum": "С-В\/11-07-2022\/173456432",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZB.0135.2015",
+                    "title": "Государственный вторичный эталон единиц: кермы в воздухе в диапазоне от 1·10[^-7] до 20Гр, мощности кермы в воздухе в диапазоне от 1·10[^-8] до 1·10[^-3]Гр\/с, экспозиционной дозы в диапазоне от 3·10[^-9] до 6·10[^-1]Кл\/кг, мощности экспозиционной дозы в диапазоне от 3·10[^-10] до 3·10[^-5]А\/кг, амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-7] до 20Зв, мощностей амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-8] до 1·10[^-3]Зв\/с гамма-излучения (ГВЭТ 8-2)",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/411524"
+                }
+            ]
+        },
+        "info": {
+            "structure": "источник из радионуклида Сo-60 типа ГИК-2-5 № 102",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-173456432\/protocol",
+            "additional_info": "#mid17ad3293-82c2-4ede-8a01-254cfb9c21c3"
+        }
+    },
+    "150603623": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44761.10.2Р.00275954",
+                "mitypeNumber": "44761-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355655",
+                "mitypeTitle": "Установки дозиметрические гамма-излучения",
+                "mitypeType": "УДГ-АТ130",
+                "modification": "нет",
+                "manufactureNum": "018",
+                "manufactureYear": 2014,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ Р 8.804-2012"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ФЕДЕРАЛЬНЫЙ ЭКОЛОГИЧЕСКИЙ ОПЕРАТОР\"(ФГУП \"ФЭО\")",
+            "signCipher": "ААУ",
+            "miOwner": "Филиал АО \"Концерн Росэнергоатом\" \"Ленинградская АЭС\"",
+            "vrfDate": "18.04.2022",
+            "validDate": "17.04.2023",
+            "vriType": "2",
+            "docTitle": "ТИАЯ.412118.020 МП \"Установка дозиметрическая гамма-излучения УДГ-АТ130 Методика поверки (раздел 5 Руководства по эксплуатации)\"",
+            "applicable": {
+                "certNum": "С-ААУ\/18-04-2022\/150603623",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25865.03.1Р.00331770",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/331770",
+                    "mitypeNumber": "25865-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                    "mitypeTitle": "Дозиметры универсальные",
+                    "notation": "ДКС-101",
+                    "modification": "ДКС-101",
+                    "manufactureNum": "130",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2020 г. № 2314"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "68600-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382673",
+                    "mitypeTitle": "Рулетки измерительные металлические",
+                    "number": "R5TM-0006"
+                },
+                {
+                    "mitypeNumber": "10069-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304175",
+                    "mitypeTitle": "Психрометры аспирационные",
+                    "number": "820"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346990",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "3641"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-150603623\/protocol"
+        }
+    }
+}

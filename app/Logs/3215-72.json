@@ -1,0 +1,219 @@
+{
+    "220191715": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3215-72",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340394",
+                "mitypeType": "Г5-30А",
+                "mitypeTitle": "Генераторы импульсов",
+                "manufactureNum": "64531",
+                "modification": "Г5-30А"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "30.01.2023",
+            "validDate": "29.01.2024",
+            "vriType": "2",
+            "docTitle": "ГОСТ8.206-76, 3.269.058 ТО",
+            "applicable": {
+                "certNum": "С-ДИЭ\/30-01-2023\/220191715",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "5212-75",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364259",
+                    "mitypeTitle": "Осциллографы универсальные со сменными блоками Я40-1100 (1У11), Я40-1103 (1У14), Я40-1700 (1У71), Я40-1701 (1У72), Я40-1900 (1У91), Я40-1901 (1У92), Я40-2700 (1Р71), Я40-2900 (1Р91)",
+                    "number": "33602"
+                },
+                {
+                    "mitypeNumber": "3163-72",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339656",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "1152"
+                },
+                {
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316002",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "058"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Преобразователь Б-20АМ №4946",
+            "briefIndicator": false
+        }
+    },
+    "188596720": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3215-72",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340394",
+                "mitypeType": "Г5-30А",
+                "mitypeTitle": "Генераторы импульсов",
+                "manufactureNum": "7494",
+                "manufactureYear": 1976,
+                "modification": "Г5-30А"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"75 АРСЕНАЛ\"(АО \"75 АРСЕНАЛ\")",
+            "signCipher": "ВФО",
+            "miOwner": "АО \"75 арсенал\"",
+            "vrfDate": "29.08.2022",
+            "validDate": "28.08.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ8.206-76, 3.269.058 ТО",
+            "applicable": {
+                "certNum": "С-ВФО\/29-08-2022\/188596720",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "3163.72.РЭ.00472870",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/472870",
+                    "mitypeNumber": "3163-72",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339656",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-34А",
+                    "modification": "Ч3-34А",
+                    "manufactureNum": "Б08879",
+                    "manufactureYear": 1979,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "И22.721.032 ТО"
+                },
+                {
+                    "regNumber": "16688.97.РЭ.00474110",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/474110",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316002",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "0208",
+                    "manufactureYear": 2002,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "КМСИ.411.252.024 ТО"
+                },
+                {
+                    "regNumber": "5212.75.РЭ.00536858",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/536858",
+                    "mitypeNumber": "5212-75",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364259",
+                    "mitypeTitle": "Осциллографы универсальные со сменными блоками Я40-1100 (1У11), Я40-1103 (1У14), Я40-1700 (1У71), Я40-1701 (1У72), Я40-1900 (1У91), Я40-1901 (1У92), Я40-2700 (1Р71), Я40-2900 (1Р91)",
+                    "notation": "С1-70",
+                    "modification": "С1-70\/4",
+                    "manufactureNum": "17236",
+                    "manufactureYear": 1981,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГОСТ8.311-78, ГВ2.044.074 ТО"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5634-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369019",
+                    "mitypeTitle": "Генераторы импульсов",
+                    "number": "07876"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "175962589": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3215-72",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340394",
+                "mitypeType": "Г5-30А",
+                "mitypeTitle": "Генераторы импульсов",
+                "manufactureNum": "7494",
+                "manufactureYear": 1974,
+                "modification": "Г5-30А"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"75 АРСЕНАЛ\"(АО \"75 АРСЕНАЛ\")",
+            "signCipher": "ВФО",
+            "miOwner": "АО \"75 арсенал\"",
+            "vrfDate": "12.07.2022",
+            "vriType": "2",
+            "docTitle": "3.269.058 ТО",
+            "inapplicable": {
+                "noticeNum": "И-ВФО\/12-07-2022\/175962589"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "5343.76.РЭ.00472867",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/472867",
+                    "mitypeNumber": "5343-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365749",
+                    "mitypeTitle": "Измерители временных интервалов",
+                    "notation": "И2-26",
+                    "modification": "И2-26",
+                    "manufactureNum": "101\/162",
+                    "manufactureYear": 1984,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "2.817.019 ТО"
+                },
+                {
+                    "regNumber": "3163.72.РЭ.00472869",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/472869",
+                    "mitypeNumber": "3163-72",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339656",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-34А",
+                    "modification": "Ч3-34А",
+                    "manufactureNum": "Б08725",
+                    "manufactureYear": 1979,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "И22.721.032 ТО"
+                },
+                {
+                    "regNumber": "5212.75.РЭ.00536858",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/536858",
+                    "mitypeNumber": "5212-75",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364259",
+                    "mitypeTitle": "Осциллографы универсальные со сменными блоками Я40-1100 (1У11), Я40-1103 (1У14), Я40-1700 (1У71), Я40-1701 (1У72), Я40-1900 (1У91), Я40-1901 (1У92), Я40-2700 (1Р71), Я40-2900 (1Р91)",
+                    "notation": "С1-70",
+                    "modification": "С1-70\/4",
+                    "manufactureNum": "17236",
+                    "manufactureYear": 1981,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГОСТ8.311-78, ГВ2.044.074 ТО"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5634-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369019",
+                    "mitypeTitle": "Генераторы импульсов",
+                    "number": "07876"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

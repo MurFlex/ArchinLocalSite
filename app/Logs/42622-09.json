@@ -1,0 +1,83 @@
+{
+    "172052799": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "42622.09.1Р.13906",
+                "mitypeNumber": "42622-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353177",
+                "mitypeTitle": "Система лазерная измерительная",
+                "mitypeType": "ЛИС-01М",
+                "modification": "Лазерная измерительная система  ЛИС-01М",
+                "manufactureNum": "01",
+                "manufactureYear": 2009,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.763-2011"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР ПО ИЗУЧЕНИЮ СВОЙСТВ ПОВЕРХНОСТИ И ВАКУУМА\"(АО \"НИЦПВ\")",
+            "signCipher": "ВХЯ",
+            "miOwner": "АО \"НИЦПВ\"",
+            "vrfDate": "08.07.2022",
+            "validDate": "07.07.2025",
+            "vriType": "2",
+            "docTitle": "АСНД 002.001.МП.09",
+            "applicable": {
+                "certNum": "С-ВХЯ\/08-07-2022\/172052799",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41694.09.4Р.78782",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/78782",
+                    "mitypeNumber": "41694-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/352063",
+                    "mitypeTitle": "Генераторы сигналов сложной формы",
+                    "notation": "AFG3021B, AFG3022B, AFG3011",
+                    "modification": "AFG3022B",
+                    "manufactureNum": "C033525",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "7922.80.1Р.00482503",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/482503",
+                    "mitypeNumber": "7922-80",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386173",
+                    "mitypeTitle": "Калибраторы фазы",
+                    "notation": "Ф1-4",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0076",
+                    "manufactureYear": 1988,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС, утвержденная приказом Росстандарта от 06.12.2019 г. №2882"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "8513-81",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386970",
+                    "mitypeTitle": "Преобразователи пьезоэлектрические",
+                    "number": "8305"
+                },
+                {
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389851",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "C032374"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-172052799\/protocol"
+        }
+    }
+}

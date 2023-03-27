@@ -1,0 +1,53 @@
+{
+    "167462379": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36801-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346222",
+                "mitypeType": "E8363B",
+                "mitypeTitle": "Анализатор цепей векторный",
+                "manufactureNum": "43030925",
+                "modification": "E8363B"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"САЛЮТ\"(АО \"НПП \"САЛЮТ\")",
+            "signCipher": "АФШ",
+            "miOwner": "АО НПП Салют",
+            "vrfDate": "31.05.2022",
+            "validDate": "30.05.2023",
+            "vriType": "2",
+            "docTitle": "Инструкция Е8363B. Методика поверки.",
+            "applicable": {
+                "certNum": "С-АФШ\/31-05-2022\/167462379",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "70750-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385007",
+                    "mitypeTitle": "Наборы мер",
+                    "number": "2408100111"
+                },
+                {
+                    "mitypeNumber": "57386-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370238",
+                    "mitypeTitle": "Блоки измерительные ваттметров",
+                    "number": "54466019"
+                },
+                {
+                    "mitypeNumber": "9273-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388034",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "8805012"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

@@ -1,0 +1,2299 @@
+{
+    "216218004": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359895",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101108",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"КВАНТ\"(АО \"НПО \"КВАНТ\")",
+            "signCipher": "АЕМ",
+            "miOwner": "АО \"ОКБ-ПЛАНЕТА\"",
+            "vrfDate": "18.01.2023",
+            "validDate": "17.01.2024",
+            "vriType": "2",
+            "docTitle": "МП 48412-11",
+            "applicable": {
+                "certNum": "С-АЕМ\/18-01-2023\/216218004",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "8051.80.2Р.00610483",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/610483",
+                    "mitypeNumber": "8051-80",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386347",
+                    "mitypeTitle": "Калибраторы мощности волноводные",
+                    "notation": "М1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "890340",
+                    "manufactureYear": 1989,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                },
+                {
+                    "regNumber": "8050.80.2Р.00610484",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/610484",
+                    "mitypeNumber": "8050-80",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386346",
+                    "mitypeTitle": "Калибраторы мощности волноводные",
+                    "notation": "М1-8",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "890128",
+                    "manufactureYear": 1989,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "51263-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363249",
+                    "mitypeTitle": "Ваттметры проходящей мощности",
+                    "number": "0000016"
+                },
+                {
+                    "mitypeNumber": "78696-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1380826",
+                    "mitypeTitle": "Генераторы сигналов векторные",
+                    "number": "105525"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "73461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "поверка произведена до 18 ГГц"
+        }
+    },
+    "204448322": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359895",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "102551",
+                "manufactureYear": 2017,
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "29.11.2022",
+            "validDate": "28.11.2023",
+            "vriType": "2",
+            "docTitle": "Инструкция. Преобразователи измерительные NRP-Z85 фирмы \"Rohde & Schwarz GmbH & CO. KG\", Германия. Методика поверки",
+            "applicable": {
+                "certNum": "С-Т\/29-11-2022\/204448322",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZТ.0237.2016",
+                    "title": "Государственный рабочий эталон единицы мощности электромагнитных колебаний 1 разряда в диапазоне значений от 0,1 до 10 мВт в диапазоне частот от 0,03 до 37,5 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/401701"
+                },
+                {
+                    "number": "3.1.ZZT.0288.2018",
+                    "title": "Государственный рабочий эталон единицы мощности электромагнитных колебаний в диапазоне значений от 0,1 до 10 мВт в диапазоне частот от 37,5 до 220 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/826873"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "73761-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/529692",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "US61251204"
+                },
+                {
+                    "mitypeNumber": "69958-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384139",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "number": "101722"
+                },
+                {
+                    "mitypeNumber": "53941-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366334",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "MY58040315"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid4fe7517f-e126-48e6-bb12-e971b1e1a249"
+        }
+    },
+    "203835100": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359895",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101508",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "25.11.2022",
+            "validDate": "24.11.2023",
+            "vriType": "2",
+            "docTitle": "МП 48412-11",
+            "applicable": {
+                "certNum": "С-МА\/25-11-2022\/203835100",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.1Р.17679",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17679",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z235",
+                    "manufactureNum": "101097",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00432945",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432945",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "100905",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности в диапазоне частот от 37,50 до 78,33 ГГц, приказ от 29 декабря 2018 г. № 2839"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00432946",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432946",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "100905",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "48bea6d2-fbe3-4a42-9635-676bebeb73b9"
+        }
+    },
+    "191503195": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359895",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101512",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"НИИ \"Вектор\"",
+            "vrfDate": "07.10.2022",
+            "validDate": "06.10.2023",
+            "vriType": "2",
+            "docTitle": "МП 48412-11",
+            "applicable": {
+                "certNum": "С-СП\/07-10-2022\/191503195",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "54535.13.1Р.00260083",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260083",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС50",
+                    "manufactureNum": "101131",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 37,5 ГГц до 78,33 ГГц. Приказ ФАТРИМ №2839 от 29.12.2018г."
+                },
+                {
+                    "regNumber": "54535.13.1Р.00260084",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260084",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС50",
+                    "manufactureNum": "101131",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц. Приказ ФАТРИМ №3461 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "54535.13.3Р.00485042",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/485042",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC50",
+                    "manufactureNum": "101131",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "39089-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348990",
+                    "mitypeTitle": "Генераторы сигналов СВЧ",
+                    "number": "101282"
+                },
+                {
+                    "mitypeNumber": "37229-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389650",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "MY49002170"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "190324453": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359895",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "102523",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"ГРПЗ\"",
+            "vrfDate": "04.10.2022",
+            "validDate": "03.10.2023",
+            "vriType": "2",
+            "docTitle": "МП 48412-11",
+            "applicable": {
+                "certNum": "С-МА\/04-10-2022\/190324453",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "54535.13.1Р.00221496",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/221496",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС50",
+                    "manufactureNum": "101112 (100643)",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 37,5 ГГц до 78,33 ГГц. Приказ ФАТРИМ №2839 от 29.12.2018г."
+                },
+                {
+                    "regNumber": "54535.13.1Р.00221497",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/221497",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС50",
+                    "manufactureNum": "101112 (100643)",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц. Приказ ФАТРИМ №3461 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "710db2af-d5c7-43d5-b15d-d467d3058e75"
+        }
+    },
+    "186792565": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359895",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101893",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБОРЫ, СЕРВИС, ТОРГОВЛЯ\"(АО \"ПРИСТ\")",
+            "signCipher": "ВЛП",
+            "miOwner": "АО КБП",
+            "vrfDate": "15.09.2022",
+            "validDate": "14.09.2023",
+            "vriType": "1",
+            "docTitle": "МП 48412-11, утвержденная ГЦИ СИ ФБУ ГНМЦ Минобороны России 09.09.2011г.",
+            "applicable": {
+                "certNum": "С-ВЛП\/15-09-2022\/186792565",
+                "stickerNum": "20220011623",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "45035.10.4Р.00149808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149808",
+                    "mitypeNumber": "45035-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355974",
+                    "mitypeTitle": "Генераторы сигналов измерительные",
+                    "notation": "MG3691C, MG3692C, MG3693C, MG3694C",
+                    "modification": "MG3694C",
+                    "manufactureNum": "115214",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00166096",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166096",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 37,5 ГГц до 78,33 ГГц. Приказ ФАТРИМ №2839 от 29.12.2018г."
+                },
+                {
+                    "regNumber": "54535.13.1Р.00166097",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166097",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц. Приказ ФАТРИМ №3461 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "58910.14.2Р.00242535",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/242535",
+                    "mitypeNumber": "58910-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372012",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "3668-1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1631001",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ волнового сопротивления, ККО и ККП в коаксиальных волноводах по ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "53567.13.2Р.00458847",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/458847",
+                    "mitypeNumber": "53567-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365915",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "85054D, 85032F, 85054B, 85052D, 85033E, 85052B, 85956D, 85956A, 85058E. 85058B, 85055A, 85053B, 85057B, 85058V",
+                    "modification": "85053B",
+                    "manufactureNum": "2815А02053",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "54535.13.3Р.00538550",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/538550",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "58910-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372012",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "number": "1631001"
+                },
+                {
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "number": "101131"
+                },
+                {
+                    "mitypeNumber": "53568-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365918",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "US56070674"
+                },
+                {
+                    "mitypeNumber": "53567-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365915",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "number": "2815A02053"
+                },
+                {
+                    "mitypeNumber": "45035-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355974",
+                    "mitypeTitle": "Генераторы сигналов измерительные",
+                    "number": "115214"
+                },
+                {
+                    "mitypeNumber": "75130-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/615435",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "16430019"
+                }
+            ]
+        },
+        "info": {
+            "structure": "_",
+            "briefIndicator": false,
+            "additional_info": "по наряду № 20220011623"
+        }
+    },
+    "186792567": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359895",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101894",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБОРЫ, СЕРВИС, ТОРГОВЛЯ\"(АО \"ПРИСТ\")",
+            "signCipher": "ВЛП",
+            "miOwner": "АО КБП",
+            "vrfDate": "15.09.2022",
+            "validDate": "14.09.2023",
+            "vriType": "1",
+            "docTitle": "МП 48412-11, утвержденная ГЦИ СИ ФБУ ГНМЦ Минобороны России 09.09.2011г.",
+            "applicable": {
+                "certNum": "С-ВЛП\/15-09-2022\/186792567",
+                "stickerNum": "20220011622",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "45035.10.4Р.00149808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149808",
+                    "mitypeNumber": "45035-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355974",
+                    "mitypeTitle": "Генераторы сигналов измерительные",
+                    "notation": "MG3691C, MG3692C, MG3693C, MG3694C",
+                    "modification": "MG3694C",
+                    "manufactureNum": "115214",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00166096",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166096",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 37,5 ГГц до 78,33 ГГц. Приказ ФАТРИМ №2839 от 29.12.2018г."
+                },
+                {
+                    "regNumber": "54535.13.1Р.00166097",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166097",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц. Приказ ФАТРИМ №3461 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "58910.14.2Р.00242535",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/242535",
+                    "mitypeNumber": "58910-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372012",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "3668-1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1631001",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ волнового сопротивления, ККО и ККП в коаксиальных волноводах по ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "53567.13.2Р.00458847",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/458847",
+                    "mitypeNumber": "53567-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365915",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "85054D, 85032F, 85054B, 85052D, 85033E, 85052B, 85956D, 85956A, 85058E. 85058B, 85055A, 85053B, 85057B, 85058V",
+                    "modification": "85053B",
+                    "manufactureNum": "2815А02053",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "54535.13.3Р.00538550",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/538550",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "58910-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372012",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "number": "1631001"
+                },
+                {
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "number": "101131"
+                },
+                {
+                    "mitypeNumber": "53568-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365918",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "US56070674"
+                },
+                {
+                    "mitypeNumber": "53567-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365915",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "number": "2815A02053"
+                },
+                {
+                    "mitypeNumber": "45035-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355974",
+                    "mitypeTitle": "Генераторы сигналов измерительные",
+                    "number": "115214"
+                },
+                {
+                    "mitypeNumber": "75130-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/615435",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "16430019"
+                }
+            ]
+        },
+        "info": {
+            "structure": "_",
+            "briefIndicator": false,
+            "additional_info": "по наряду № 20220011622"
+        }
+    },
+    "186792570": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359895",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101895",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБОРЫ, СЕРВИС, ТОРГОВЛЯ\"(АО \"ПРИСТ\")",
+            "signCipher": "ВЛП",
+            "miOwner": "АО КБП",
+            "vrfDate": "14.09.2022",
+            "validDate": "13.09.2023",
+            "vriType": "1",
+            "docTitle": "МП 48412-11, утвержденная ГЦИ СИ ФБУ ГНМЦ Минобороны России 09.09.2011г.",
+            "applicable": {
+                "certNum": "С-ВЛП\/14-09-2022\/186792570",
+                "stickerNum": "20220011621",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "45035.10.4Р.00149808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149808",
+                    "mitypeNumber": "45035-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355974",
+                    "mitypeTitle": "Генераторы сигналов измерительные",
+                    "notation": "MG3691C, MG3692C, MG3693C, MG3694C",
+                    "modification": "MG3694C",
+                    "manufactureNum": "115214",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00166096",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166096",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 37,5 ГГц до 78,33 ГГц. Приказ ФАТРИМ №2839 от 29.12.2018г."
+                },
+                {
+                    "regNumber": "54535.13.1Р.00166097",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166097",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц. Приказ ФАТРИМ №3461 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "58910.14.2Р.00242535",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/242535",
+                    "mitypeNumber": "58910-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372012",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "3668-1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1631001",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ волнового сопротивления, ККО и ККП в коаксиальных волноводах по ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "53567.13.2Р.00458847",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/458847",
+                    "mitypeNumber": "53567-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365915",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "85054D, 85032F, 85054B, 85052D, 85033E, 85052B, 85956D, 85956A, 85058E. 85058B, 85055A, 85053B, 85057B, 85058V",
+                    "modification": "85053B",
+                    "manufactureNum": "2815А02053",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "54535.13.3Р.00538550",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/538550",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "58910-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372012",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "number": "1631001"
+                },
+                {
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "number": "101131"
+                },
+                {
+                    "mitypeNumber": "53568-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365918",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "US56070674"
+                },
+                {
+                    "mitypeNumber": "53567-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365915",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "number": "2815A02053"
+                },
+                {
+                    "mitypeNumber": "45035-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355974",
+                    "mitypeTitle": "Генераторы сигналов измерительные",
+                    "number": "115214"
+                },
+                {
+                    "mitypeNumber": "75130-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/615435",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "16430019"
+                }
+            ]
+        },
+        "info": {
+            "structure": "_",
+            "briefIndicator": false,
+            "additional_info": "по наряду № 20220011621"
+        }
+    },
+    "186792573": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359895",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101896",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБОРЫ, СЕРВИС, ТОРГОВЛЯ\"(АО \"ПРИСТ\")",
+            "signCipher": "ВЛП",
+            "miOwner": "АО КБП",
+            "vrfDate": "14.09.2022",
+            "validDate": "13.09.2023",
+            "vriType": "1",
+            "docTitle": "МП 48412-11, утвержденная ГЦИ СИ ФБУ ГНМЦ Минобороны России 09.09.2011г.",
+            "applicable": {
+                "certNum": "С-ВЛП\/14-09-2022\/186792573",
+                "stickerNum": "20220011620",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "45035.10.4Р.00149808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149808",
+                    "mitypeNumber": "45035-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355974",
+                    "mitypeTitle": "Генераторы сигналов измерительные",
+                    "notation": "MG3691C, MG3692C, MG3693C, MG3694C",
+                    "modification": "MG3694C",
+                    "manufactureNum": "115214",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00166096",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166096",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 37,5 ГГц до 78,33 ГГц. Приказ ФАТРИМ №2839 от 29.12.2018г."
+                },
+                {
+                    "regNumber": "54535.13.1Р.00166097",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166097",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц. Приказ ФАТРИМ №3461 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "58910.14.2Р.00242535",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/242535",
+                    "mitypeNumber": "58910-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372012",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "3668-1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1631001",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ волнового сопротивления, ККО и ККП в коаксиальных волноводах по ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "53567.13.2Р.00458847",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/458847",
+                    "mitypeNumber": "53567-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365915",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "85054D, 85032F, 85054B, 85052D, 85033E, 85052B, 85956D, 85956A, 85058E. 85058B, 85055A, 85053B, 85057B, 85058V",
+                    "modification": "85053B",
+                    "manufactureNum": "2815А02053",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "54535.13.3Р.00538550",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/538550",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "58910-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372012",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "number": "1631001"
+                },
+                {
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "number": "101131"
+                },
+                {
+                    "mitypeNumber": "53568-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365918",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "US56070674"
+                },
+                {
+                    "mitypeNumber": "53567-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365915",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "number": "2815A02053"
+                },
+                {
+                    "mitypeNumber": "45035-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355974",
+                    "mitypeTitle": "Генераторы сигналов измерительные",
+                    "number": "115214"
+                },
+                {
+                    "mitypeNumber": "75130-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/615435",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "16430019"
+                }
+            ]
+        },
+        "info": {
+            "structure": "_",
+            "briefIndicator": false,
+            "additional_info": "по наряду № 20220011620"
+        }
+    },
+    "182399036": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389235",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101549",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "25.08.2022",
+            "validDate": "24.08.2023",
+            "vriType": "2",
+            "docTitle": "Инструкция. Преобразователи измерительные NRP-Z85 фирмы \"Rohde & Schwarz GmbH & CO. KG\", Германия. Методика поверки",
+            "applicable": {
+                "certNum": "С-Т\/25-08-2022\/182399036",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZТ.0237.2016",
+                    "title": "Государственный рабочий эталон единицы мощности электромагнитных колебаний 1 разряда в диапазоне значений от 0,1 до 10 мВт в диапазоне частот от 0,03 до 37,5 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/401701"
+                },
+                {
+                    "number": "3.1.ZZT.0288.2018",
+                    "title": "Государственный рабочий эталон единицы мощности электромагнитных колебаний в диапазоне значений от 0,1 до 10 мВт в диапазоне частот от 37,5 до 220 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/826873"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "74333-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/548056",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "MY58040315"
+                },
+                {
+                    "mitypeNumber": "69958-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384139",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "number": "101722"
+                },
+                {
+                    "mitypeNumber": "73761-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/529692",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "US61251204"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid0e6c9214-cb99-4230-aba0-0faa9c41415b"
+        }
+    },
+    "180040039": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389235",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101368",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФГУП \"НПП \"Гамма\"",
+            "vrfDate": "22.08.2022",
+            "validDate": "21.08.2023",
+            "vriType": "2",
+            "docTitle": "МП 48412-11",
+            "applicable": {
+                "certNum": "С-МА\/22-08-2022\/180040039",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17681",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z235",
+                    "manufactureNum": "101097",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00221496",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/221496",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС50",
+                    "manufactureNum": "101112 (100643)",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 37,5 ГГц до 78,33 ГГц. Приказ ФАТРИМ №2839 от 29.12.2018г."
+                },
+                {
+                    "regNumber": "54535.13.1Р.00221497",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/221497",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС50",
+                    "manufactureNum": "101112 (100643)",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц. Приказ ФАТРИМ №3461 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "f1ff6c7a-5ec3-4d95-810d-604768e0e72e"
+        }
+    },
+    "177327443": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389235",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101353",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Филиал АО \"ЦЭНКИ\"-КЦ \"Восточный\" (89003+85931)",
+            "vrfDate": "09.08.2022",
+            "validDate": "08.08.2023",
+            "vriType": "2",
+            "docTitle": "МП 48412-11",
+            "applicable": {
+                "certNum": "С-МА\/09-08-2022\/177327443",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17681",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z235",
+                    "manufactureNum": "101097",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00432945",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432945",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "100905",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности в диапазоне частот от 37,50 до 78,33 ГГц, приказ от 29 декабря 2018 г. № 2839"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00432946",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432946",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "100905",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "1f70a8db-27c7-42d4-ab09-a7f3db202d85"
+        }
+    },
+    "177327442": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389235",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101354",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Филиал АО \"ЦЭНКИ\"-КЦ \"Восточный\" (89003+85931)",
+            "vrfDate": "09.08.2022",
+            "validDate": "08.08.2023",
+            "vriType": "2",
+            "docTitle": "МП 48412-11",
+            "applicable": {
+                "certNum": "С-МА\/09-08-2022\/177327442",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17681",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z235",
+                    "manufactureNum": "101097",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00432945",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432945",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "100905",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности в диапазоне частот от 37,50 до 78,33 ГГц, приказ от 29 декабря 2018 г. № 2839"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00432946",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432946",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "100905",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "18fe5dc5-88d7-4f9a-8adc-c79e3745b447"
+        }
+    },
+    "167676597": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389235",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101302",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "01.07.2022",
+            "validDate": "30.06.2023",
+            "vriType": "2",
+            "docTitle": "МП 48412-11",
+            "applicable": {
+                "certNum": "С-МА\/01-07-2022\/167676597",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17681",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z235",
+                    "manufactureNum": "101097",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00432945",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432945",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "100905",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности в диапазоне частот от 37,50 до 78,33 ГГц, приказ от 29 декабря 2018 г. № 2839"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00432946",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432946",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "100905",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "4bf20d27-6516-47ab-b22e-0c4e93dc42ca"
+        }
+    },
+    "166630798": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389235",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101333",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "28.06.2022",
+            "validDate": "27.06.2023",
+            "vriType": "2",
+            "docTitle": "МП 48412-11",
+            "applicable": {
+                "certNum": "С-МА\/28-06-2022\/166630798",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17681",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z235",
+                    "manufactureNum": "101097",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00432945",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432945",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "100905",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности в диапазоне частот от 37,50 до 78,33 ГГц, приказ от 29 декабря 2018 г. № 2839"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00432946",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432946",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "100905",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "89aecc4a-a362-45a0-9319-b4a7064773e6"
+        }
+    },
+    "164099598": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389235",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "О856744012",
+                "modification": "СВ-15И"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"УДМУРТСКИЙ ЦЕНТР СЕРТИФИКАЦИИ\"(ООО \"УЦС\")",
+            "signCipher": "ДЮЮ",
+            "miOwner": "Физическое лицо",
+            "vrfDate": "09.06.2022",
+            "validDate": "08.06.2028",
+            "vriType": "2",
+            "docTitle": "Методика поверки. МИ 1592-2015. Счетчики воды. Рекомендация. ГСОЕИ.",
+            "applicable": {
+                "certNum": "С-ДЮЮ\/09-06-2022\/164099598",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "60661.15.3Р.00535679",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535679",
+                    "mitypeNumber": "60661-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373953",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "ВПУ - Энерго М",
+                    "modification": "ВПУ - Энерго М-00-00-0-03",
+                    "manufactureNum": "020.15.982",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 256 от 07.02.2018 с изменениями от 21.08.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "70581-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384823",
+                    "mitypeTitle": "Термометры цифровые",
+                    "number": "2BA7EA"
+                },
+                {
+                    "mitypeNumber": "2231-72",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326062",
+                    "mitypeTitle": "Секундомеры механические",
+                    "number": "1021"
+                },
+                {
+                    "mitypeNumber": "32014-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340205",
+                    "mitypeTitle": "Измерители параметров микроклимата",
+                    "number": "329418"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "157446421": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389235",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101660",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РОДЕ И ШВАРЦ РУС\"(ООО \"РОДЕ И ШВАРЦ РУС\")",
+            "signCipher": "ВЫЦ",
+            "miOwner": "Владелец",
+            "vrfDate": "17.05.2022",
+            "validDate": "16.05.2023",
+            "vriType": "1",
+            "docTitle": "МП 48412-11",
+            "applicable": {
+                "certNum": "С-ВЫЦ\/17-05-2022\/157446421",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56592.14.1Р.00134330",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/134330",
+                    "mitypeNumber": "56592-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369324",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z229, ZV-Z218",
+                    "modification": "ZV-Z229",
+                    "manufactureNum": "100879",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "56592.14.ВЭ.00134331",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/134331",
+                    "mitypeNumber": "56592-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369324",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z229, ZV-Z218",
+                    "modification": "ZV-Z229",
+                    "manufactureNum": "100879",
+                    "manufactureYear": 2013,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "31222.06.3Р.00283311",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/283311",
+                    "mitypeNumber": "31222-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339120",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FS 725",
+                    "modification": "FS725",
+                    "manufactureNum": "107388",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00283388",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/283388",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "101113 (100642)",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности в диапазоне частот от 37,50 до 78,33 ГГц, приказ от 29 декабря 2018 г. № 2839"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00283389",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/283389",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "101113 (100642)",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                },
+                {
+                    "regNumber": "54535.13.3Р.00585434",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/585434",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "101113 (100642)",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "155877214": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389235",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "102412",
+                "manufactureYear": 2021,
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ФГУП \"РФЯЦ- ВНИИТФ им. академ. Е.И. Забабахина\"",
+            "vrfDate": "16.05.2022",
+            "validDate": "15.05.2023",
+            "vriType": "2",
+            "docTitle": "Инструкция. Преобразователи измерительные NRP-Z85 фирмы \"Rohde & Schwarz GmbH & CO. KG\", Германия. Методика поверки",
+            "applicable": {
+                "certNum": "С-Т\/16-05-2022\/155877214",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZТ.0237.2016",
+                    "title": "Государственный рабочий эталон единицы мощности электромагнитных колебаний 1 разряда в диапазоне значений от 0,1 до 10 мВт в диапазоне частот от 0,03 до 37,5 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/401701"
+                },
+                {
+                    "number": "3.1.ZZT.0288.2018",
+                    "title": "Государственный рабочий эталон единицы мощности электромагнитных колебаний в диапазоне значений от 0,1 до 10 мВт в диапазоне частот от 37,5 до 220 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/826873"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "74333-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/548056",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "MY58040315"
+                },
+                {
+                    "mitypeNumber": "69958-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384139",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "number": "101722"
+                },
+                {
+                    "mitypeNumber": "73761-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/529692",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "US61251204"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mida7a1d89c-df0e-4e96-981d-ec7f696b0d43"
+        }
+    },
+    "147329807": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389235",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "102400",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "11.04.2022",
+            "validDate": "10.04.2023",
+            "vriType": "2",
+            "docTitle": "МП 48412-11",
+            "applicable": {
+                "certNum": "С-МА\/11-04-2022\/147329807",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17681",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z235",
+                    "manufactureNum": "101097",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00432945",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432945",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "100905",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности в диапазоне частот от 37,50 до 78,33 ГГц, приказ от 29 декабря 2018 г. № 2839"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00432946",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432946",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "100905",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "519b98ea-88ce-4cd3-a97b-17ff65e9355a"
+        }
+    },
+    "147329808": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389235",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "102401",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "11.04.2022",
+            "validDate": "10.04.2023",
+            "vriType": "2",
+            "docTitle": "МП 48412-11",
+            "applicable": {
+                "certNum": "С-МА\/11-04-2022\/147329808",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.ВЭ.17681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17681",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z235",
+                    "manufactureNum": "101097",
+                    "manufactureYear": 2012,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00432945",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432945",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "100905",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности в диапазоне частот от 37,50 до 78,33 ГГц, приказ от 29 декабря 2018 г. № 2839"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00432946",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432946",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "100905",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "c5e2df51-675b-4ecf-8666-706f8c84a710"
+        }
+    },
+    "143475333": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389235",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101339",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"Светлана-Электронприбор\"",
+            "vrfDate": "28.03.2022",
+            "validDate": "27.03.2023",
+            "vriType": "2",
+            "docTitle": "МП 48412-11",
+            "applicable": {
+                "certNum": "С-СП\/28-03-2022\/143475333",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "54535.13.1Р.00260083",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260083",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС50",
+                    "manufactureNum": "101131",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 37,5 ГГц до 78,33 ГГц. Приказ ФАТРИМ №2839 от 29.12.2018г."
+                },
+                {
+                    "regNumber": "54535.13.1Р.00260084",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260084",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС50",
+                    "manufactureNum": "101131",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц. Приказ ФАТРИМ №3461 от 30.12.2019 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "39089-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348990",
+                    "mitypeTitle": "Генераторы сигналов СВЧ",
+                    "number": "101282"
+                },
+                {
+                    "mitypeNumber": "37229-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389650",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "MY49002170"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "137831188": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389235",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101239",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБОРЫ, СЕРВИС, ТОРГОВЛЯ\"(АО \"ПРИСТ\")",
+            "signCipher": "ВЛП",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "01.03.2022",
+            "validDate": "28.02.2023",
+            "vriType": "2",
+            "docTitle": "МП 48412-11, утвержденная ГЦИ СИ ФБУ ГНМЦ Минобороны России 09.09.2011г.",
+            "applicable": {
+                "certNum": "С-ВЛП\/01-03-2022\/137831188",
+                "stickerNum": "2022002202",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "45035.10.4Р.00149808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149808",
+                    "mitypeNumber": "45035-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355974",
+                    "mitypeTitle": "Генераторы сигналов измерительные",
+                    "notation": "MG3691C, MG3692C, MG3693C, MG3694C",
+                    "modification": "MG3694C",
+                    "manufactureNum": "115214",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00166096",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166096",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 37,5 ГГц до 78,33 ГГц. Приказ ФАТРИМ №2839 от 29.12.2018г."
+                },
+                {
+                    "regNumber": "54535.13.1Р.00166097",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166097",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц. Приказ ФАТРИМ №3461 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "53568.13.2Р.00348465",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/348465",
+                    "mitypeNumber": "53568-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365918",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "notation": "N5221A, N5222A, N5224A, N5225A, N5227A, N5231A, N5232A, N5234A, N5235A, N5239A, N5241А, N5242А, N5244A, N5245А, N5247A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "US56070674",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ ФАТРИМ № 3383 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "53567.13.2Р.00458847",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/458847",
+                    "mitypeNumber": "53567-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365915",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "85054D, 85032F, 85054B, 85052D, 85033E, 85052B, 85956D, 85956A, 85058E. 85058B, 85055A, 85053B, 85057B, 85058V",
+                    "modification": "85053B",
+                    "manufactureNum": "2815А02053",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "54535.13.3Р.00538550",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/538550",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "75130-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/615435",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "16430019"
+                },
+                {
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "number": "101131"
+                },
+                {
+                    "mitypeNumber": "53568-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365918",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "US56070674"
+                },
+                {
+                    "mitypeNumber": "53567-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365915",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "number": "2815A02053"
+                },
+                {
+                    "mitypeNumber": "45035-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355974",
+                    "mitypeTitle": "Генераторы сигналов измерительные",
+                    "number": "115214"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "по наряду № 2022002202"
+        }
+    },
+    "137831187": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389235",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101240",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБОРЫ, СЕРВИС, ТОРГОВЛЯ\"(АО \"ПРИСТ\")",
+            "signCipher": "ВЛП",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "01.03.2022",
+            "validDate": "28.02.2023",
+            "vriType": "2",
+            "docTitle": "МП 48412-11, утвержденная ГЦИ СИ ФБУ ГНМЦ Минобороны России 09.09.2011г.",
+            "applicable": {
+                "certNum": "С-ВЛП\/01-03-2022\/137831187",
+                "stickerNum": "2022002203",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "45035.10.4Р.00149808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149808",
+                    "mitypeNumber": "45035-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355974",
+                    "mitypeTitle": "Генераторы сигналов измерительные",
+                    "notation": "MG3691C, MG3692C, MG3693C, MG3694C",
+                    "modification": "MG3694C",
+                    "manufactureNum": "115214",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "54535.13.1Р.00166096",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166096",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 37,5 ГГц до 78,33 ГГц. Приказ ФАТРИМ №2839 от 29.12.2018г."
+                },
+                {
+                    "regNumber": "54535.13.1Р.00166097",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166097",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц. Приказ ФАТРИМ №3461 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "53568.13.2Р.00348465",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/348465",
+                    "mitypeNumber": "53568-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365918",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "notation": "N5221A, N5222A, N5224A, N5225A, N5227A, N5231A, N5232A, N5234A, N5235A, N5239A, N5241А, N5242А, N5244A, N5245А, N5247A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "US56070674",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ ФАТРИМ № 3383 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "53567.13.2Р.00458847",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/458847",
+                    "mitypeNumber": "53567-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365915",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "85054D, 85032F, 85054B, 85052D, 85033E, 85052B, 85956D, 85956A, 85058E. 85058B, 85055A, 85053B, 85057B, 85058V",
+                    "modification": "85053B",
+                    "manufactureNum": "2815А02053",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "54535.13.3Р.00538550",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/538550",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRPC40",
+                    "manufactureNum": "101131 (101111)",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "75130-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/615435",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "16430019"
+                },
+                {
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "number": "101131"
+                },
+                {
+                    "mitypeNumber": "53568-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365918",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "US56070674"
+                },
+                {
+                    "mitypeNumber": "53567-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365915",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "number": "2815A02053"
+                },
+                {
+                    "mitypeNumber": "45035-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355974",
+                    "mitypeTitle": "Генераторы сигналов измерительные",
+                    "number": "115214"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "по наряду № 2022002203"
+        }
+    },
+    "125865423": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48412-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359895",
+                "mitypeType": "NRP-Z85",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "101108",
+                "modification": "NRP-Z85"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"КВАНТ\"(АО \"НПО \"КВАНТ\")",
+            "signCipher": "АЕМ",
+            "miOwner": "АО \"ОКБ-ПЛАНЕТА\"",
+            "vrfDate": "21.01.2022",
+            "validDate": "20.01.2023",
+            "vriType": "2",
+            "docTitle": "МП - 48415-11",
+            "applicable": {
+                "certNum": "С-АЕМ\/21-01-2022\/125865423",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41567.09.4Р.00433945",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/433945",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90",
+                    "manufactureNum": "139791",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492624",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "73461"
+                },
+                {
+                    "mitypeNumber": "51263-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363249",
+                    "mitypeTitle": "Ваттметры проходящей мощности",
+                    "number": "0000016"
+                },
+                {
+                    "mitypeNumber": "78696-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1380826",
+                    "mitypeTitle": "Генераторы сигналов векторные",
+                    "number": "105525"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

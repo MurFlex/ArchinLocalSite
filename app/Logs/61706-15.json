@@ -1,0 +1,84 @@
+{
+    "160930705": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61706-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375125",
+                "mitypeType": "EdgeProbe RF, EdgeProbe SFN, EdgeProbe Advanced, EdgeProbe Nano",
+                "mitypeTitle": "Приемники измерительные",
+                "manufactureNum": "130025LAU302000452",
+                "manufactureYear": 2020,
+                "modification": "Enensys EdgeProbe Advanced"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"РОССИЙСКАЯ ТЕЛЕВИЗИОННАЯ И РАДИОВЕЩАТЕЛЬНАЯ СЕТЬ\"(РТРС)",
+            "signCipher": "АОМ",
+            "miOwner": "Владелец СИ",
+            "vrfDate": "30.05.2022",
+            "validDate": "29.05.2023",
+            "vriType": "1",
+            "docTitle": "МП РТ 2283 – 2015 «Приемники измерительные EdgeProbe RF, EdgeProbe SFN, EdgeProbe Advanced, EdgeProbe Nano. Методика поверки»",
+            "applicable": {
+                "certNum": "С-АОМ\/30-05-2022\/160930705",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "43199.09.4Р.00179336",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/179336",
+                    "mitypeNumber": "43199-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353840",
+                    "mitypeTitle": "Тестеры телерадиовещательные",
+                    "notation": "R&S SFE\/SFE 100",
+                    "modification": "Тестер телерадиовещательныйR&S SFE",
+                    "manufactureNum": "122136",
+                    "manufactureYear": 2016,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00179496",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/179496",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "Преобразователь измерительный NRP-Z51",
+                    "manufactureNum": "104156",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3461"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "75686-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/717864",
+                    "mitypeTitle": "Анализаторы качества электрической энергии",
+                    "number": "20020132"
+                },
+                {
+                    "mitypeNumber": "38441-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348194",
+                    "mitypeTitle": "Анализаторы телевизионные",
+                    "number": "104059"
+                },
+                {
+                    "mitypeNumber": "13561-93",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/309283",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "6764"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

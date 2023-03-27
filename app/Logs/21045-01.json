@@ -1,0 +1,69 @@
+{
+    "165153261": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "21045.01.РЭ.00629063",
+                "mitypeNumber": "21045-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323930",
+                "mitypeTitle": "Стенды испытательные",
+                "mitypeType": "Сапфир-Д",
+                "modification": "Сапфир-Д",
+                "manufactureNum": "СК00008",
+                "manufactureYear": 2010,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "«перечня методик поверки в протоколе поверки»"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ЯРОСЛАВСКОЙ ОБЛАСТИ\"(ФБУ \"ЯРОСЛАВСКИЙ ЦСМ\")",
+            "signCipher": "ГД",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Ярославской области\"",
+            "vrfDate": "08.06.2022",
+            "validDate": "07.06.2023",
+            "vriType": "2",
+            "docTitle": "ЭРМС.441235-00МП",
+            "applicable": {
+                "certNum": "С-ГД\/08-06-2022\/165153261",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "36768.08.РЭ.00628909",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/628909",
+                    "mitypeNumber": "36768-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346176",
+                    "mitypeTitle": "Штангенциркули",
+                    "notation": "ШЦ-III-1600 (2000)",
+                    "modification": "мод. ШЦ-III",
+                    "manufactureNum": "10100651",
+                    "manufactureYear": 2011,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЭРМС.441235-00МП"
+                },
+                {
+                    "regNumber": "72189.18.РЭ.00628910",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/628910",
+                    "mitypeNumber": "72189-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/397692",
+                    "mitypeTitle": "Штангенциркули",
+                    "notation": "ШЦ, ШЦК, ШЦЦ",
+                    "modification": "мод. ШЦЦ-I",
+                    "manufactureNum": "63047239",
+                    "manufactureYear": 2020,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЭРМС.441235-00МП"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-165153261\/protocol"
+        }
+    }
+}

@@ -1,0 +1,483 @@
+{
+    "207162152": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "26524-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332746",
+                "mitypeType": "СКАТ",
+                "mitypeTitle": "Комплексы измерительные",
+                "manufactureNum": "10-1-06",
+                "manufactureYear": 2006,
+                "modification": "СКАТ"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Филиал \"Верхнетагильская ГРЭС\" АО \"Интер РАО - Электрогенерация\"",
+            "vrfDate": "30.11.2022",
+            "validDate": "29.11.2023",
+            "vriType": "2",
+            "docTitle": "ИРМБ.413426.002 РЭ, приложение А",
+            "applicable": {
+                "certNum": "С-СЕ\/30-11-2022\/207162152",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 10597-2015",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ В АЗОТЕ (N2-П-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389585",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "П-55306",
+                    "metroChars": "Диапазон измерений: молярная доля компонента,% 0,1012, погрешность и (или) неопределенность (класс, разряд): 0,0025"
+                },
+                {
+                    "number": "ГСО 10597-2015",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ В АЗОТЕ (N2-П-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389585",
+                    "manufactureYear": 2022,
+                    "manufactureNum": "Ф-35726"
+                },
+                {
+                    "number": "ГСО 10597-2015",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ В АЗОТЕ (N2-П-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389585",
+                    "manufactureYear": 2022,
+                    "manufactureNum": "Ф-35705",
+                    "metroChars": "Диапазон измерений: молярная доля компонента SO2 0.00103 %, погрешность и (или) неопределенность (класс, разряд): 0.00004"
+                },
+                {
+                    "number": "ГСО 10597-2015",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ В АЗОТЕ (N2-П-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389585",
+                    "manufactureYear": 2022,
+                    "manufactureNum": "Ф-37071",
+                    "metroChars": "Диапазон измерений: Молярная доля компонента (NО) 0,00314 %, погрешность и (или) неопределенность (класс, разряд): Δ = ±  0,00013 %"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "37681.08.1Р.00592858",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/592858",
+                    "mitypeNumber": "37681-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347279",
+                    "mitypeTitle": "Генераторы нулевого воздуха",
+                    "notation": "ZAG",
+                    "modification": "мод. ZAG 7001",
+                    "manufactureNum": "5345",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.12.2020 г. № 2315"
+                },
+                {
+                    "regNumber": "19351.00.1Р.00598165",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/598165",
+                    "mitypeNumber": "19351-00",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320948",
+                    "mitypeTitle": "Генераторы газовых смесей",
+                    "notation": "ГГС-03-03",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "97",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.12.2020 г. № 2315"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "67050-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380965",
+                    "mitypeTitle": "Ротаметры с местными показаниями стеклянные",
+                    "number": "2311"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39518602\/810"
+                }
+            ]
+        },
+        "info": {
+            "structure": "регистратор данных ESC 8816 2425,газоанализатор хемилюминисцентный окислов азота NO\\NO₂ мод. Р-310А 139-1-06, газоанализатор окиси углерода К-100 128-1-06,газоанализатор диоксида серы SO₂ мод. С-105А 16-2-06",
+            "briefIndicator": true,
+            "briefCharacteristics": "NO₂: от 0 до 1000 мкг\/м³; NO: от 0 до 1000 мкг\/м³; СО: от 0 до 50 мг\/м³; SO₂: от 0 до 5 мг\/м³",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-207162152\/protocol"
+        }
+    },
+    "169881587": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "26524-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332746",
+                "mitypeType": "СКАТ",
+                "mitypeTitle": "Комплексы измерительные",
+                "manufactureNum": "33-4-07",
+                "manufactureYear": 2007,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "АО \"Минудобрения\"",
+            "vrfDate": "11.07.2022",
+            "validDate": "10.07.2023",
+            "vriType": "1",
+            "docTitle": "методика поверки в составе Руководства по эксплуатации ИРМБ.413426.002 РЭ",
+            "applicable": {
+                "certNum": "С-В\/11-07-2022\/169881587",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 10531-2014",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ НА ОСНОВЕ ИНЕРТНЫХ И ПОСТОЯННЫХ ГАЗОВ (ИП-М-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389651",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "12121",
+                    "metroChars": "Наименование и аттестованное значение: 0,0102 % об.д., погрешность и (или) неопределенность: ±0,00026 % об.д."
+                },
+                {
+                    "number": "ГСО 10546-2014",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ НА ОСНОВЕ ХИМИЧЕСКИ АКТИВНЫХ ГАЗОВ (ХА-М-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389636",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "29238",
+                    "metroChars": "Наименование и аттестованное значение: 0,00995 % об.д., погрешность и (или) неопределенность: ±0,00025 % об.д."
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "62151.15.1Р.00557151",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/557151",
+                    "mitypeNumber": "62151-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375627",
+                    "mitypeTitle": "Генераторы газовых смесей",
+                    "notation": "ГГС мод. ГГС-Р, ГГС-Т, ГГС-К, ГГС-03-03",
+                    "modification": "ГГС-Р",
+                    "manufactureNum": "299",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.12.2020 г. № 2315"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#midcb566713-a6a8-46f4-bc0d-e3a75e010bb4"
+        }
+    },
+    "162008440": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "26524-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332746",
+                "mitypeType": "СКАТ",
+                "mitypeTitle": "Комплексы измерительные",
+                "manufactureNum": "07-4-05",
+                "manufactureYear": 2005,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Акционерное общество холдинговая компания \"Якутуголь\"",
+            "vrfDate": "06.06.2022",
+            "validDate": "05.06.2023",
+            "vriType": "1",
+            "docTitle": "методика поверки в составе Руководства по эксплуатации ИРМБ.413426.002 РЭ",
+            "applicable": {
+                "certNum": "С-В\/06-06-2022\/162008440",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 10531-2014",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ НА ОСНОВЕ ИНЕРТНЫХ И ПОСТОЯННЫХ ГАЗОВ (ИП-М-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389651",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "28228",
+                    "metroChars": "Наименование и аттестованное значение: 0,0984 % об.д., погрешность и (или) неопределенность: ±0,0015 % об.д."
+                },
+                {
+                    "number": "ГСО 10546-2014",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ НА ОСНОВЕ ХИМИЧЕСКИ АКТИВНЫХ ГАЗОВ (ХА-М-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389636",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "35614",
+                    "metroChars": "Наименование и аттестованное значение: 0,0350 % об.д., погрешность и (или) неопределенность: ±0,0009 % об.д."
+                },
+                {
+                    "number": "ГСО 10546-2014",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ НА ОСНОВЕ ХИМИЧЕСКИ АКТИВНЫХ ГАЗОВ (ХА-М-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389636",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "38926",
+                    "metroChars": "Наименование и аттестованное значение: 0,0406 % об.д., погрешность и (или) неопределенность: ± 0,0010 % об.д."
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "62151.15.1Р.00557151",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/557151",
+                    "mitypeNumber": "62151-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375627",
+                    "mitypeTitle": "Генераторы газовых смесей",
+                    "notation": "ГГС мод. ГГС-Р, ГГС-Т, ГГС-К, ГГС-03-03",
+                    "modification": "ГГС-Р",
+                    "manufactureNum": "299",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.12.2020 г. № 2315"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#midbbbc8b47-17d4-49ec-a462-42825578c110"
+        }
+    },
+    "159407587": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "26524-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332746",
+                "mitypeType": "СКАТ",
+                "mitypeTitle": "Комплексы измерительные",
+                "manufactureNum": "69-3-08",
+                "manufactureYear": 2008,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Министерство природопользования Рязанской области",
+            "vrfDate": "23.05.2022",
+            "validDate": "22.05.2023",
+            "vriType": "1",
+            "docTitle": "методика поверки в составе Руководства по эксплуатации ИРМБ.413426.002 РЭ",
+            "applicable": {
+                "certNum": "С-В\/23-05-2022\/159407587",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 10531-2014",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ НА ОСНОВЕ ИНЕРТНЫХ И ПОСТОЯННЫХ ГАЗОВ (ИП-М-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389651",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "12121",
+                    "metroChars": "Наименование и аттестованное значение: 0,0102 % об.д., погрешность и (или) неопределенность: ±0,00026 % об.д."
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "58708.14.1Р.00366089",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/366089",
+                    "mitypeNumber": "58708-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371789",
+                    "mitypeTitle": "Генераторы газовых смесей - рабочие эталоны 1-го разряда",
+                    "notation": "T700, 700Е, Т700U, 700ЕU, Т700Н, T703, 703Е, Т703U, 702, Т750",
+                    "modification": "мод. T700U",
+                    "manufactureNum": "671",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.12.2020 г. № 2315"
+                },
+                {
+                    "regNumber": "62151.15.1Р.00557151",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/557151",
+                    "mitypeNumber": "62151-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375627",
+                    "mitypeTitle": "Генераторы газовых смесей",
+                    "notation": "ГГС мод. ГГС-Р, ГГС-Т, ГГС-К, ГГС-03-03",
+                    "modification": "ГГС-Р",
+                    "manufactureNum": "299",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.12.2020 г. № 2315"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid2b6b6c86-e24e-4141-a5df-576532299661"
+        }
+    },
+    "159407588": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "26524-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332746",
+                "mitypeType": "СКАТ",
+                "mitypeTitle": "Комплексы измерительные",
+                "manufactureNum": "68-3-08",
+                "manufactureYear": 2008,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Министерство природопользования Рязанской области",
+            "vrfDate": "23.05.2022",
+            "validDate": "22.05.2023",
+            "vriType": "1",
+            "docTitle": "методика поверки в составе Руководства по эксплуатации ИРМБ.413426.002 РЭ",
+            "applicable": {
+                "certNum": "С-В\/23-05-2022\/159407588",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 10531-2014",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ НА ОСНОВЕ ИНЕРТНЫХ И ПОСТОЯННЫХ ГАЗОВ (ИП-М-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389651",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "12121",
+                    "metroChars": "Наименование и аттестованное значение: 0,0102 % об.д., погрешность и (или) неопределенность: ±0,00026 % об.д."
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "58708.14.1Р.00366089",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/366089",
+                    "mitypeNumber": "58708-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371789",
+                    "mitypeTitle": "Генераторы газовых смесей - рабочие эталоны 1-го разряда",
+                    "notation": "T700, 700Е, Т700U, 700ЕU, Т700Н, T703, 703Е, Т703U, 702, Т750",
+                    "modification": "мод. T700U",
+                    "manufactureNum": "671",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.12.2020 г. № 2315"
+                },
+                {
+                    "regNumber": "62151.15.1Р.00557151",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/557151",
+                    "mitypeNumber": "62151-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375627",
+                    "mitypeTitle": "Генераторы газовых смесей",
+                    "notation": "ГГС мод. ГГС-Р, ГГС-Т, ГГС-К, ГГС-03-03",
+                    "modification": "ГГС-Р",
+                    "manufactureNum": "299",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.12.2020 г. № 2315"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#midd112c3fa-0f19-4433-b3e5-b40a31f91305"
+        }
+    },
+    "159407586": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "26524-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332746",
+                "mitypeType": "СКАТ",
+                "mitypeTitle": "Комплексы измерительные",
+                "manufactureNum": "70-3-08",
+                "manufactureYear": 2008,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Министерство природопользования Рязанской области",
+            "vrfDate": "23.05.2022",
+            "validDate": "22.05.2023",
+            "vriType": "1",
+            "docTitle": "методика поверки в составе Руководства по эксплуатации ИРМБ.413426.002 РЭ",
+            "applicable": {
+                "certNum": "С-В\/23-05-2022\/159407586",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 10531-2014",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ НА ОСНОВЕ ИНЕРТНЫХ И ПОСТОЯННЫХ ГАЗОВ (ИП-М-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389651",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "12121",
+                    "metroChars": "Наименование и аттестованное значение: 0,0102 % об.д., погрешность и (или) неопределенность: ±0,00026 % об.д."
+                },
+                {
+                    "number": "ГСО 10546-2014",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ НА ОСНОВЕ ХИМИЧЕСКИ АКТИВНЫХ ГАЗОВ (ХА-М-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389636",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "29238",
+                    "metroChars": "Наименование и аттестованное значение: 0,00995 % об.д., погрешность и (или) неопределенность: ±0,00025 % об.д."
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "58708.14.1Р.00366089",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/366089",
+                    "mitypeNumber": "58708-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371789",
+                    "mitypeTitle": "Генераторы газовых смесей - рабочие эталоны 1-го разряда",
+                    "notation": "T700, 700Е, Т700U, 700ЕU, Т700Н, T703, 703Е, Т703U, 702, Т750",
+                    "modification": "мод. T700U",
+                    "manufactureNum": "671",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.12.2020 г. № 2315"
+                },
+                {
+                    "regNumber": "62151.15.1Р.00557151",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/557151",
+                    "mitypeNumber": "62151-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375627",
+                    "mitypeTitle": "Генераторы газовых смесей",
+                    "notation": "ГГС мод. ГГС-Р, ГГС-Т, ГГС-К, ГГС-03-03",
+                    "modification": "ГГС-Р",
+                    "manufactureNum": "299",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.12.2020 г. № 2315"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mide7134bb5-c7d8-4c86-b7a4-c6338e4ce5b2"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "128726607": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4434-74",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355187",
+                "mitypeType": "ДН-1",
+                "mitypeTitle": "Приборы",
+                "manufactureNum": "19",
+                "manufactureYear": 1976,
+                "modification": "ДН-1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Акционерное общество \"КОНЦЕРН \"МОРСКОЕ ПОДВОДНОЕ ОРУЖИЕ - ГИДРОПРИБОР\"",
+            "vrfDate": "03.02.2022",
+            "validDate": "02.02.2023",
+            "vriType": "2",
+            "docTitle": "МИ1873-88",
+            "applicable": {
+                "certNum": "С-СП\/03-02-2022\/128726607",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76471.19.1Р.00307342",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/307342",
+                    "mitypeNumber": "76471-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/891820",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "АТ-9000",
+                    "modification": "АТ-9000-Р",
+                    "manufactureNum": "19013-237",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Кпр=1,77 пКл\/м\/с^2"
+        }
+    }
+}

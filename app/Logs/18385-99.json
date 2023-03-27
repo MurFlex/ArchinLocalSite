@@ -1,0 +1,65 @@
+{
+    "172645524": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18385-99",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/319286",
+                "mitypeType": "ПТТ.01",
+                "mitypeTitle": "Преобразователи измерительные ток-ток",
+                "manufactureNum": "2269",
+                "manufactureYear": 2000,
+                "modification": "мод. Метран-55-ДИ"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ЯРОСЛАВСКОЙ ОБЛАСТИ\"(ФБУ \"ЯРОСЛАВСКИЙ ЦСМ\")",
+            "signCipher": "ГД",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "21.07.2022",
+            "validDate": "20.07.2024",
+            "vriType": "2",
+            "docTitle": "МИ 1997-89",
+            "applicable": {
+                "certNum": "С-ГД\/21-07-2022\/172645524",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22307.01.1Р.00330699",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/330699",
+                    "mitypeNumber": "22307-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326054",
+                    "mitypeTitle": "Калибраторы давления портативные",
+                    "notation": "Метран 501-ПКД-Р",
+                    "modification": "мод. Метран 501- ПКД-Р",
+                    "manufactureNum": "385",
+                    "manufactureYear": 2004,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказ Росстандарта № 2091 от 01.10.2018"
+                },
+                {
+                    "regNumber": "22307.01.2Р.00339772",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/339772",
+                    "mitypeNumber": "22307-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326054",
+                    "mitypeTitle": "Калибраторы давления портативные",
+                    "notation": "Метран 501-ПКД-Р",
+                    "modification": "мод. Метран 501-ПКД-Р",
+                    "manufactureNum": "385",
+                    "manufactureYear": 2004,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС, утвержденная приказом Росстандарта №1339 от 29.06.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Верхний предел измерений 1,0 МПа, значение выходного сигнала (4-20) мА, ПГ ±0,5%"
+        }
+    }
+}

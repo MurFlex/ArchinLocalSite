@@ -1,0 +1,101 @@
+{
+    "192415437": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39176-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349093",
+                "mitypeType": "SIDERTOP, SIDERLAB",
+                "mitypeTitle": "Измерители многофункциональные цифровые",
+                "manufactureNum": "1607",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ООО \" Альянс-Металл\"",
+            "vrfDate": "10.10.2022",
+            "validDate": "09.10.2023",
+            "vriType": "2",
+            "docTitle": "\"Измерители многофункциональные цифровые серий SIDERTOP,SIDERLAB. Методика поверки\", 2008 г.",
+            "applicable": {
+                "certNum": "С-АБ\/10-10-2022\/192415437",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "21591.07.3Р.00154723",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/154723",
+                    "mitypeNumber": "21591-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/324846",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MCX-II-R",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1212",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №3457 от 30.12.2019 ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Первичный преобразователь: преобразователь термоэлектрический с номинальной статической характеристикой ПР(В) Предел допускаемой основной погрешности: ±0,1 %"
+        }
+    },
+    "126660649": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39176-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349093",
+                "mitypeType": "SIDERTOP, SIDERLAB",
+                "mitypeTitle": "Измерители многофункциональные цифровые",
+                "manufactureNum": "1648",
+                "modification": "SIDERTOP"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "ООО «УГМК - Сталь»",
+            "vrfDate": "26.01.2022",
+            "validDate": "25.01.2023",
+            "vriType": "2",
+            "docTitle": "МП 39176-08 «Измерители многофункциональные цифровые серий SIDERTOP, SIDERLAB. Методика поверки»",
+            "applicable": {
+                "certNum": "С-ВЯ\/26-01-2022\/126660649",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "7476.79.3Р.00293919",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/293919",
+                    "mitypeNumber": "7476-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385550",
+                    "mitypeTitle": "Компараторы напряжений",
+                    "notation": "Р3003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "00617",
+                    "manufactureYear": 1991,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ Росстандарта № 3457 от 30 декабря 2019 года"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": true,
+            "briefCharacteristics": "НСХ тип В, от 1100 до 1800 С",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-126660649\/protocol",
+            "additional_info": "(id:3822663010073)"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "149368414": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "56693-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369444",
+                "mitypeType": "E4991A",
+                "mitypeTitle": "Измерители LCR высокочастотные",
+                "manufactureNum": "MY54100462",
+                "manufactureYear": 2018,
+                "modification": "E4991B"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"НПЦ ЭлТест\"",
+            "vrfDate": "15.04.2022",
+            "validDate": "14.04.2023",
+            "vriType": "2",
+            "docTitle": "МП 651-15-29",
+            "applicable": {
+                "certNum": "С-СП\/15-04-2022\/149368414",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "8485.81.1Р.93372",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/93372",
+                    "mitypeNumber": "8485-81",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386929",
+                    "mitypeTitle": "Набор мер КСВН и полного сопротивления 1-го разряда",
+                    "notation": "ЭК9-140",
+                    "modification": "ЭК9-140 (Э9-140 Э9-141 Э9-142 Э9-143 Э9-144 Э9-159 Э9-160 Э9-161 Э2-146 Э2-148 Э2-149)",
+                    "manufactureNum": "072 (072, 040, 072, 072, 072, 072, 027, 027, 069, 069, 069)",
+                    "manufactureYear": 1986,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.813-2013"
+                },
+                {
+                    "regNumber": "41567.09.4Р.00195417",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/195417",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "166867",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "43579.10.1Р.00260074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260074",
+                    "mitypeNumber": "43579-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354297",
+                    "mitypeTitle": "Ваттметр поглощаемой мощности эталонный",
+                    "notation": "ВПМЭ-2",
+                    "modification": "ВПМЭ-2",
+                    "manufactureNum": "001",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц. Приказ ФАТРИМ №3461 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    }
+}

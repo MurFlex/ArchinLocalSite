@@ -1,0 +1,89 @@
+{
+    "175805133": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "41883-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/352288",
+                "mitypeType": "IOL Master",
+                "mitypeTitle": "Приборы офтальмологические",
+                "manufactureNum": "975007",
+                "modification": "IOL Master"
+            }
+        },
+        "vriInfo": {
+            "organization": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Республике Татарстан\"(ФБУ \"ЦСМ Татарстан\")",
+            "signCipher": "АМ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.08.2022",
+            "validDate": "02.08.2023",
+            "vriType": "2",
+            "docTitle": "Приборы  офтальмологические IOL Master. Методика поверки ВНИОФИ. (Приложение к Инструкции по применению \"IOL Master\")",
+            "applicable": {
+                "certNum": "С-АМ\/03-08-2022\/175805133",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "40378.09.РЭ.00231724",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/231724",
+                    "mitypeNumber": "40378-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350507",
+                    "mitypeTitle": "Наборы оптических мер для поверки офтальмологических приборов",
+                    "notation": "НОМ-3",
+                    "modification": "",
+                    "manufactureNum": "12",
+                    "manufactureYear": 2009,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 22.10.2019 №2500"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "157156362": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "41883-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/352288",
+                "mitypeType": "IOL Master",
+                "mitypeTitle": "Приборы офтальмологические",
+                "manufactureNum": "1080883",
+                "modification": "IOL Master"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МЕДТЕХНИКА\" РЕСПУБЛИКИ БАШКОРТОСТАН(ООО \"МЕДТЕХНИКА\" РБ)",
+            "signCipher": "АБН",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "13.05.2022",
+            "validDate": "12.05.2023",
+            "vriType": "2",
+            "docTitle": "МП Приложение к РЭ",
+            "applicable": {
+                "certNum": "С-АБН\/13-05-2022\/157156362",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "40378-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350507",
+                    "mitypeTitle": "Наборы оптических мер для поверки офтальмологических приборов",
+                    "number": "03"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "в режиме измерения кератометрии"
+        }
+    }
+}

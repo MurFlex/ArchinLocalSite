@@ -1,0 +1,110 @@
+{
+    "206677436": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "21978-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325542",
+                "mitypeType": "Megaspin",
+                "mitypeTitle": "Станки балансировочные",
+                "manufactureNum": "0503042702043",
+                "modification": "Megaspin 800"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЦМС ПРОГРЕСС\"(ООО \"ЦМС ПРОГРЕСС\")",
+            "signCipher": "ВЯД",
+            "miOwner": "Автопредприятие Центрального банка России",
+            "vrfDate": "24.11.2022",
+            "validDate": "23.11.2023",
+            "vriType": "2",
+            "docTitle": "МИ 2977-2006",
+            "applicable": {
+                "certNum": "С-ВЯД\/24-11-2022\/206677436",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "65811.16.РЭ.00253538",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/253538",
+                    "mitypeNumber": "65811-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379615",
+                    "mitypeTitle": "Весы электронные лабораторные",
+                    "notation": "M-ER",
+                    "modification": "модификация M-ER 122ACF-1500.0,05",
+                    "manufactureNum": "12206089",
+                    "manufactureYear": 2019,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Локальная поверочная схема для измерения стендов и приборов для балансировки колес автомобилей №6-19\/20"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "34854-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343825",
+                    "mitypeTitle": "Линейки измерительные металлические",
+                    "number": "88"
+                },
+                {
+                    "mitypeNumber": "58048-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371011",
+                    "mitypeTitle": "Гири классов точности F1, F2, M1, M2",
+                    "number": "885774"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "186040659": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "21978-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325542",
+                "mitypeType": "Megaspin",
+                "mitypeTitle": "Станки балансировочные",
+                "manufactureNum": "1111083408587",
+                "modification": "Megaspin, мод.400 М400Р-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Александрова Ольга Викторовна",
+            "vrfDate": "14.09.2022",
+            "validDate": "13.09.2023",
+            "vriType": "2",
+            "docTitle": "МИ 2977-06",
+            "applicable": {
+                "certNum": "С-СП\/14-09-2022\/186040659",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "10447.86.1Р.00227662",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/227662",
+                    "mitypeNumber": "10447-86",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304689",
+                    "mitypeTitle": "Экзаменаторы образцовые 1-го разряда",
+                    "notation": "ЭО-1",
+                    "modification": "ЭО-1",
+                    "manufactureNum": "62",
+                    "manufactureYear": 1990,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ №2482 от 26.11.2018"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

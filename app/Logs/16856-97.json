@@ -1,0 +1,64 @@
+{
+    "147028987": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "16856-97",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316354",
+                "mitypeType": "TeleSAFE SmartWIRE, Micro16, SCADAPack",
+                "mitypeTitle": "Контроллеры на основе измерительных модулей серии 5000",
+                "manufactureNum": "S090742",
+                "manufactureYear": 2011,
+                "modification": "SCADAPack 32"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВАТЭК-ТАРКОСАЛЕНЕФТЕГАЗ\"(ООО \"НОВАТЭК-ТАРКОСАЛЕНЕФТЕГАЗ\")",
+            "signCipher": "ГШЕ",
+            "miOwner": "ООО \"НОВАТЭК-ТАРКОСАЛЕНЕФТЕГАЗ\"",
+            "vrfDate": "26.03.2022",
+            "validDate": "25.03.2025",
+            "vriType": "2",
+            "docTitle": "16857-97 Измерительные каналы контроллеров серии TeleSAFE . Методика поверки и калибровки.",
+            "applicable": {
+                "certNum": "С-ГШЕ\/26-03-2022\/147028987",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22237.08.1Р.00439315",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/439315",
+                    "mitypeNumber": "22237-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/397121",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MCх-R",
+                    "modification": "MC5-R-IS",
+                    "manufactureNum": "20137180",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 1 октября 2018 г. №2091"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "16348-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315303",
+                    "mitypeTitle": "Приборы цифровые для измерения давления",
+                    "number": "74003670"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "56064"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

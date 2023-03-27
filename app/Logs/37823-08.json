@@ -1,0 +1,761 @@
+{
+    "205915139": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "37823-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347452",
+                "mitypeType": "УДАС-201М",
+                "mitypeTitle": "Установки для измерения объемной активности радиоактивных аэрозолей",
+                "manufactureNum": "006",
+                "manufactureYear": 2012,
+                "modification": "УДАС-201М"
+            }
+        },
+        "vriInfo": {
+            "organization": "Филиал АО «Концерн Росэнергоатом» - Белоярская атомная станция (Филиал АО «Концерн Росэнергоатом» - Белоярская атомная станция )",
+            "signCipher": "АДЧ",
+            "miOwner": "Филиал АО «Концерн Росэнергоатом» «Белоярская АЭС»",
+            "vrfDate": "28.11.2022",
+            "validDate": "27.11.2023",
+            "vriType": "2",
+            "docTitle": "ВШКФ 413579.004 МП",
+            "applicable": {
+                "certNum": "С-АДЧ\/28-11-2022\/205915139",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "61304.15.2Р.07288",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7288",
+                    "mitypeNumber": "61304-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374695",
+                    "mitypeTitle": "Источники альфа-излучения закрытые с радионуклидом плутоний-239",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0632",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61304.15.2Р.07290",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7290",
+                    "mitypeNumber": "61304-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374695",
+                    "mitypeTitle": "Источники альфа-излучения закрытые с радионуклидом плутоний-239",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0635",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.07293",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7293",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9600",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.07368",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7368",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9594",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.07370",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7370",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9596",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.00415125",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/415125",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "1СО",
+                    "manufactureNum": "74041\/21\/0486",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "государственной поверочной схемой, утв. приказом Росстандарта № 2841 от 29.12.2018."
+                },
+                {
+                    "regNumber": "61305.15.2Р.00415134",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/415134",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "1СО",
+                    "manufactureNum": "74041\/21\/0492",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "государственной поверочной схемой, утв. приказом Росстандарта № 2841 от 29.12.2018."
+                },
+                {
+                    "regNumber": "51713.12.2Р.00639937",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/639937",
+                    "mitypeNumber": "51713-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363776",
+                    "mitypeTitle": "Расходомеры-счетчики газа",
+                    "notation": "РГТ",
+                    "modification": "РГТ-7",
+                    "manufactureNum": "534",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема приказ № 1133 от 11 мая 2022 г.»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "33404-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342009",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "33100058"
+                },
+                {
+                    "mitypeNumber": "19793-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321727",
+                    "mitypeTitle": "Дозиметры рентгеновского и гамма-излучения",
+                    "number": "44434"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39512953\/704"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "205915120": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "37823-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347452",
+                "mitypeType": "УДАС-201М",
+                "mitypeTitle": "Установки для измерения объемной активности радиоактивных аэрозолей",
+                "manufactureNum": "005",
+                "manufactureYear": 2012,
+                "modification": "УДАС-201М"
+            }
+        },
+        "vriInfo": {
+            "organization": "Филиал АО «Концерн Росэнергоатом» - Белоярская атомная станция (Филиал АО «Концерн Росэнергоатом» - Белоярская атомная станция )",
+            "signCipher": "АДЧ",
+            "miOwner": "Филиал АО «Концерн Росэнергоатом» «Белоярская АЭС»",
+            "vrfDate": "25.11.2022",
+            "validDate": "24.11.2023",
+            "vriType": "2",
+            "docTitle": "ВШКФ 413579.004 МП",
+            "applicable": {
+                "certNum": "С-АДЧ\/25-11-2022\/205915120",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "61304.15.2Р.07288",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7288",
+                    "mitypeNumber": "61304-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374695",
+                    "mitypeTitle": "Источники альфа-излучения закрытые с радионуклидом плутоний-239",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0632",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61304.15.2Р.07290",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7290",
+                    "mitypeNumber": "61304-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374695",
+                    "mitypeTitle": "Источники альфа-излучения закрытые с радионуклидом плутоний-239",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0635",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.07293",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7293",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9600",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.07368",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7368",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9594",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.07370",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7370",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9596",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.00415125",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/415125",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "1СО",
+                    "manufactureNum": "74041\/21\/0486",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "государственной поверочной схемой, утв. приказом Росстандарта № 2841 от 29.12.2018."
+                },
+                {
+                    "regNumber": "61305.15.2Р.00415134",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/415134",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "1СО",
+                    "manufactureNum": "74041\/21\/0492",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "государственной поверочной схемой, утв. приказом Росстандарта № 2841 от 29.12.2018."
+                },
+                {
+                    "regNumber": "51713.12.2Р.00639937",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/639937",
+                    "mitypeNumber": "51713-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363776",
+                    "mitypeTitle": "Расходомеры-счетчики газа",
+                    "notation": "РГТ",
+                    "modification": "РГТ-7",
+                    "manufactureNum": "534",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема приказ № 1133 от 11 мая 2022 г.»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "33404-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342009",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "33100058"
+                },
+                {
+                    "mitypeNumber": "19793-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321727",
+                    "mitypeTitle": "Дозиметры рентгеновского и гамма-излучения",
+                    "number": "44434"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39512953\/704"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "205915121": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "37823-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347452",
+                "mitypeType": "УДАС-201М",
+                "mitypeTitle": "Установки для измерения объемной активности радиоактивных аэрозолей",
+                "manufactureNum": "007",
+                "manufactureYear": 2012,
+                "modification": "УДАС-201М"
+            }
+        },
+        "vriInfo": {
+            "organization": "Филиал АО «Концерн Росэнергоатом» - Белоярская атомная станция (Филиал АО «Концерн Росэнергоатом» - Белоярская атомная станция )",
+            "signCipher": "АДЧ",
+            "miOwner": "Филиал АО «Концерн Росэнергоатом» «Белоярская АЭС»",
+            "vrfDate": "25.11.2022",
+            "validDate": "24.11.2023",
+            "vriType": "2",
+            "docTitle": "ВШКФ 413579.004 МП",
+            "applicable": {
+                "certNum": "С-АДЧ\/25-11-2022\/205915121",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "61304.15.2Р.07288",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7288",
+                    "mitypeNumber": "61304-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374695",
+                    "mitypeTitle": "Источники альфа-излучения закрытые с радионуклидом плутоний-239",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0632",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61304.15.2Р.07290",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7290",
+                    "mitypeNumber": "61304-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374695",
+                    "mitypeTitle": "Источники альфа-излучения закрытые с радионуклидом плутоний-239",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0635",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.07293",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7293",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9600",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.07368",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7368",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9594",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.07370",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7370",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9596",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.00415125",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/415125",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "1СО",
+                    "manufactureNum": "74041\/21\/0486",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "государственной поверочной схемой, утв. приказом Росстандарта № 2841 от 29.12.2018."
+                },
+                {
+                    "regNumber": "61305.15.2Р.00415134",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/415134",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "1СО",
+                    "manufactureNum": "74041\/21\/0492",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "государственной поверочной схемой, утв. приказом Росстандарта № 2841 от 29.12.2018."
+                },
+                {
+                    "regNumber": "51713.12.2Р.00639937",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/639937",
+                    "mitypeNumber": "51713-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363776",
+                    "mitypeTitle": "Расходомеры-счетчики газа",
+                    "notation": "РГТ",
+                    "modification": "РГТ-7",
+                    "manufactureNum": "534",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема приказ № 1133 от 11 мая 2022 г.»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "33404-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342009",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "33100058"
+                },
+                {
+                    "mitypeNumber": "19793-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321727",
+                    "mitypeTitle": "Дозиметры рентгеновского и гамма-излучения",
+                    "number": "44434"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39512953\/704"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "177614466": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "37823-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347452",
+                "mitypeType": "УДАС-201М",
+                "mitypeTitle": "Установки для измерения объемной активности радиоактивных аэрозолей",
+                "manufactureNum": "008",
+                "modification": "УДАС-201М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"ИЗОТОП\"(ООО НПП \"ИЗОТОП\")",
+            "signCipher": "ВОБ",
+            "miOwner": "Владелец СИ",
+            "vrfDate": "03.08.2022",
+            "validDate": "02.08.2023",
+            "vriType": "2",
+            "docTitle": "ВШКФ.413579.004МП",
+            "applicable": {
+                "certNum": "С-ВОБ\/03-08-2022\/177614466",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "61305.15.1Р.00149616",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149616",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "1СО",
+                    "manufactureNum": "0247.1СО-803.15",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС, утверждённая приказом Росстандарта от 29 декабря 2018 г. № 2841"
+                },
+                {
+                    "regNumber": "61305.15.1Р.00317234",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/317234",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0070",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 29 декабря 2018 г. № 2841 «Об утверждении государств"
+                },
+                {
+                    "regNumber": "61305.15.1Р.00317236",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/317236",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0068",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 29 декабря 2018 г. № 2841 «Об утверждении государств"
+                },
+                {
+                    "regNumber": "61304.15.1Р.00320967",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/320967",
+                    "mitypeNumber": "61304-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374695",
+                    "mitypeTitle": "Источники альфа-излучения закрытые с радионуклидом плутоний-239",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0077",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 29 декабря 2018 г. № 2841 «Об утверждении государств"
+                },
+                {
+                    "regNumber": "61304.15.1Р.00320974",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/320974",
+                    "mitypeNumber": "61304-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374695",
+                    "mitypeTitle": "Источники альфа-излучения закрытые с радионуклидом плутоний-239",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0078",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 29 декабря 2018 г. № 2841 «Об утверждении государств"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "175180058": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "37823-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347452",
+                "mitypeType": "УДАС-201М",
+                "mitypeTitle": "Установки для измерения объемной активности радиоактивных аэрозолей",
+                "manufactureNum": "002",
+                "manufactureYear": 2010,
+                "modification": "УДАС-201М"
+            }
+        },
+        "vriInfo": {
+            "organization": "Филиал АО «Концерн Росэнергоатом» - Белоярская атомная станция (Филиал АО «Концерн Росэнергоатом» - Белоярская атомная станция )",
+            "signCipher": "АДЧ",
+            "miOwner": "Филиал АО «Концерн Росэнергоатом» «Белоярская АЭС»",
+            "vrfDate": "27.07.2022",
+            "validDate": "26.07.2023",
+            "vriType": "2",
+            "docTitle": "ВШКФ 413579.004 МП",
+            "applicable": {
+                "certNum": "С-АДЧ\/27-07-2022\/175180058",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "61304.15.2Р.07288",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7288",
+                    "mitypeNumber": "61304-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374695",
+                    "mitypeTitle": "Источники альфа-излучения закрытые с радионуклидом плутоний-239",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0632",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61304.15.2Р.07290",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7290",
+                    "mitypeNumber": "61304-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374695",
+                    "mitypeTitle": "Источники альфа-излучения закрытые с радионуклидом плутоний-239",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0635",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.07293",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7293",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9600",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.07368",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7368",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9594",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.07370",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7370",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9596",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2841 от 29.12.2018"
+                },
+                {
+                    "regNumber": "61305.15.2Р.00415125",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/415125",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "1СО",
+                    "manufactureNum": "74041\/21\/0486",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "государственной поверочной схемой, утв. приказом Росстандарта № 2841 от 29.12.2018."
+                },
+                {
+                    "regNumber": "61305.15.2Р.00415134",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/415134",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "1СО",
+                    "manufactureNum": "74041\/21\/0492",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "государственной поверочной схемой, утв. приказом Росстандарта № 2841 от 29.12.2018."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "33404-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342009",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "33100058"
+                },
+                {
+                    "mitypeNumber": "19793-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321727",
+                    "mitypeTitle": "Дозиметры рентгеновского и гамма-излучения",
+                    "number": "44434"
+                },
+                {
+                    "mitypeNumber": "19326-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320903",
+                    "mitypeTitle": "Ротаметры с местными показаниями",
+                    "number": "7111039"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39512953\/704"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

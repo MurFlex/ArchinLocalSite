@@ -1,0 +1,91 @@
+{
+    "135465032": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15390-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313337",
+                "mitypeType": "ARL QuanT'X",
+                "mitypeTitle": "Спектрометры рентгенофлуоресцентные",
+                "manufactureNum": "240361",
+                "modification": "ARL QUANTX"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АНГАРСКИЙ ЭЛЕКТРОЛИЗНЫЙ ХИМИЧЕСКИЙ КОМБИНАТ\"(АО \"АЭХК\")",
+            "signCipher": "АМЦ",
+            "miOwner": "АО \"АЭХК\"",
+            "vrfDate": "09.02.2022",
+            "validDate": "08.02.2023",
+            "vriType": "2",
+            "docTitle": "Спекрометры рентгенофлоуресцентные ARL Quan TX фирмы 'Thermo Electron. США , приложение А к РЭ",
+            "applicable": {
+                "certNum": "С-АМЦ\/09-02-2022\/135465032",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "oMethod": "поверка с использованием первичной референтной методики измерений"
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "127875817": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15390-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313337",
+                "mitypeType": "ARL QuanT'X",
+                "mitypeTitle": "Спектрометры рентгенофлуоресцентные",
+                "manufactureNum": "0707202",
+                "modification": "ARL QuanT'X"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО «ФОРЭС»",
+            "vrfDate": "12.01.2022",
+            "validDate": "11.01.2023",
+            "vriType": "2",
+            "docTitle": "приложение А к РЭ, ГЦИ СИ ФГУП \"ВНИИМ им. Д.И.Менделеева\", 2005 г.",
+            "applicable": {
+                "certNum": "С-МА\/12-01-2022\/124276264",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 10022-2011",
+                    "title": "СО МАССОВОЙ ДОЛИ БОРНОЙ КИСЛОТЫ В ТВЕРДОЙ ОСНОВЕ (КО-163)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/390160",
+                    "manufactureYear": 2020
+                },
+                {
+                    "number": "ГСО 10020-2011",
+                    "title": "СО МАССОВОЙ ДОЛИ ТИТАНА В ТВЕРДОЙ ОСНОВЕ (КО-100)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/390162",
+                    "manufactureYear": 2020
+                },
+                {
+                    "number": "ГСО 10017-2011",
+                    "title": "СО МАССОВОЙ ДОЛИ КОБАЛЬТА В ТВЕРДОЙ ОСНОВЕ (КО-83)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/390165",
+                    "manufactureYear": 2020
+                },
+                {
+                    "number": "ГСО 10015-2011",
+                    "title": "СО МАССОВОЙ ДОЛИ КАЛЬЦИЯ И ФОСФОРА В ТВЕРДОЙ ОСНОВЕ (КО-79)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/390167",
+                    "manufactureYear": 2020
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

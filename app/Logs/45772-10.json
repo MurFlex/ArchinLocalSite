@@ -1,0 +1,126 @@
+{
+    "191003416": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "45772.10.РЭ.00685940",
+                "mitypeNumber": "45772-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356787",
+                "mitypeTitle": "Установки для поверки фотометров лазерной терапевтической аппаратуры",
+                "mitypeType": "УПЛТ-М",
+                "modification": "Нет модификации",
+                "manufactureNum": "2611",
+                "manufactureYear": 2011,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 05.12.2019 №2862"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "04.10.2022",
+            "validDate": "03.10.2023",
+            "vriType": "2",
+            "docTitle": "Методикой поверки – раздел 4 РЭ УПЛТ-М",
+            "applicable": {
+                "certNum": "С-А\/04-10-2022\/191003416",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт170-2011",
+                    "title": "ГПСЭ единиц длины и времени распространения сигнала в световоде, средней мощности, ослабления и длины волны оптического излучения для волоконно-оптических систем передачи информации",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397854"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "50576-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362452",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "019923019"
+                },
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334071",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "6157"
+                },
+                {
+                    "mitypeNumber": "60449-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373727",
+                    "mitypeTitle": "Осциллографы",
+                    "number": "MY55160110"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок регистрации № 2611, блок оптический № 2611",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-191003416\/protocol"
+        }
+    },
+    "189654478": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "45772.10.РЭ.00682398",
+                "mitypeNumber": "45772-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356787",
+                "mitypeTitle": "Установки для поверки фотометров лазерной терапевтической аппаратуры",
+                "mitypeType": "УПЛТ-М",
+                "modification": "Нет модификации",
+                "manufactureNum": "2511",
+                "manufactureYear": 2011,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 05.12.2019 №2862"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "26.09.2022",
+            "validDate": "25.09.2023",
+            "vriType": "2",
+            "docTitle": "Методикой поверки – раздел 4 РЭ УПЛТ-М",
+            "applicable": {
+                "certNum": "С-А\/26-09-2022\/189654478",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт170-2011",
+                    "title": "ГПСЭ единиц длины и времени распространения сигнала в световоде, средней мощности, ослабления и длины волны оптического излучения для волоконно-оптических систем передачи информации",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397854"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "50576-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362452",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "019923019"
+                },
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334071",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "6157"
+                }
+            ]
+        },
+        "info": {
+            "structure": "оптический блок №2511; блок регистрации №2511",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-189654478\/protocol"
+        }
+    }
+}

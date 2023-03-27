@@ -1,0 +1,1730 @@
+{
+    "218482963": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "0011706",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "27.01.2023",
+            "validDate": "26.01.2024",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78; ГСИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-ДИЭ\/27-01-2023\/218482963",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "number": "87451"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "219263708": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ 004 355-2007",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ИМ. А.М. МУРАТШИНА В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ ИМ. А.М. МУРАТШИНА В РЕСПУБЛИКЕ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ООО \"Экспертный центр пожарной безопасности \"Пож-Протект\"",
+            "vrfDate": "25.01.2023",
+            "validDate": "24.01.2024",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78 \"Осциллографы электроннолучевые универсальные. Методы и средства поверки\"",
+            "applicable": {
+                "certNum": "С-АБ\/25-01-2023\/219263708",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "5787.76.РЭ.00105880",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/105880",
+                    "mitypeNumber": "5787-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370798",
+                    "mitypeTitle": "Приборы для калибровки осциллографов импульсного типа",
+                    "notation": "И1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0859",
+                    "manufactureYear": 1988,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГОСТ Р 8.761-2011 ГПС для средств измерений импульсного электрического напряжения"
+                },
+                {
+                    "regNumber": "31773.06.3Р.00154736",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/154736",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "TW00004078",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №3457 от 30.12.2019 ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "7513.79.РЭ.00269482",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/269482",
+                    "mitypeNumber": "7513-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385595",
+                    "mitypeTitle": "Генераторы испытательных импульсов",
+                    "notation": "И1-15",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "295",
+                    "manufactureYear": 1987,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЛПС.10.0003-2021 ЛПС для калибраторов осциллографов, генераторов испытательных импульсов."
+                },
+                {
+                    "regNumber": "53102.13.4Р.00369641",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/369641",
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "AFG2021, AFG3011C, AFG3021C, AFG3022C, AFG3051C, AFG3052C, AFG3101C, AFG3102C, AFG3251C, AFG3252C",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "C020475",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказом № 1621 от 31 июля 2018 г. ГПС для средств измерений времени и частоты"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "9135-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387836",
+                    "mitypeTitle": "Частотомеры электронно-счетные вычислительные",
+                    "number": "8904411"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "216983074": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "0011704",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "20.01.2023",
+            "validDate": "19.01.2024",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78; ГСИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-ДИЭ\/20-01-2023\/216983074",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "number": "87451"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "215934598": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ 004 686-2008",
+                "manufactureYear": 2008,
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"НПП Марс-Энерго\"",
+            "vrfDate": "17.01.2023",
+            "validDate": "16.01.2024",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78; ГСИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-СП\/17-01-2023\/215934598",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.05.1Р.79566",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/79566",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "124360632",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 (ГПС для средств измерений импульсного электрического напряжения)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "211105851": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "012209",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ЦЕНТРАЛЬНЫЙ БАНК РОССИЙСКОЙ ФЕДЕРАЦИИ(БАНК РОССИИ)",
+            "signCipher": "БТН",
+            "miOwner": "Банк России",
+            "vrfDate": "21.12.2022",
+            "validDate": "20.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78",
+            "applicable": {
+                "certNum": "С-БТН\/21-12-2022\/211105851",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "5787.76.2Р.00683725",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/683725",
+                    "mitypeNumber": "5787-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370798",
+                    "mitypeTitle": "Приборы для калибровки осциллографов импульсного типа",
+                    "notation": "И1-9",
+                    "modification": "И1-9",
+                    "manufactureNum": "0383",
+                    "manufactureYear": 1990,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3463 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "2865"
+        }
+    },
+    "211105850": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ04880",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ЦЕНТРАЛЬНЫЙ БАНК РОССИЙСКОЙ ФЕДЕРАЦИИ(БАНК РОССИИ)",
+            "signCipher": "БТН",
+            "miOwner": "Банк России",
+            "vrfDate": "20.12.2022",
+            "validDate": "19.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78",
+            "applicable": {
+                "certNum": "С-БТН\/20-12-2022\/211105850",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "5787.76.2Р.00683725",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/683725",
+                    "mitypeNumber": "5787-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370798",
+                    "mitypeTitle": "Приборы для калибровки осциллографов импульсного типа",
+                    "notation": "И1-9",
+                    "modification": "И1-9",
+                    "manufactureNum": "0383",
+                    "manufactureYear": 1990,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3463 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "2866"
+        }
+    },
+    "209460285": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ 004 950-2009",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"Вибро-прибор\"",
+            "vrfDate": "14.12.2022",
+            "validDate": "13.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78; ГСИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-СП\/14-12-2022\/209460285",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.05.1Р.79566",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/79566",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "124360632",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 (ГПС для средств измерений импульсного электрического напряжения)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "209460288": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ 004 397",
+                "manufactureYear": 2007,
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Публичное акционерное общество \"ТЕХПРИБОР\"",
+            "vrfDate": "14.12.2022",
+            "validDate": "13.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78; ГСИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-СП\/14-12-2022\/209460288",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.05.1Р.79566",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/79566",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "124360632",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 (ГПС для средств измерений импульсного электрического напряжения)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "209460276": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ 004 942-2009",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"Вибро-прибор\"",
+            "vrfDate": "14.12.2022",
+            "validDate": "13.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78; ГСИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-СП\/14-12-2022\/209460276",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.05.1Р.79566",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/79566",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "124360632",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 (ГПС для средств измерений импульсного электрического напряжения)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "209460273": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "PG-04-1349-2011",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"Вибро-прибор\"",
+            "vrfDate": "14.12.2022",
+            "validDate": "13.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78; ГСИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-СП\/14-12-2022\/209460273",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.05.1Р.79566",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/79566",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "124360632",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 (ГПС для средств измерений импульсного электрического напряжения)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "209460272": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ 004 694-2008",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"Вибро-прибор\"",
+            "vrfDate": "14.12.2022",
+            "validDate": "13.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78; ГСИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-СП\/14-12-2022\/209460272",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.05.1Р.79566",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/79566",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "124360632",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 (ГПС для средств измерений импульсного электрического напряжения)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "208819039": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ 004 614-2008",
+                "manufactureYear": 2008,
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Акционерное общество \"ВОЕНТЕЛЕКОМ\"",
+            "vrfDate": "13.12.2022",
+            "validDate": "12.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78; ГСИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-СП\/13-12-2022\/208819039",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.05.1Р.79566",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/79566",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "124360632",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 (ГПС для средств измерений импульсного электрического напряжения)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "178460092": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ004767",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКАЯ КОРПОРАЦИЯ РАКЕТНО-КОСМИЧЕСКОГО ПРИБОРОСТРОЕНИЯ И ИНФОРМАЦИОННЫХ СИСТЕМ\"(АО \"РОССИЙСКИЕ КОСМИЧЕСКИЕ СИСТЕМЫ\")",
+            "signCipher": "БТК",
+            "miOwner": "АО \"Российские космические системы\"",
+            "vrfDate": "13.07.2022",
+            "validDate": "12.07.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78",
+            "applicable": {
+                "certNum": "С-БТК\/13-07-2022\/178460092",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.13.2Р.00493222",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/493222",
+                    "mitypeNumber": "30374-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338035",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "504977125",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3463 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "178460091": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ004540",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКАЯ КОРПОРАЦИЯ РАКЕТНО-КОСМИЧЕСКОГО ПРИБОРОСТРОЕНИЯ И ИНФОРМАЦИОННЫХ СИСТЕМ\"(АО \"РОССИЙСКИЕ КОСМИЧЕСКИЕ СИСТЕМЫ\")",
+            "signCipher": "БТК",
+            "miOwner": "АО \"Российские космические системы\"",
+            "vrfDate": "13.07.2022",
+            "validDate": "12.07.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78",
+            "applicable": {
+                "certNum": "С-БТК\/13-07-2022\/178460091",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.13.2Р.00493222",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/493222",
+                    "mitypeNumber": "30374-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338035",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "504977125",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3463 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "169726321": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ004213",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПЕНЗЕНСКОЙ ОБЛАСТИ\"(ФБУ \"ПЕНЗЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВМ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "11.07.2022",
+            "validDate": "10.07.2023",
+            "vriType": "2",
+            "docTitle": "ГСИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-ВМ\/11-07-2022\/169726321",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.05.2Р.00316440",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/316440",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "127381825",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений импульсного электрического напряжения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "166649992": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ004269",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОРОНЕЖСКОЙ ОБЛАСТИ\"(ФБУ \"ВОРОНЕЖСКИЙ ЦСМ\")",
+            "signCipher": "БМ",
+            "miOwner": "Воронежский вагоноремонтный завод - филиал акционерного общества \"Вагонреммаш\"",
+            "vrfDate": "24.06.2022",
+            "validDate": "23.06.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78",
+            "applicable": {
+                "certNum": "С-БМ\/24-06-2022\/166649992",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.13.1Р.00149379",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149379",
+                    "mitypeNumber": "30374-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338035",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "313069793",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений измерений импульсного электрического напряжения, приказ № 3463"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "162397238": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ 004-420-2007",
+                "manufactureYear": 2007,
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ПАО \"Техприбор\"",
+            "vrfDate": "07.06.2022",
+            "validDate": "06.06.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78; ГСИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-СП\/07-06-2022\/162397238",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.05.1Р.79566",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/79566",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "124360632",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 (ГПС для средств измерений импульсного электрического напряжения)"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "160718281": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "PG-04-1217-2010",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПРОФИГРУПП\"(ООО \"ПРОФИГРУПП\")",
+            "signCipher": "ГИЭ",
+            "miOwner": "АО \"Взлет\"",
+            "vrfDate": "02.06.2022",
+            "validDate": "01.06.2023",
+            "vriType": "1",
+            "docTitle": "ГОСТ 8.311-78 \"Осциллографы электронно-лучевые универсальные. Методы и средства поверки.",
+            "applicable": {
+                "certNum": "С-ГИЭ\/02-06-2022\/160718281",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.13.1Р.00258969",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/258969",
+                    "mitypeNumber": "30374-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338035",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "352770918",
+                    "manufactureYear": 2017,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений импульсного электрического напряжения. Приказ 3463"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "160732710": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "PG-04-1612",
+                "manufactureYear": 2011,
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННАЯ КОМПАНИЯ АВИАПРИБОР\"(ООО \"НПК АВИАПРИБОР\")",
+            "signCipher": "ГКГ",
+            "miOwner": "ООО \"СТРЕЛА-ПЛЮС\", ИНН7810610737",
+            "vrfDate": "31.05.2022",
+            "validDate": "30.05.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78",
+            "applicable": {
+                "certNum": "С-ГКГ\/31-05-2022\/160732710",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "59755.15.4Р.00387038",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/387038",
+                    "mitypeNumber": "79866-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1384078",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "33600A",
+                    "modification": "33611А",
+                    "manufactureNum": "MY59000676",
+                    "manufactureYear": 2021,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "5343.76.4Р.00525618",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/525618",
+                    "mitypeNumber": "5343-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365749",
+                    "mitypeTitle": "Измерители временных интервалов",
+                    "notation": "И2-26",
+                    "modification": "И2-26",
+                    "manufactureNum": "244",
+                    "manufactureYear": 1984,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "31112.12.3Р.00534122",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/534122",
+                    "mitypeNumber": "31112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338979",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FE-5650A, FE-5680A",
+                    "modification": "FE-5680A",
+                    "manufactureNum": "1326-146268",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения времени и частоты"
+                },
+                {
+                    "regNumber": "10237.85.4Р.00557208",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/557208",
+                    "mitypeNumber": "10237-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304424",
+                    "mitypeTitle": "Генераторы сигналов низкочастотные прецизионные",
+                    "notation": "Г3-122",
+                    "modification": "Г3-122",
+                    "manufactureNum": "3414",
+                    "manufactureYear": 1998,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "12915.91.2Р.00565987",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/565987",
+                    "mitypeNumber": "12915-91",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/308169",
+                    "mitypeTitle": "Установки измерительные",
+                    "notation": "К2С-62",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "25",
+                    "manufactureYear": 2000,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений импульсного электрического напряжения, утвержденная приказом Росстандарта от 30.12.2019 г. номер 3463"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "52193-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364347",
+                    "mitypeTitle": "Измерители комбинированные",
+                    "number": "38569533\/709"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "1740"
+                },
+                {
+                    "mitypeNumber": "67514-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381476",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "121-236340000-0267"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "159851358": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "PG-04-1290-2011",
+                "manufactureYear": 2011,
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Акционерное общество \"НАУЧНО-ИНЖЕНЕРНЫЙ ЦЕНТР САНКТ-ПЕТЕРБУРГСКОГО ЭЛЕКТРОТЕХНИЧЕСКОГО УНИВЕРСИТЕТА\"",
+            "vrfDate": "27.05.2022",
+            "validDate": "26.05.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78; ГСИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-СП\/27-05-2022\/159851358",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.05.1Р.79566",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/79566",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "124360632",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 (ГПС для средств измерений импульсного электрического напряжения)"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "158753482": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "PG-04-1481-2011",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "Юр.лицо",
+            "vrfDate": "26.05.2022",
+            "validDate": "25.05.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78 \"Осциллографы электроннолучевые универсальные. Методы и средства поверки\"",
+            "applicable": {
+                "certNum": "С-АБ\/26-05-2022\/158753482",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "53102.13.РЭ.00156179",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/156179",
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "AFG2021, AFG3011C, AFG3021C, AFG3022C, AFG3051C, AFG3052C, AFG3101C, AFG3102C, AFG3251C, AFG3252C",
+                    "modification": "AFG3101C",
+                    "manufactureNum": "C010529",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31 июля 2018 г. ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "30374.13.2Р.00426823",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/426823",
+                    "mitypeNumber": "30374-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338035",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "530077711",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений импульсного электрического напряжения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "156651400": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГО41064",
+                "manufactureYear": 2010,
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ  ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РОСТОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТОВСКИЙ ЦСМ\")",
+            "signCipher": "ВР",
+            "miOwner": "ООО <<Витязь>>",
+            "vrfDate": "17.05.2022",
+            "validDate": "16.05.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78 «ГСОЕИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки»",
+            "applicable": {
+                "certNum": "С-ВР\/17-05-2022\/156651400",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31434.06.1Р.00478206",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/478206",
+                    "mitypeNumber": "31434-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389903",
+                    "mitypeTitle": "Установки измерительные",
+                    "notation": "К2С-62А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "31",
+                    "manufactureYear": 2008,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений импульсного электрического напряжения. Приказ 3463"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "-"
+        }
+    },
+    "153001422": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "PG-04-1217-2010",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"Взлет\"",
+            "vrfDate": "28.04.2022",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78; ГСИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки",
+            "inapplicable": {
+                "noticeNum": "И-СП\/28-04-2022\/153001422"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.05.1Р.79566",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/79566",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "124360632",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 (ГПС для средств измерений импульсного электрического напряжения)"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "152056206": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ 04889",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОРОНЕЖСКОЙ ОБЛАСТИ\"(ФБУ \"ВОРОНЕЖСКИЙ ЦСМ\")",
+            "signCipher": "БМ",
+            "miOwner": "Акционерное общество \"Воронежский Завод Полупроводниковых Приборов - Сборка\"",
+            "vrfDate": "27.04.2022",
+            "validDate": "26.04.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78",
+            "applicable": {
+                "certNum": "С-БМ\/27-04-2022\/152056206",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.13.1Р.00149379",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149379",
+                    "mitypeNumber": "30374-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338035",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "313069793",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений измерений импульсного электрического напряжения, приказ № 3463"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "140374087": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГО41132",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "15.03.2022",
+            "validDate": "14.03.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78 «Осциллографы электронно-лучевые универсальные. Методы и средства поверки»",
+            "applicable": {
+                "certNum": "С-НН\/15-03-2022\/140374087",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.05.4Р.00180544",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180544",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "231166588",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "30374.05.3Р.00180545",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180545",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "231166588",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 3457 от 30.12.2019"
+                },
+                {
+                    "regNumber": "30374.05.2Р.00180546",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180546",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "231166588",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 3463 от 30.12.2019"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "140722721": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ 004 778-2008",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ООО \"Экспертный центр пожарной безопасности \"Пож-Протект\"",
+            "vrfDate": "09.03.2022",
+            "validDate": "08.03.2023",
+            "vriType": "2",
+            "docTitle": "методикой, изложенной в ГОСТ 8.311-78 \"Осциллографы электроннолучевые универсальные. Методы и средства поверки\"",
+            "applicable": {
+                "certNum": "С-АБ\/09-03-2022\/140722721",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "5787.76.РЭ.00105880",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/105880",
+                    "mitypeNumber": "5787-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370798",
+                    "mitypeTitle": "Приборы для калибровки осциллографов импульсного типа",
+                    "notation": "И1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0859",
+                    "manufactureYear": 1988,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГОСТ Р 8.761-2011 ГПС для средств измерений импульсного электрического напряжения"
+                },
+                {
+                    "regNumber": "31773.06.3Р.00154736",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/154736",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "TW00004078",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №3457 от 30.12.2019 ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "53102.13.РЭ.00156179",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/156179",
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "AFG2021, AFG3011C, AFG3021C, AFG3022C, AFG3051C, AFG3052C, AFG3101C, AFG3102C, AFG3251C, AFG3252C",
+                    "modification": "AFG3101C",
+                    "manufactureNum": "C010529",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31 июля 2018 г. ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "41567.09.4Р.00261013",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/261013",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-91",
+                    "manufactureNum": "171330",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ росстандарта №1621 от 31.07.18"
+                },
+                {
+                    "regNumber": "7513.79.РЭ.00269482",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/269482",
+                    "mitypeNumber": "7513-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385595",
+                    "mitypeTitle": "Генераторы испытательных импульсов",
+                    "notation": "И1-15",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "295",
+                    "manufactureYear": 1987,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЛПС.10.0003-2021 ЛПС для калибраторов осциллографов, генераторов испытательных импульсов."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "130454245": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ 004422",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ЭЛЕКТРОННОГО ПРИБОРОСТРОЕНИЯ\"(АО \"НИИ ОЭП\")",
+            "signCipher": "ДВХ",
+            "miOwner": "АО \"НИИ ОЭП\"",
+            "vrfDate": "09.02.2022",
+            "validDate": "08.01.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78",
+            "applicable": {
+                "certNum": "С-ДВХ\/09-02-2022\/130454245",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.13.2Р.00283112",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/283112",
+                    "mitypeNumber": "30374-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338035",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "437974326",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 3463 от 30.12.2019"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "127234378": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ 004 355-2007",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ООО \"Экспертный центр пожарной безопасности \"Пож-Протект\"",
+            "vrfDate": "28.01.2022",
+            "validDate": "27.01.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78 \"Осциллографы электроннолучевые универсальные. Методы и средства поверки\"",
+            "applicable": {
+                "certNum": "С-АБ\/28-01-2022\/127234378",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "5787.76.РЭ.00105880",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/105880",
+                    "mitypeNumber": "5787-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370798",
+                    "mitypeTitle": "Приборы для калибровки осциллографов импульсного типа",
+                    "notation": "И1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0859",
+                    "manufactureYear": 1988,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГОСТ Р 8.761-2011 ГПС для средств измерений импульсного электрического напряжения"
+                },
+                {
+                    "regNumber": "31773.06.3Р.00154736",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/154736",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "TW00004078",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №3457 от 30.12.2019 ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "53102.13.РЭ.00156179",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/156179",
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "AFG2021, AFG3011C, AFG3021C, AFG3022C, AFG3051C, AFG3052C, AFG3101C, AFG3102C, AFG3251C, AFG3252C",
+                    "modification": "AFG3101C",
+                    "manufactureNum": "C010529",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31 июля 2018 г. ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "41567.09.4Р.00261013",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/261013",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-91",
+                    "manufactureNum": "171330",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ росстандарта №1621 от 31.07.18"
+                },
+                {
+                    "regNumber": "7513.79.РЭ.00269482",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/269482",
+                    "mitypeNumber": "7513-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385595",
+                    "mitypeTitle": "Генераторы испытательных импульсов",
+                    "notation": "И1-15",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "295",
+                    "manufactureYear": 1987,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЛПС.10.0003-2021 ЛПС для калибраторов осциллографов, генераторов испытательных импульсов."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "125021791": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "PG-04-1314-2011",
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"АП ВОСХОД\"",
+            "vrfDate": "20.01.2022",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78",
+            "inapplicable": {
+                "noticeNum": "И-МА\/20-01-2022\/125021791"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.13.4Р.00103938",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/103938",
+                    "mitypeNumber": "30374-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338035",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "118770706",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты, приказ № 1621"
+                },
+                {
+                    "regNumber": "30374.13.СИ.00103941",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/103941",
+                    "mitypeNumber": "30374-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338035",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "118770706",
+                    "manufactureYear": 2014,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В, приказ №1053"
+                },
+                {
+                    "regNumber": "30374.13.3Р.00103943",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/103943",
+                    "mitypeNumber": "30374-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338035",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "118770706",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы, приказ № 3457"
+                },
+                {
+                    "regNumber": "30374.13.1Р.00103949",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/103949",
+                    "mitypeNumber": "30374-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338035",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "118770706",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений измерений импульсного электрического напряжения, приказ № 3463"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "296ad6be-29b8-43c3-8e8d-6722c65fde07"
+        }
+    },
+    "124449371": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32827-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341316",
+                "mitypeType": "С1-220",
+                "mitypeTitle": "Осциллографы двухканальные",
+                "manufactureNum": "ПГ 004 686-2008",
+                "manufactureYear": 2008,
+                "modification": "С1-220"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"НПП Марс-Энерго\"",
+            "vrfDate": "12.01.2022",
+            "validDate": "11.01.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.311-78; ГСИ. Осциллографы электронно-лучевые универсальные. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-СП\/12-01-2022\/124449371",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.05.1Р.79566",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/79566",
+                    "mitypeNumber": "30374-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338034",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "9500B",
+                    "manufactureNum": "124360632",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 (ГПС для средств измерений импульсного электрического напряжения)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

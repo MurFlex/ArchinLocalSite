@@ -1,0 +1,108 @@
+{
+    "146971302": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24770-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/330048",
+                "mitypeType": "TITROMATIC, TITROMATIC KF",
+                "mitypeTitle": "Титраторы автоматические",
+                "manufactureNum": "54304",
+                "modification": "TITROMATIC"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "владелец",
+            "vrfDate": "06.04.2022",
+            "validDate": "05.04.2023",
+            "vriType": "2",
+            "docTitle": "Инструкция. Титраторы автоматические TITROMATIC, TITROMATIC KF. Методика поверки",
+            "applicable": {
+                "certNum": "С-ТТ\/06-04-2022\/146971302",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "14332.94.5Р.00170808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/170808",
+                    "mitypeNumber": "14332-94",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/310990",
+                    "mitypeTitle": "Весы",
+                    "notation": "MC",
+                    "modification": "Весы серии МС, МС 210Р",
+                    "manufactureNum": "60304069",
+                    "manufactureYear": 1996,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.12.2018г. №2818"
+                }
+            ],
+            "reagent": [
+                {
+                    "number": "БРР.1",
+                    "type": "Буферный раствор",
+                    "title": "Буферные растворы pH 2-го разряда"
+                }
+            ]
+        },
+        "info": {
+            "structure": "электрод ЭЛИС-131Cl, № 00977; электрод ЭСр-10106, № 07560",
+            "briefIndicator": false,
+            "additional_info": "[ID=33dd0500-b64a-11ec-8dbf-0cc47a2b9faf]"
+        }
+    },
+    "145224361": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24770-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/330048",
+                "mitypeType": "TITROMATIC, TITROMATIC KF",
+                "mitypeTitle": "Титраторы автоматические",
+                "manufactureNum": "71104",
+                "modification": "Titromatic"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"Мосводоканал\"",
+            "vrfDate": "30.03.2022",
+            "validDate": "29.03.2023",
+            "vriType": "2",
+            "docTitle": "\"Инструкция. Титраторы автоматические Titromatic и Titromatic KF. Методика поверки\", утв. ВНИИМС, 2008",
+            "applicable": {
+                "certNum": "С-МА\/30-03-2022\/145224361",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 2216-81",
+                    "title": "СО СОСТАВА КАЛИЯ ФТАЛЕВОКИСЛОГО КИСЛОГО (БИФТАЛАТА КАЛИЯ) 1-ГО РАЗРЯДА",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/393978",
+                    "manufactureYear": 2019,
+                    "manufactureNum": "Партия № 18"
+                }
+            ],
+            "reagent": [
+                {
+                    "number": "РКТ.19",
+                    "type": "Реактив",
+                    "title": "Вода дистиллированная"
+                }
+            ]
+        },
+        "info": {
+            "structure": "электрод, Inlab Expert Pro, 8010408",
+            "briefIndicator": false,
+            "additional_info": "1baddeb2-643c-4a33-9a4d-6dcc7e162d2e"
+        }
+    }
+}

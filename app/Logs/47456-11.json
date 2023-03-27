@@ -1,0 +1,132 @@
+{
+    "207385207": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47456-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358724",
+                "mitypeType": "AXS-200",
+                "mitypeTitle": "Системы измерительные",
+                "manufactureNum": "484470,485665",
+                "modification": "AXS-200 с модулем AXS-352"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "09.12.2022",
+            "validDate": "08.12.2023",
+            "vriType": "2",
+            "docTitle": "МП 47456-11",
+            "applicable": {
+                "certNum": "С-МА\/09-12-2022\/207385207",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "19637.00.РЭ.00292992",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/292992",
+                    "mitypeNumber": "19637-00",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321437",
+                    "mitypeTitle": "Установка для поверки средств измерений средней мощности в ВОСП",
+                    "notation": "УП СМ",
+                    "modification": "",
+                    "manufactureNum": "16",
+                    "manufactureYear": 2002,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 05.12.2019 №2862"
+                }
+            ]
+        },
+        "info": {
+            "structure": "AXS-200 №484470, AXS-352 №485665",
+            "briefIndicator": false,
+            "additional_info": "c98cf707-740e-4fb6-ba37-3a602eed3391"
+        }
+    },
+    "193465236": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47456-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358724",
+                "mitypeType": "AXS-200",
+                "mitypeTitle": "Системы измерительные",
+                "manufactureNum": "498571",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КООРДИНАЦИОННО-ИНФОРМАЦИОННОЕ АГЕНТСТВО\"(ООО \"КИА\")",
+            "signCipher": "ГДИ",
+            "miOwner": "ООО НТО «ИРЭ-Полюс»",
+            "vrfDate": "13.10.2022",
+            "validDate": "12.10.2023",
+            "vriType": "2",
+            "docTitle": "«Инструкция. Системы измерительные AXS-200. Методика поверки»",
+            "applicable": {
+                "certNum": "С-ГДИ\/13-10-2022\/193465236",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "53225.13.РЭ.08273",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/8273",
+                    "mitypeNumber": "53225-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365522",
+                    "mitypeTitle": "Рабочие эталоны единицы средней мощности оптического излучения в волоконно-оптических системах передачи",
+                    "notation": "РЭСМ-ВС",
+                    "modification": "",
+                    "manufactureNum": "44",
+                    "manufactureYear": 2013,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Приказ Росстандарта от 05.12.2019 №2862"
+                },
+                {
+                    "regNumber": "11326.90.4Р.00658841",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/658841",
+                    "mitypeNumber": "11326-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305921",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "notation": "Р4834",
+                    "modification": "Р4834",
+                    "manufactureNum": "0766",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ  Росстандарта  от  30 декабря 2019 г.  №3456"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "11207-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305764",
+                    "mitypeTitle": "Генераторы сигналов высокочастотные",
+                    "number": "4688"
+                },
+                {
+                    "mitypeNumber": "9084-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387755",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "8804429"
+                },
+                {
+                    "mitypeNumber": "8984-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387618",
+                    "mitypeTitle": "Микровольтметры цифровые широкополосные",
+                    "number": "0869"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

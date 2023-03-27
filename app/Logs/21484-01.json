@@ -1,0 +1,47 @@
+{
+    "202765155": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "21484.01.РЭ.00720642",
+                "mitypeNumber": "21484-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/324664",
+                "mitypeTitle": "Труба аэродинамическая эталонная",
+                "mitypeType": "Т-203",
+                "modification": "Нет модификации",
+                "manufactureNum": "01",
+                "manufactureYear": 2001,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "приказ Росстандарта №2815 от 25 ноября 2019 г. об утверждении Государственной поверочной схемы для средств измерений скорости во"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "ФАУ \"СибНИА им. С. А. Чаплыгина\"",
+            "vrfDate": "31.10.2022",
+            "validDate": "30.10.2027",
+            "vriType": "2",
+            "docTitle": "МП 01.001-2000 \"Аэродинамическая труба Т-203 эталонная. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-В\/31-10-2022\/202765155",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт150-2012",
+                    "title": "ГПСЭ единицы скорости воздушного потока",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397833"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-202765155\/protocol",
+            "additional_info": "#midae011bbd-2bc8-4abe-b4cc-806fabe390ae"
+        }
+    }
+}

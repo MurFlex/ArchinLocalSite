@@ -1,0 +1,110 @@
+{
+    "188287882": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "1986-64",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321841",
+                "mitypeType": "Ч2-26",
+                "mitypeTitle": "Волномеры",
+                "manufactureNum": "2",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "22.09.2022",
+            "validDate": "21.09.2023",
+            "vriType": "2",
+            "docTitle": "Волномер резонансный Ч2-26. Руководство по эксплуатации.",
+            "applicable": {
+                "certNum": "С-Т\/22-09-2022\/188287882",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт167-2021",
+                    "title": "ГПЭ единицы мощности электромагнитных колебаний в диапазоне частот от 37,5 до 118,1 ГГц",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390911"
+                }
+            ],
+            "uve": [
+                {
+                    "number": "3.1.ZZT.0288.2018",
+                    "title": "Государственный рабочий эталон единицы мощности электромагнитных колебаний в диапазоне значений от 0,1 до 10 мВт в диапазоне частот от 37,5 до 220 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/826873"
+                },
+                {
+                    "number": "3.1.ZZT.0099.2015",
+                    "title": "ГРЭ единицы частоты номинальных значений 1 Гц, 5 МГц, 10 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/410825"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "62740-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376280",
+                    "mitypeTitle": "Стандарты частоты и времени рубидиевые",
+                    "number": "1729-80A0745M"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-188287882\/protocol",
+            "additional_info": "#mid17662cb5-388e-448c-ac6e-c54e7dd5c7aa"
+        }
+    },
+    "166004030": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "1986-64",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321841",
+                "mitypeType": "Ч2-26",
+                "mitypeTitle": "Волномеры",
+                "manufactureNum": "000311А",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "24.06.2022",
+            "validDate": "23.06.2023",
+            "vriType": "2",
+            "docTitle": "Волномер резонансный Ч2-26. Руководство по эксплуатации.",
+            "applicable": {
+                "certNum": "С-Т\/24-06-2022\/166004030",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZT.0288.2018",
+                    "title": "Государственный рабочий эталон единицы мощности электромагнитных колебаний в диапазоне значений от 0,1 до 10 мВт в диапазоне частот от 37,5 до 220 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/826873"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "62740-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376280",
+                    "mitypeTitle": "Стандарты частоты и времени рубидиевые",
+                    "number": "1729-80A0745M"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-166004030\/protocol",
+            "additional_info": "#mid000c620b-9e80-4e02-b582-1b8032fd8ec5"
+        }
+    }
+}

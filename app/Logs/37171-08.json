@@ -1,0 +1,50 @@
+{
+    "198796318": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "37171-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346674",
+                "mitypeType": "CTCW",
+                "mitypeTitle": "Системы контроля температуры зерна",
+                "manufactureNum": "11-340\/1-341",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КАЛИНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"КАЛИНИНГРАДСКИЙ ЦСМ\")",
+            "signCipher": "БС",
+            "miOwner": "Акционерное общество \"АГРОПРОДУКТ\"",
+            "vrfDate": "02.11.2022",
+            "validDate": "01.11.2024",
+            "vriType": "2",
+            "docTitle": "МП 2416-010-2008",
+            "applicable": {
+                "certNum": "С-БС\/02-11-2022\/198796318",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "8478.91.3Р.00287842",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/287842",
+                    "mitypeNumber": "8478-91",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386920",
+                    "mitypeTitle": "Меры электрического сопротивления постоянного тока многозначные",
+                    "notation": "Р3026",
+                    "modification": "Р3026-1",
+                    "manufactureNum": "0116",
+                    "manufactureYear": 1991,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Номера измерительных каналов системы: 1.1; 1.2; 1.3; 2.1; 2.2; 2.3; 3.1; 3.2; 3.3; 4.1; 4.2; 4.3; 5.1; 5.2; 5.3"
+        }
+    }
+}

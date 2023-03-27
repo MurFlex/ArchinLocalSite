@@ -1,0 +1,50 @@
+{
+    "182587377": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "59700-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372899",
+                "mitypeType": "ControlSwitch",
+                "mitypeTitle": "Системы измерений длительности соединений",
+                "manufactureNum": "г. Москва, Алтуфьевское ш. 33Г, Петровка ул., 15\/13,   (КТС), (дополнительная информация в приложении № 1)",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КООРДИНАЦИОННО-ИНФОРМАЦИОННОЕ АГЕНТСТВО\"(ООО \"КИА\")",
+            "signCipher": "ГДИ",
+            "miOwner": "ООО «Оранж Бизнес Сервисез»",
+            "vrfDate": "01.07.2022",
+            "validDate": "30.06.2024",
+            "vriType": "2",
+            "docTitle": "документом МИ 3577-2017, с документом 5295-001-97318660-2014МП",
+            "applicable": {
+                "certNum": "С-ГДИ\/01-07-2022\/182579978",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "64922.16.5Р.19496",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/19496",
+                    "mitypeNumber": "64922-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378632",
+                    "mitypeTitle": "Комплексы измерительные",
+                    "notation": "ВЕКТОР-СИДС-2016",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "00001",
+                    "manufactureYear": 2016,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-182587377\/protocol"
+        }
+    }
+}

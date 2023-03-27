@@ -1,0 +1,110 @@
+{
+    "140085045": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "6533-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379096",
+                "mitypeType": "ИТГП-М",
+                "mitypeTitle": "Измерители толщины гальванических покрытий малогабаритные",
+                "manufactureNum": "792",
+                "modification": "Измеритель толщины гальванических покрытий ИТГП-1М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ВО ВЛАДИМИРСКОЙ ОБЛАСТИ\"(ФБУ \"ВЛАДИМИРСКИЙ ЦСМ\")",
+            "signCipher": "БЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "16.03.2022",
+            "validDate": "15.03.2023",
+            "vriType": "2",
+            "docTitle": "Раздел 2.9. «Методы и средства поверки» 7Л2.787.012 ТО",
+            "applicable": {
+                "certNum": "С-БЗ\/16-03-2022\/140085045",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "54008.13.РЭ.00335572",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/335572",
+                    "mitypeNumber": "54008-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366411",
+                    "mitypeTitle": "Меры толщины покрытий натурные",
+                    "notation": "МТП типа МП на МО, МП на НТО, НТП на МО, НТП на НТО",
+                    "modification": "МТП типа МП на МО",
+                    "manufactureNum": "558",
+                    "manufactureYear": 2013,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Приказ №3276 от 23.12.2019"
+                },
+                {
+                    "regNumber": "54008.13.РЭ.00335573",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/335573",
+                    "mitypeNumber": "54008-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366411",
+                    "mitypeTitle": "Меры толщины покрытий натурные",
+                    "notation": "МТП типа МП на МО, МП на НТО, НТП на МО, НТП на НТО",
+                    "modification": "МП на НТО",
+                    "manufactureNum": "559",
+                    "manufactureYear": 2013,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Приказ №3276 от 23.12.2019"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "127220371": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "6533-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379096",
+                "mitypeType": "ИТГП-М",
+                "mitypeTitle": "Измерители толщины гальванических покрытий малогабаритные",
+                "manufactureNum": "134",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ,  МЕТРОЛОГИИ И ИСПЫТАНИЙ В КИРОВСКОЙ ОБЛАСТИ\"(ФБУ \"КИРОВСКИЙ ЦСМ\")",
+            "signCipher": "БЭ",
+            "miOwner": "АО \"ВМП \"АВИТЕК\"",
+            "vrfDate": "21.01.2022",
+            "validDate": "20.01.2023",
+            "vriType": "2",
+            "docTitle": "7Л2.787.012 ТО.Техническое описание и инструкция по эксплуатации. Раздел 2.9.5 \"Методика поверки\".",
+            "applicable": {
+                "certNum": "С-БЭ\/21-01-2022\/127220371",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "34825.07.РЭ.00269066",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/269066",
+                    "mitypeNumber": "34825-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343782",
+                    "mitypeTitle": "Меры толщины покрытий",
+                    "notation": "МП на МО, МП на НТО, НТП на МО, НТП на НТО, ИТП",
+                    "modification": "ИТП",
+                    "manufactureNum": "16",
+                    "manufactureYear": 2016,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для средств измерений толщины покрытий в диапазоне значений от 1 до 120000 мкм (приказ Росстандарта №3276 от 23.12.2019)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

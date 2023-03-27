@@ -1,0 +1,76 @@
+{
+    "220230501": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "23720-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328426",
+                "mitypeType": "IRtec",
+                "mitypeTitle": "Пирометры портативные",
+                "manufactureNum": "73360",
+                "modification": "IRtec MiniIR"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"ВАЛЕНТА ФАРМ\"",
+            "vrfDate": "06.02.2023",
+            "validDate": "05.02.2024",
+            "vriType": "2",
+            "docTitle": "МП ГР №23720-02",
+            "applicable": {
+                "certNum": "С-МА\/06-02-2023\/220230501",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0178.2013",
+                    "title": "ГЭЕ температуры 2 разряда в диапазоне значений от 30 до 600 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/459761"
+                },
+                {
+                    "number": "3.1.ZMA.0099.2013",
+                    "title": "ГЭЕ температуры 1 разряда в диапазоне значений от минус 50 до плюс 50 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/424565"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "48130.11.1Р.00263467",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/263467",
+                    "mitypeNumber": "48130-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359557",
+                    "mitypeTitle": "Пирометр",
+                    "notation": "TRT II",
+                    "modification": "нет модификации",
+                    "manufactureNum": "2821",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "48130.11.1Р.00579302",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/579302",
+                    "mitypeNumber": "48130-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359557",
+                    "mitypeTitle": "Пирометр",
+                    "notation": "TRT II",
+                    "modification": "нет модификации",
+                    "manufactureNum": "2821",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "6e84b511-6884-49aa-8fd7-b30e568506b5"
+        }
+    }
+}

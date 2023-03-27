@@ -1,0 +1,3098 @@
+{
+    "210516463": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9515",
+                "modification": "Без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ФГБУЗ ЦГИЭ № 52 ФМБА РОССИИ",
+            "vrfDate": "22.12.2022",
+            "validDate": "21.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84 ; ГОСТ 8.553-88; МИ 1873-88",
+            "applicable": {
+                "certNum": "С-БН\/22-12-2022\/210516463",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1645.2014",
+                    "title": "ГЭЕ длины, скорости и ускорения при колебательном движении твёрдого тела 2 разряда в диапазоне значений частот от 2·10[^-1] Гц до 2·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/411875"
+                },
+                {
+                    "number": "3.1.ZБН.1614.2014",
+                    "title": "ГЭЕ звукового давления в воздушной среде в диапазоне частот от 2 Гц до 20 кГц и статического давления от 0 даПа до 700 даПа",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/411982"
+                }
+            ]
+        },
+        "info": {
+            "structure": "микрофонный капсюль  SV22 № 4012897. ; предусилитель SV01А № 7196. ; АР98-100-01 зав. № 1226, АР2031 зав. № 3047",
+            "briefIndicator": false
+        }
+    },
+    "209784629": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "15911",
+                "manufactureYear": 2012,
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "20.12.2022",
+            "validDate": "19.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ8.257-84 , ГОСТ8.553-88",
+            "applicable": {
+                "certNum": "С-СЕ\/20-12-2022\/209784629",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76471.19.1Р.00320537",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/320537",
+                    "mitypeNumber": "76471-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/891820",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "АТ-9000",
+                    "modification": "АТ-9000-А",
+                    "manufactureNum": "20021",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от «27» декабря 2018 г. № 2772"
+                },
+                {
+                    "regNumber": "41570.09.РЭ.00422558",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/422558",
+                    "mitypeNumber": "41570-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351925",
+                    "mitypeTitle": "Калибраторы акустические универсальные",
+                    "notation": "4226",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2952854",
+                    "manufactureYear": 2014,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "033"
+                },
+                {
+                    "mitypeNumber": "26204-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332209",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "88472"
+                },
+                {
+                    "mitypeNumber": "32696-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341136",
+                    "mitypeTitle": "Приборы для измерений показателей качества электрической энергии",
+                    "number": "4325"
+                },
+                {
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331749",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "MY45050306"
+                }
+            ]
+        },
+        "info": {
+            "structure": "измерительный блок №15911,микрофонный предусилитель SV01А №13353, 1\/2\"конденсаторный микрофон 40АЕ №165589, датчик вибрации АР98 №2032",
+            "briefIndicator": false,
+            "additional_info": "Значение  калибровочного фактора  при  совместной калибровке  измерительного  блока  № 15911 с микрофонным  предусилителем  SV01А  № 13353  и микрофонным  капсюлем  40АЕ  № 165589\t\tКм  =   + 0,8 дБ   Значение  калибровочного фактора  при  совместной калибровке   измерительного  блока  № 15911 с вибропреобразователем    АР 98  № 2032 \t\tКд = + 0,1 дБ"
+        }
+    },
+    "208147255": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "15904",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПЕРВЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\"(ООО \"ПМЦ\")",
+            "signCipher": "ДУИ",
+            "miOwner": "Владелец",
+            "vrfDate": "14.12.2022",
+            "validDate": "13.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88",
+            "applicable": {
+                "certNum": "С-ДУИ\/14-12-2022\/208147255",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "68875.17.1Р.00149712",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149712",
+                    "mitypeNumber": "68875-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382972",
+                    "mitypeTitle": "Установки для поверки и калибровки виброизмерительных преобразователей",
+                    "notation": "9155",
+                    "modification": "9155-831 и 9155-779",
+                    "manufactureNum": "1807-0x186D",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                },
+                {
+                    "regNumber": "67480.17.РЭ.00568893",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/568893",
+                    "mitypeNumber": "67480-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381438",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "3027468",
+                    "manufactureYear": 2021,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "123991"
+                },
+                {
+                    "mitypeNumber": "63090-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1388983",
+                    "mitypeTitle": "Системы измерительные виброакустические",
+                    "number": "321001010"
+                }
+            ]
+        },
+        "info": {
+            "structure": "предусилитель микрофонный SV01A № 13349, капсюли микрофонные SV22 № 4013721, 40BF № 130315, вибропреобразователь SV80 № B6094",
+            "briefIndicator": false
+        }
+    },
+    "207936732": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "6190",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПЕНЗЕНСКОЙ ОБЛАСТИ\"(ФБУ \"ПЕНЗЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВМ",
+            "miOwner": "Акционерное общество \"ФЕДЕРАЛЬНЫЙ НАУЧНО-ПРОИЗВОДСТВЕННЫЙ ЦЕНТР \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"СТАРТ\" ИМЕНИ М.В. ПРОЦЕНКО\"",
+            "vrfDate": "13.12.2022",
+            "validDate": "12.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84; ГОСТ 8.553-88; ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-ВМ\/13-12-2022\/207936732",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "50247.12.2Р.39768",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/39768",
+                    "mitypeNumber": "50247-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362044",
+                    "mitypeTitle": "Виброустановки калибровочные портативные",
+                    "notation": "9100D и 9110D",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "327",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового виброускорения, приказ № 2772"
+                },
+                {
+                    "regNumber": "15388.96.РЭ.00302571",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302571",
+                    "mitypeNumber": "15388-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313331",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "3000166",
+                    "manufactureYear": 2011,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "88949"
+                }
+            ]
+        },
+        "info": {
+            "structure": "предусилитель SV01А №7124,капсюль микрофона SV22L №4010829,вибропреобразователь  АР98 №3166",
+            "briefIndicator": false
+        }
+    },
+    "206532568": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "6180",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"Михайловский ГОК им. А.В.Варичева\"",
+            "vrfDate": "07.12.2022",
+            "validDate": "06.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84",
+            "applicable": {
+                "certNum": "С-МА\/07-12-2022\/206532568",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "27670.04.РЭ.00466420",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/466420",
+                    "mitypeNumber": "27670-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334372",
+                    "mitypeTitle": "Установка для поверки шумомеров, акселерометров и акустических калибраторов",
+                    "notation": "3630\/3629",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0000001",
+                    "manufactureYear": 2004,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                },
+                {
+                    "regNumber": "54848.13.3Р.00534881",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/534881",
+                    "mitypeNumber": "54848-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367345",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34401A, 34460A, 34461A",
+                    "modification": "34401A",
+                    "manufactureNum": "MY47050853",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 03.09.2021 г. № 1942"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "123357"
+                }
+            ]
+        },
+        "info": {
+            "structure": "предусилитель SV01A № 7156, капсюль микрофонный конденсаторный SV22 № 4012724",
+            "briefIndicator": false,
+            "additional_info": "Значения калибровочных поправок  для SV22 №4012724\t\tK = 0,0 дБ 39983402-a3e2-4753-aa86-6e8f6de85154"
+        }
+    },
+    "204602278": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9517",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СТАВРОПОЛЬСКОМ КРАЕ, РЕСПУБЛИКЕ ИНГУШЕТИЯ И КАРАЧАЕВО-ЧЕРКЕССКОЙ РЕСПУБЛИКЕ\"(ФБУ \"СЕВЕРО-КАВКАЗСКИЙ ЦСМ\")",
+            "signCipher": "АЬ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "29.11.2022",
+            "validDate": "28.11.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88",
+            "applicable": {
+                "certNum": "С-АЬ\/29-11-2022\/204602278",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "15388.96.РЭ.00436846",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/436846",
+                    "mitypeNumber": "15388-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313330",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "3005429",
+                    "manufactureYear": 2010,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                },
+                {
+                    "regNumber": "14923.09.1Р.00459239",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/459239",
+                    "mitypeNumber": "14923-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/312332",
+                    "mitypeTitle": "Вибропреобразователи ускорения",
+                    "notation": "8300",
+                    "modification": "8305",
+                    "manufactureNum": "2885308",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ № 2772 от 27.12.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "88891"
+                },
+                {
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359043",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "MY47027363"
+                }
+            ]
+        },
+        "info": {
+            "structure": "SV01A 13507,SV22 4013113,АР98-100-01 8112",
+            "briefIndicator": false
+        }
+    },
+    "203027822": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9569",
+                "modification": "SVAN 912М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Акционерное общество \"КОНЦЕРН \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"АВРОРА\"",
+            "vrfDate": "21.11.2022",
+            "validDate": "20.11.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88",
+            "applicable": {
+                "certNum": "С-СП\/21-11-2022\/203027822",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "7186.79.РЭ.00375219",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/375219",
+                    "mitypeNumber": "7186-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385172",
+                    "mitypeTitle": "Приборы калибровочные",
+                    "notation": "4143",
+                    "modification": "4143",
+                    "manufactureNum": "624687",
+                    "manufactureYear": 1998,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГОСТ 8.153-75"
+                },
+                {
+                    "regNumber": "15388.96.РЭ.00488781",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/488781",
+                    "mitypeNumber": "15388-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313331",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2734030",
+                    "manufactureYear": 2011,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ]
+        },
+        "info": {
+            "structure": "SV01A №13302; SV22 №4012953 (С= - 0,2 дБ; S= 50,87 мВ\/Па)",
+            "briefIndicator": false
+        }
+    },
+    "202659774": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9585",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СТАВРОПОЛЬСКОМ КРАЕ, РЕСПУБЛИКЕ ИНГУШЕТИЯ И КАРАЧАЕВО-ЧЕРКЕССКОЙ РЕСПУБЛИКЕ\"(ФБУ \"СЕВЕРО-КАВКАЗСКИЙ ЦСМ\")",
+            "signCipher": "АЬ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "18.11.2022",
+            "validDate": "17.11.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88",
+            "applicable": {
+                "certNum": "С-АЬ\/18-11-2022\/202659774",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "15388.96.РЭ.00436846",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/436846",
+                    "mitypeNumber": "15388-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313330",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "3005429",
+                    "manufactureYear": 2010,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                },
+                {
+                    "regNumber": "14923.09.1Р.00459239",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/459239",
+                    "mitypeNumber": "14923-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/312332",
+                    "mitypeTitle": "Вибропреобразователи ускорения",
+                    "notation": "8300",
+                    "modification": "8305",
+                    "manufactureNum": "2885308",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ № 2772 от 27.12.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "88891"
+                },
+                {
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359043",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "MY47027363"
+                }
+            ]
+        },
+        "info": {
+            "structure": "SV01A 13346,SV22 4013531",
+            "briefIndicator": false
+        }
+    },
+    "201105786": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9500",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "12.11.2022",
+            "validDate": "11.11.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88",
+            "applicable": {
+                "certNum": "С-МА\/12-11-2022\/201105786",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "68875.17.1Р.05053",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/5053",
+                    "mitypeNumber": "68875-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382972",
+                    "mitypeTitle": "Установки для поверки и калибровки виброизмерительных преобразователей",
+                    "notation": "9155",
+                    "modification": "9155-831 и 9155-875",
+                    "manufactureNum": "1901СС8",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Вибропреобразователь АР98 №4700",
+            "briefIndicator": false,
+            "additional_info": "Значения калибровочных поправок \t\t\t\t для АР98 №4700\t\tК = 0,1 дБ\t  5836aec7-1acf-461c-96f2-f45b7c2f149c"
+        }
+    },
+    "197142133": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9591",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "20.10.2022",
+            "validDate": "19.10.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84; ГОСТ 8.553-88; МИ 1873-88",
+            "applicable": {
+                "certNum": "С-Т\/20-10-2022\/197142133",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0009.2015",
+                    "title": "Государственный вторичный эталон единицы звукового давления в воздушной среде в диапазоне значений от 0,2 до 31,6 Па в диапазоне частот от 2 Гц до 100 кГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/402830"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "45699.10.1Р.00513772",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/513772",
+                    "mitypeNumber": "45699-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356704",
+                    "mitypeTitle": "Станции для калибровки преобразователей вибрации",
+                    "notation": "9155",
+                    "modification": "9155D-831, 9155D-779",
+                    "manufactureNum": "186D9E0",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 27 декабря 2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid7143e54f-05f1-45f0-aecc-14b1e951dd8f"
+        }
+    },
+    "194017347": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9577",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "17.10.2022",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88",
+            "inapplicable": {
+                "noticeNum": "И-МА\/17-10-2022\/194017347"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "68875.17.1Р.05053",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/5053",
+                    "mitypeNumber": "68875-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382972",
+                    "mitypeTitle": "Установки для поверки и калибровки виброизмерительных преобразователей",
+                    "notation": "9155",
+                    "modification": "9155-831 и 9155-875",
+                    "manufactureNum": "1901СС8",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                },
+                {
+                    "regNumber": "27670.04.РЭ.00466420",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/466420",
+                    "mitypeNumber": "27670-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334372",
+                    "mitypeTitle": "Установка для поверки шумомеров, акселерометров и акустических калибраторов",
+                    "notation": "3630\/3629",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0000001",
+                    "manufactureYear": 2004,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Предусилитель 40AN №80020, капсюль микрофонный SV01A №13305, вибропреобразователь АР98-100-01 №9015",
+            "briefIndicator": false,
+            "additional_info": "d25ae110-1060-4393-94e2-5c87315a9b64"
+        }
+    },
+    "189395540": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9539",
+                "manufactureYear": 2007,
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Акционерное общество \"Новотроицкий цементный завод\"",
+            "vrfDate": "28.09.2022",
+            "validDate": "27.09.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ8.257-84 , ГОСТ8.553-88",
+            "applicable": {
+                "certNum": "С-СЕ\/28-09-2022\/189395540",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76471.19.1Р.00320537",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/320537",
+                    "mitypeNumber": "76471-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/891820",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "АТ-9000",
+                    "modification": "АТ-9000-А",
+                    "manufactureNum": "20021",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от «27» декабря 2018 г. № 2772"
+                },
+                {
+                    "regNumber": "41570.09.РЭ.00422558",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/422558",
+                    "mitypeNumber": "41570-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351925",
+                    "mitypeTitle": "Калибраторы акустические универсальные",
+                    "notation": "4226",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2952854",
+                    "manufactureYear": 2014,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "033"
+                },
+                {
+                    "mitypeNumber": "26204-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332209",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "88472"
+                },
+                {
+                    "mitypeNumber": "65096-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378837",
+                    "mitypeTitle": "Шумомеры, анализаторы спектра, виброметры",
+                    "number": "3027891"
+                },
+                {
+                    "mitypeNumber": "32696-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341137",
+                    "mitypeTitle": "Приборы для измерений показателей качества электрической энергии",
+                    "number": "4325"
+                }
+            ]
+        },
+        "info": {
+            "structure": "измерительный блок №9539,микрофонный предусилитель SV01А №13523, 1\/2\"конденсаторный микрофон МК-265 №693, датчик вибрации АР98 №7383",
+            "briefIndicator": false,
+            "additional_info": "Значение  калибровочного фактора  при  совместной калибровке  измерительного  блока  № 9539  с микрофонным  предусилителем  SV01А  № 13523  и микрофонным  капсюлем   МК-265 № 693\t\tКм = + 0,8 дБ            Значение  калибровочного фактора  при  совместной калибровке  измерительного  блока  № 9539  с вибропреобразователем    АР 98  № 7383\t\tКд = - 0,4 дБ"
+        }
+    },
+    "187487328": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "6181",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОДАРСКОМ КРАЕ И РЕСПУБЛИКЕ АДЫГЕЯ\"(ФБУ \"Краснодарский ЦСМ\")",
+            "signCipher": "АУ",
+            "miOwner": "Филиал федерального государственного бюджетного учреждения  \"Центр лабораторного анализа и технических измерений по Южному федеральному округу\" - Центр лабораторного анализа и технических измерений по Краснодарскому краю",
+            "vrfDate": "14.09.2022",
+            "validDate": "13.09.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84 и ГОСТ 8.553-88",
+            "applicable": {
+                "certNum": "С-АУ\/14-09-2022\/187487328",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "47717.11.4Р.00219860",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/219860",
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359044",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34410А, 34411А",
+                    "modification": "34410А",
+                    "manufactureNum": "MY53011900",
+                    "manufactureYear": 2016,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 3456 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "47717.11.2Р.00219861",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/219861",
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359044",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34410А, 34411А",
+                    "modification": "34410А",
+                    "manufactureNum": "MY53011900",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 575 от 14 мая 2015 г."
+                },
+                {
+                    "regNumber": "47717.11.2Р.00219862",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/219862",
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359044",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34410А, 34411А",
+                    "modification": "34410А",
+                    "manufactureNum": "MY53011900",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 2091 от 1 октября 2018 г."
+                },
+                {
+                    "regNumber": "47717.11.3Р.00219863",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/219863",
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359044",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34410А, 34411А",
+                    "modification": "34410А",
+                    "manufactureNum": "MY53011900",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 3457 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "41570.09.РЭ.00356635",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/356635",
+                    "mitypeNumber": "41570-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351925",
+                    "mitypeTitle": "Калибраторы акустические универсальные",
+                    "notation": "4226",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2831099",
+                    "manufactureYear": 2013,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "123480"
+                }
+            ]
+        },
+        "info": {
+            "structure": "SV01A, № 7157; SV22, № 4011796",
+            "briefIndicator": false,
+            "additional_info": "#mid14d6c124-38c1-11ed-8064-000c29b2a290"
+        }
+    },
+    "185522259": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "15906",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОЯРСКОМ КРАЕ, РЕСПУБЛИКЕ ХАКАСИЯ И РЕСПУБЛИКЕ ТЫВА\"(ФБУ \"КРАСНОЯРСКИЙ ЦСМ\")",
+            "signCipher": "АШ",
+            "miOwner": "ОАО \"КРАСЦВЕТМЕТ\"",
+            "vrfDate": "13.09.2022",
+            "validDate": "12.09.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88",
+            "applicable": {
+                "certNum": "С-АШ\/13-09-2022\/185522259",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00184074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/184074",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1314",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                },
+                {
+                    "regNumber": "15388.96.РЭ.00257406",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/257406",
+                    "mitypeNumber": "15388-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313331",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2610079",
+                    "manufactureYear": 2009,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "26204-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332209",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "88199"
+                }
+            ]
+        },
+        "info": {
+            "structure": "SV01A №1726, 40BF №141785, 3143М1 №3840",
+            "briefIndicator": false
+        }
+    },
+    "184396801": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9570",
+                "manufactureYear": 2008,
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ  ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РОСТОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТОВСКИЙ ЦСМ\")",
+            "signCipher": "ВР",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "07.09.2022",
+            "validDate": "06.09.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84 «ГСИ. Шумомеры. Методика поверки», ГОСТ 8.553-88 «ГСИ. Фильтры электронные октавные и третьоктавные. Методика пове",
+            "applicable": {
+                "certNum": "С-ВР\/07-09-2022\/184396801",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32572.06.РЭ.00314199",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/314199",
+                    "mitypeNumber": "32572-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340959",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "SV30A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "22552",
+                    "manufactureYear": 2010,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "61875"
+                },
+                {
+                    "mitypeNumber": "72879-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492442",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "MY47001646"
+                }
+            ]
+        },
+        "info": {
+            "structure": "предусилитель SV01А  13301,капсюль микрофонный SV22  4012921",
+            "briefIndicator": false
+        }
+    },
+    "183691003": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9568",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФГУП \"НПП \"Гамма\"",
+            "vrfDate": "05.09.2022",
+            "validDate": "04.09.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88",
+            "applicable": {
+                "certNum": "С-МА\/05-09-2022\/183691003",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "68875.17.1Р.05053",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/5053",
+                    "mitypeNumber": "68875-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382972",
+                    "mitypeTitle": "Установки для поверки и калибровки виброизмерительных преобразователей",
+                    "notation": "9155",
+                    "modification": "9155-831 и 9155-875",
+                    "manufactureNum": "1901СС8",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                },
+                {
+                    "regNumber": "27670.04.РЭ.00466420",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/466420",
+                    "mitypeNumber": "27670-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334372",
+                    "mitypeTitle": "Установка для поверки шумомеров, акселерометров и акустических калибраторов",
+                    "notation": "3630\/3629",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0000001",
+                    "manufactureYear": 2004,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Предусилитель SV01 №13549, капсюль микрофонный 40AE №97794, вибропреобразователь АР98 №8365",
+            "briefIndicator": false,
+            "additional_info": "c56349e9-a059-44fe-af0c-e1f0863dc6de"
+        }
+    },
+    "179250185": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9582",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОЯРСКОМ КРАЕ, РЕСПУБЛИКЕ ХАКАСИЯ И РЕСПУБЛИКЕ ТЫВА\"(ФБУ \"КРАСНОЯРСКИЙ ЦСМ\")",
+            "signCipher": "АШ",
+            "miOwner": "АО \"РУСАЛ САЯНОГОРСК\"",
+            "vrfDate": "17.08.2022",
+            "validDate": "16.08.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88",
+            "applicable": {
+                "certNum": "С-АШ\/17-08-2022\/179250185",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00184074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/184074",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1314",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                },
+                {
+                    "regNumber": "15388.96.РЭ.00257406",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/257406",
+                    "mitypeNumber": "15388-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313331",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2610079",
+                    "manufactureYear": 2009,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "41570-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351925",
+                    "mitypeTitle": "Калибраторы акустические универсальные",
+                    "number": "2810357"
+                },
+                {
+                    "mitypeNumber": "26204-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332209",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "88199"
+                }
+            ]
+        },
+        "info": {
+            "structure": "SV01A №13343, SV22 №4013515, АР98 №3208",
+            "briefIndicator": false
+        }
+    },
+    "178927619": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "6175",
+                "modification": "SVAN 912M  (4 парам.)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"ОДК-Климов\"",
+            "vrfDate": "16.08.2022",
+            "validDate": "15.08.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84 и ГОСТ 8.553-88; ГСИ. Шумомеры. Методика поверки ,МИ1873-88",
+            "applicable": {
+                "certNum": "С-СП\/16-08-2022\/178927619",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.1207.2015",
+                    "title": "Государственный эталон 1 разряда единиц виброперемещения в диапазоне значений от 5·10[^-7] до 3·10[^-3] м, виброскорости в диапазоне значений от 3·10[^-4] до 2·10[^-1] м\/с и виброускорения в диапазоне значений от 1·10[^-1] до 1,5·10[^3] м\/с[^2] в диапазоне частот от 3 до 1·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/407162"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "15388.96.РЭ.00488781",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/488781",
+                    "mitypeNumber": "15388-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313331",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2734030",
+                    "manufactureYear": 2011,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ]
+        },
+        "info": {
+            "structure": "SV01 № 7143,  SV22 № 402230 ( С=1,5дБ, S= 42,4 мВ\/Па ) ,АР98-100 № 11109 ( Кпр=8,61 мВ\/мс^-2, С=1,3 дБ)",
+            "briefIndicator": false
+        }
+    },
+    "182306198": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9524",
+                "manufactureYear": 2007,
+                "modification": "SVAN 912M  (4 парам.)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"ГорМаш-Юл\"",
+            "vrfDate": "15.08.2022",
+            "validDate": "14.08.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84 и ГОСТ 8.553-88; ГСИ. Шумомеры. Методика поверки, МИ1873-88",
+            "applicable": {
+                "certNum": "С-СП\/15-08-2022\/179021075",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.1207.2015",
+                    "title": "Государственный эталон 1 разряда единиц виброперемещения в диапазоне значений от 5·10[^-7] до 3·10[^-3] м, виброскорости в диапазоне значений от 3·10[^-4] до 2·10[^-1] м\/с и виброускорения в диапазоне значений от 1·10[^-1] до 1,5·10[^3] м\/с[^2] в диапазоне частот от 3 до 1·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/407162"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "32058.06.РЭ.00488780",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/488780",
+                    "mitypeNumber": "32058-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340251",
+                    "mitypeTitle": "Калибратор акустический универсальный",
+                    "notation": "4226",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2433673",
+                    "manufactureYear": 2006,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ]
+        },
+        "info": {
+            "structure": "SV01A № 13500, МК-265(К=1,0 дБ;S=44,51 мВ\/Па), МК-301 ( К=22,2 дБ; S= 3,9 мВ\/Па) ,АР-98-100 № 7181( К= 10,93 мВ\/мс^-2; С= -0,8 дБ)",
+            "briefIndicator": false
+        }
+    },
+    "174571203": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9576",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ «ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КЕМЕРОВСКОЙ ОБЛАСТИ - КУЗБАССЕ»(ФБУ «КУЗБАССКИЙ ЦСМ»)",
+            "signCipher": "БЧ",
+            "miOwner": "юридическое лицо",
+            "vrfDate": "01.08.2022",
+            "validDate": "31.07.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88",
+            "applicable": {
+                "certNum": "С-БЧ\/01-08-2022\/174571203",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "45344.10.РЭ.00162328",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/162328",
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "notation": "DS360",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "123632",
+                    "manufactureYear": 2016,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГОСТ Р 8.635; ГОСТ Р 8.257; ГОСТ Р 8.553, МИ 1873, МИ 3616 и др. МП на измерители и анализаторы шума и вибрации"
+                },
+                {
+                    "regNumber": "58770.14.1Р.00376994",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/376994",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "21112",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32572-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340959",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "number": "19322"
+                }
+            ]
+        },
+        "info": {
+            "structure": "SV01A №13327,7052E №66774,AP98 №0068",
+            "briefIndicator": false
+        }
+    },
+    "171906928": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "6171",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПЕНЗЕНСКОЙ ОБЛАСТИ\"(ФБУ \"ПЕНЗЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВМ",
+            "miOwner": "Акционерное общество \"ФЕДЕРАЛЬНЫЙ НАУЧНО-ПРОИЗВОДСТВЕННЫЙ ЦЕНТР \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"СТАРТ\" ИМЕНИ М.В. ПРОЦЕНКО\"",
+            "vrfDate": "20.07.2022",
+            "validDate": "19.07.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84; ГОСТ 8.553-88; ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-ВМ\/20-07-2022\/171906928",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "50247.12.2Р.39768",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/39768",
+                    "mitypeNumber": "50247-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362044",
+                    "mitypeTitle": "Виброустановки калибровочные портативные",
+                    "notation": "9100D и 9110D",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "327",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового виброускорения, приказ № 2772"
+                },
+                {
+                    "regNumber": "15388.96.РЭ.00302571",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302571",
+                    "mitypeNumber": "15388-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313331",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "3000166",
+                    "manufactureYear": 2011,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "88949"
+                }
+            ]
+        },
+        "info": {
+            "structure": "предусилитель SV01А №7155,капсюль микрофона SV22 №4011774,вибропреобразователь  АР98 №4745",
+            "briefIndicator": false
+        }
+    },
+    "210515290": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9567",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБАЛТИЙСКИЙ СУДОСТРОИТЕЛЬНЫЙ ЗАВОД \"ЯНТАРЬ\"(АО \"ПСЗ \"ЯНТАРЬ\")",
+            "signCipher": "АИЯ",
+            "miOwner": "АО ПСЗ Янтарь",
+            "vrfDate": "14.07.2022",
+            "validDate": "13.07.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88.",
+            "applicable": {
+                "certNum": "С-АИЯ\/14-07-2022\/210515290",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56791.14.2Р.00565387",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/565387",
+                    "mitypeNumber": "56791-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369556",
+                    "mitypeTitle": "Установка вибрационная поверочная",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "30",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011276",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "5263"
+                }
+            ]
+        },
+        "info": {
+            "structure": "вибропреобразователь типа АР98, зав. № 1220",
+            "briefIndicator": false
+        }
+    },
+    "181093114": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9560",
+                "manufactureYear": 2011,
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Акционерное общество \"Пермский завод \"Машиностроитель\"",
+            "vrfDate": "04.07.2022",
+            "validDate": "03.07.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84,ГОСТ 8.553-88,МИ 1873-88",
+            "applicable": {
+                "certNum": "С-СЕ\/04-07-2022\/167979196",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76471.19.1Р.00320537",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/320537",
+                    "mitypeNumber": "76471-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/891820",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "АТ-9000",
+                    "modification": "АТ-9000-А",
+                    "manufactureNum": "20021",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от «27» декабря 2018 г. № 2772"
+                },
+                {
+                    "regNumber": "41570.09.РЭ.00422558",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/422558",
+                    "mitypeNumber": "41570-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351925",
+                    "mitypeTitle": "Калибраторы акустические универсальные",
+                    "notation": "4226",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2952854",
+                    "manufactureYear": 2014,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "033"
+                },
+                {
+                    "mitypeNumber": "26204-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332209",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "88472"
+                },
+                {
+                    "mitypeNumber": "32696-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341137",
+                    "mitypeTitle": "Приборы для измерений показателей качества электрической энергии",
+                    "number": "4325"
+                }
+            ]
+        },
+        "info": {
+            "structure": "измерительный  блок № 9560 , микрофонный  предусилитель  SV01А  № 13545 , 1\/2\"конденсаторный  микрофон 7052H № 40293 , датчик вибрации АР98-100-01  № 7337",
+            "briefIndicator": false,
+            "additional_info": "Значение  калибровочного фактора  при  совместной калибровке   измерительного  блока  № 9560 с микрофонным  предусилителем  SV01А  № 13545  и микрофонным  капсюлем   7052H  № 40293 Км = + 7,9 дБ . Значение  калибровочного фактора  при  совместной калибровке  измерительного  блока  № 9560  с вибропреобразователем    АР98-100-01  №  7337    Кд = - 0,2 дБ"
+        }
+    },
+    "158729322": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9506",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПЕРВЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\"(ООО \"ПМЦ\")",
+            "signCipher": "ДУИ",
+            "miOwner": "Юр. лицо",
+            "vrfDate": "25.05.2022",
+            "validDate": "24.05.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88",
+            "applicable": {
+                "certNum": "С-ДУИ\/25-05-2022\/158729322",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "68875.17.1Р.00149712",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149712",
+                    "mitypeNumber": "68875-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382972",
+                    "mitypeTitle": "Установки для поверки и калибровки виброизмерительных преобразователей",
+                    "notation": "9155",
+                    "modification": "9155-831 и 9155-779",
+                    "manufactureNum": "1807-0x186D",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                },
+                {
+                    "regNumber": "67480.17.РЭ.00568893",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/568893",
+                    "mitypeNumber": "67480-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381438",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "3027468",
+                    "manufactureYear": 2021,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "123991"
+                },
+                {
+                    "mitypeNumber": "63090-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1388983",
+                    "mitypeTitle": "Системы измерительные виброакустические",
+                    "number": "321001010"
+                }
+            ]
+        },
+        "info": {
+            "structure": "предусилитель SV01A № 1725, капсюли микрофонные МК-265 № 3566, МК301 № 0819, вибропреобразователи АР98 № 6033, 3143М1 № 2129",
+            "briefIndicator": false
+        }
+    },
+    "158163653": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9562",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ  ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РОСТОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТОВСКИЙ ЦСМ\")",
+            "signCipher": "ВР",
+            "miOwner": "ООО \"Лаборатория ЦСТ, ИНН 5611031435",
+            "vrfDate": "24.05.2022",
+            "validDate": "23.05.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84 «ГСИ. Шумомеры. Методика поверки», МИ 1873-88 «ГСИ. Виброметры с пьезоэлектрическими и индукционными преобразовате",
+            "applicable": {
+                "certNum": "С-ВР\/24-05-2022\/158163653",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "2624.70.2Р.00271262",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/271262",
+                    "mitypeNumber": "2624-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332267",
+                    "mitypeTitle": "Устройства стационарные образцовые виброкалибровочные",
+                    "notation": "СОВКУ-68",
+                    "modification": "СОВКУ-68",
+                    "manufactureNum": "1",
+                    "manufactureYear": 1980,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказа №2772 от 27.12.2018 г. «Государственная поверочная схема для средств измерений виброперемещения, виброскорости,  виброус"
+                },
+                {
+                    "regNumber": "32572.06.РЭ.00314199",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/314199",
+                    "mitypeNumber": "32572-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340959",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "SV30A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "22552",
+                    "manufactureYear": 2010,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "61875"
+                },
+                {
+                    "mitypeNumber": "72879-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492442",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "MY47016075"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Предусилитель SV 01A 7161,капсюль микрофонный МК 250 10733,капсюль микрофонный МК 301 6108,вибропреобразователь АР 98 7130",
+            "briefIndicator": false
+        }
+    },
+    "157699929": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "6169",
+                "manufactureYear": 2006,
+                "modification": "SVAN 912M  (4 парам.)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Публичное акционерное общество \"СУДОСТРОИТЕЛЬНАЯ ФИРМА \"АЛМАЗ\"",
+            "vrfDate": "20.05.2022",
+            "validDate": "19.05.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84 и ГОСТ 8.553-88; ГСИ. Шумомеры. Методика поверки, МИ1873-88",
+            "applicable": {
+                "certNum": "С-СП\/20-05-2022\/157699929",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.1207.2015",
+                    "title": "Государственный эталон 1 разряда единиц виброперемещения в диапазоне значений от 5·10[^-7] до 3·10[^-3] м, виброскорости в диапазоне значений от 3·10[^-4] до 2·10[^-1] м\/с и виброускорения в диапазоне значений от 1·10[^-1] до 1,5·10[^3] м\/с[^2] в диапазоне частот от 3 до 1·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/407162"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "15388.96.РЭ.00488781",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/488781",
+                    "mitypeNumber": "15388-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313331",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2734030",
+                    "manufactureYear": 2011,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ]
+        },
+        "info": {
+            "structure": "SV01A №7110; 7052 Е №78666 (К=3,0 дБ; Е=35,3 мВ\/Па); АР98-100 №2044 ( К= 12,2 мВ\/мс-2, С=-1,7 дБ)",
+            "briefIndicator": false
+        }
+    },
+    "157698108": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9543",
+                "manufactureYear": 2007,
+                "modification": "SVAN 912M  (4 парам.)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Калининградская железная дорога - филиал ОАО \"РЖД\"",
+            "vrfDate": "12.05.2022",
+            "validDate": "11.05.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84 и ГОСТ 8.553-88; ГСИ. Шумомеры. Методика поверки, МИ1873-88",
+            "applicable": {
+                "certNum": "С-СП\/12-05-2022\/157698108",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.1207.2015",
+                    "title": "Государственный эталон 1 разряда единиц виброперемещения в диапазоне значений от 5·10[^-7] до 3·10[^-3] м, виброскорости в диапазоне значений от 3·10[^-4] до 2·10[^-1] м\/с и виброускорения в диапазоне значений от 1·10[^-1] до 1,5·10[^3] м\/с[^2] в диапазоне частот от 3 до 1·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/407162"
+                },
+                {
+                    "number": "3.1.ZСП.0092.2012",
+                    "title": "ГЭЕ звукового давления в воздушной среде 1 разряда с номинальными значениями 94,0 дБ, 104,0 дБ и 114,0 дБ в иапазоне частот от 31,5 Гц до 16 кГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/430521"
+                }
+            ]
+        },
+        "info": {
+            "structure": "МК-265 № 661, SV01A № 13519 ( К = 0,8 дБ, S = 45,65 мВ\/Па ); АР 98-100 № 7367 ( К=9,794 мВ\/мс-2, С= 0,2дБ)",
+            "briefIndicator": false
+        }
+    },
+    "154190181": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9563",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "ФБУ \"Новосибирский ЦСМ\"",
+            "vrfDate": "11.05.2022",
+            "validDate": "10.05.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88, ГОСТ 8.257-84, ГОСТ 8.553-88",
+            "applicable": {
+                "certNum": "С-НН\/11-05-2022\/154190181",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZHH.1053.2018",
+                    "title": "Государственный эталон единицы скорости при колебательном движении твердого тела 2 разряда в диапазоне значений от 0,05 до 1·10[^3] мм\/с",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1120921"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "68875.17.2Р.00175558",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/175558",
+                    "mitypeNumber": "68875-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382972",
+                    "mitypeTitle": "Установки для поверки и калибровки виброизмерительных преобразователей",
+                    "notation": "9155",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "195FFD0",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 2772 от 27.12.2018"
+                },
+                {
+                    "regNumber": "15388.96.РЭ.00410633",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/410633",
+                    "mitypeNumber": "15388-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313330",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "3008379",
+                    "manufactureYear": 2013,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЛПС для средств измерений звукового давления №52-2021-2"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "123986"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Вибропреобразователь АР98 зав. № 8125: Кд = 10,0 мВ\/(м\/с²), Кф = 0,0 дБ. Микрофон SV22 зав. № 40128516: Кф = 0,4 дБ."
+        }
+    },
+    "151695451": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9504",
+                "manufactureYear": 2006,
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Филиал Федерального бюджетного учреждения здравоохранения \"Центр гигиены и эпидемиологии в Ханты-Мансийском автономном округе - Югре  в Советском районе и в г. Югорске, в городе Урае и Кондинском районе\"",
+            "vrfDate": "26.04.2022",
+            "validDate": "25.04.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ8.257-84 , ГОСТ8.553-88",
+            "applicable": {
+                "certNum": "С-СЕ\/26-04-2022\/151695451",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41570.09.РЭ.00422558",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/422558",
+                    "mitypeNumber": "41570-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351925",
+                    "mitypeTitle": "Калибраторы акустические универсальные",
+                    "notation": "4226",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2952854",
+                    "manufactureYear": 2014,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "MY47068435"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "033"
+                },
+                {
+                    "mitypeNumber": "26204-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332209",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "88472"
+                }
+            ]
+        },
+        "info": {
+            "structure": "измерительный  блок № 9504 , микрофонный  предусилитель  SV01А  № 4775 , 1\/2\"конденсаторный  микрофон  40AN № 37119",
+            "briefIndicator": true,
+            "briefCharacteristics": "Диапазон измерения уровня звука  20 -136 дБ .",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-151695451\/protocol",
+            "additional_info": "Значение  калибровочного фактора  при  совместной калибровке  измерительного   блока  № 9504  с предусилителкм  SV 01А   № 4775  и микрофонным  капсюлем    40AN  № 37119\t\tКм = - 0,7 дБ"
+        }
+    },
+    "151395383": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9565",
+                "manufactureYear": 2008,
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "25.04.2022",
+            "validDate": "24.04.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84,ГОСТ 8.553-88,МИ 1873-88",
+            "applicable": {
+                "certNum": "С-СЕ\/25-04-2022\/151395383",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76471.19.1Р.00320537",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/320537",
+                    "mitypeNumber": "76471-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/891820",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "АТ-9000",
+                    "modification": "АТ-9000-А",
+                    "manufactureNum": "20021",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от «27» декабря 2018 г. № 2772"
+                },
+                {
+                    "regNumber": "41570.09.РЭ.00422558",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/422558",
+                    "mitypeNumber": "41570-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351925",
+                    "mitypeTitle": "Калибраторы акустические универсальные",
+                    "notation": "4226",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2952854",
+                    "manufactureYear": 2014,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "033"
+                },
+                {
+                    "mitypeNumber": "26204-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332209",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "88472"
+                },
+                {
+                    "mitypeNumber": "32696-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341137",
+                    "mitypeTitle": "Приборы для измерений показателей качества электрической энергии",
+                    "number": "4325"
+                }
+            ]
+        },
+        "info": {
+            "structure": "измерительный  блок № 9565,микрофонный  предусилитель  SV01А  № 13527 , 1\/2\"конденсаторный  микрофон  SV22 № 4012833 , датчик вибрации АР98  № 8135",
+            "briefIndicator": false,
+            "additional_info": "¶Значение  калибровочного фактора  при  совместной калибровке  измерительного  блока       № 9565 с микрофонным  предусилителем  SV 12L  № 13527 и 1\/2\"конденсаторным преполяризованным микрофоном  SV22  № 4012833\t\t\tКм =  + 1,3 дБ                                                                                      Значение калибровочного фактора и чувствительности измерительного тракта при совместной калибровке измерительного блока  № 9565 с вибропреобразователем         АР 98  № 8135\t\tКZ =  + 0,0  дБ"
+        }
+    },
+    "149108359": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "15905",
+                "manufactureYear": 2012,
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ИРКУТСКОЙ ОБЛАСТИ\"(ФБУ \"ИРКУТСКИЙ ЦСМ\")",
+            "signCipher": "БП",
+            "miOwner": "ООО \"ИЦ \"Иркутскэнерго\"",
+            "vrfDate": "14.04.2022",
+            "validDate": "13.04.2023",
+            "vriType": "2",
+            "docTitle": "\"ГСИ. Виброметры с пьезоэлектрическими и индукционными вибропреобразователями. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-БП\/14-04-2022\/149108359",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41570.09.РЭ.00331418",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/331418",
+                    "mitypeNumber": "41570-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351925",
+                    "mitypeTitle": "Калибраторы акустические универсальные",
+                    "notation": "4226",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2684311",
+                    "manufactureYear": 2009,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                },
+                {
+                    "regNumber": "58770.14.1Р.00425636",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/425636",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1987",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ 2772 от 27.12.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "52150-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364297",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "MY52812364"
+                }
+            ]
+        },
+        "info": {
+            "structure": "предусилитель SV01A № 13323, микрофон SV22 № 4013854 (С = 0,6 dB), вибропреобразователь АР98 № 1284 (С = 0,1 dB)",
+            "briefIndicator": false
+        }
+    },
+    "148410132": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9511",
+                "modification": "Svan 912М"
+            }
+        },
+        "vriInfo": {
+            "organization": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Республике Татарстан\"(ФБУ \"ЦСМ Татарстан\")",
+            "signCipher": "АМ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "13.04.2022",
+            "validDate": "12.04.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84,  ГОСТ 8.553-88 и МИ 1873-88",
+            "applicable": {
+                "certNum": "С-АМ\/13-04-2022\/148410132",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "15388.96.РЭ.00104195",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/104195",
+                    "mitypeNumber": "15388-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313331",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "4231",
+                    "manufactureNum": "2606185",
+                    "manufactureYear": 2011,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для средств измерений звукового давления в воздушной среде и аудиометрических шкал, приказ № 2537"
+                },
+                {
+                    "regNumber": "58770.14.1Р.00552192",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/552192",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "Без модификации",
+                    "manufactureNum": "1775",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "рабочего эталона 1 разряда по ГПС утв. приказом Росстандарта № 2772 от 27.12.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "26204-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332209",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "88620"
+                }
+            ]
+        },
+        "info": {
+            "structure": "с предусилителем SV01 № 7197, МК-265 № 266 и вибропреобразователем АР 98 № 7060",
+            "briefIndicator": false
+        }
+    },
+    "147823669": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "15912",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"НИИ ТП\"",
+            "vrfDate": "12.04.2022",
+            "validDate": "11.04.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88",
+            "applicable": {
+                "certNum": "С-МА\/12-04-2022\/147823669",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "27670.04.РЭ.00466420",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/466420",
+                    "mitypeNumber": "27670-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334372",
+                    "mitypeTitle": "Установка для поверки шумомеров, акселерометров и акустических калибраторов",
+                    "notation": "3630\/3629",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0000001",
+                    "manufactureYear": 2004,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Предусилитель SV01A, капсюль микрофонный 40АЕ № 165528, вибропреобразователь АР98-100-01 № 2008",
+            "briefIndicator": false,
+            "additional_info": "2daa218c-e2de-4ec3-af29-93bbc8311fa4"
+        }
+    },
+    "146811870": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9529",
+                "manufactureYear": 2007,
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "07.04.2022",
+            "validDate": "06.04.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84,ГОСТ 8.553-88,МИ 1873-88",
+            "applicable": {
+                "certNum": "С-СЕ\/07-04-2022\/146811870",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76471.19.1Р.00320537",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/320537",
+                    "mitypeNumber": "76471-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/891820",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "АТ-9000",
+                    "modification": "АТ-9000-А",
+                    "manufactureNum": "20021",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от «27» декабря 2018 г. № 2772"
+                },
+                {
+                    "regNumber": "41570.09.РЭ.00422558",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/422558",
+                    "mitypeNumber": "41570-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351925",
+                    "mitypeTitle": "Калибраторы акустические универсальные",
+                    "notation": "4226",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2952854",
+                    "manufactureYear": 2014,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "033"
+                },
+                {
+                    "mitypeNumber": "26204-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332209",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "88472"
+                },
+                {
+                    "mitypeNumber": "32696-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341137",
+                    "mitypeTitle": "Приборы для измерений показателей качества электрической энергии",
+                    "number": "4325"
+                }
+            ]
+        },
+        "info": {
+            "structure": "измерительный  блок № 9529,микрофонный  предусилитель  SV01А  № 13514 , 1\/2\"конденсаторный  микрофон  МК-265  № 604 , 1\/4\"конденсаторный  микрофон  МК-401  № 6008 , датчик вибрации АР98  № 7217",
+            "briefIndicator": false,
+            "additional_info": "Значение  калибровочного фактора  при  совместной калибровке  измерительного  блока       № 9529  c предусилителем микрофонным  SV 01А   № 13514  и микрофонным  капсюлем                 МК-265  № 604\t\t          Км =  -   0,4 дБ                                                                                              МК-401  № 6008                Км =  + 18,4 дБ                                                                                              Значение  калибровочного фактора и чувствительности измерительного тракта при совместной калибровке измерительного блока № 9529 с вибропреобразователем АР 98  № 7217\t            \tКZ =  - 0,6  дБ"
+        }
+    },
+    "146351869": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9574",
+                "modification": "Без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "06.04.2022",
+            "validDate": "05.04.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84 \"ГСИ. Шумомеры. Методика поверки\"; ГОСТ 8.553-88\"ГСИ. Фильтры электронные  октавные и третьоктавные. Методика пове",
+            "applicable": {
+                "certNum": "С-БН\/06-04-2022\/146351869",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1614.2014",
+                    "title": "ГЭЕ звукового давления в воздушной среде в диапазоне частот от 2 Гц до 20 кГц и статического давления от 0 даПа до 700 даПа",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/411982"
+                }
+            ]
+        },
+        "info": {
+            "structure": "микрофонный капсюль 40АЕ № 75125.; микрофонный капсюль SV 22 № 4013117.; предусилитель SV01A  № 13304.",
+            "briefIndicator": false,
+            "additional_info": "В режиме шумомера."
+        }
+    },
+    "144442836": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "15902",
+                "modification": "Без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ИТЦ - филиал ООО \"Газпром трансгаз Нижний Новгород\"",
+            "vrfDate": "31.03.2022",
+            "validDate": "30.03.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84 \"ГСИ. Шумомеры. Методика поверки\"; ГОСТ 8.553-88\"ГСИ. Фильтры электронные  октавные и третьоктавные. Методика пове",
+            "applicable": {
+                "certNum": "С-БН\/31-03-2022\/144442836",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1614.2014",
+                    "title": "ГЭЕ звукового давления в воздушной среде в диапазоне частот от 2 Гц до 20 кГц и статического давления от 0 даПа до 700 даПа",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/411982"
+                }
+            ]
+        },
+        "info": {
+            "structure": "предусилитель  SV01A № 13347.; микрофонный капсюль SV 22 № 4013661.",
+            "briefIndicator": false,
+            "additional_info": "В режиме шумомера."
+        }
+    },
+    "143169327": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9566",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБАЛТИЙСКИЙ СУДОСТРОИТЕЛЬНЫЙ ЗАВОД \"ЯНТАРЬ\"(АО \"ПСЗ \"ЯНТАРЬ\")",
+            "signCipher": "АИЯ",
+            "miOwner": "АО ПСЗ Янтарь",
+            "vrfDate": "28.03.2022",
+            "validDate": "27.03.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88.",
+            "applicable": {
+                "certNum": "С-АИЯ\/28-03-2022\/143169327",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт19-2018",
+                    "title": "ГПЭ единицы звукового давления в воздушной среде и аудиометрических шкал",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397875"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334071",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "5263"
+                }
+            ]
+        },
+        "info": {
+            "structure": "конденсаторный микрофон типа 4191, зав. № 2684062; вибропреобразователь типа АР98, зав. № 1219",
+            "briefIndicator": false
+        }
+    },
+    "143169849": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9567",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБАЛТИЙСКИЙ СУДОСТРОИТЕЛЬНЫЙ ЗАВОД \"ЯНТАРЬ\"(АО \"ПСЗ \"ЯНТАРЬ\")",
+            "signCipher": "АИЯ",
+            "miOwner": "АО ПСЗ Янтарь",
+            "vrfDate": "28.03.2022",
+            "validDate": "27.03.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88.",
+            "applicable": {
+                "certNum": "С-АИЯ\/28-03-2022\/143169849",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт19-2018",
+                    "title": "ГПЭ единицы звукового давления в воздушной среде и аудиометрических шкал",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397875"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334071",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "5263"
+                }
+            ]
+        },
+        "info": {
+            "structure": "конденсаторный микрофон типа 4191, зав. № 2684061; вибропреобразователь типа АР98, зав. № 1220",
+            "briefIndicator": false
+        }
+    },
+    "143170546": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "15932",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБАЛТИЙСКИЙ СУДОСТРОИТЕЛЬНЫЙ ЗАВОД \"ЯНТАРЬ\"(АО \"ПСЗ \"ЯНТАРЬ\")",
+            "signCipher": "АИЯ",
+            "miOwner": "АО ПСЗ Янтарь",
+            "vrfDate": "28.03.2022",
+            "validDate": "27.03.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88, МИ 1873-88.",
+            "applicable": {
+                "certNum": "С-АИЯ\/28-03-2022\/143170546",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт19-2018",
+                    "title": "ГПЭ единицы звукового давления в воздушной среде и аудиометрических шкал",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397875"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334071",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "5263"
+                }
+            ]
+        },
+        "info": {
+            "structure": "конденсаторный микрофон типа 40AN, зав. № 63780; вибропреобразователь типа АР98, зав. № 1223",
+            "briefIndicator": false
+        }
+    },
+    "142099656": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "6176",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "владелец",
+            "vrfDate": "23.03.2022",
+            "validDate": "22.03.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.553-88|ГОСТ 8.257-84|МИ 1873-88",
+            "applicable": {
+                "certNum": "С-ТТ\/23-03-2022\/142099656",
+                "stickerNum": "Нет данных",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.05301",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/5301",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1766",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                },
+                {
+                    "regNumber": "25900.03.4Р.49431",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49431",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты. Приказ1621"
+                },
+                {
+                    "regNumber": "25900.03.3Р.49432",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49432",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления. Приказ 146"
+                },
+                {
+                    "regNumber": "25900.03.2Р.49433",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49433",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для измерений силы переменного электрического тока от 1•10^-8 до 100 А в диапазоне частот от 1•10^-1 до 1•10^6 Гц.Приказ 575"
+                },
+                {
+                    "regNumber": "25900.03.2Р.49434",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49434",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ переменного электрического напряжения до 1000 В в диапазоне частот от 1•10^1 до 2•10^9 Гц.Приказ 1053"
+                },
+                {
+                    "regNumber": "25900.03.2Р.49436",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49436",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.027-2001 для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "25900.03.1Р.00293795",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/293795",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока. Приказ 2091"
+                },
+                {
+                    "regNumber": "15388.96.РЭ.00294654",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/294654",
+                    "mitypeNumber": "15388-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313331",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "3001493",
+                    "manufactureYear": 2011,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                },
+                {
+                    "regNumber": "38616.08.СИ.00393449",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/393449",
+                    "mitypeNumber": "38616-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348405",
+                    "mitypeTitle": "Капсюли микрофонные измерительные конденсаторные",
+                    "notation": "4160, 4180",
+                    "modification": "4180",
+                    "manufactureNum": "2889901",
+                    "manufactureYear": 2013,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ]
+        },
+        "info": {
+            "structure": "микрофонный предусилитель SV01А № 7144; микрофон МК301 № 9128; 1\/2\"  конденсаторный  микрофон 40AN № 55998;  датчик вибрации АР-98-100 № 4821",
+            "briefIndicator": false,
+            "additional_info": "[ID=6976d348-aa96-11ec-af4f-0025902af9c6] Калибровочная поправка равна 1,3 дБ для 40AN № 55998;  Калибровочная поправка равна 22,2 дБ для МК301 № 9128;  Калибровочная поправка равна 0,7 дБ для АР-98-100 № 4821."
+        }
+    },
+    "141773784": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "15902",
+                "modification": "Без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ИТЦ - филиал ООО \"Газпром трансгаз Нижний Новгород\"",
+            "vrfDate": "22.03.2022",
+            "validDate": "21.03.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"ГСИ. Виброметры с пьезоэлектрическими и индукционными преобразователями. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-БН\/22-03-2022\/141773784",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1645.2014",
+                    "title": "ГЭЕ длины, скорости и ускорения при колебательном движении твёрдого тела 2 разряда в диапазоне значений частот от 2·10[^-1] Гц до 2·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/411875"
+                }
+            ]
+        },
+        "info": {
+            "structure": "АР98-100-01 зав. № 0045",
+            "briefIndicator": false,
+            "additional_info": "в режиме измерения вибрации"
+        }
+    },
+    "137769300": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "9590",
+                "manufactureYear": 2009,
+                "modification": "SVAN-912М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "05.03.2022",
+            "validDate": "04.03.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ8.257-84 , ГОСТ8.553-88",
+            "applicable": {
+                "certNum": "С-СЕ\/05-03-2022\/137769300",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41570.09.РЭ.00422558",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/422558",
+                    "mitypeNumber": "41570-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351925",
+                    "mitypeTitle": "Калибраторы акустические универсальные",
+                    "notation": "4226",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2952854",
+                    "manufactureYear": 2014,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "033"
+                },
+                {
+                    "mitypeNumber": "26204-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332209",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "88472"
+                }
+            ]
+        },
+        "info": {
+            "structure": "измерительный  блок № 9590 ,микрофонный  предусилитель  SV01А  № 13338 , 1\/2\"конденсаторный  микрофон  SV22  № 4013271 , 1\/2\"конденсаторный  микрофон  МК-233  № 915",
+            "briefIndicator": true,
+            "briefCharacteristics": "Диапазон измерений по шуму 23 - 136 дБ",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-137769300\/protocol",
+            "additional_info": "Значение  калибровочного фактора  при  совместной калибровке  измерительного  блока       № 9590 с микрофонным  предусилителем  SV 01А   № 13338  и  1\/2\"конденсаторным преполяризованным микрофоном  SV22  № 4013271\t\t\tКм =  + 1,3 дБ                                                                                                                    Значение  калибровочного фактора  при  совместной калибровке  измерительного  блока       № 9590 с микрофонным  предусилителем  SV 01А   № 13338  и  1\/2\"конденсаторным микрофоном  МК-233  № 915\t\t\t\t\t\t                        Км =  + 12,8 дБ"
+        }
+    },
+    "133642792": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "6167",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "АНО ДПО \"ЮНИТАЛ-М\"",
+            "vrfDate": "17.02.2022",
+            "validDate": "16.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88",
+            "applicable": {
+                "certNum": "С-ДИЭ\/17-02-2022\/133642792",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "67480-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381438",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "number": "2552787"
+                },
+                {
+                    "mitypeNumber": "53064-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365348",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "number": "NDG10GA3160816"
+                },
+                {
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331750",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "MY45053220"
+                }
+            ]
+        },
+        "info": {
+            "structure": "с предусилителем SV-01A сер. № 7186, микрофоном SV 22 сер. № 4013861, вибропреобразователем AP2098-100-01 сер. № 3190",
+            "briefIndicator": false
+        }
+    },
+    "126591911": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "6177",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПЕРВЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\"(ООО \"ПМЦ\")",
+            "signCipher": "ДУИ",
+            "miOwner": "ООО \"АРМОТ\", г. Иркутск",
+            "vrfDate": "20.01.2022",
+            "validDate": "19.01.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.257-84, ГОСТ 8.553-88",
+            "applicable": {
+                "certNum": "С-ДУИ\/20-01-2022\/125006218",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "123991"
+                },
+                {
+                    "mitypeNumber": "47740-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359073",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "number": "174718"
+                },
+                {
+                    "mitypeNumber": "63090-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1388983",
+                    "mitypeTitle": "Системы измерительные виброакустические",
+                    "number": "321001010"
+                }
+            ]
+        },
+        "info": {
+            "structure": "предусилитель SV01A №7150, микрофон SV22 №4013650, микрофон МК-301 №9148",
+            "briefIndicator": false
+        }
+    },
+    "122287666": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32571-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340958",
+                "mitypeType": "SVAN 912M",
+                "mitypeTitle": "Анализаторы шума и вибрации",
+                "manufactureNum": "6199",
+                "modification": "SVAN 912M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "ФГУП \"НИИПА\"",
+            "vrfDate": "12.01.2022",
+            "validDate": "11.01.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.553-88|ГОСТ 8.257-84|МИ 1873-88",
+            "applicable": {
+                "certNum": "С-ТТ\/12-01-2022\/122287666",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.05301",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/5301",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1766",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                },
+                {
+                    "regNumber": "25900.03.4Р.49431",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49431",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты. Приказ1621"
+                },
+                {
+                    "regNumber": "25900.03.3Р.49432",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49432",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления. Приказ 146"
+                },
+                {
+                    "regNumber": "25900.03.2Р.49433",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49433",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для измерений силы переменного электрического тока от 1•10^-8 до 100 А в диапазоне частот от 1•10^-1 до 1•10^6 Гц.Приказ 575"
+                },
+                {
+                    "regNumber": "25900.03.2Р.49434",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49434",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ переменного электрического напряжения до 1000 В в диапазоне частот от 1•10^1 до 2•10^9 Гц.Приказ 1053"
+                },
+                {
+                    "regNumber": "25900.03.2Р.49436",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49436",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.027-2001 для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "25900.03.1Р.00293795",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/293795",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока. Приказ 2091"
+                },
+                {
+                    "regNumber": "15388.96.РЭ.00294654",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/294654",
+                    "mitypeNumber": "15388-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313331",
+                    "mitypeTitle": "Калибраторы акустические",
+                    "notation": "4231",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "3001493",
+                    "manufactureYear": 2011,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ звукового давления в воздушной среде и аудиометрических шкал (приказ Росстандарта от 30.11.2018 г. № 2537)"
+                }
+            ]
+        },
+        "info": {
+            "structure": "микрофонный предусилитель SV01 № 7180; 1\/2\"  конденсаторный предполяризованный микрофон SV22 № 4011752;  датчик вибрации АР98 № 4710",
+            "briefIndicator": false,
+            "additional_info": "[ID=bbcd9019-7370-11ec-af4e-0025902af9c6] Калибровочная поправка равна 1,2 дБ для SV22 № 4011752 .  Калибровочная поправка равна 0,0 дБ для АР98 № 4710."
+        }
+    }
+}

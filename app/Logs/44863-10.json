@@ -1,0 +1,93 @@
+{
+    "202373936": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "44863-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355768",
+                "mitypeType": "palmOTDR\/N",
+                "mitypeTitle": "Рефлектометры оптические",
+                "manufactureNum": "14115А005",
+                "modification": "pOTDR-S20A\/N"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ\nОТВЕТСТВЕННОСТЬЮ\n\"ЭКСПЕРТЛАБС\"(ООО \"ЭКСПЕРТЛАБС\")",
+            "signCipher": "ГФХ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "10.11.2022",
+            "vriType": "2",
+            "docTitle": "МИ 1907-99",
+            "inapplicable": {
+                "noticeNum": "И-ГФХ\/10-11-2022\/202373936"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55770.13.РЭ.00533537",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/533537",
+                    "mitypeNumber": "55770-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368373",
+                    "mitypeTitle": "Рабочий эталон единиц длины и ослабления в световоде",
+                    "notation": "Нет данных",
+                    "modification": "-",
+                    "manufactureNum": "34",
+                    "manufactureYear": 2013,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 05.12.2019 №2862"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "170352775": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "44863-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355768",
+                "mitypeType": "palmOTDR\/N",
+                "mitypeTitle": "Рефлектометры оптические",
+                "manufactureNum": "11126419",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "Новосибирский филиал ПАО \"Ростелеком\" МРФ \"Сибирь\"(Новосибирский филиал ПАО \"Ростелеком\" МРФ \"Сибирь\")",
+            "signCipher": "АЮП",
+            "miOwner": "ПАО \"Ростелеком\" Новосибирский филиал",
+            "vrfDate": "02.06.2022",
+            "validDate": "01.06.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1907-99",
+            "applicable": {
+                "certNum": "С-АЮП\/02-06-2022\/170352775",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "60004.15.РЭ.06792",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/6792",
+                    "mitypeNumber": "60004-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373240",
+                    "mitypeTitle": "Генераторы оптические",
+                    "notation": "ОГ-2-3\/35",
+                    "modification": "",
+                    "manufactureNum": "18414",
+                    "manufactureYear": 2014,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Приказ Росстандарта от 05.12.2019 №2862"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

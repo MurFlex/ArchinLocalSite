@@ -1,0 +1,71 @@
+{
+    "163252451": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "22560-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326478",
+                "mitypeType": "I.S.1",
+                "mitypeTitle": "Устройства ввода\/вывода измерительные дистанционные",
+                "manufactureNum": "878290DE0007",
+                "modification": "I.S.1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СУРГУТНЕФТЕГАЗ\"(ПАО \"СУРГУТНЕФТЕГАЗ\")",
+            "signCipher": "АХД",
+            "miOwner": "ПАО \"Сургутнефтегаз\"",
+            "vrfDate": "08.06.2022",
+            "validDate": "07.06.2023",
+            "vriType": "1",
+            "docTitle": "Устройства ввода\/вывода измерительные дистанционные I.S.1 , IS pac. Методика поверки, утв. ВНИИМС в феврале 2002 г.",
+            "applicable": {
+                "certNum": "С-АХД\/08-06-2022\/163252451",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "73828.19.1Р.00193694",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/193694",
+                    "mitypeNumber": "73828-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/531692",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "ЭЛМЕТРО-Паскаль-03, Паскаль-03",
+                    "modification": "исполнение 0,005",
+                    "manufactureNum": "0062",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №2091 от 01.10.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20190-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322458",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "EH810298"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "7930"
+                },
+                {
+                    "mitypeNumber": "21019-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390451",
+                    "mitypeTitle": "Мультиметры цифровые портативные",
+                    "number": "91760281"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "600023210192"
+        }
+    }
+}

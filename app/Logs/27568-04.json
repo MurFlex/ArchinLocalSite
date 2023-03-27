@@ -1,0 +1,93 @@
+{
+    "156331738": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "27568-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334216",
+                "mitypeType": "HST-3000C",
+                "mitypeTitle": "Тестеры абонентских линий",
+                "manufactureNum": "ARHP-D1860147",
+                "manufactureYear": 2007,
+                "modification": "HST-3000C"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"Газпром трансгаз Санкт-Петербург\" Пикалевское ЛПУМГ",
+            "vrfDate": "16.05.2022",
+            "validDate": "15.05.2023",
+            "vriType": "2",
+            "docTitle": "HST-3000C МП",
+            "applicable": {
+                "certNum": "С-СП\/16-05-2022\/156331738",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "5783.76.2Р.00147958",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/147958",
+                    "mitypeNumber": "5783-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370753",
+                    "mitypeTitle": "Магазины затуханий",
+                    "notation": "М3-50-2",
+                    "modification": "М3-50-2 (на 3-х частотах)",
+                    "manufactureNum": "275",
+                    "manufactureYear": 1983,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 3383 от 30.12.2019"
+                },
+                {
+                    "regNumber": "22622.03.3Р.00197577",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/197577",
+                    "mitypeNumber": "22622-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326605",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-80, CNT-85, CNT-85R",
+                    "modification": "CNT-85R",
+                    "manufactureNum": "914802",
+                    "manufactureYear": 2006,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "32490.06.2Р.00542168",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/542168",
+                    "mitypeNumber": "32490-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340844",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "DSO 8064A, DSO 8104A, MSO 8064A, MSO 8104A",
+                    "modification": "DSО 8104А",
+                    "manufactureNum": "MY45001128",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3463 от 30.12.2019г"
+                },
+                {
+                    "regNumber": "15963.02.СИ.00551061",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551061",
+                    "mitypeNumber": "15963-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390609",
+                    "mitypeTitle": "Анализаторы цифровых линий связи",
+                    "notation": "ANT-20, ANT-20E, ANT20SE, ANT20SE\/ANT-10Gig",
+                    "modification": "ANT-20",
+                    "manufactureNum": "BP-0019",
+                    "manufactureYear": 2002,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "Приказ №233 от 01.02.2022 \"Государственная поверочная схема для средств измерений девиации частоты\""
+                }
+            ]
+        },
+        "info": {
+            "structure": "поверен с модулем HST-3000 SIM E1\/DATACOM№RRFX5084522621",
+            "briefIndicator": false
+        }
+    }
+}

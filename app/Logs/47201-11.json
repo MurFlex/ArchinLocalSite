@@ -1,0 +1,70 @@
+{
+    "196286517": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47201-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358413",
+                "mitypeType": "Нет данных",
+                "mitypeTitle": "Система измерений количества сырого низконапорного газа расширения Южно-Балыкского ГПК (СИК СНГ)",
+                "manufactureNum": "110007061",
+                "modification": "УВС-15Х"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГОРВОДОУЧЕТ\"(ООО \"ГОРВОДОУЧЕТ\")",
+            "signCipher": "ДЮЧ",
+            "miOwner": "ФИЗЛИЦО",
+            "vrfDate": "18.10.2022",
+            "validDate": "17.10.2028",
+            "vriType": "2",
+            "docTitle": "МИ1592-2015",
+            "applicable": {
+                "certNum": "С-ДЮЧ\/18-10-2022\/196286517",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "60661.15.3Р.00169036",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/169036",
+                    "mitypeNumber": "60661-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373953",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "ВПУ - Энерго М",
+                    "modification": "ВПУ-Энерго М-00-00-0-03",
+                    "manufactureNum": "020.15.063",
+                    "manufactureYear": 2017,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Федерального агенства по техническому регулированию и метрологии от 07 февраля 2018 г №256"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "70581-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384823",
+                    "mitypeTitle": "Термометры цифровые",
+                    "number": "20С891"
+                },
+                {
+                    "mitypeNumber": "11519-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306185",
+                    "mitypeTitle": "Секундомеры механические",
+                    "number": "6917"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "54370"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "323015"
+        }
+    }
+}

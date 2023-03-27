@@ -1,0 +1,98 @@
+{
+    "195686633": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "1659-62",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315796",
+                "mitypeType": "Ч2-11 (ВСТ-6)",
+                "mitypeTitle": "Частотомеры средней точности резонансные",
+                "manufactureNum": "00040",
+                "modification": "Ч2-11"
+            }
+        },
+        "vriInfo": {
+            "organization": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОБЪЕДИНЕННАЯ АВИАСТРОИТЕЛЬНАЯ КОРПОРАЦИЯ\"(ПАО \"ОАК\")",
+            "signCipher": "АЛЗ",
+            "miOwner": "Филиал ПАО \"ОАК\" - НАЗ \"Сокол\"",
+            "vrfDate": "07.10.2022",
+            "validDate": "06.10.2023",
+            "vriType": "2",
+            "docTitle": "ПК2.726.001 ТУ",
+            "applicable": {
+                "certNum": "С-АЛЗ\/07-10-2022\/195686633",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31222.06.3Р.00667327",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/667327",
+                    "mitypeNumber": "31222-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339120",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FS 725",
+                    "modification": "Без модификации",
+                    "manufactureNum": "134138",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "гэт1-2022"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "163510695": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "1659-62",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315796",
+                "mitypeType": "Ч2-11 (ВСТ-6)",
+                "mitypeTitle": "Частотомеры средней точности резонансные",
+                "manufactureNum": "22311",
+                "modification": "Ч2-11"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УРАЛЬСКОЕ ПРОЕКТНО-КОНСТРУКТОРСКОЕ БЮРО \"ДЕТАЛЬ\"(АО \"УПКБ \"ДЕТАЛЬ\")",
+            "signCipher": "ВПД",
+            "miOwner": "АО \"УПКБ \"Деталь\"",
+            "vrfDate": "06.06.2022",
+            "validDate": "05.06.2023",
+            "vriType": "2",
+            "docTitle": "ТО, раздел 7",
+            "applicable": {
+                "certNum": "С-ВПД\/06-06-2022\/163476435",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39089.08.4Р.00137367",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/137367",
+                    "mitypeNumber": "39089-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/491339",
+                    "mitypeTitle": "Генераторы сигналов СВЧ",
+                    "notation": "R&S SMF100A",
+                    "modification": "R&S SMF100A",
+                    "manufactureNum": "104718",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для СИ измерения времени и частоты, утв. приказом №1621 от 31.07.18"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "поверено в режиме непрерывных колебаний",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-163510695\/protocol"
+        }
+    }
+}

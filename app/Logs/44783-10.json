@@ -1,0 +1,77 @@
+{
+    "149438913": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "44783-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355683",
+                "mitypeType": "Agro Classic",
+                "mitypeTitle": "Система температурного мониторинга силосов элеваторов",
+                "manufactureNum": "03-10638",
+                "modification": "Agro Classic"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТУЛЬСКОЙ И ОРЛОВСКОЙ ОБЛАСТЯХ\"(ФБУ \"ТУЛЬСКИЙ ЦСМ\")",
+            "signCipher": "ВЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "18.04.2022",
+            "validDate": "17.04.2026",
+            "vriType": "2",
+            "docTitle": "Инструкция\"Система температурного мониторинга силосов элеваторов Argo Classic\" утв. ГЦИ СИ ФГУП \"ВНИИМС\" 29.03.2010 г.",
+            "applicable": {
+                "certNum": "С-ВЮ\/18-04-2022\/149438913",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "19736.05.3Р.00220570",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/220570",
+                    "mitypeNumber": "19736-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321617",
+                    "mitypeTitle": "Измерители-регуляторы температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "МИТ 8.15",
+                    "manufactureNum": "052",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "3 разряда согласно приложения к Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "23040.14.1Р.00522528",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/522528",
+                    "mitypeNumber": "23040-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327302",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ",
+                    "modification": "ПТСВ-2-1",
+                    "manufactureNum": "249",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 Поверочная схема для контактных термометров  в диапазоне от 0,3 К до 273,16 К  (от минус 272,85 °С до 0,01 °С)"
+                },
+                {
+                    "regNumber": "23040.14.1Р.00522535",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/522535",
+                    "mitypeNumber": "23040-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327302",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ",
+                    "modification": "ПТСВ-2-1",
+                    "manufactureNum": "249",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 Поверочная схема для контактных термометров в диапазоне от  273,15 до 3273,15 К (от 0 °С до 3000 °С)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

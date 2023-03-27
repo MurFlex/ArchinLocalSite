@@ -1,0 +1,706 @@
+{
+    "201741434": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "26243-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332271",
+                "mitypeType": "УТХА, УТХК",
+                "mitypeTitle": "Термопреобразователи с унифицированным выходным сигналом",
+                "manufactureNum": "4239",
+                "modification": "УТХК-2088"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧЕПЕЦКИЙ МЕХАНИЧЕСКИЙ ЗАВОД\"(АО ЧМЗ)",
+            "signCipher": "АОГ",
+            "miOwner": "АО ЧМЗ",
+            "vrfDate": "10.11.2022",
+            "validDate": "09.11.2023",
+            "vriType": "2",
+            "docTitle": "МП ВНИИМС",
+            "applicable": {
+                "certNum": "С-АОГ\/10-11-2022\/201741434",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22532.02.3Р.00317756",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/317756",
+                    "mitypeNumber": "22532-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326440",
+                    "mitypeTitle": "Милливольтметры",
+                    "notation": "В2-99",
+                    "modification": "нет",
+                    "manufactureNum": "046",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №3457 от 30.12.2019"
+                },
+                {
+                    "regNumber": "20580.06.1Р.00328344",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/328344",
+                    "mitypeNumber": "20580-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323094",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-2000",
+                    "modification": "ИКСУ-2000",
+                    "manufactureNum": "23-2255",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 г."
+                },
+                {
+                    "regNumber": "19254.10.2Р.00445876",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/445876",
+                    "mitypeNumber": "19254-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320762",
+                    "mitypeTitle": "Преобразователи термоэлектрические эталонные",
+                    "notation": "ТППО",
+                    "modification": "ТППО",
+                    "manufactureNum": "804",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "19916.10.3Р.00457681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/457681",
+                    "mitypeNumber": "19916-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321944",
+                    "mitypeTitle": "Термометры сопротивления эталонные",
+                    "notation": "ЭТС-100",
+                    "modification": "ЭТС-100\/1",
+                    "manufactureNum": "17-85",
+                    "manufactureYear": 2017,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "19736.11.3Р.00513825",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/513825",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ 8.10М",
+                    "manufactureNum": "426",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ № 3456 Росстандарта, ГПС для средств измерений электрического сопротивления"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "21179-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/324150",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "91900787"
+                },
+                {
+                    "mitypeNumber": "9225-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387961",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "27377"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "2420"
+                },
+                {
+                    "mitypeNumber": "32357-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340664",
+                    "mitypeTitle": "Частотомеры цифровые",
+                    "number": "0961"
+                },
+                {
+                    "mitypeNumber": "30594-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338304",
+                    "mitypeTitle": "Барометры кварцевые",
+                    "number": "164"
+                },
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "279"
+                },
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "749"
+                },
+                {
+                    "mitypeNumber": "11326-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305921",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "number": "04272"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Средства поверки: Печь малоинерционная трубчатая, МТП-2М, № 027, градиент температуры 0,8 °С\/см Протокол поверки № 465-05-22"
+        }
+    },
+    "201741433": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "26243-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332271",
+                "mitypeType": "УТХА, УТХК",
+                "mitypeTitle": "Термопреобразователи с унифицированным выходным сигналом",
+                "manufactureNum": "4237",
+                "modification": "УТХК-2088"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧЕПЕЦКИЙ МЕХАНИЧЕСКИЙ ЗАВОД\"(АО ЧМЗ)",
+            "signCipher": "АОГ",
+            "miOwner": "АО ЧМЗ",
+            "vrfDate": "10.11.2022",
+            "validDate": "09.11.2023",
+            "vriType": "2",
+            "docTitle": "МП ВНИИМС",
+            "applicable": {
+                "certNum": "С-АОГ\/10-11-2022\/201741433",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22532.02.3Р.00317756",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/317756",
+                    "mitypeNumber": "22532-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326440",
+                    "mitypeTitle": "Милливольтметры",
+                    "notation": "В2-99",
+                    "modification": "нет",
+                    "manufactureNum": "046",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №3457 от 30.12.2019"
+                },
+                {
+                    "regNumber": "20580.06.1Р.00328344",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/328344",
+                    "mitypeNumber": "20580-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323094",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-2000",
+                    "modification": "ИКСУ-2000",
+                    "manufactureNum": "23-2255",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 г."
+                },
+                {
+                    "regNumber": "19254.10.2Р.00445876",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/445876",
+                    "mitypeNumber": "19254-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320762",
+                    "mitypeTitle": "Преобразователи термоэлектрические эталонные",
+                    "notation": "ТППО",
+                    "modification": "ТППО",
+                    "manufactureNum": "804",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "19916.10.3Р.00457681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/457681",
+                    "mitypeNumber": "19916-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321944",
+                    "mitypeTitle": "Термометры сопротивления эталонные",
+                    "notation": "ЭТС-100",
+                    "modification": "ЭТС-100\/1",
+                    "manufactureNum": "17-85",
+                    "manufactureYear": 2017,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "19736.11.3Р.00513825",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/513825",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ 8.10М",
+                    "manufactureNum": "426",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ № 3456 Росстандарта, ГПС для средств измерений электрического сопротивления"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "21179-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/324150",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "91900787"
+                },
+                {
+                    "mitypeNumber": "9225-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387961",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "27377"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "2420"
+                },
+                {
+                    "mitypeNumber": "32357-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340664",
+                    "mitypeTitle": "Частотомеры цифровые",
+                    "number": "0961"
+                },
+                {
+                    "mitypeNumber": "30594-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338304",
+                    "mitypeTitle": "Барометры кварцевые",
+                    "number": "164"
+                },
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "279"
+                },
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "749"
+                },
+                {
+                    "mitypeNumber": "11326-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305921",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "number": "04272"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Средства поверки: Печь малоинерционная трубчатая, МТП-2М, № 027, градиент температуры 0,8 °С\/см Протокол поверки № 464-05-22"
+        }
+    },
+    "156446475": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "26243-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332271",
+                "mitypeType": "УТХА, УТХК",
+                "mitypeTitle": "Термопреобразователи с унифицированным выходным сигналом",
+                "manufactureNum": "4237",
+                "modification": "УТХК-2088"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧЕПЕЦКИЙ МЕХАНИЧЕСКИЙ ЗАВОД\"(АО ЧМЗ)",
+            "signCipher": "АОГ",
+            "miOwner": "АО ЧМЗ",
+            "vrfDate": "27.04.2022",
+            "validDate": "26.04.2023",
+            "vriType": "2",
+            "docTitle": "МП ВНИИМС",
+            "applicable": {
+                "certNum": "С-АОГ\/27-04-2022\/156446475",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "26044.07.3Р.20936",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/20936",
+                    "mitypeNumber": "26044-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331987",
+                    "mitypeTitle": "Калибраторы многофункциональные портативные",
+                    "notation": "Метран 510-ПКМ",
+                    "modification": "калибратор иногофункциональный портативный Метран 510-ПКМ-А",
+                    "manufactureNum": "1102",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "32777.06.2Р.00269756",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/269756",
+                    "mitypeNumber": "32777-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341242",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ",
+                    "modification": "ПТСВ, модификация и вид исполнения ПТСВ-1-2",
+                    "manufactureNum": "1618",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "19736.11.3Р.00513825",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/513825",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ 8.10М",
+                    "manufactureNum": "426",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ № 3456 Росстандарта, ГПС для средств измерений электрического сопротивления"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "21179-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/324150",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "91900787"
+                },
+                {
+                    "mitypeNumber": "20188-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322453",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "EK834223"
+                },
+                {
+                    "mitypeNumber": "13561-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/309282",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "Е748"
+                },
+                {
+                    "mitypeNumber": "6332-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376916",
+                    "mitypeTitle": "Магазины сопротивления",
+                    "number": "13160"
+                },
+                {
+                    "mitypeNumber": "9225-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387961",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "27377"
+                },
+                {
+                    "mitypeNumber": "32357-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340664",
+                    "mitypeTitle": "Частотомеры цифровые",
+                    "number": "0961"
+                },
+                {
+                    "mitypeNumber": "30594-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389954",
+                    "mitypeTitle": "Барометры кварцевые",
+                    "number": "164"
+                },
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "279"
+                },
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "749"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Протокол поверки № 124-05-22"
+        }
+    },
+    "148711973": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "26243-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332271",
+                "mitypeType": "УТХА, УТХК",
+                "mitypeTitle": "Термопреобразователи с унифицированным выходным сигналом",
+                "manufactureNum": "4239",
+                "modification": "УТХК-2088-01"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧЕПЕЦКИЙ МЕХАНИЧЕСКИЙ ЗАВОД\"(АО ЧМЗ)",
+            "signCipher": "АОГ",
+            "miOwner": "АО ЧМЗ",
+            "vrfDate": "08.04.2022",
+            "validDate": "07.04.2023",
+            "vriType": "2",
+            "docTitle": "МП ВНИИМС",
+            "applicable": {
+                "certNum": "С-АОГ\/08-04-2022\/148711973",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "19916.10.3Р.00457681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/457681",
+                    "mitypeNumber": "19916-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321944",
+                    "mitypeTitle": "Термометры сопротивления эталонные",
+                    "notation": "ЭТС-100",
+                    "modification": "ЭТС-100\/1",
+                    "manufactureNum": "17-85",
+                    "manufactureYear": 2017,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "19736.11.3Р.00513825",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/513825",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ 8.10М",
+                    "manufactureNum": "426",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ № 3456 Росстандарта, ГПС для средств измерений электрического сопротивления"
+                },
+                {
+                    "regNumber": "26044.07.2Р.00556873",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/556873",
+                    "mitypeNumber": "26044-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331987",
+                    "mitypeTitle": "Калибраторы многофункциональные портативные",
+                    "notation": "Метран 510-ПКМ",
+                    "modification": "Метран 510-ПКМ",
+                    "manufactureNum": "1218",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ  Росстандарта  от  01 октября  2018 г. №2091"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20188-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322453",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "ЕК834223"
+                },
+                {
+                    "mitypeNumber": "13561-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/309282",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "Е748"
+                },
+                {
+                    "mitypeNumber": "6332-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376916",
+                    "mitypeTitle": "Магазины сопротивления",
+                    "number": "13160"
+                },
+                {
+                    "mitypeNumber": "4195-74",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/352364",
+                    "mitypeTitle": "Вольтметры",
+                    "number": "29017"
+                },
+                {
+                    "mitypeNumber": "9225-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387961",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "27377"
+                },
+                {
+                    "mitypeNumber": "32357-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340664",
+                    "mitypeTitle": "Частотомеры цифровые",
+                    "number": "0961"
+                },
+                {
+                    "mitypeNumber": "30594-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389954",
+                    "mitypeTitle": "Барометры кварцевые",
+                    "number": "164"
+                },
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "279"
+                },
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "749"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Печь малоинерционная трубчатая МТП-2М, № 027, градиент температуры 0,8 ℃\/см Протокол № 069-05-22"
+        }
+    },
+    "143945051": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "26243-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332271",
+                "mitypeType": "УТХА, УТХК",
+                "mitypeTitle": "Термопреобразователи с унифицированным выходным сигналом",
+                "manufactureNum": "4236",
+                "modification": "УТХК-2088-01"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЧЕПЕЦКИЙ МЕХАНИЧЕСКИЙ ЗАВОД\"(АО ЧМЗ)",
+            "signCipher": "АОГ",
+            "miOwner": "АО ЧМЗ",
+            "vrfDate": "28.03.2022",
+            "validDate": "27.03.2023",
+            "vriType": "2",
+            "docTitle": "МП ВНИИМС",
+            "applicable": {
+                "certNum": "С-АОГ\/28-03-2022\/143945051",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "26044.07.1Р.20940",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/20940",
+                    "mitypeNumber": "26044-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331987",
+                    "mitypeTitle": "Калибраторы многофункциональные портативные",
+                    "notation": "Метран 510-ПКМ",
+                    "modification": "калибратор многофункциональный портативный Метран 510-ПКМ-А",
+                    "manufactureNum": "1102",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 01.10.2018 № 2091"
+                },
+                {
+                    "regNumber": "19916.10.3Р.00457681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/457681",
+                    "mitypeNumber": "19916-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321944",
+                    "mitypeTitle": "Термометры сопротивления эталонные",
+                    "notation": "ЭТС-100",
+                    "modification": "ЭТС-100\/1",
+                    "manufactureNum": "17-85",
+                    "manufactureYear": 2017,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "19736.11.3Р.00513825",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/513825",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ 8.10М",
+                    "manufactureNum": "426",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ № 3456 Росстандарта, ГПС для средств измерений электрического сопротивления"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20188-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322453",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "ЕК834223"
+                },
+                {
+                    "mitypeNumber": "13561-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/309282",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "Е748"
+                },
+                {
+                    "mitypeNumber": "6332-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376916",
+                    "mitypeTitle": "Магазины сопротивления",
+                    "number": "13160"
+                },
+                {
+                    "mitypeNumber": "4195-74",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/352364",
+                    "mitypeTitle": "Вольтметры",
+                    "number": "29017"
+                },
+                {
+                    "mitypeNumber": "9225-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387961",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "27377"
+                },
+                {
+                    "mitypeNumber": "32357-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340664",
+                    "mitypeTitle": "Частотомеры цифровые",
+                    "number": "0961"
+                },
+                {
+                    "mitypeNumber": "30594-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389954",
+                    "mitypeTitle": "Барометры кварцевые",
+                    "number": "164"
+                },
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "279"
+                },
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "749"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Печь малоинерционная трубчатая МТП-2М, № 027, градиент температуры 0,8 ℃\/см Протокол № 057-05-22"
+        }
+    }
+}

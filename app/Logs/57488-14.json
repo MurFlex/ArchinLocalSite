@@ -1,0 +1,46 @@
+{
+    "163431890": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "57488-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370360",
+                "mitypeType": "Pulsar",
+                "mitypeTitle": "ЯМР-спектрометры",
+                "manufactureNum": "PUL-C-5011",
+                "modification": "Pulsar"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "06.06.2022",
+            "validDate": "05.06.2023",
+            "vriType": "2",
+            "docTitle": "МП 57488-14",
+            "applicable": {
+                "certNum": "С-МА\/06-06-2022\/163431890",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "reagent": [
+                {
+                    "number": "РТР.24",
+                    "type": "Раствор",
+                    "title": "Стандартный образец для ЯМР. Раствор тетраметилсилана в хлороформе"
+                },
+                {
+                    "number": "РТР.25",
+                    "type": "Раствор",
+                    "title": "Стандартный образец для ЯМР. Раствор этилбензола в дейтерированном хлороформе"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "ec3e387b-a239-4d42-93c7-5fd3c93a5202"
+        }
+    }
+}

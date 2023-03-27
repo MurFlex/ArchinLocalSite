@@ -1,0 +1,49 @@
+{
+    "204094750": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32872-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341379",
+                "mitypeType": "Calvet мод. C-80, BT2.15, HT1000 (с 2012 г. только мод. C-80, BT2.15)",
+                "mitypeTitle": "Калориметры дифференциальные",
+                "manufactureNum": "LCT23254-01",
+                "modification": "Calvet, модели BT2.15"
+            }
+        },
+        "vriInfo": {
+            "organization": "УРАЛЬСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ(УРАЛЬСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ)",
+            "signCipher": "С",
+            "miOwner": "Общество с ограниченной ответственностью «Тюменский нефтяной научный центр», ИНН 7202157173",
+            "vrfDate": "23.11.2022",
+            "validDate": "22.11.2024",
+            "vriType": "2",
+            "docTitle": "МП 2413-0002-2005 \"Калориметры дифференциальные типа Calvet моделей C-80, BT2.15 и HT1000. Методика поверки\", ГЦИ СИ \"ВНИИМ им. ",
+            "applicable": {
+                "certNum": "С-С\/23-11-2022\/203892330",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 149-86П",
+                    "title": "СО ТЕРМОДИНАМИЧЕСКИХ СВОЙСТВ (СОТС-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/394488",
+                    "manufactureYear": 1986
+                },
+                {
+                    "number": "ГСО 2312-82\/2316-82",
+                    "title": "СО ТЕМПЕРАТУР И ТЕПЛОТ ФАЗОВЫХ ПЕРЕХОДОВ (комплект СОТСФ)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/393963",
+                    "manufactureYear": 2021
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "за исключением температурного интервала измерений от минус 196 °С   до минус 183 °С",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-204094750\/protocol"
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "156652894": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "66786-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380675",
+                "mitypeType": "UL01-SH0010-S3",
+                "mitypeTitle": "Установка серво-гидравлическая для испытаний образцов грунта",
+                "manufactureNum": "4130-002",
+                "modification": "UL01-SH0010-S3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПЕНЗЕНСКОЙ ОБЛАСТИ\"(ФБУ \"ПЕНЗЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВМ",
+            "miOwner": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ \"МОСКОВСКИЙ ГОРОДСКОЙ ТРЕСТ ГЕОЛОГО-ГЕОДЕЗИЧЕСКИХ И КАРТОГРАФИЧЕСКИХ РАБОТ\"",
+            "vrfDate": "13.05.2022",
+            "validDate": "12.05.2023",
+            "vriType": "1",
+            "docTitle": "МП 66786-17",
+            "applicable": {
+                "certNum": "С-ВМ\/13-05-2022\/156652894",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "62321.15.4Р.00223065",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/223065",
+                    "mitypeNumber": "62321-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375813",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные",
+                    "notation": "Нет данных",
+                    "modification": "нет модификации",
+                    "manufactureNum": "191119",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 29.12.2018 №2840"
+                },
+                {
+                    "regNumber": "49488.12.3Р.00357170",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/357170",
+                    "mitypeNumber": "49488-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361149",
+                    "mitypeTitle": "Калибраторы давления",
+                    "notation": "PM серии 40.2, 60, 350, 700, 1000",
+                    "modification": "Калибратор давления РМ серии 40.2",
+                    "manufactureNum": "2421KD0",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ Росстандарта №1339 от 29.08.2018"
+                },
+                {
+                    "regNumber": "49465.12.2Р.00528188",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/528188",
+                    "mitypeNumber": "49465-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361123",
+                    "mitypeTitle": "Динамометры электронные переносные",
+                    "notation": "АЦД",
+                    "modification": "АЦДС-10\/1И-0,5",
+                    "manufactureNum": "2786",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Приказ от 22 октября 2019 г. № 2498»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "14805-00",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/312083",
+                    "mitypeTitle": "Весы электронные лабораторные",
+                    "number": "3030769"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Датчик давления APC 1012 Ausgang-1 № 19220031; Датчик давления APC 1021 Ausgang-2 № 19220031;  ,Датчик давления PP-4LC\/10bar № 002; Датчик перемещения RDP № 117497;  ,Датчик силы STALC3-2kN-003-APS-01 № 51523; Датчик деференциальный Volume 100 ml № C 9298;",
+            "briefIndicator": false
+        }
+    }
+}

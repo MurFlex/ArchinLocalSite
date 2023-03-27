@@ -1,0 +1,77 @@
+{
+    "154511695": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "43342-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354014",
+                "mitypeType": "ИВО-1",
+                "mitypeTitle": "Измерители временных отклонений",
+                "manufactureNum": "003\/2011.",
+                "modification": "ИВО-1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ХАБАРОВСКОМ КРАЕ И ЕВРЕЙСКОЙ АВТОНОМНОЙ ОБЛАСТИ\"(ФБУ \"ХАБАРОВСКИЙ ЦСМ\")",
+            "signCipher": "АЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "12.05.2022",
+            "validDate": "11.05.2023",
+            "vriType": "2",
+            "docTitle": "ИФПМ.403532.007 МП",
+            "applicable": {
+                "certNum": "С-АЮ\/12-05-2022\/154511695",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "23671.02.2Р.00108569",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/108569",
+                    "mitypeNumber": "23671-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328361",
+                    "mitypeTitle": "Стандарты частоты и времени водородные",
+                    "notation": "Ч1-76А",
+                    "modification": "-",
+                    "manufactureNum": "26135",
+                    "manufactureYear": 2004,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "51871.12.3Р.00391121",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/391121",
+                    "mitypeNumber": "51871-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363962",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "Ч1-2010",
+                    "modification": "Ч1-2010",
+                    "manufactureNum": "0030",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ № 1621 от 31 июля 2018 г."
+                },
+                {
+                    "regNumber": "57319.14.3Р.00467941",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/467941",
+                    "mitypeNumber": "57319-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370160",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "АКИП-5102, АКИП-5102\/1",
+                    "modification": "АКИП-5102",
+                    "manufactureNum": "TW00012912",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ № 1621 от 31 июля 2018 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

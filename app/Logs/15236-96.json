@@ -1,0 +1,57 @@
+{
+    "181185087": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15236-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313040",
+                "mitypeType": "СИКОН С1",
+                "mitypeTitle": "Контроллеры сетевые индустриальные",
+                "manufactureNum": "329",
+                "modification": "СИКОН С1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЯЗАНСКОЙ ОБЛАСТИ\"(ФБУ \"РЯЗАНСКИЙ ЦСМ\")",
+            "signCipher": "ВТ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "22.08.2022",
+            "validDate": "21.08.2026",
+            "vriType": "2",
+            "docTitle": "ВЛСТ 166. 00. 000 И1",
+            "applicable": {
+                "certNum": "С-ВТ\/22-08-2022\/181185087",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "9084.90.4Р.94173",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/94173",
+                    "mitypeNumber": "9084-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387757",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-63\/1",
+                    "modification": "Ч3-63\/1",
+                    "manufactureNum": "9106157",
+                    "manufactureYear": 1991,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27008-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333445",
+                    "mitypeTitle": "Радиочасы",
+                    "number": "09001"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

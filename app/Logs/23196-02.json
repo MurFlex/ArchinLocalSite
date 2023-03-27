@@ -1,0 +1,99 @@
+{
+    "196828961": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "23196.02.2Р.00419700",
+                "mitypeNumber": "23196-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327560",
+                "mitypeTitle": "Установка газодинамическая",
+                "mitypeType": "ГДУ-35",
+                "modification": "Нет модификации",
+                "manufactureNum": "0381",
+                "manufactureYear": 2002,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта от 31.12.2020 г. № 2315"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Акционерное общество \"Научно-производственная фирма \"СЕРВЭК\"",
+            "vrfDate": "18.10.2022",
+            "validDate": "17.10.2023",
+            "vriType": "2",
+            "docTitle": "Установка газодинамическая ГДУ-35 (зав. № 0381). Методика поверки",
+            "applicable": {
+                "certNum": "С-В\/18-10-2022\/196828961",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт154-2019",
+                    "title": "ГПЭ единиц молярной доли, массовой доли и массовой концентрации компонентов в газовых и газоконденсатных средах",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1365155"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "11567.88.2Р.14607",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/14607",
+                    "mitypeNumber": "11567-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306249",
+                    "mitypeTitle": "Термометры сопротивления платиновые низкотемпературные образцовые",
+                    "notation": "ТСПН-5В, ТСПН-4В, ТСПН-4М",
+                    "modification": "ТСПН-4М",
+                    "manufactureNum": "132",
+                    "manufactureYear": 1992,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "51713.18.2Р.00692337",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/692337",
+                    "mitypeNumber": "51713-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/530438",
+                    "mitypeTitle": "Расходомеры-счетчики газа",
+                    "notation": "РГТ",
+                    "modification": "РГТ-5",
+                    "manufactureNum": "710",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений объемного и массового расходов газа, утвержденная приказом Росстандарта о"
+                },
+                {
+                    "regNumber": "51713.18.2Р.00692338",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/692338",
+                    "mitypeNumber": "51713-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/530438",
+                    "mitypeTitle": "Расходомеры-счетчики газа",
+                    "notation": "РГТ",
+                    "modification": "РГТ-1",
+                    "manufactureNum": "709",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений объемного и массового расходов газа, утвержденная приказом Росстандарта о"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32014-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340205",
+                    "mitypeTitle": "Измерители параметров микроклимата",
+                    "number": "337618"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-196828961\/protocol",
+            "additional_info": "#midf5954174-4255-4b9b-b07d-ef5aaf168e04"
+        }
+    }
+}

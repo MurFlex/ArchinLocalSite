@@ -1,0 +1,106 @@
+{
+    "205085344": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "67315.17.РЭ.00730298",
+                "mitypeNumber": "67315-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381250",
+                "mitypeTitle": "Стенды одноосные автоматизированные",
+                "mitypeType": "СОА",
+                "modification": "Нет модификации",
+                "manufactureNum": "2001",
+                "manufactureYear": 2015,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 203-7-2021, ВДМА.663500.170 МП, ВДМА.663500.152 МП"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "АО \"Фирма ТВЕМА\"",
+            "vrfDate": "01.12.2022",
+            "validDate": "30.11.2024",
+            "vriType": "2",
+            "docTitle": "документом МП 253-009-2017 «Стенды одноосные автоматизированные СОА. Методика поверки»",
+            "applicable": {
+                "certNum": "С-В\/01-12-2022\/205085344",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт108-2019",
+                    "title": "ГПСЭ единицы угловой скорости",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1382718"
+                }
+            ],
+            "uve": [
+                {
+                    "number": "2.1.ZZВ.0272.2018",
+                    "title": "Государственный вторичный эталон единицы частоты вращения в диапазоне значений от 0,1 до 600000 об\/мин",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1041425"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-205085344\/protocol",
+            "additional_info": "#mid9f4c23e4-3bc3-4334-9139-3e119936d82e"
+        }
+    },
+    "205085345": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "67315.17.2Р.00730299",
+                "mitypeNumber": "67315-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381250",
+                "mitypeTitle": "Стенды одноосные автоматизированные",
+                "mitypeType": "СОА",
+                "modification": "Нет модификации",
+                "manufactureNum": "2001",
+                "manufactureYear": 2015,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Государственная поверочная схема для средств измерений угловой скорости и частоты вращения"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "АО \"Фирма ТВЕМА\"",
+            "vrfDate": "01.12.2022",
+            "validDate": "30.11.2024",
+            "vriType": "2",
+            "docTitle": "документом МП 253-009-2017 «Стенды одноосные автоматизированные СОА. Методика поверки»",
+            "applicable": {
+                "certNum": "С-В\/01-12-2022\/205085345",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт108-2019",
+                    "title": "ГПСЭ единицы угловой скорости",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1382718"
+                }
+            ],
+            "uve": [
+                {
+                    "number": "2.1.ZZВ.0272.2018",
+                    "title": "Государственный вторичный эталон единицы частоты вращения в диапазоне значений от 0,1 до 600000 об\/мин",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1041425"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-205085345\/protocol",
+            "additional_info": "#mid2892623a-e2ff-4017-a814-d43b1edc3744"
+        }
+    }
+}

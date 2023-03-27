@@ -1,0 +1,95 @@
+{
+    "209970403": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "53154-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365441",
+                "mitypeType": "Ceveron-alpha и Ceveron-alpha TGA",
+                "mitypeTitle": "Анализаторы коагулологические автоматические",
+                "manufactureNum": "00010122",
+                "modification": "модель Ceveron-alpha"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ «ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КЕМЕРОВСКОЙ ОБЛАСТИ - КУЗБАССЕ»(ФБУ «КУЗБАССКИЙ ЦСМ»)",
+            "signCipher": "БЧ",
+            "miOwner": "юридическое лицо",
+            "vrfDate": "21.12.2022",
+            "validDate": "20.12.2023",
+            "vriType": "2",
+            "docTitle": "МП 103.Д4-12. Анализаторы коагулологические автоматические моделей Ceveron-alpha и Ceveron-alpha TGA. Методика поверки.",
+            "applicable": {
+                "certNum": "С-БЧ\/21-12-2022\/209970403",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52362.13.1Р.00134749",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/134749",
+                    "mitypeNumber": "52362-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364544",
+                    "mitypeTitle": "Комплекты мер оптической плотности",
+                    "notation": "КМОП-Н",
+                    "modification": "КМОП-Н, Исполнение №1",
+                    "manufactureNum": "736",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 28.09.2018 №2085"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "207974540": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "53154-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365441",
+                "mitypeType": "Ceveron-alpha и Ceveron-alpha TGA",
+                "mitypeTitle": "Анализаторы коагулологические автоматические",
+                "manufactureNum": "00010197",
+                "modification": "Ceveron-alpha TGA"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ИМ. Б.А. ДУБОВИКОВА В САРАТОВСКОЙ ОБЛАСТИ\"(ФБУ \"САРАТОВСКИЙ ЦСМ ИМ. Б.А. ДУБОВИКОВА\")",
+            "signCipher": "ВУ",
+            "miOwner": "ФГБОУ ВО САРАТОВСКИЙ ГМУ ИМ.В.И.РАЗУМОВСКОГО МИНЗДРАВА РОССИИ САРНИИТО",
+            "vrfDate": "12.12.2022",
+            "validDate": "11.12.2023",
+            "vriType": "2",
+            "docTitle": "МП 103.Д4-12",
+            "applicable": {
+                "certNum": "С-ВУ\/12-12-2022\/207974540",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "11519-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306185",
+                    "mitypeTitle": "Секундомеры механические",
+                    "number": "2273"
+                }
+            ],
+            "reagent": [
+                {
+                    "number": "ДРГ.41",
+                    "type": "Другое",
+                    "title": "Контрольный материал «Тромбо–тест»"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

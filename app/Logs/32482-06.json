@@ -1,0 +1,86 @@
+{
+    "196915266": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32482-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340834",
+                "mitypeType": "SAT HY 6900, 6800, 6700, S 160",
+                "mitypeTitle": "Преобразователи изображения пирометрические",
+                "manufactureNum": "68010427",
+                "manufactureYear": 2011,
+                "modification": "SAT-HY 6800"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "25.10.2022",
+            "validDate": "24.10.2023",
+            "vriType": "2",
+            "docTitle": "Р 50.2.012-2001 \"Приборы тепловизионные. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-СЕ\/25-10-2022\/196915266",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "40221.08.2Р.00157877",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/157877",
+                    "mitypeNumber": "40221-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350339",
+                    "mitypeTitle": "Калибраторы температуры инфракрасные",
+                    "notation": "Fluke 418 мод. Fluke 4180, Fluke 4181",
+                    "modification": "Fluke 4181",
+                    "manufactureNum": "С04180",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "8.558-2009"
+                },
+                {
+                    "regNumber": "61461.15.1Р.00652615",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/652615",
+                    "mitypeNumber": "61461-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374871",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "АЧТ -50\/120 мод. АЧТ 60\/-50\/50, АЧТ 70\/-40\/80, АЧТ 80\/-35\/80",
+                    "modification": "мод. АЧТ 70\/-40\/80",
+                    "manufactureNum": "2002",
+                    "manufactureYear": 2002,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\" (часть 1)"
+                },
+                {
+                    "regNumber": "22249.15.1Р.00652618",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/652618",
+                    "mitypeNumber": "22249-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325980",
+                    "mitypeTitle": "Излучатели",
+                    "notation": "ОИ АЧТ 50\/1500",
+                    "modification": "мод. ОИ АЧТ \"Электра+\"",
+                    "manufactureNum": "2008",
+                    "manufactureYear": 2008,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "059"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

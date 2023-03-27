@@ -1,0 +1,57 @@
+{
+    "212274575": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "21902-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325404",
+                "mitypeType": "Я6-125",
+                "mitypeTitle": "Эквиваленты сети",
+                "manufactureNum": "003",
+                "modification": "Без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "28.12.2022",
+            "validDate": "27.12.2023",
+            "vriType": "2",
+            "docTitle": "ИУШЯ.411158.004 РЭ Эквивалент сети Я6-125. Руководство по эксплуатации. Раздел 6 \"Поверка эквивалента\"",
+            "applicable": {
+                "certNum": "С-БН\/28-12-2022\/212274575",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "40374.09.2Р.00528793",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/528793",
+                    "mitypeNumber": "40374-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350501",
+                    "mitypeTitle": "Вольтметры универсальные высокочастотные",
+                    "notation": "В7-83",
+                    "modification": "Без модификации",
+                    "manufactureNum": "289010",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 03.09.2021 года № 1942"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "39230-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349152",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "107804"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

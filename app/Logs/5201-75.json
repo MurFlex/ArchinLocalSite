@@ -1,0 +1,89 @@
+{
+    "206658912": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "5201-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364131",
+                "mitypeType": "КРВП-3АБ",
+                "mitypeTitle": "Радиометры",
+                "manufactureNum": "028",
+                "manufactureYear": 1978,
+                "modification": "КРВП-3АБ"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "АО \"ОКБМ Африкантов\"",
+            "vrfDate": "05.12.2022",
+            "validDate": "04.12.2023",
+            "vriType": "2",
+            "docTitle": "Техническое описание и инструкция по эксплуатации ЖШ1.287.240ТО, раздел 3 \"Поверка радиометра КРВП-3АБ\"",
+            "applicable": {
+                "certNum": "С-БН\/05-12-2022\/206658912",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "61305.15.1Р.00203956",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/203956",
+                    "mitypeNumber": "61305-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374696",
+                    "mitypeTitle": "Источники бета-излучения закрытые с радионуклидами стронций-90+иттрий-90",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "13114, 13116, 13123, 13124, 13138, 13139, 13142, 13145, 13146, 13147",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС, утвержденная приказом Росстандарта от 29 декабря 2018 г. №2841"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок детектирования бета-излучения № 028",
+            "briefIndicator": false
+        }
+    },
+    "148041671": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "5201-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364131",
+                "mitypeType": "КРВП-3АБ",
+                "mitypeTitle": "Радиометры",
+                "manufactureNum": "017",
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ХАБАРОВСКОМ КРАЕ И ЕВРЕЙСКОЙ АВТОНОМНОЙ ОБЛАСТИ\"(ФБУ \"ХАБАРОВСКИЙ ЦСМ\")",
+            "signCipher": "АЮ",
+            "miOwner": "АО \"ДВЗ \"ЗВЕЗДА\"",
+            "vrfDate": "12.04.2022",
+            "validDate": "11.04.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.041-84",
+            "applicable": {
+                "certNum": "С-АЮ\/12-04-2022\/148041671",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZАЮ.0094.2014",
+                    "title": "ГЭЕ произведения поглощённой дозы в воздухе на площадь поперечного сечения пучка рентгеновского излучения на выходе рентгеновского аппарата 2 разряда в диапазоне значений 0,01 сГр·см[^2]…1000,0 сГр·см[^2].",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/452581"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

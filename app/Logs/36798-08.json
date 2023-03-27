@@ -1,0 +1,65 @@
+{
+    "190382544": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36798-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346213",
+                "mitypeType": "N8975A",
+                "mitypeTitle": "Измеритель коэффициента шума",
+                "manufactureNum": "MY45272364",
+                "modification": "N8975A"
+            }
+        },
+        "vriInfo": {
+            "organization": "Акционерное общество \"Научно-производственное предприятие \"Салют-27\"(АО \"НПП \"Салют-27\")",
+            "signCipher": "БУУ",
+            "miOwner": "АО \"НПП \"Салют-27\"",
+            "vrfDate": "27.09.2022",
+            "validDate": "26.09.2023",
+            "vriType": "2",
+            "docTitle": "МП; ИЭ",
+            "applicable": {
+                "certNum": "С-БУУ\/27-09-2022\/190382544",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "10040.85.2Р.00249709",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/249709",
+                    "mitypeNumber": "10040-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304139",
+                    "mitypeTitle": "Аттенюаторы программируемые",
+                    "notation": "BM-577A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "510629",
+                    "manufactureYear": 1986,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №3383 от 30.12.2019"
+                },
+                {
+                    "regNumber": "6559.78.3Р.00260970",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260970",
+                    "mitypeNumber": "6559-78",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379388",
+                    "mitypeTitle": "Стандарты частоты и времени",
+                    "notation": "Ч1-69",
+                    "modification": "Ч1-69",
+                    "manufactureNum": "408138",
+                    "manufactureYear": 1969,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Соответствует метрологическим требованиям в диапазоне частот F=10,0 МГц-19,0 ГГц",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-190382544\/protocol"
+        }
+    }
+}

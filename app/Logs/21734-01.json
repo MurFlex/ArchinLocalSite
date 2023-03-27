@@ -1,0 +1,232 @@
+{
+    "214858468": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "21734-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325100",
+                "mitypeType": "RAMON-01M",
+                "mitypeTitle": "Мониторы радоновые",
+                "manufactureNum": "07-06",
+                "manufactureYear": 2006,
+                "modification": "RAMON-01M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Акционерное общество \"УРАЛЭЛЕКТРОМЕДЬ\"",
+            "vrfDate": "12.01.2023",
+            "validDate": "11.01.2024",
+            "vriType": "2",
+            "docTitle": "разделом \"Методика поверки\" паспорта АА 1.000.000. ПС, согласованным ГП \"ВНИИФТРИ\" 19.07.01г.",
+            "applicable": {
+                "certNum": "С-СЕ\/12-01-2023\/214858468",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСЕ.1535.2022",
+                    "title": "Государственный рабочий эталон 2 разряда единиц активности радионуклидов и потока альфа-, бета-частиц радионуклидных источников плутоний-239, стронций-90+иттрий-90, уран-238 в диапазоне значений альфа (Pu-239) от 3,88 до 1,76•10[^7]Бк и от 1,75[^]до 8,36•10[^6]с[^-1]альфа (U-238) от 4,46 до 7,11•10[^2]Бк и от 2,01[^]до 3,37•10[^2]с[^-1], бета (Sr-90+Y-90) от 19,9 до 1,36•10[^8]Бк и от 7,48[^]до 5,11•10[^7]с[^-1]",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1398350"
+                },
+                {
+                    "number": "3.1.ZСЕ.1536.2022",
+                    "title": "Государственный рабочий эталон единицы эквивалентной равновесной объемной активности радона-222 в воздухе в диапазоне значений от 70 до 4,0·10[^5] Бк\/м[^3]",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1398881"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "114"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "641"
+                }
+            ]
+        },
+        "info": {
+            "structure": "контрольный источник  07",
+            "briefIndicator": false,
+            "additional_info": "Чувствительность радиометра, Бк⁻¹·с⁻¹: 0,300 ± 0,020. Показания от контрольного источника № 07, имп\/с: 1,28 ± 0,40."
+        }
+    },
+    "208135255": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "21734.01.РЭ.00488777",
+                "mitypeNumber": "21734-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325100",
+                "mitypeTitle": "Мониторы радоновые",
+                "mitypeType": "RAMON-01M",
+                "modification": "Нет модификации",
+                "manufactureNum": "11-06",
+                "manufactureYear": 2006,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "Государственная поверочная схема для средств измерений объемной активности радиоактивных аэрозолей, приказ Росстандарта № 2826 о"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "23.11.2022",
+            "validDate": "22.11.2023",
+            "vriType": "2",
+            "docTitle": "Раздел \"Методика поверки\" паспорта AA 1.000.000 ПС.",
+            "applicable": {
+                "certNum": "С-Т\/23-11-2022\/208135255",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт39-2021",
+                    "title": "ГПЭ единиц объёмной активности радиоактивных аэрозолей, радона, торона и плотности потока радона",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1393292"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-208135255\/protocol",
+            "additional_info": "#midda66c6ce-e4cd-4a35-af9d-c74e76b62523"
+        }
+    },
+    "140699872": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "21734-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325100",
+                "mitypeType": "RAMON-01M",
+                "mitypeTitle": "Мониторы радоновые",
+                "manufactureNum": "155",
+                "manufactureYear": 2001,
+                "modification": "RAMON-01M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "17.03.2022",
+            "validDate": "16.03.2023",
+            "vriType": "2",
+            "docTitle": "разделом \"Методика поверки\" паспорта АА 1.000.000. ПС, согласованным ГП \"ВНИИФТРИ\" 19.07.01г.",
+            "applicable": {
+                "certNum": "С-СЕ\/17-03-2022\/140699872",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZCE.0497.2013",
+                    "title": "ГЭЕ активности и внешнего альфа-, бета- излучений радионуклидов плутоний-239 и стронций-90+иттрий-90 2 разряда в диапазоне значений альфа от 7,17 до 2,92·10[^5] Бк и от 3,22 до 1,42·10[^5] част\/с бета от 43,5 до 8,75·10[^6] Бк и от 16,4 до 3,35·10[^6] част\/с.",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/454151"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "44760.10.РЭ.00199308",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/199308",
+                    "mitypeNumber": "44760-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355654",
+                    "mitypeTitle": "Радиометр объемной активности радона-222 эталонный",
+                    "notation": "AlphaGUARD PQ2000PRO",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "EF-1908",
+                    "manufactureYear": 2010,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "еФ2.204.222 МП"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "104"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Чувствительность радиометра, Бк⁻¹·с⁻¹: 0,330 ± 0,020."
+        }
+    },
+    "125818405": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "21734-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325100",
+                "mitypeType": "RAMON-01M",
+                "mitypeTitle": "Мониторы радоновые",
+                "manufactureNum": "122",
+                "modification": "RAMON-01M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"ИЗОТОП\"(ООО НПП \"ИЗОТОП\")",
+            "signCipher": "ВОБ",
+            "miOwner": "ООО \"ИЗОТОП  РК\"",
+            "vrfDate": "21.01.2022",
+            "validDate": "20.01.2023",
+            "vriType": "2",
+            "docTitle": "раздел АА 1.000.000 ПС",
+            "applicable": {
+                "certNum": "С-ВОБ\/21-01-2022\/125818405",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "10595.88.РЭ.00199309",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/199309",
+                    "mitypeNumber": "10595-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304901",
+                    "mitypeTitle": "Радиометры газов",
+                    "notation": "РГБ-07",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1",
+                    "manufactureYear": 1989,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЖШ2.807.552 ТО, раздел «Методика поверки»"
+                },
+                {
+                    "regNumber": "61304.15.1Р.00320967",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/320967",
+                    "mitypeNumber": "61304-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374695",
+                    "mitypeTitle": "Источники альфа-излучения закрытые с радионуклидом плутоний-239",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0077",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 29 декабря 2018 г. № 2841 «Об утверждении государств"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

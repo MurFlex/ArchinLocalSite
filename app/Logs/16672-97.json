@@ -1,0 +1,614 @@
+{
+    "219654347": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "16672-97",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315974",
+                "mitypeType": "MP1550A, MP1550B",
+                "mitypeTitle": "Анализаторы сетевые PDH\/SDH",
+                "manufactureNum": "M48773",
+                "manufactureYear": 1999,
+                "modification": "MP1550А"
+            }
+        },
+        "vriInfo": {
+            "organization": "Красноярский филиал ПАО \"Ростелеком\" МРФ \"Сибирь\"(Красноярский филиал ПАО \"Ростелеком\" МРФ \"Сибирь\")",
+            "signCipher": "АФЦ",
+            "miOwner": "ПАО «Ростелеком» Красноярский филиал",
+            "vrfDate": "02.02.2023",
+            "validDate": "01.02.2024",
+            "vriType": "2",
+            "docTitle": "ГСИ. Анализаторы сетевые типа МР1550А, МР1550В. Методика поверки. утв ГП \"ВНИИФТРИ\" 17.12.1997",
+            "applicable": {
+                "certNum": "С-АФЦ\/02-02-2023\/219650621",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "8484.81.РЭ.00383005",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/383005",
+                    "mitypeNumber": "8484-81",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386927",
+                    "mitypeTitle": "Генераторы сигналов низкочастотные",
+                    "notation": "Г3-118",
+                    "modification": "Г3-118",
+                    "manufactureNum": "3563",
+                    "manufactureYear": 1989,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЛПС-8"
+                },
+                {
+                    "regNumber": "6705.78.2Р.00409996",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/409996",
+                    "mitypeNumber": "6705-78",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380964",
+                    "mitypeTitle": "Магазины затуханий",
+                    "notation": "МЗ-50-3",
+                    "modification": "-",
+                    "manufactureNum": "50",
+                    "manufactureYear": 1996,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 3383"
+                },
+                {
+                    "regNumber": "9135.83.5Р.00734008",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/734008",
+                    "mitypeNumber": "9135-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387836",
+                    "mitypeTitle": "Частотомеры электронно-счетные вычислительные",
+                    "notation": "Ч3-64",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9006281",
+                    "manufactureYear": 1990,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "№2360 от 26.09.2022г"
+                },
+                {
+                    "regNumber": "11207.88.5Р.00752389",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/752389",
+                    "mitypeNumber": "11207-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305764",
+                    "mitypeTitle": "Генераторы сигналов высокочастотные",
+                    "notation": "Г4-176",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1110",
+                    "manufactureYear": 1990,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ ФАТРИМ №2360 от 26.09.2022"
+                },
+                {
+                    "regNumber": "15963.03.5Р.00762865",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/762865",
+                    "mitypeNumber": "15963-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/314538",
+                    "mitypeTitle": "Анализаторы цифровых линий связи",
+                    "notation": "ANT-20, ANT-20Е, ANT-20SE, ANT-20SE\/ANT-10Gig",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "FR-0109",
+                    "manufactureYear": 2003,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты. Приказ Росстандарта от 26.09.2022 г. №2360"
+                },
+                {
+                    "regNumber": "15963.03.РЭ.00762866",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/762866",
+                    "mitypeNumber": "15963-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/314538",
+                    "mitypeTitle": "Анализаторы цифровых линий связи",
+                    "notation": "ANT-20, ANT-20Е, ANT-20SE, ANT-20SE\/ANT-10Gig",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "FR-0109",
+                    "manufactureYear": 2003,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Локальная поверочная схема ЛПС-12 для средств измерений единицы фазового дрожания в диапазоне значений 0,05...64 ТИ"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "24248-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/329222",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "20 4109п"
+                },
+                {
+                    "mitypeNumber": "24152-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/329087",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "US37340306"
+                },
+                {
+                    "mitypeNumber": "20085-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322270",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "33601132"
+                },
+                {
+                    "mitypeNumber": "16241-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315123",
+                    "mitypeTitle": "Анализаторы спектра высокочастотные",
+                    "number": "3624U01444"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346988",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "265"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "209038979": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "16672-97",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315974",
+                "mitypeType": "MP1550A, MP1550B",
+                "mitypeTitle": "Анализаторы сетевые PDH\/SDH",
+                "manufactureNum": "48973",
+                "manufactureYear": 2010,
+                "modification": "MP1550A"
+            }
+        },
+        "vriInfo": {
+            "organization": "Иркутский филиал ПАО \"Ростелеком\" МРФ \"Сибирь\"(Иркутский филиал ПАО \"Ростелеком\" МРФ \"Сибирь\")",
+            "signCipher": "АЗС",
+            "miOwner": "Иркутский филиал ПАО \"РОСТЕЛЕКОМ\"",
+            "vrfDate": "19.12.2022",
+            "validDate": "18.12.2023",
+            "vriType": "2",
+            "docTitle": "Анализаторы сетевые типа МР-1550А, МР-1550В. Методика поверки",
+            "applicable": {
+                "certNum": "С-АЗС\/19-12-2022\/209038979",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25317.03.4Р.00690881",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/690881",
+                    "mitypeNumber": "25317-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/330882",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85",
+                    "modification": "Ч3-85",
+                    "manufactureNum": "590401026",
+                    "manufactureYear": 2006,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018 г. «ГПС для СИ времени и частоты»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "24152-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/329087",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "US37340534"
+                },
+                {
+                    "mitypeNumber": "8484-81",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386927",
+                    "mitypeTitle": "Генераторы сигналов низкочастотные",
+                    "number": "1999"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "212201608": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "16672-97",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315974",
+                "mitypeType": "MP1550A, MP1550B",
+                "mitypeTitle": "Анализаторы сетевые PDH\/SDH",
+                "manufactureNum": "M49173",
+                "modification": "MP1550A"
+            }
+        },
+        "vriInfo": {
+            "organization": "Новосибирский филиал ПАО \"Ростелеком\" МРФ \"Сибирь\"(Новосибирский филиал ПАО \"Ростелеком\" МРФ \"Сибирь\")",
+            "signCipher": "АЮП",
+            "miOwner": "ПАО \"Ростелеком\" Новосибирский филиал",
+            "vrfDate": "12.12.2022",
+            "validDate": "11.12.2023",
+            "vriType": "2",
+            "docTitle": "Анализаторы сетевые PDH\/SDH MP1550A, MP1550B. Методика поверки.",
+            "applicable": {
+                "certNum": "С-АЮП\/12-12-2022\/207161121",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "9273.85.4Р.00705100",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/705100",
+                    "mitypeNumber": "9273-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388035",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-66",
+                    "modification": "нет модификации",
+                    "manufactureNum": "9010017",
+                    "manufactureYear": 1990,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС «Для средств измерений времени и частоты» Приказ Росстандарта  от 26 сентября 2022 г. № 2360"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "22694-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326732",
+                    "mitypeTitle": "Осциллографы",
+                    "number": "US40430170"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Поверка по пунктам 7.3.1, 7.3.7 МП",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-212201608\/protocol"
+        }
+    },
+    "199440087": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "16672-97",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315974",
+                "mitypeType": "MP1550A, MP1550B",
+                "mitypeTitle": "Анализаторы сетевые PDH\/SDH",
+                "manufactureNum": "M76055",
+                "manufactureYear": 2001,
+                "modification": "MP-1550A"
+            }
+        },
+        "vriInfo": {
+            "organization": "Макрорегиональный филиал \"Северо-Запад\" ПАО \"Ростелеком\"(Макрорегиональный филиал \"Северо-Запад\" ПАО \"Ростелеком\")",
+            "signCipher": "АСК",
+            "miOwner": "ПАО Ростелеком",
+            "vrfDate": "17.10.2022",
+            "validDate": "16.10.2023",
+            "vriType": "2",
+            "docTitle": "МП ВНИИФТРИ",
+            "applicable": {
+                "certNum": "С-АСК\/17-10-2022\/199440087",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22715.02.РЭ.00499975",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/499975",
+                    "mitypeNumber": "22715-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326761",
+                    "mitypeTitle": "Установки оптические измерительные",
+                    "notation": "OPT-150",
+                    "modification": "-",
+                    "manufactureNum": "AP-0001",
+                    "manufactureYear": 2002,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 05.12.2019 №2862"
+                },
+                {
+                    "regNumber": "15963.97.СИ.00650582",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/650582",
+                    "mitypeNumber": "15963-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/314540",
+                    "mitypeTitle": "Анализаторы сетевые",
+                    "notation": "ANT-20",
+                    "modification": "ANT-20",
+                    "manufactureNum": "BE-0041",
+                    "manufactureYear": 1999,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "Приказ №233 от 01.02.2022 \"Государственная поверочная схема для средств измерений девиации частоты\""
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "19295-00",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320833",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "B010571"
+                },
+                {
+                    "mitypeNumber": "9273-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388035",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "9010023"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "160811750": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "16672-97",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315974",
+                "mitypeType": "MP1550A, MP1550B",
+                "mitypeTitle": "Анализаторы сетевые PDH\/SDH",
+                "manufactureNum": "M48173",
+                "manufactureYear": 1999,
+                "modification": "MP1550A"
+            }
+        },
+        "vriInfo": {
+            "organization": "Новосибирский филиал ПАО \"Ростелеком\" МРФ \"Сибирь\"(Новосибирский филиал ПАО \"Ростелеком\" МРФ \"Сибирь\")",
+            "signCipher": "АЮП",
+            "miOwner": "ПАО \"Ростелеком\" Новосибирский филиал",
+            "vrfDate": "26.05.2022",
+            "validDate": "25.05.2023",
+            "vriType": "2",
+            "docTitle": "Анализаторы сетевые типа  MP-1550A, MP-1550B. Методика поверки.",
+            "applicable": {
+                "certNum": "С-АЮП\/26-05-2022\/160811750",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "9273.85.4Р.27161",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/27161",
+                    "mitypeNumber": "9273-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388035",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-66",
+                    "modification": "-",
+                    "manufactureNum": "9010017",
+                    "manufactureYear": 1990,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС \"Для средств измерений времени и частоты\"утвержденной приказом Росстандарта от 31 июля 2018 года № 1621"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "24510-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/329638",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "US40430170"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Поверка по пунктам 7.3.1, 7.3.7 МП",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-160811750\/protocol"
+        }
+    },
+    "199440088": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "16672-97",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315974",
+                "mitypeType": "MP1550A, MP1550B",
+                "mitypeTitle": "Анализаторы сетевые PDH\/SDH",
+                "manufactureNum": "M75955",
+                "manufactureYear": 2001,
+                "modification": "MP-1550A"
+            }
+        },
+        "vriInfo": {
+            "organization": "Макрорегиональный филиал \"Северо-Запад\" ПАО \"Ростелеком\"(Макрорегиональный филиал \"Северо-Запад\" ПАО \"Ростелеком\")",
+            "signCipher": "АСК",
+            "miOwner": "ПАО Ростелеком",
+            "vrfDate": "09.03.2022",
+            "validDate": "08.03.2023",
+            "vriType": "2",
+            "docTitle": "МП ВНИИФТРИ",
+            "applicable": {
+                "certNum": "С-АСК\/09-03-2022\/199440088",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22715.02.РЭ.00499975",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/499975",
+                    "mitypeNumber": "22715-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326761",
+                    "mitypeTitle": "Установки оптические измерительные",
+                    "notation": "OPT-150",
+                    "modification": "-",
+                    "manufactureNum": "AP-0001",
+                    "manufactureYear": 2002,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 05.12.2019 №2862"
+                },
+                {
+                    "regNumber": "15963.97.СИ.00650582",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/650582",
+                    "mitypeNumber": "15963-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/314540",
+                    "mitypeTitle": "Анализаторы сетевые",
+                    "notation": "ANT-20",
+                    "modification": "ANT-20",
+                    "manufactureNum": "BE-0041",
+                    "manufactureYear": 1999,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "Приказ №233 от 01.02.2022 \"Государственная поверочная схема для средств измерений девиации частоты\""
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "19295-00",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320833",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "B010571"
+                },
+                {
+                    "mitypeNumber": "9273-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388035",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "9010023"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "129693680": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "16672-97",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315974",
+                "mitypeType": "MP1550A, MP1550B",
+                "mitypeTitle": "Анализаторы сетевые PDH\/SDH",
+                "manufactureNum": "M48773",
+                "manufactureYear": 1997,
+                "modification": "МР1550А"
+            }
+        },
+        "vriInfo": {
+            "organization": "Красноярский филиал ПАО \"Ростелеком\" МРФ \"Сибирь\"(Красноярский филиал ПАО \"Ростелеком\" МРФ \"Сибирь\")",
+            "signCipher": "АФЦ",
+            "miOwner": "ПАО «Ростелеком» Красноярский филиал",
+            "vrfDate": "03.02.2022",
+            "validDate": "02.02.2023",
+            "vriType": "2",
+            "docTitle": "Анализаторы сетевые типа МР1550А, МР1550В. Методика поверки. утв ГП \"ВНИИФТРИ\" 17.12.1997",
+            "applicable": {
+                "certNum": "С-АФЦ\/03-02-2022\/129693680",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "11207.88.РЭ.00140820",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/140820",
+                    "mitypeNumber": "11207-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305764",
+                    "mitypeTitle": "Генераторы сигналов высокочастотные",
+                    "notation": "Г4-176",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1110",
+                    "manufactureYear": 1990,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Локальная поверочная схема ЛПС-11 для средств измерений еденицы частоты в диапазоне значений от 0,1 до 1020 МГц"
+                },
+                {
+                    "regNumber": "8484.81.РЭ.00383005",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/383005",
+                    "mitypeNumber": "8484-81",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386927",
+                    "mitypeTitle": "Генераторы сигналов низкочастотные",
+                    "notation": "Г3-118",
+                    "modification": "Г3-118",
+                    "manufactureNum": "3563",
+                    "manufactureYear": 1989,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЛПС-8"
+                },
+                {
+                    "regNumber": "15963.03.РЭ.00389211",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/389211",
+                    "mitypeNumber": "15963-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/314538",
+                    "mitypeTitle": "Анализаторы цифровых линий связи",
+                    "notation": "ANT-20, ANT-20Е, ANT-20SE, ANT-20SE\/ANT-10Gig",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "FR-0109",
+                    "manufactureYear": 2003,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Локальная поверочная схема ЛПС-12 для средств измерений единицы фазового дрожания в диапазоне значений 0,05...64 ТИ"
+                },
+                {
+                    "regNumber": "15963.03.4Р.00389212",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/389212",
+                    "mitypeNumber": "15963-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/314538",
+                    "mitypeTitle": "Анализаторы цифровых линий связи",
+                    "notation": "ANT-20, ANT-20Е, ANT-20SE, ANT-20SE\/ANT-10Gig",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "FR-0109",
+                    "manufactureYear": 2003,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения времени и частоты"
+                },
+                {
+                    "regNumber": "6705.78.2Р.00409996",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/409996",
+                    "mitypeNumber": "6705-78",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380964",
+                    "mitypeTitle": "Магазины затуханий",
+                    "notation": "МЗ-50-3",
+                    "modification": "-",
+                    "manufactureNum": "50",
+                    "manufactureYear": 1996,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 3383"
+                },
+                {
+                    "regNumber": "9135.83.4Р.00499972",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/499972",
+                    "mitypeNumber": "9135-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387836",
+                    "mitypeTitle": "Частотомеры электронно-счетные вычислительные",
+                    "notation": "Ч3-64",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9006281",
+                    "manufactureYear": 1990,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ №1621 от 31.07.2018г"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "24152-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/329087",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "US37340306"
+                },
+                {
+                    "mitypeNumber": "16241-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315123",
+                    "mitypeTitle": "Анализаторы спектра высокочастотные",
+                    "number": "3624U01444"
+                }
+            ]
+        },
+        "info": {
+            "structure": "МР1550А №M48773 сменные блоки МP0109А Optical 156M\/622M(1,31) №46273, МP0110А Optical 156M\/622M(1,55)№22273",
+            "briefIndicator": false
+        }
+    }
+}

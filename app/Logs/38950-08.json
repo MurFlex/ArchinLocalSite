@@ -1,0 +1,663 @@
+{
+    "217369661": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "38950-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348823",
+                "mitypeType": "APACHE ppc",
+                "mitypeTitle": "Системы измерения массы и габаритных размеров",
+                "manufactureNum": "APA149-1",
+                "modification": "APACHEppc"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "17.01.2023",
+            "validDate": "16.01.2024",
+            "vriType": "2",
+            "docTitle": "\"Системы измерений массы и габаритных размеров APACHEppc, МП\" утв. ФГУ \"Воронежский ЦСМ\" 07.2008 г.",
+            "applicable": {
+                "certNum": "С-М\/17-01-2023\/217369661",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ZZM.0261.2015",
+                    "title": "Эталон единицы массы 4 разряда в диапазоне значений от 20 кг до 8560 кг",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/442308"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "52768.13.4Р.00575758",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/575758",
+                    "mitypeNumber": "52768-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365001",
+                    "mitypeTitle": "Гири от 1 мг до 20 кг классов точности Е1, Е2, F1, F2, М1",
+                    "notation": "Нет данных",
+                    "modification": "набор (10 мг - 1 кг) М1",
+                    "manufactureNum": "31425798\/7",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.12.2018 № 2818"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "13561-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/309282",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "6171"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Поверка в режиме измерения массы"
+        }
+    },
+    "193668996": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "38950-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348823",
+                "mitypeType": "APACHE ppc",
+                "mitypeTitle": "Системы измерения массы и габаритных размеров",
+                "manufactureNum": "APA 149-2",
+                "modification": "APACHE ppc"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "ЮЛ",
+            "vrfDate": "07.10.2022",
+            "validDate": "06.10.2023",
+            "vriType": "2",
+            "docTitle": "\"Системы измерений массы и габаритных размеров APACHEppc, МП\" утвержденная ФГУ \"Воронежский ЦСМ\" 07.2008 г.",
+            "applicable": {
+                "certNum": "С-М\/07-10-2022\/193668996",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ZZM.0262.2015",
+                    "title": "Эталон единицы массы 4 разряда в диапазоне значений от 2000 кг до 82000 кг",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/442426"
+                },
+                {
+                    "number": "3.2.ZZM.0261.2015",
+                    "title": "Эталон единицы массы 4 разряда в диапазоне значений от 20 кг до 8560 кг",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/442308"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "68887.17.3Р.00308870",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/308870",
+                    "mitypeNumber": "68887-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382984",
+                    "mitypeTitle": "Гири классов точности Е2, F1, F2, М1",
+                    "notation": "ГО-П",
+                    "modification": "ГО-ПН-1г-5кг F2",
+                    "manufactureNum": "AA9",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений массы"
+                },
+                {
+                    "regNumber": "68887.17.3Р.00308871",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/308871",
+                    "mitypeNumber": "68887-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382984",
+                    "mitypeTitle": "Гири классов точности Е2, F1, F2, М1",
+                    "notation": "ГО-П",
+                    "modification": "ГО-ПН-1кг-10кг F2",
+                    "manufactureNum": "AA6",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений массы"
+                },
+                {
+                    "regNumber": "52768.13.4Р.00575758",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/575758",
+                    "mitypeNumber": "52768-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365001",
+                    "mitypeTitle": "Гири от 1 мг до 20 кг классов точности Е1, Е2, F1, F2, М1",
+                    "notation": "Нет данных",
+                    "modification": "набор (10 мг - 1 кг) М1",
+                    "manufactureNum": "31425798\/7",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.12.2018 № 2818"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "6С20"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Поверка в режиме измерения массы"
+        }
+    },
+    "186689606": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "38950-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348823",
+                "mitypeType": "APACHE ppc",
+                "mitypeTitle": "Системы измерения массы и габаритных размеров",
+                "manufactureNum": "АРА149-7",
+                "modification": "APACHE ppc"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В САМАРСКОЙ ОБЛАСТИ\"(ФБУ \"САМАРСКИЙ ЦСМ\")",
+            "signCipher": "БЯ",
+            "miOwner": "АО  \"МЕЖДУНАРОДНЫЙ АЭРОПОРТ КУРУМОЧ\"",
+            "vrfDate": "07.09.2022",
+            "validDate": "06.09.2023",
+            "vriType": "2",
+            "docTitle": "МП Воронежского ЦСМ",
+            "applicable": {
+                "certNum": "С-БЯ\/07-09-2022\/186544308",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБЯ.1516.2022",
+                    "title": "-",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1401158"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "716.70.3Р.00117644",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/117644",
+                    "mitypeNumber": "716-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385142",
+                    "mitypeTitle": "Гири общего назначения 3-го класса",
+                    "notation": "КГ-3-30, КГ-3-20, КГ-3-10, МГ-3-1100",
+                    "modification": "Г-3-1110",
+                    "manufactureNum": "37\/2",
+                    "manufactureYear": 1975,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №2818 от 29 декабря 2018 г. \"Об утверждении Государственной поверочной схемы для средств измерений массы\""
+                },
+                {
+                    "regNumber": "27948.04.4Р.00121206",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/121206",
+                    "mitypeNumber": "27948-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334769",
+                    "mitypeTitle": "Гири класса точности М1",
+                    "notation": "Нет данных",
+                    "modification": "Наборгирь(1-10кг)М1",
+                    "manufactureNum": "001",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ №2818 от 29 декабря 2018 г. \"Об утверждении Государственной поверочной схемы для средств измерений массы\""
+                },
+                {
+                    "regNumber": "811.66.4Р.00202348",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/202348",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "2",
+                    "manufactureYear": 1977,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ №2818 от 29 декабря 2018 г. \"Об утверждении Государственной поверочной схемы для средств измерений массы\""
+                },
+                {
+                    "regNumber": "811.66.4Р.00202349",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/202349",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "1",
+                    "manufactureYear": 1977,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ №2818 от 29 декабря 2018 г. \"Об утверждении Государственной поверочной схемы для средств измерений массы\""
+                },
+                {
+                    "regNumber": "811.66.4Р.00202350",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/202350",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "3",
+                    "manufactureYear": 1977,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ №2818 от 29 декабря 2018 г. \"Об утверждении Государственной поверочной схемы для средств измерений массы\""
+                },
+                {
+                    "regNumber": "811.66.4Р.00202352",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/202352",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "5",
+                    "manufactureYear": 1977,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ №2818 от 29 декабря 2018 г. \"Об утверждении Государственной поверочной схемы для средств измерений массы\""
+                },
+                {
+                    "regNumber": "811.66.4Р.00202353",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/202353",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "6",
+                    "manufactureYear": 1977,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ №2818 от 29 декабря 2018 г. \"Об утверждении Государственной поверочной схемы для средств измерений массы\""
+                },
+                {
+                    "regNumber": "811.66.4Р.00202354",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/202354",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "7",
+                    "manufactureYear": 1977,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ №2818 от 29 декабря 2018 г. \"Об утверждении Государственной поверочной схемы для средств измерений массы\""
+                },
+                {
+                    "regNumber": "811.66.4Р.00202356",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/202356",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "9",
+                    "manufactureYear": 1977,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ №2818 от 29 декабря 2018 г. \"Об утверждении Государственной поверочной схемы для средств измерений массы\""
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "152822850": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "38950-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348823",
+                "mitypeType": "APACHE ppc",
+                "mitypeTitle": "Системы измерения массы и габаритных размеров",
+                "manufactureNum": "АРА149-3",
+                "modification": "APACHE ppc"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "ЮЛ",
+            "vrfDate": "20.04.2022",
+            "validDate": "19.04.2023",
+            "vriType": "2",
+            "docTitle": "\"Системы измерений массы и габаритных размеров APACHEppc, МП\" утв. ФГУ \"Воронежский ЦСМ\" 07.2008 г.",
+            "applicable": {
+                "certNum": "С-М\/20-04-2022\/152822850",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ZZM.0261.2015",
+                    "title": "Эталон единицы массы 4 разряда в диапазоне значений от 20 кг до 8560 кг",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/442308"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "68887.17.3Р.00308870",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/308870",
+                    "mitypeNumber": "68887-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382984",
+                    "mitypeTitle": "Гири классов точности Е2, F1, F2, М1",
+                    "notation": "ГО-П",
+                    "modification": "ГО-ПН-1г-5кг F2",
+                    "manufactureNum": "AA9",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений массы"
+                },
+                {
+                    "regNumber": "68887.17.3Р.00308871",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/308871",
+                    "mitypeNumber": "68887-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382984",
+                    "mitypeTitle": "Гири классов точности Е2, F1, F2, М1",
+                    "notation": "ГО-П",
+                    "modification": "ГО-ПН-1кг-10кг F2",
+                    "manufactureNum": "AA6",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений массы"
+                },
+                {
+                    "regNumber": "52768.13.4Р.00575758",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/575758",
+                    "mitypeNumber": "52768-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365001",
+                    "mitypeTitle": "Гири от 1 мг до 20 кг классов точности Е1, Е2, F1, F2, М1",
+                    "notation": "Нет данных",
+                    "modification": "набор (10 мг - 1 кг) М1",
+                    "manufactureNum": "31425798\/7",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.12.2018 № 2818"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "13561-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/309282",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "6171"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Поверка в режиме измерения массы"
+        }
+    },
+    "139570475": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "38950-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348823",
+                "mitypeType": "APACHE ppc",
+                "mitypeTitle": "Системы измерения массы и габаритных размеров",
+                "manufactureNum": "12-04031",
+                "manufactureYear": 2012,
+                "modification": "APACHE ppc"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Публичное акционерное общество \"АЭРОПОРТ КОЛЬЦОВО\"",
+            "vrfDate": "02.03.2022",
+            "validDate": "01.03.2023",
+            "vriType": "2",
+            "docTitle": "МП 38950-08 \"Система измерений массы и габаритных размеров APACHE ppc. Методика поверки\" в составе эксплуатационных документов,",
+            "applicable": {
+                "certNum": "С-СЕ\/02-03-2022\/139570475",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСЕ.1515.2021",
+                    "title": "Государственный рабочий эталон единицы длины 3 разряда в диапазоне значений от 0 до 10 м",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1392422"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "30728.05.4Р.00172969",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/172969",
+                    "mitypeNumber": "30728-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338474",
+                    "mitypeTitle": "Гири с номинальным значением массы 20 кг и 500 кг класса точности М1",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "4",
+                    "manufactureYear": 2006,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2818 от 29.12.2018"
+                },
+                {
+                    "regNumber": "27015.04.4Р.00241658",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/241658",
+                    "mitypeNumber": "27015-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333460",
+                    "mitypeTitle": "Комплекты поверки гирь и весов переносные",
+                    "notation": "КПГВП",
+                    "modification": "КПГВП",
+                    "manufactureNum": "409153063",
+                    "manufactureYear": 2004,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2818 от 29.12.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "22129-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325758",
+                    "mitypeTitle": "Термогигрометры электронные",
+                    "number": "100307532"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "1324"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "КТ средний (III); НПВ =150 кг; НмПВ = 1 кг; е = d = 200 г; Погрешность весов в пределах допуска: От 1 до 25 кг включ.   ± 200 г; От 25 до 100 кг включ.   ± 400 г; Св.100 до 150 кг включ.   ± 600 г"
+        }
+    },
+    "139570488": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "38950-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348823",
+                "mitypeType": "APACHE ppc",
+                "mitypeTitle": "Системы измерения массы и габаритных размеров",
+                "manufactureNum": "12-04032",
+                "manufactureYear": 2012,
+                "modification": "APACHE ppc"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Публичное акционерное общество \"АЭРОПОРТ КОЛЬЦОВО\"",
+            "vrfDate": "02.03.2022",
+            "validDate": "01.03.2023",
+            "vriType": "2",
+            "docTitle": "МП 38950-08 \"Система измерений массы и габаритных размеров APACHE ppc. Методика поверки\" в составе эксплуатационных документов,",
+            "applicable": {
+                "certNum": "С-СЕ\/02-03-2022\/139570488",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСЕ.1515.2021",
+                    "title": "Государственный рабочий эталон единицы длины 3 разряда в диапазоне значений от 0 до 10 м",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1392422"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "30728.05.4Р.00172969",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/172969",
+                    "mitypeNumber": "30728-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338474",
+                    "mitypeTitle": "Гири с номинальным значением массы 20 кг и 500 кг класса точности М1",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "4",
+                    "manufactureYear": 2006,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2818 от 29.12.2018"
+                },
+                {
+                    "regNumber": "27015.04.4Р.00241658",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/241658",
+                    "mitypeNumber": "27015-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333460",
+                    "mitypeTitle": "Комплекты поверки гирь и весов переносные",
+                    "notation": "КПГВП",
+                    "modification": "КПГВП",
+                    "manufactureNum": "409153063",
+                    "manufactureYear": 2004,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2818 от 29.12.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "22129-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325758",
+                    "mitypeTitle": "Термогигрометры электронные",
+                    "number": "100307532"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "1324"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "КТ средний (III); НПВ =150 кг; НмПВ = 1 кг; е = d = 200 г; Погрешность весов в пределах допуска: От 1 до 25 кг включ.   ± 200 г; От 25 до 100 кг включ.   ± 400 г; Св.100 до 150 кг включ.   ± 600 г"
+        }
+    },
+    "126900073": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "38950-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348823",
+                "mitypeType": "APACHE ppc",
+                "mitypeTitle": "Системы измерения массы и габаритных размеров",
+                "manufactureNum": "APA 149-1",
+                "modification": "APACHE ppc"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "ООО \"Домодедово-Карго\"",
+            "vrfDate": "26.01.2022",
+            "validDate": "25.01.2023",
+            "vriType": "1",
+            "docTitle": "\"Системы измерений массы и габаритных размеров APACHEppc, Методика поверки\" утв. ФГУ \"Воронежский ЦСМ\" 07.2008 г.",
+            "applicable": {
+                "certNum": "С-М\/26-01-2022\/126900073",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ZZM.0261.2015",
+                    "title": "Эталон единицы массы 4 разряда в диапазоне значений от 20 кг до 8560 кг",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/442308"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "68887.17.3Р.00308870",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/308870",
+                    "mitypeNumber": "68887-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382984",
+                    "mitypeTitle": "Гири классов точности Е2, F1, F2, М1",
+                    "notation": "ГО-П",
+                    "modification": "ГО-ПН-1г-5кг F2",
+                    "manufactureNum": "AA9",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений массы"
+                },
+                {
+                    "regNumber": "68887.17.3Р.00308871",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/308871",
+                    "mitypeNumber": "68887-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382984",
+                    "mitypeTitle": "Гири классов точности Е2, F1, F2, М1",
+                    "notation": "ГО-П",
+                    "modification": "ГО-ПН-1кг-10кг F2",
+                    "manufactureNum": "AA6",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений массы"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "13561-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/309282",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "6171"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Поверка в режиме измерения массы груза"
+        }
+    }
+}

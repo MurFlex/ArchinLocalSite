@@ -1,0 +1,48 @@
+{
+    "166061613": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "28294-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335233",
+                "mitypeType": "РИГ-12 \"Прогресс-РИА\"",
+                "mitypeTitle": "Радиометры многоканальные",
+                "manufactureNum": "007",
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НТЦ АМПЛИТУДА\"(ООО \"НТЦ АМПЛИТУДА\")",
+            "signCipher": "ДНС",
+            "miOwner": "НИИ Кардиологии, г. Томск",
+            "vrfDate": "22.06.2022",
+            "validDate": "21.06.2023",
+            "vriType": "2",
+            "docTitle": "МГФК.412121.002-РЭ",
+            "applicable": {
+                "certNum": "С-ДНС\/22-06-2022\/166061613",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "3810"
+                },
+                {
+                    "mitypeNumber": "49681-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361372",
+                    "mitypeTitle": "Приборы электроизмерительные цифровые (мультиметры)",
+                    "number": "40287181134077123"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Контрольная скорость счета (в с⁻¹): канал 3: 642, канал 4: 912,8, канал 5: 574, канал 7: 648,2, канал 10: 873,2, канал 11: 714,4, канал 12: 701,6"
+        }
+    }
+}

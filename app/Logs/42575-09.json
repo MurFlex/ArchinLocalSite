@@ -1,0 +1,57 @@
+{
+    "151698298": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "42575.09.2Р.00599569",
+                "mitypeNumber": "42575-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353122",
+                "mitypeTitle": "Установки поверочные",
+                "mitypeType": "МЕРАКС УП",
+                "modification": "МЕРАКС УП",
+                "manufactureNum": "005.13.01.",
+                "manufactureYear": 2013,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ 256 от 07.02.2018 с изменениями от 21.08.2018"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПЕРМСКОМ КРАЕ\"(ФБУ \"ПЕРМСКИЙ ЦСМ\")",
+            "signCipher": "ВН",
+            "miOwner": "-",
+            "vrfDate": "21.04.2022",
+            "validDate": "20.04.2023",
+            "vriType": "2",
+            "docTitle": "разделом Методика поверки документа Установки поверочные МЕРАКС УП. Руководство по эксплуатации. М01.00-00.00 РЭ",
+            "applicable": {
+                "certNum": "С-ВН\/21-04-2022\/151698298",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "24364.03.1Р.00178238",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/178238",
+                    "mitypeNumber": "24364-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/329406",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "УПСЖ 100",
+                    "modification": "УПСЖ-100\/ВМ",
+                    "manufactureNum": "036",
+                    "manufactureYear": 2005,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ 256 от 07.02.2018 с изменениями от 21.08.2018"
+                }
+            ]
+        },
+        "info": {
+            "structure": "расходомеры-счетчики электромагнитные \"Взлет ЭР\" №№ 808457; 806020; 820019.",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-151698298\/protocol",
+            "additional_info": "Диапазон воспроизводимых расходов: от 0,03 до 60 м^{3}\/ч Пределы относительной погрешности установки, %: - при использовании в качестве эталонных средств расходомеров - счетчиков ±0,30."
+        }
+    }
+}

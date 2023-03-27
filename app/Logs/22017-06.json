@@ -1,0 +1,96 @@
+{
+    "206781704": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "22017.06.1Р.00503148",
+                "mitypeNumber": "22017-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325596",
+                "mitypeTitle": "Вибростенды поверочные переносные",
+                "mitypeType": "ВСП-02",
+                "modification": "ВСП-02",
+                "manufactureNum": "011",
+                "manufactureYear": 2012,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ № 2772 от 27.12.2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Филиал \"Кольский\" ПАО \"ТГК-1\"",
+            "vrfDate": "07.12.2022",
+            "validDate": "06.12.2023",
+            "vriType": "2",
+            "docTitle": "подраздел 3.2. РЭ 4277-003-548424-01",
+            "applicable": {
+                "certNum": "С-СП\/07-12-2022\/206781704",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZСП.1206.2015",
+                    "title": "Государственный вторичный эталон единиц длины в диапазоне значений от 1·10[^-8] до 7,5·10[^-2] м, скорости в диапазоне значенийот 1·10[^-4] до 1·10[^-1] м\/с и ускорения в диапазоне значений от 3·10[^-2] до 4·10[^2] м\/с[^2] при колебательном движении твердого тела в диапазоне частот от 0,1 до 2·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/407476"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-206781704\/protocol"
+        }
+    },
+    "168624957": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "22017-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325596",
+                "mitypeType": "ВСП-02",
+                "mitypeTitle": "Вибростенды поверочные переносные",
+                "manufactureNum": "041",
+                "manufactureYear": 2008,
+                "modification": "ВСП-02"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ  ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РОСТОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТОВСКИЙ ЦСМ\")",
+            "signCipher": "ВР",
+            "miOwner": "Ростовский вертолётный производственный комплекс Публичное акционерное общество <<Роствертол>> имени Б.Н.Слюсаря",
+            "vrfDate": "06.07.2022",
+            "validDate": "05.07.2023",
+            "vriType": "2",
+            "docTitle": "Подраздел 3.2 \"Поверка вибростенда\" РЭ4277-003-46548424-01 \"Вибростенд поверочный переносной ВСП-02. Руководство по эксплуатации",
+            "applicable": {
+                "certNum": "С-ВР\/06-07-2022\/168624957",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "45699.10.1Р.00451671",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/451671",
+                    "mitypeNumber": "45699-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356704",
+                    "mitypeTitle": "Станции для калибровки преобразователей вибрации",
+                    "notation": "9155",
+                    "modification": "9155D-830",
+                    "manufactureNum": "23435339",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ № 2772 от 27.12.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "-"
+        }
+    }
+}

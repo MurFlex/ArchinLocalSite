@@ -1,0 +1,964 @@
+{
+    "205886192": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "53006-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365282",
+                "mitypeType": "temp-gard мод. 6p, 12p",
+                "mitypeTitle": "Регистраторы температуры электронные",
+                "manufactureNum": "1088363",
+                "modification": "6p"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "05.12.2022",
+            "validDate": "04.12.2024",
+            "vriType": "1",
+            "docTitle": "МП 53006-13 «Регистраторы температуры электронные temp-gard моделей 6p, 12p. Методика поверки»",
+            "applicable": {
+                "certNum": "С-В\/05-12-2022\/205886192",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZB.0029.2013",
+                    "title": "Государственный вторичный эталон единицы температуры (эталон-копия) в диапазоне от минус 189,3442 °С до 1768,2 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/457759"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid8fd00515-a15f-47a5-abed-dc9fc608f24a"
+        }
+    },
+    "187061404": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "53006-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365282",
+                "mitypeType": "temp-gard мод. 6p, 12p",
+                "mitypeTitle": "Регистраторы температуры электронные",
+                "manufactureNum": "1221356",
+                "modification": "temp-gard мод. 6p"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "владелец",
+            "vrfDate": "19.09.2022",
+            "validDate": "18.09.2024",
+            "vriType": "2",
+            "docTitle": "МП 53006-13",
+            "applicable": {
+                "certNum": "С-ТТ\/19-09-2022\/187061404",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "19736.11.4Р.00198332",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198332",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ8, модель МИТ8.15",
+                    "manufactureNum": "152",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019г. №3456"
+                },
+                {
+                    "regNumber": "19736.11.3Р.00198333",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198333",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ8, модель МИТ8.15",
+                    "manufactureNum": "152",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019г. №3457"
+                },
+                {
+                    "regNumber": "33937.07.3Р.00470999",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/470999",
+                    "mitypeNumber": "33937-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342680",
+                    "mitypeTitle": "Калибраторы температуры поверхностные",
+                    "notation": "КТП-1",
+                    "modification": "КТП-1",
+                    "manufactureNum": "068",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерения температуры\"."
+                },
+                {
+                    "regNumber": "65421.16.2Р.00492282",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/492282",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2545",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "65421.16.2Р.00492284",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/492284",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2545",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ]
+        },
+        "info": {
+            "structure": "датчик №№ 1,2,3,4,7,8",
+            "briefIndicator": false,
+            "additional_info": "[ID=7c575a11-37ea-11ed-8dc0-0cc47a2b9faf]"
+        }
+    },
+    "182952362": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "53006-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365282",
+                "mitypeType": "temp-gard мод. 6p, 12p",
+                "mitypeTitle": "Регистраторы температуры электронные",
+                "manufactureNum": "1236939",
+                "modification": "модель 12р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "владелец",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2024",
+            "vriType": "2",
+            "docTitle": "МП 53006-13",
+            "applicable": {
+                "certNum": "С-ТТ\/31-08-2022\/182952362",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "19736.11.4Р.00146167",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/146167",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "МИТ8, мод. МИТ 8.15",
+                    "manufactureNum": "247",
+                    "manufactureYear": 2017,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "32777.06.2Р.00465202",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/465202",
+                    "mitypeNumber": "32777-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341242",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ",
+                    "modification": "ПТСВ-1-2",
+                    "manufactureNum": "1630",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "54934.13.2Р.00642370",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/642370",
+                    "mitypeNumber": "54934-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367445",
+                    "mitypeTitle": "Калибраторы процессов прецизионные",
+                    "notation": "Fluke 7526A",
+                    "modification": "Fluke 7526A",
+                    "manufactureNum": "4540664",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ  Росстандарта  от  01 октября  2018 г. №2091"
+                },
+                {
+                    "regNumber": "54934.13.4Р.00642371",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/642371",
+                    "mitypeNumber": "54934-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367445",
+                    "mitypeTitle": "Калибраторы процессов прецизионные",
+                    "notation": "Fluke 7526A",
+                    "modification": "Fluke 7526A",
+                    "manufactureNum": "4540664",
+                    "manufactureYear": 2019,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ  Росстандарта  от  30 декабря 2019 г.  №3456"
+                },
+                {
+                    "regNumber": "54934.13.3Р.00642372",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/642372",
+                    "mitypeNumber": "54934-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367445",
+                    "mitypeTitle": "Калибраторы процессов прецизионные",
+                    "notation": "Fluke 7526A",
+                    "modification": "Fluke 7526A",
+                    "manufactureNum": "4540664",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "[ID=82019a80-29c6-11ed-b3f4-16f2bf468aad]"
+        }
+    },
+    "166999019": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "53006-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365282",
+                "mitypeType": "temp-gard мод. 6p, 12p",
+                "mitypeTitle": "Регистраторы температуры электронные",
+                "manufactureNum": "1176346",
+                "modification": "temp-gard мод. 6p,"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОДАРСКОМ КРАЕ И РЕСПУБЛИКЕ АДЫГЕЯ\"(ФБУ \"Краснодарский ЦСМ\")",
+            "signCipher": "АУ",
+            "miOwner": "Общество с ограниченной ответственностью \"КЛААС\"",
+            "vrfDate": "29.06.2022",
+            "vriType": "2",
+            "docTitle": "МП 53006-13",
+            "inapplicable": {
+                "noticeNum": "И-АУ\/29-06-2022\/166999019"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "19736.05.4Р.00246102",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/246102",
+                    "mitypeNumber": "19736-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321617",
+                    "mitypeTitle": "Измерители-регуляторы температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "МИТ 8.10",
+                    "manufactureNum": "244",
+                    "manufactureYear": 2007,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 3456 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "19736.05.3Р.00246103",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/246103",
+                    "mitypeNumber": "19736-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321617",
+                    "mitypeTitle": "Измерители-регуляторы температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "МИТ 8.10",
+                    "manufactureNum": "244",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 3457 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "16065.97.4Р.00453126",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/453126",
+                    "mitypeNumber": "16065-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/314751",
+                    "mitypeTitle": "Калибраторы электрических сигналов с частотным модулем FМ1",
+                    "notation": "TC 305",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2361",
+                    "manufactureYear": 1997,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 3456 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "16065.97.3Р.00453127",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/453127",
+                    "mitypeNumber": "16065-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/314751",
+                    "mitypeTitle": "Калибраторы электрических сигналов с частотным модулем FМ1",
+                    "notation": "TC 305",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2361",
+                    "manufactureYear": 1997,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 3457 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "16065.97.1Р.00453128",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/453128",
+                    "mitypeNumber": "16065-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/314751",
+                    "mitypeTitle": "Калибраторы электрических сигналов с частотным модулем FМ1",
+                    "notation": "TC 305",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2361",
+                    "manufactureYear": 1997,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ № 2091 от 1 октября 2018 г."
+                },
+                {
+                    "regNumber": "32777.06.2Р.00582050",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/582050",
+                    "mitypeNumber": "32777-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341242",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ",
+                    "modification": "ПТСВ-4-2",
+                    "manufactureNum": "370",
+                    "manufactureYear": 2007,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"Государственная поверочная схема для средств измерений температуры\""
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "154895464": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "53006-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365282",
+                "mitypeType": "temp-gard мод. 6p, 12p",
+                "mitypeTitle": "Регистраторы температуры электронные",
+                "manufactureNum": "1081410",
+                "modification": "мод. 6p"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КАЛУЖСКОЙ ОБЛАСТИ\"(ФБУ \"КАЛУЖСКИЙ ЦСМ\")",
+            "signCipher": "БУ",
+            "miOwner": "Филиал АО \"Магна Автомотив Рус\" в городе Калуга",
+            "vrfDate": "12.05.2022",
+            "validDate": "11.05.2024",
+            "vriType": "2",
+            "docTitle": "МП 53006-13",
+            "applicable": {
+                "certNum": "С-БУ\/12-05-2022\/154895464",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "19736.11.4Р.00333103",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/333103",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "мод. МИТ8.10М1",
+                    "manufactureNum": "855",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ №3456 от 30.12.2019. \"Об утверждении государственной поверочной схемы для средств измерений электрического сопротивления"
+                },
+                {
+                    "regNumber": "65421.16.2Р.00471713",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/471713",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2604",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "65421.16.2Р.00471978",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/471978",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2604",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "151409814": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "53006-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365282",
+                "mitypeType": "temp-gard мод. 6p, 12p",
+                "mitypeTitle": "Регистраторы температуры электронные",
+                "manufactureNum": "1274656",
+                "modification": "temp-gard мод.6p"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "владелец",
+            "vrfDate": "25.04.2022",
+            "validDate": "24.04.2024",
+            "vriType": "2",
+            "docTitle": "МП 53006-13",
+            "applicable": {
+                "certNum": "С-ТТ\/25-04-2022\/151409814",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "19736.11.4Р.00198332",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198332",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ8, модель МИТ8.15",
+                    "manufactureNum": "152",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019г. №3456"
+                },
+                {
+                    "regNumber": "19736.11.3Р.00198333",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198333",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ8, модель МИТ8.15",
+                    "manufactureNum": "152",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019г. №3457"
+                },
+                {
+                    "regNumber": "33937.07.3Р.00470999",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/470999",
+                    "mitypeNumber": "33937-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342680",
+                    "mitypeTitle": "Калибраторы температуры поверхностные",
+                    "notation": "КТП-1",
+                    "modification": "КТП-1",
+                    "manufactureNum": "068",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерения температуры\"."
+                },
+                {
+                    "regNumber": "65421.16.2Р.00492282",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/492282",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2545",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "65421.16.2Р.00492284",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/492284",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2545",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ]
+        },
+        "info": {
+            "structure": "датчик №№: 2, 3, 7, 8, 10, 11",
+            "briefIndicator": false,
+            "additional_info": "[ID=6f062cf6-c498-11ec-8dbf-0cc47a2b9faf]"
+        }
+    },
+    "141940964": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "53006-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365282",
+                "mitypeType": "temp-gard мод. 6p, 12p",
+                "mitypeTitle": "Регистраторы температуры электронные",
+                "manufactureNum": "1274654",
+                "modification": "temp-gard мод.6p"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "владелец",
+            "vrfDate": "21.03.2022",
+            "validDate": "20.03.2024",
+            "vriType": "2",
+            "docTitle": "МП 53006-13",
+            "applicable": {
+                "certNum": "С-ТТ\/21-03-2022\/141940964",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "19736.11.4Р.00198332",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198332",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ8, модель МИТ8.15",
+                    "manufactureNum": "152",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019г. №3456"
+                },
+                {
+                    "regNumber": "19736.11.3Р.00198333",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198333",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ8, модель МИТ8.15",
+                    "manufactureNum": "152",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019г. №3457"
+                },
+                {
+                    "regNumber": "33937.07.3Р.00470999",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/470999",
+                    "mitypeNumber": "33937-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342680",
+                    "mitypeTitle": "Калибраторы температуры поверхностные",
+                    "notation": "КТП-1",
+                    "modification": "КТП-1",
+                    "manufactureNum": "068",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерения температуры\"."
+                },
+                {
+                    "regNumber": "65421.16.2Р.00492282",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/492282",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2545",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "65421.16.2Р.00492284",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/492284",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2545",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ]
+        },
+        "info": {
+            "structure": "датчик №№ 2, 3, 7, 8, 10, 11",
+            "briefIndicator": false,
+            "additional_info": "[ID=c4fa0b91-a8e2-11ec-8dbc-0cc47a2b9faf]"
+        }
+    },
+    "139338229": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "53006-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365282",
+                "mitypeType": "temp-gard мод. 6p, 12p",
+                "mitypeTitle": "Регистраторы температуры электронные",
+                "manufactureNum": "1119907",
+                "modification": "temp-gard мод. 12p"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "владелец",
+            "vrfDate": "14.03.2022",
+            "validDate": "13.03.2024",
+            "vriType": "2",
+            "docTitle": "МП 53006-13",
+            "applicable": {
+                "certNum": "С-ТТ\/14-03-2022\/139338229",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "19736.11.4Р.00198332",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198332",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ8, модель МИТ8.15",
+                    "manufactureNum": "152",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019г. №3456"
+                },
+                {
+                    "regNumber": "19736.11.3Р.00198333",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198333",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ8, модель МИТ8.15",
+                    "manufactureNum": "152",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019г. №3457"
+                },
+                {
+                    "regNumber": "33937.07.3Р.00470999",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/470999",
+                    "mitypeNumber": "33937-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342680",
+                    "mitypeTitle": "Калибраторы температуры поверхностные",
+                    "notation": "КТП-1",
+                    "modification": "КТП-1",
+                    "manufactureNum": "068",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерения температуры\"."
+                },
+                {
+                    "regNumber": "65421.16.2Р.00492282",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/492282",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2545",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "65421.16.2Р.00492284",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/492284",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2545",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ]
+        },
+        "info": {
+            "structure": "датчик №№ 1,2,3,4,5,6,7,8,9,10,11,12",
+            "briefIndicator": false,
+            "additional_info": "[ID=b99f58eb-a373-11ec-8dbc-0cc47a2b9faf]"
+        }
+    },
+    "132336366": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "53006-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365282",
+                "mitypeType": "temp-gard мод. 6p, 12p",
+                "mitypeTitle": "Регистраторы температуры электронные",
+                "manufactureNum": "1355811",
+                "manufactureYear": 2022,
+                "modification": "6p"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "ЗАО \"Контроль качества\"",
+            "vrfDate": "11.02.2022",
+            "validDate": "10.02.2024",
+            "vriType": "1",
+            "docTitle": "МП 53006-13 «Регистраторы температуры электронные temp-gard моделей 6p, 12p. Методика поверки»",
+            "applicable": {
+                "certNum": "С-В\/11-02-2022\/132336366",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZB.0029.2013",
+                    "title": "Государственный вторичный эталон единицы температуры (эталон-копия) в диапазоне от минус 189,3442 °С до 1768,2 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/457759"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-132336366\/protocol",
+            "additional_info": "#mid0baa2091-0165-4a87-9ae2-d5b485aab1c8"
+        }
+    },
+    "127224152": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "53006-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365282",
+                "mitypeType": "temp-gard мод. 6p, 12p",
+                "mitypeTitle": "Регистраторы температуры электронные",
+                "manufactureNum": "1095442",
+                "modification": "temp-gard"
+            }
+        },
+        "vriInfo": {
+            "organization": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Республике Татарстан\"(ФБУ \"ЦСМ Татарстан\")",
+            "signCipher": "АМ",
+            "miOwner": "Общество с ограниченной ответственностью \"Соллерс Форд\"",
+            "vrfDate": "28.01.2022",
+            "validDate": "27.01.2024",
+            "vriType": "2",
+            "docTitle": "\"Регистраторы температуры электронные temp-gard мод. 6p, 12p. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-АМ\/28-01-2022\/127224152",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "11804.99.1Р.00144832",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/144832",
+                    "mitypeNumber": "11804-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306580",
+                    "mitypeTitle": "Термометры сопротивления платиновые эталонные",
+                    "notation": "ПТС-10М",
+                    "modification": "ПТС-10М",
+                    "manufactureNum": "2872",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Термометр сопротивления платиновый эталонный ПТС-10М"
+                },
+                {
+                    "regNumber": "36112.07.3Р.00241065",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/241065",
+                    "mitypeNumber": "36112-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345405",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "DPI 800",
+                    "modification": "DPI 880",
+                    "manufactureNum": "4138685",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "№3457 от 30 декабря 2019 г"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "125542586": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "53006-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365282",
+                "mitypeType": "temp-gard мод. 6p, 12p",
+                "mitypeTitle": "Регистраторы температуры электронные",
+                "manufactureNum": "1115766",
+                "modification": "temp-gard мод. 6p"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "ООО \"АКЗО НОБЕЛЬ ЛАКОКРАСКА\"",
+            "vrfDate": "20.01.2022",
+            "validDate": "19.01.2024",
+            "vriType": "2",
+            "docTitle": "МП 53006-13",
+            "applicable": {
+                "certNum": "С-ТТ\/20-01-2022\/125542586",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "19736.11.4Р.00198332",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198332",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ8, модель МИТ8.15",
+                    "manufactureNum": "152",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019г. №3456"
+                },
+                {
+                    "regNumber": "19736.11.3Р.00198333",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198333",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "Измеритель температуры многоканальный прецизионный МИТ8, модель МИТ8.15",
+                    "manufactureNum": "152",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019г. №3457"
+                },
+                {
+                    "regNumber": "33937.07.3Р.00470999",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/470999",
+                    "mitypeNumber": "33937-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342680",
+                    "mitypeTitle": "Калибраторы температуры поверхностные",
+                    "notation": "КТП-1",
+                    "modification": "КТП-1",
+                    "manufactureNum": "068",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерения температуры\"."
+                },
+                {
+                    "regNumber": "65421.16.2Р.00492282",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/492282",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2545",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "65421.16.2Р.00492284",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/492284",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2545",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "[ID=fd930010-7a7d-11ec-8dbc-0cc47a2b9faf]"
+        }
+    }
+}

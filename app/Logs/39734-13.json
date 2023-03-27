@@ -1,0 +1,1529 @@
+{
+    "218658111": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/816613",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "276",
+                "manufactureYear": 2023,
+                "modification": "ЦИКЛОН-120-4,0-А-11\/3-У\/1-Д5.8.10"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО НПО \"НТЭС\"",
+            "vrfDate": "30.01.2023",
+            "validDate": "29.01.2027",
+            "vriType": "1",
+            "docTitle": "ГСИ. УСТАНОВКИ ИЗМЕРИТЕЛЬНЫЕ ЦИКЛОН. Методика поверки МП 1418-9-2022.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/30-01-2023\/218658111",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30405.05.4Р.00299733",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/299733",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "65071362",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "18089.03.1Р.00595486",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595486",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9019",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00595489",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595489",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9031",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00602976",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/602976",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R7829",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "30405.05.5Р.00734187",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/734187",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "65071363",
+                    "manufactureYear": 2009,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2360 от 26.09.2022"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39533993\/1022"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ЭМИСС-МАСС-260 DN25 зав № 9939, ЭМИС-ВИХРЬ-200 зав. № 36497, Влагомер ВСН-2-50-100-03 PN40 зав. № 4566, МЕТРАН-55-Вн-ДИ зав.№ 6220808, МЕТРАН-55-Вн-ДИ зав.№ 6220550, Термопреобразователь ТСМУ МЕТРАН-274 зав. № 2637049, БИОИ зав. № 158.",
+            "briefIndicator": false
+        }
+    },
+    "216255066": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/816613",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "277",
+                "manufactureYear": 2023,
+                "modification": "ЦИКЛОН-120-4,0-1-К\/1-Д8.10-Ф-К"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО НПО \"НТЭС\"",
+            "vrfDate": "16.01.2023",
+            "validDate": "15.01.2027",
+            "vriType": "1",
+            "docTitle": "Государственная система обеспечения единства измерений. УСТАНОВКИ ИЗМЕРИТЕЛЬНЫЕ ЦИКЛОН. Методика поверки МП 1418-9-2022.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/16-01-2023\/216255066",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30405.05.4Р.00299733",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/299733",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "65071362",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "30405.05.4Р.00301652",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/301652",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "75061254",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00595486",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595486",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9019",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00595489",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595489",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9031",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00602976",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/602976",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R7829",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39533993\/1022"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "786"
+                }
+            ]
+        },
+        "info": {
+            "structure": "СКЖ-210-40-11 № 1510  БЭСКЖ-2М № 19355",
+            "briefIndicator": false
+        }
+    },
+    "210283381": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/816613",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "275",
+                "manufactureYear": 2022,
+                "modification": "ЦИКЛОН-420-4,0-1-К\/1-Д8,10-Ф-К"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО НПО \"НТЭС\"",
+            "vrfDate": "20.12.2022",
+            "validDate": "19.12.2026",
+            "vriType": "1",
+            "docTitle": "Государственная система обеспечения единства измерений. УСТАНОВКИ ИЗМЕРИТЕЛЬНЫЕ ЦИКЛОН. Методика поверки МП 1418-9-2022.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/20-12-2022\/210283381",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30405.05.4Р.00299733",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/299733",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "65071362",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "18089.03.1Р.00595486",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595486",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9019",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00595489",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595489",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9031",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00602976",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/602976",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R7829",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "30405.05.5Р.00734187",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/734187",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "65071363",
+                    "manufactureYear": 2009,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2360 от 26.09.2022"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "1093"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ЭМИС-МАСС-260 DN40\t\t\t\t\t\t№ 9536 ДРГ.М-160 DN 25\/50 \t\t\t\t\t\t\t№ 47744 Датчик давления МЕТРАН-55-Вн-ДИ\t\t\t\t№ 6220950 Датчик давления МЕТРАН-55-Вн-ДИ\t\t\t\t№ 6220979 Термопреобразователь ТСМУ МЕТРАН-274\t\t\t№ 2635748 Термопреобразователь ТСМУ МЕТРАН-274\t\t\t№ 2635881 БИОИ № 157",
+            "briefIndicator": false
+        }
+    },
+    "209777601": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/816613",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "274",
+                "manufactureYear": 2022,
+                "modification": "ЦИКЛОН-120-4,0-4\/2-У\/1-Д1367"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО НПО \"НТЭС\"",
+            "vrfDate": "20.12.2022",
+            "validDate": "19.12.2026",
+            "vriType": "1",
+            "docTitle": "Государственная система обеспечения единства измерений. УСТАНОВКИ ИЗМЕРИТЕЛЬНЫЕ ЦИКЛОН. Методика поверки МП 1418-9-2022.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/20-12-2022\/209777601",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30405.05.4Р.00299733",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/299733",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "65071362",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "18089.03.1Р.00595486",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595486",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9019",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00595489",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595489",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9031",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00602976",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/602976",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R7829",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "30405.05.5Р.00734187",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/734187",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "65071363",
+                    "manufactureYear": 2009,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2360 от 26.09.2022"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "1093"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ЭМИС-МАСС-260 DN25\t\t\t\t\t\t№ 9518 ЭМИС-ВИХРЬ-200\t\t\t\t\t\t\t№ 36008 Датчик давления МЕТРАН-55-Вн-ДИ\t\t\t\t№ 6216830 Датчик давления МЕТРАН-55-Вн-ДИ\t\t\t\t№ 6220616 Термопреобразователь ТСМУ МЕТРАН-274\t\t\t№ 2635909 Термопреобразователь ТСМУ МЕТРАН-274\t\t\t№ 2635913 БИОИ № 156",
+            "briefIndicator": false
+        }
+    },
+    "208651176": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/816613",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "272",
+                "manufactureYear": 2022,
+                "modification": "ЦИКЛОН-120-4,0-4\/2-У\/1-Д1367"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО НПО \"НТЭС\"",
+            "vrfDate": "14.12.2022",
+            "validDate": "13.12.2026",
+            "vriType": "1",
+            "docTitle": "Государственная система обеспечения единства измерений. УСТАНОВКИ ИЗМЕРИТЕЛЬНЫЕ ЦИКЛОН. Методика поверки МП 1418-9-2022.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/14-12-2022\/208651176",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30405.05.4Р.00299733",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/299733",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "65071362",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "30405.05.4Р.00515941",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/515941",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "55080981",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "18089.03.1Р.00595486",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595486",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9019",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00595489",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595489",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9031",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00602976",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/602976",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R7829",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "786"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ЭМИС-МАСС-260 DN25\t\t\t\t\t\t№ 9519 ЭМИС-ВИХРЬ-200\t\t\t\t\t\t\t№ 36007 Датчик давления МЕТРАН-55-Вн-ДИ\t\t\t\t№ 6220628 Датчик давления МЕТРАН-55-Вн-ДИ\t\t\t\t№ 6220614 Термопреобразователь ТСМУ МЕТРАН-274\t\t\t№ 2635929 Термопреобразователь ТСМУ МЕТРАН-274\t\t\t№ 2635916 БИОИ № 154",
+            "briefIndicator": false
+        }
+    },
+    "208651175": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/816613",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "273",
+                "manufactureYear": 2022,
+                "modification": "ЦИКЛОН-120-4,0-4\/2-У\/1-Д1367"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО НПО \"НТЭС\"",
+            "vrfDate": "14.12.2022",
+            "validDate": "13.12.2026",
+            "vriType": "1",
+            "docTitle": "Государственная система обеспечения единства измерений. УСТАНОВКИ ИЗМЕРИТЕЛЬНЫЕ ЦИКЛОН. Методика поверки МП 1418-9-2022.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/14-12-2022\/208651175",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30405.05.4Р.00299733",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/299733",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "65071362",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "30405.05.4Р.00515941",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/515941",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "55080981",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "18089.03.1Р.00595486",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595486",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9019",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00595489",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595489",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9031",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00602976",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/602976",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R7829",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "786"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ЭМИС-МАСС-260 DN25\t\t\t\t\t\t№ 9517 ЭМИС-ВИХРЬ-200\t\t\t\t\t\t\t№ 36009 Датчик давления МЕТРАН-55-Вн-ДИ\t\t\t\t№ 6220635 Датчик давления МЕТРАН-55-Вн-ДИ\t\t\t\t№ 6220964 Термопреобразователь ТСМУ МЕТРАН-274\t\t\t№ 2635742 Термопреобразователь ТСМУ МЕТРАН-274\t\t\t№ 2635735 БИОИ № 155",
+            "briefIndicator": false
+        }
+    },
+    "202965296": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/816613",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "271",
+                "manufactureYear": 2022,
+                "modification": "ЦИКЛОН-420-4,0-А-11\/3-У\/1-Д5.10-М2-Ф"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО НПО \"НТЭС\"",
+            "vrfDate": "21.11.2022",
+            "validDate": "20.11.2026",
+            "vriType": "1",
+            "docTitle": "Государственная система обеспечения единства измерений. УСТАНОВКИ ИЗМЕРИТЕЛЬНЫЕ ЦИКЛОН. Методика поверки МП 1418-9-2022.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/21-11-2022\/202965296",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30405.05.4Р.00299733",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/299733",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "65071362",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "30405.05.4Р.00515941",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/515941",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "55080981",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "18089.03.1Р.00595486",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595486",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9019",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00595489",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/595489",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9031",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00602976",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/602976",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R7829",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "786"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ЭМИС-МАСС-260 зав. № 9537, БИОИ-2-06 зав. № 153, ДРГ-М зав. № 47743, Влагомер ВСН-2 зав. № 4495,МЕТРАН-55-Вн-ДИ зав. №6218761, МЕТРАН-55-Вн-ДИ зав. № 6219132, МЕТРАН-55-Вн-ДИ зав. № 6188055, МЕТРАН-274 зав. № 2630593.",
+            "briefIndicator": false
+        }
+    },
+    "198089258": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/816613",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "112",
+                "manufactureYear": 2019,
+                "modification": "ЦИКЛОН-120-4,0-Е-1-К\/1-Ф"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО \"ЮКОЛА-нефть\"",
+            "vrfDate": "28.10.2022",
+            "validDate": "27.10.2026",
+            "vriType": "2",
+            "docTitle": "ГСИ. Установка измерительная «ЦИКЛОН». Методика поверки» МП 0916-9-2019.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/28-10-2022\/198089258",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "49125.12.3Р.00400950",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/400950",
+                    "mitypeNumber": "49125-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360724",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "УПС-500М2-01",
+                    "modification": "УПС-500М2-01",
+                    "manufactureNum": "1",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС согласно приказа Федерального агентства по техническому регулированию и метрологии №256 от 7.02.2018г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "786"
+                }
+            ]
+        },
+        "info": {
+            "structure": "СКЖ-60-40М зав. № 14513",
+            "briefIndicator": false
+        }
+    },
+    "198089259": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/816613",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "80",
+                "manufactureYear": 2015,
+                "modification": "ЦИКЛОН-120-4,0-Е-1-К\/1-Ф"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО \"ЮКОЛА-нефть\"",
+            "vrfDate": "28.10.2022",
+            "validDate": "27.10.2026",
+            "vriType": "2",
+            "docTitle": "ГСИ. Установка измерительная «ЦИКЛОН». Методика поверки» УЦ 1.00.000 МП.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/28-10-2022\/198089259",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "49125.12.3Р.00400950",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/400950",
+                    "mitypeNumber": "49125-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360724",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "УПС-500М2-01",
+                    "modification": "УПС-500М2-01",
+                    "manufactureNum": "1",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС согласно приказа Федерального агентства по техническому регулированию и метрологии №256 от 7.02.2018г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "786"
+                }
+            ]
+        },
+        "info": {
+            "structure": "СКЖ-60-40М зав. № 11133",
+            "briefIndicator": false
+        }
+    },
+    "188362208": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1382076",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "269",
+                "manufactureYear": 2022,
+                "modification": "ЦИКЛОН-120-4,0-1-К\/1-Д8.10-Ф-К"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО НПО \"НТЭС\"",
+            "vrfDate": "23.09.2022",
+            "validDate": "22.09.2026",
+            "vriType": "1",
+            "docTitle": "«Инструкция. ГСИ. Установка измерительная «ЦИКЛОН». Методика поверки МП 0916-9-2019.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/23-09-2022\/188362208",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76700.19.2Р.00149075",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149075",
+                    "mitypeNumber": "76700-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/952961",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "УПС-500М2-01А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "05",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 07.02.2018 № 256"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "786"
+                },
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                }
+            ]
+        },
+        "info": {
+            "structure": "СКЖ-210-40-11-13-К зав. № 1444",
+            "briefIndicator": false
+        }
+    },
+    "188362207": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1382076",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "270",
+                "manufactureYear": 2022,
+                "modification": "ЦИКЛОН-120-4,0-1-К\/1-Д8.10-Ф-К"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО НПО \"НТЭС\"",
+            "vrfDate": "23.09.2022",
+            "validDate": "22.09.2026",
+            "vriType": "1",
+            "docTitle": "«Инструкция. ГСИ. Установка измерительная «ЦИКЛОН». Методика поверки МП 0916-9-2019.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/23-09-2022\/188362207",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76700.19.2Р.00149075",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149075",
+                    "mitypeNumber": "76700-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/952961",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "УПС-500М2-01А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "05",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 07.02.2018 № 256"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "786"
+                },
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                }
+            ]
+        },
+        "info": {
+            "structure": "СКЖ-210-40-11-13-К зав. № 1445",
+            "briefIndicator": false
+        }
+    },
+    "188131644": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1382076",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "268",
+                "manufactureYear": 2022,
+                "modification": "ЦИКЛОН-120-4,0-1-К\/1-Д8.10-Ф-К"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО НПО \"НТЭС\"",
+            "vrfDate": "22.09.2022",
+            "validDate": "21.09.2026",
+            "vriType": "1",
+            "docTitle": "«Инструкция. ГСИ. Установка измерительная «ЦИКЛОН». Методика поверки МП 0916-9-2019.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/22-09-2022\/188131644",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76700.19.2Р.00149077",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149077",
+                    "mitypeNumber": "76700-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/952961",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "УПС-500М2-01А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "01",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 07.02.2018 № 256"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "786"
+                },
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                }
+            ]
+        },
+        "info": {
+            "structure": "СКЖ-210-40-11-13-К зав. № 1443",
+            "briefIndicator": false
+        }
+    },
+    "188131646": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1382076",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "267",
+                "manufactureYear": 2022,
+                "modification": "ЦИКЛОН-120-4,0-1-К\/1-Д8.10-Ф-К"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО НПО \"НТЭС\"",
+            "vrfDate": "22.09.2022",
+            "validDate": "21.09.2026",
+            "vriType": "1",
+            "docTitle": "«Инструкция. ГСИ. Установка измерительная «ЦИКЛОН». Методика поверки МП 0916-9-2019.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/22-09-2022\/188131646",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76700.19.2Р.00149075",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149075",
+                    "mitypeNumber": "76700-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/952961",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "УПС-500М2-01А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "05",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 07.02.2018 № 256"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "786"
+                },
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                }
+            ]
+        },
+        "info": {
+            "structure": "СКЖ-210-40-11-13-К зав. № 1442",
+            "briefIndicator": false
+        }
+    },
+    "188131652": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1382076",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "266",
+                "manufactureYear": 2022,
+                "modification": "ЦИКЛОН-120-4,0-1-К\/1-Д8.10-Ф-К"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО НПО \"НТЭС\"",
+            "vrfDate": "22.09.2022",
+            "validDate": "21.09.2026",
+            "vriType": "1",
+            "docTitle": "«Инструкция. ГСИ. Установка измерительная «ЦИКЛОН». Методика поверки МП 0916-9-2019.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/22-09-2022\/188131652",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76700.19.2Р.00149075",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149075",
+                    "mitypeNumber": "76700-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/952961",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "УПС-500М2-01А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "05",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 07.02.2018 № 256"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "786"
+                },
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                }
+            ]
+        },
+        "info": {
+            "structure": "СКЖ-210-40-11-13-К зав. № 1441",
+            "briefIndicator": false
+        }
+    },
+    "187770094": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1382076",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "265",
+                "manufactureYear": 2022,
+                "modification": "ЦИКЛОН-120-4,0-1-К\/1-Д8.10-Ф-К"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО НПО \"НТЭС\"",
+            "vrfDate": "21.09.2022",
+            "validDate": "20.09.2026",
+            "vriType": "1",
+            "docTitle": "«Инструкция. ГСИ. Установка измерительная «ЦИКЛОН». Методика поверки МП 0916-9-2019.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/21-09-2022\/187770094",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76700.19.2Р.00149075",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149075",
+                    "mitypeNumber": "76700-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/952961",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "УПС-500М2-01А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "05",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 07.02.2018 № 256"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "786"
+                },
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                }
+            ]
+        },
+        "info": {
+            "structure": "СКЖ-210-40-11-13-К зав. № 1440",
+            "briefIndicator": false
+        }
+    },
+    "187770095": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1382076",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "264",
+                "manufactureYear": 2022,
+                "modification": "ЦИКЛОН-120-4,0-1-К\/1-Д8.10-Ф-К"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "ООО НПО \"НТЭС\"",
+            "vrfDate": "21.09.2022",
+            "validDate": "20.09.2026",
+            "vriType": "1",
+            "docTitle": "«Инструкция. ГСИ. Установка измерительная «ЦИКЛОН». Методика поверки МП 0916-9-2019.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/21-09-2022\/187770095",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76700.19.2Р.00149075",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149075",
+                    "mitypeNumber": "76700-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/952961",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "УПС-500М2-01А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "05",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 07.02.2018 № 256"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "786"
+                },
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                }
+            ]
+        },
+        "info": {
+            "structure": "СКЖ-210-40-11-13-К зав. № 1439",
+            "briefIndicator": false
+        }
+    },
+    "138825107": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39734-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1382076",
+                "mitypeType": "ЦИКЛОН",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "75",
+                "manufactureYear": 2014,
+                "modification": "ЦИКЛОН-120-4,0-4\/2-У\/3-Д1367"
+            }
+        },
+        "vriInfo": {
+            "organization": "НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ ЭКСПЛУАТАЦИИ СКВАЖИН\"(ООО НПО \"НТЭС\")",
+            "signCipher": "ВЧВ",
+            "miOwner": "НГДУ «Азнакаевскнефть», ПАО \"Татнефть\"",
+            "vrfDate": "11.03.2022",
+            "validDate": "10.03.2026",
+            "vriType": "2",
+            "docTitle": "ГСИ, ИНСТРУКЦИЯ. Установка измерительная «ЦИКЛОН».  Методика поверки УЦ 1.00.000 МП.",
+            "applicable": {
+                "certNum": "С-ВЧВ\/11-03-2022\/138794531",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30405.05.4Р.00299733",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/299733",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "65071362",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "18089.03.1Р.00307029",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/307029",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9031",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00307032",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/307032",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R9019",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00465277",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/465277",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R6730",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "от 1 октября 2018 г. № 2091 воспроизведение"
+                },
+                {
+                    "regNumber": "18089.03.1Р.00465280",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/465280",
+                    "mitypeNumber": "18089-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318701",
+                    "mitypeTitle": "Калибраторы тока",
+                    "notation": "UPS-II и UPS-III",
+                    "modification": "UPS-III",
+                    "manufactureNum": "R6731",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "1 октября 2018 года N 2091  воспроизведение"
+                },
+                {
+                    "regNumber": "30405.05.4Р.00485203",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/485203",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-10",
+                    "manufactureNum": "65071363",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31.07.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "1093"
+                },
+                {
+                    "mitypeNumber": "47602-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358897",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "37329250"
+                }
+            ]
+        },
+        "info": {
+            "structure": "РИНГ-3,5-4,0-Т-5 зав. № 2053 РИНГ-3,5-4,0-Т-5 зав. № 2052 Датчик давления  Метран-55-Вн-ДИ  зав. № 1290048 Датчик давления  Метран-55-Вн-ДИ  зав. № 1290047 Датчик температуры ТСМУ Метран-274 зав. № 2090710 БИОИ-2-02 зав. № 37",
+            "briefIndicator": false
+        }
+    }
+}

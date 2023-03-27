@@ -1,0 +1,63 @@
+{
+    "198027858": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "52593.13.РЭ.00703630",
+                "mitypeNumber": "52593-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364806",
+                "mitypeTitle": "Калибратор напряженности электростатического поля",
+                "mitypeType": "КНЭП-1М",
+                "modification": "Нет модификации",
+                "manufactureNum": "01",
+                "manufactureYear": 2013,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "Калибратор напряженности электростатического поля КНЭП–1М. Методика поверки МП 2201-0027-2012"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Федеральное государственное бюджетное учреждение \"Главная геофизическая обсерватория им. А.И.Воейкова\"",
+            "vrfDate": "25.10.2022",
+            "validDate": "24.10.2025",
+            "vriType": "2",
+            "docTitle": "Калибратор напряженности электростатического поля КНЭП–1М. Методика поверки МП 2201-0027-2012",
+            "applicable": {
+                "certNum": "С-В\/25-10-2022\/198027858",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт13-01",
+                    "title": "ГПЭ единицы электрического напряжения",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1382785"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "198.92.РЭ.00702583",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/702583",
+                    "mitypeNumber": "198-92",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321740",
+                    "mitypeTitle": "Штангенрейсмасы",
+                    "notation": "ШР",
+                    "modification": "ШР 400",
+                    "manufactureNum": "37029",
+                    "manufactureYear": 1992,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Калибратор напряженности электростатического поля КНЭП–1М. Методика поверки МП 2201-0027-2012"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-198027858\/protocol",
+            "additional_info": "Исходный эталон, возглавляющий локальную поверочную схему ФГБУ \"ГГО\" для средств измерений напряженности электростатического поля в диапазоне - 5000...5000 В\/м.   #mid073c33ef-7df6-401f-88eb-6b114cd858e1"
+        }
+    }
+}

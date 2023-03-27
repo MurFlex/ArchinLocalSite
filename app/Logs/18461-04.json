@@ -1,0 +1,129 @@
+{
+    "202057909": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "18461.04.2Р.00150614",
+                "mitypeNumber": "18461-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/319415",
+                "mitypeTitle": "Вибростенды калибровочные",
+                "mitypeType": "ВК-02",
+                "modification": "ВК-02",
+                "manufactureNum": "22160016",
+                "manufactureYear": 2004,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ № 2772 от 27.12.2018"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В САМАРСКОЙ ОБЛАСТИ\"(ФБУ \"САМАРСКИЙ ЦСМ\")",
+            "signCipher": "БЯ",
+            "miOwner": "Общество с ограниченной ответственностью \"СИБИРСКАЯ ИНТЕРНЕТ КОМПАНИЯ\"",
+            "vrfDate": "16.11.2022",
+            "validDate": "15.11.2023",
+            "vriType": "2",
+            "docTitle": "КОБМ.441161.001 РЭ",
+            "applicable": {
+                "certNum": "С-БЯ\/16-11-2022\/202057909",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76591.19.1Р.00328113",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/328113",
+                    "mitypeNumber": "76591-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953149",
+                    "mitypeTitle": "Акселерометры пьезоэлектрические",
+                    "notation": "301A10, 301A11, 301M26, 394A10, 394A11, 353B03, 353B04, 353B17, 080A200, 356В11",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "285553",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                },
+                {
+                    "regNumber": "85663.22.ВЭ.00623142",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/623142",
+                    "mitypeNumber": "85663-22",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1399784",
+                    "mitypeTitle": "Виброустановка поверочная с лазерным виброметром",
+                    "notation": "АТ-9000-VFX",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "20020",
+                    "manufactureYear": 2020,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "15500-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313586",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "43297"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-202057909\/protocol"
+        }
+    },
+    "172490465": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18461-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/319415",
+                "mitypeType": "ВК-02",
+                "mitypeTitle": "Вибростенды калибровочные",
+                "manufactureNum": "22160011",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В САМАРСКОЙ ОБЛАСТИ\"(ФБУ \"САМАРСКИЙ ЦСМ\")",
+            "signCipher": "БЯ",
+            "miOwner": "АО \"КНПЗ\"",
+            "vrfDate": "23.07.2022",
+            "vriType": "2",
+            "docTitle": "разделом 5 \"Методика поверки\" руководства по эксплуатации КОБМ.441161.001 РЭ",
+            "inapplicable": {
+                "noticeNum": "И-БЯ\/23-07-2022\/172490465"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "35044.07.2Р.00443425",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/443425",
+                    "mitypeNumber": "35044-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344065",
+                    "mitypeTitle": "Виброустановка поверочная",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1",
+                    "manufactureYear": 2007,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Федерального агенства по техническому регулированию и метрологии от 27.12.2018 № 2772"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "MY47068343"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

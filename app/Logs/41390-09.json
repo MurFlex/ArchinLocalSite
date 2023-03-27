@@ -1,0 +1,102 @@
+{
+    "190304280": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "41390-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351683",
+                "mitypeType": "FISCHERSCOPE® X-RAY XDVM®-μ, XDVM®-µ-SD, XDV®-µ",
+                "mitypeTitle": "Измерители рентгенофлуоресцентные",
+                "manufactureNum": "100002159",
+                "modification": "XDVM-µ"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "28.09.2022",
+            "validDate": "27.09.2023",
+            "vriType": "2",
+            "docTitle": "Методика поверки",
+            "applicable": {
+                "certNum": "С-А\/28-09-2022\/190304280",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 11092-2018\/ГСО 11105-2018",
+                    "title": "СО ПОВЕРХНОСТНОЙ ПЛОТНОСТИ  И ТОЛЩИНЫ НИКЕЛЕВОГО ПОКРЫТИЯ НА ДЮРАЛЮМИНИИ (набор СО УНИИМ ППТ-1-Н)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/394971",
+                    "manufactureYear": 2018
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "поверено в диапазоне измерения толщины покрытий от 0,87 мкм до 10,0 мкм.",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-190304280\/protocol"
+        }
+    },
+    "175111003": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "41390-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351683",
+                "mitypeType": "FISCHERSCOPE® X-RAY XDVM®-μ, XDVM®-µ-SD, XDV®-µ",
+                "mitypeTitle": "Измерители рентгенофлуоресцентные",
+                "manufactureNum": "SN120005313",
+                "modification": "XDV-µ"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "27.07.2022",
+            "validDate": "26.07.2023",
+            "vriType": "2",
+            "docTitle": "Методика поверки",
+            "applicable": {
+                "certNum": "С-А\/27-07-2022\/175111003",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 8763-2006",
+                    "title": "СО СОСТАВА ЗОЛОТА ЛИГАТУРНОГО (СО 10)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/391422",
+                    "manufactureYear": 2006
+                },
+                {
+                    "number": "ГСО 8758-2006",
+                    "title": "СО СОСТАВА ЗОЛОТА ЛИГАТУРНОГО (СО 5)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/391427",
+                    "manufactureYear": 2006
+                },
+                {
+                    "number": "ГСО 8756-2006",
+                    "title": "СО СОСТАВА ЗОЛОТА ЛИГАТУРНОГО (СО 3)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/391429",
+                    "manufactureYear": 2006
+                },
+                {
+                    "number": "ГСО 11092-2018\/ГСО 11105-2018",
+                    "title": "СО ПОВЕРХНОСТНОЙ ПЛОТНОСТИ  И ТОЛЩИНЫ НИКЕЛЕВОГО ПОКРЫТИЯ НА ДЮРАЛЮМИНИИ (набор СО УНИИМ ППТ-1-Н)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/394971",
+                    "manufactureYear": 2018
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Краткая характеристика объема поверки: поверено в диапазоне измерения толщины покрытий от 0,87 мкм до 22,6 мкм, массовой доли согласно мп.",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-175111003\/protocol"
+        }
+    }
+}

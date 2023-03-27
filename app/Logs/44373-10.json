@@ -1,0 +1,64 @@
+{
+    "176316893": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "44373-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355230",
+                "mitypeType": "9260",
+                "mitypeTitle": "Термостаты для реперных точек",
+                "manufactureNum": "В16325",
+                "modification": "мод. 9260"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ  ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РОСТОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТОВСКИЙ ЦСМ\")",
+            "signCipher": "ВР",
+            "miOwner": "ФБУ «Ростовский ЦСМ»",
+            "vrfDate": "05.08.2022",
+            "validDate": "04.08.2024",
+            "vriType": "2",
+            "docTitle": "МП 2411-0052-2010 «Термостаты для реперных точек модели 9260, фирмы «Fluke Corporation, Наrt Scientifiс Division», США. Методика",
+            "applicable": {
+                "certNum": "С-ВР\/05-08-2022\/176316893",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "11804.99.1Р.00303736",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/303736",
+                    "mitypeNumber": "11804-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306580",
+                    "mitypeTitle": "Термометры сопротивления платиновые эталонные",
+                    "notation": "ПТС-10М",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2617",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "11804.99.1Р.00435132",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/435132",
+                    "mitypeNumber": "11804-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306580",
+                    "mitypeTitle": "Термометры сопротивления платиновые эталонные",
+                    "notation": "ПТС-10М",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2483",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    }
+}

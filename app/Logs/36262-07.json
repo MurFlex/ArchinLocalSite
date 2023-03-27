@@ -1,0 +1,654 @@
+{
+    "208147151": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36262-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345586",
+                "mitypeType": "КОН.ТЕСТ 795",
+                "mitypeTitle": "Виброанализаторы портативные",
+                "manufactureNum": "1502110530",
+                "modification": "КОН.ТЕСТ 795"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "владелец",
+            "vrfDate": "14.12.2022",
+            "validDate": "13.12.2023",
+            "vriType": "2",
+            "docTitle": "Виброанализатор портативный КОН.ТЕСТ 795. Методика поверки. Согласовано ГЦИ СИ ФБУ «Тест-С.-Петербург» в сентябре 2007 г.",
+            "applicable": {
+                "certNum": "С-ТТ\/14-12-2022\/208147151",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.05301",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/5301",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1766",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                },
+                {
+                    "regNumber": "25900.03.2Р.49433",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49433",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для измерений силы переменного электрического тока от 1•10^-8 до 100 А в диапазоне частот от 1•10^-1 до 1•10^6 Гц.Приказ 575"
+                },
+                {
+                    "regNumber": "25900.03.3Р.00293793",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/293793",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС электрического сопротивления постоянного и переменного тока, приказ 3456"
+                },
+                {
+                    "regNumber": "25900.03.2Р.00293794",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/293794",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы. Приказ 3457"
+                },
+                {
+                    "regNumber": "25900.03.1Р.00293795",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/293795",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока. Приказ 2091"
+                },
+                {
+                    "regNumber": "25900.03.2Р.00607091",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/607091",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331750",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для CИ переменного электрического напряжения до 1000 В в диапазоне частот от 1•10^-1 до 2•10^9, приказ №1942"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "[ID=e59cc998-7b8b-11ed-93e1-0025902af9c6] Действительное значение коэффициента преобразования : Кд = 9,62 мВ\/м\/с² на fб = 160 Гц,  Калибровочное значение равно 94,35 mV\/g.  Поверка проводилась с вибропреобразователем АС102-1А № 172172"
+        }
+    },
+    "199597261": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36262-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345586",
+                "mitypeType": "КОН.ТЕСТ 795",
+                "mitypeTitle": "Виброанализаторы портативные",
+                "manufactureNum": "22305230",
+                "manufactureYear": 2022,
+                "modification": "КОН.ТЕСТ 795"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"Техприборсервис\"",
+            "vrfDate": "07.11.2022",
+            "validDate": "06.11.2023",
+            "vriType": "1",
+            "docTitle": "\"Виброанализатор портативный КОН.ТЕСТ 795. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-СП\/07-11-2022\/199597261",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.1310.2015",
+                    "title": "Государственный эталон 2 разряда единиц виброперемещения в диапазоне значений от 5·10[^-6] до 5·10[^-3] м, виброскорости в диапазоне значений от 5·10[^-4] до 3,8·10[^-1] м\/с, виброускорения в диапазоне значений от 2·10[^-1] до 1,96·10[^2] м\/с[^2] в диапазоне частот от 0,7 до 1·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/406236"
+                }
+            ]
+        },
+        "info": {
+            "structure": "HS-150L1005401 № 630034 Кпр = 104,7 мВ\/g",
+            "briefIndicator": false,
+            "additional_info": "Кпр = 91,0 мВ\/g"
+        }
+    },
+    "192062966": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36262-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345586",
+                "mitypeType": "КОН.ТЕСТ 795",
+                "mitypeTitle": "Виброанализаторы портативные",
+                "manufactureNum": "21122137",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ «ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КЕМЕРОВСКОЙ ОБЛАСТИ - КУЗБАССЕ»(ФБУ «КУЗБАССКИЙ ЦСМ»)",
+            "signCipher": "БЧ",
+            "miOwner": "юридическое лицо",
+            "vrfDate": "11.10.2022",
+            "validDate": "10.10.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-БЧ\/11-10-2022\/192062966",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "45344.10.РЭ.00162328",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/162328",
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "notation": "DS360",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "123632",
+                    "manufactureYear": 2016,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГОСТ Р 8.635; ГОСТ Р 8.257; ГОСТ Р 8.553, МИ 1873, МИ 3616 и др. МП на измерители и анализаторы шума и вибрации"
+                },
+                {
+                    "regNumber": "58770.14.1Р.00376994",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/376994",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "21112",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772."
+                },
+                {
+                    "regNumber": "16500.97.3Р.00457619",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/457619",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY47012920",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "«ГПС для СИ переменного электрического напряжения до 1000 В в диапазоне частот от 1·10[^-1] до 2·10[^9] Гц»"
+                }
+            ]
+        },
+        "info": {
+            "structure": "АС102-1А №235840",
+            "briefIndicator": false
+        }
+    },
+    "183918214": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36262-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345586",
+                "mitypeType": "КОН.ТЕСТ 795",
+                "mitypeTitle": "Виброанализаторы портативные",
+                "manufactureNum": "1404030503",
+                "manufactureYear": 2014,
+                "modification": "КОН.ТЕСТ 795"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"НИАИ \"ИСТОЧНИК\"",
+            "vrfDate": "06.09.2022",
+            "validDate": "05.09.2023",
+            "vriType": "2",
+            "docTitle": "\"Виброанализатор портативный КОН.ТЕСТ 795. Методика поверки\"",
+            "inapplicable": {
+                "noticeNum": "И-СП\/06-09-2022\/183914013"
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.1310.2015",
+                    "title": "Государственный эталон 2 разряда единиц виброперемещения в диапазоне значений от 5·10[^-6] до 5·10[^-3] м, виброскорости в диапазоне значений от 5·10[^-4] до 3,8·10[^-1] м\/с, виброускорения в диапазоне значений от 2·10[^-1] до 1,96·10[^2] м\/с[^2] в диапазоне частот от 0,7 до 1·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/406236"
+                }
+            ]
+        },
+        "info": {
+            "structure": "АС102-1А № 153338 Кпр = 95,1 мВ\/g",
+            "briefIndicator": false
+        }
+    },
+    "168528550": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36262-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345586",
+                "mitypeType": "КОН.ТЕСТ 795",
+                "mitypeTitle": "Виброанализаторы портативные",
+                "manufactureNum": "050807124",
+                "manufactureYear": 2007,
+                "modification": "КОН.ТЕСТ 795"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Общество с ограниченной ответственностью \"ТРАНСНЕФТЬ - БАЛТИКА\"",
+            "vrfDate": "06.07.2022",
+            "validDate": "05.07.2023",
+            "vriType": "2",
+            "docTitle": "\"Виброанализатор портативный КОН.ТЕСТ 795. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-СП\/06-07-2022\/168528550",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.1310.2015",
+                    "title": "Государственный эталон 2 разряда единиц виброперемещения в диапазоне значений от 5·10[^-6] до 5·10[^-3] м, виброскорости в диапазоне значений от 5·10[^-4] до 3,8·10[^-1] м\/с, виброускорения в диапазоне значений от 2·10[^-1] до 1,96·10[^2] м\/с[^2] в диапазоне частот от 0,7 до 1·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/406236"
+                },
+                {
+                    "number": "3.1.ZСП.0993.2015",
+                    "title": "ГЭЕ ускорения при ударном движении 1 разряда в диапазоне значений от 0,01 до 77 м\/с[^2] и частоте следования ударных импульсов от 0,1 до 1080 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/487658"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ДН-3-М1 № 2221, щуп ударных импульсов, таходатчик",
+            "briefIndicator": false,
+            "additional_info": "Кпр = 13,2 пКл\/мс^-2, калибров.значение для встроенного генератора ударных импульсов равно 38 dB при dBi=0"
+        }
+    },
+    "138762264": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36262-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345586",
+                "mitypeType": "КОН.ТЕСТ 795",
+                "mitypeTitle": "Виброанализаторы портативные",
+                "manufactureNum": "16453588",
+                "modification": "КОН.ТЕСТ 795"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "владелец",
+            "vrfDate": "11.03.2022",
+            "validDate": "10.03.2023",
+            "vriType": "2",
+            "docTitle": "Виброанализатор портативный КОН.ТЕСТ 795. Методика поверки. Согласовано ГЦИ СИ ФБУ «Тест-С.-Петербург» в сентябре 2007 г.",
+            "applicable": {
+                "certNum": "С-ТТ\/11-03-2022\/138762264",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.05301",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/5301",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1766",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                },
+                {
+                    "regNumber": "25900.03.4Р.49431",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49431",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты. Приказ1621"
+                },
+                {
+                    "regNumber": "25900.03.3Р.49432",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49432",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления. Приказ 146"
+                },
+                {
+                    "regNumber": "25900.03.2Р.49433",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49433",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для измерений силы переменного электрического тока от 1•10^-8 до 100 А в диапазоне частот от 1•10^-1 до 1•10^6 Гц.Приказ 575"
+                },
+                {
+                    "regNumber": "25900.03.2Р.49434",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49434",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ переменного электрического напряжения до 1000 В в диапазоне частот от 1•10^1 до 2•10^9 Гц.Приказ 1053"
+                },
+                {
+                    "regNumber": "25900.03.2Р.49436",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/49436",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.027-2001 для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "25900.03.1Р.00293795",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/293795",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45047330",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока. Приказ 2091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "[ID=11049b1f-a110-11ec-af4f-0025902af9c6] Неравномерность АЧХ равна 5 % в диапазоне частот от 2 Гц до 10 000 Гц.  Калибровочное значение равно 95,68 mV\/g.  Поверка проводилась в комплекте с вибропреобразователем АС102-1А № 201339"
+        }
+    },
+    "137268531": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36262-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345586",
+                "mitypeType": "КОН.ТЕСТ 795",
+                "mitypeTitle": "Виброанализаторы портативные",
+                "manufactureNum": "17335618",
+                "manufactureYear": 2007,
+                "modification": "КОН.ТЕСТ 795"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ЧЕЛЯБИНСКОЙ ОБЛАСТИ\"(ФБУ \"ЧЕЛЯБИНСКИЙ ЦСМ\")",
+            "signCipher": "ГА",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.03.2022",
+            "validDate": "02.03.2023",
+            "vriType": "2",
+            "docTitle": "795.000.00.МП",
+            "applicable": {
+                "certNum": "С-ГА\/03-03-2022\/137268531",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "76471.19.1Р.00193652",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/193652",
+                    "mitypeNumber": "76471-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/891820",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "АТ-9000",
+                    "modification": "АТ-9000-Р",
+                    "manufactureNum": "19014-225",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "26379-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332492",
+                    "mitypeTitle": "Гигрометры",
+                    "number": "61441103"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "973"
+                },
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "123339"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Вибропреобразователь АС102-1А № 274853"
+        }
+    },
+    "132398444": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36262-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345586",
+                "mitypeType": "КОН.ТЕСТ 795",
+                "mitypeTitle": "Виброанализаторы портативные",
+                "manufactureNum": "802050112",
+                "modification": "КОН.ТЕСТ 795"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТОМСКОЙ ОБЛАСТИ\"(ФБУ \"ТОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЭ",
+            "miOwner": "ООО \"ТЭС Сибирь\"",
+            "vrfDate": "16.02.2022",
+            "validDate": "15.02.2023",
+            "vriType": "2",
+            "docTitle": "МП Тест-Санкт-Петербург",
+            "applicable": {
+                "certNum": "С-ВЭ\/16-02-2022\/132398444",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "50247.12.2Р.00488465",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/488465",
+                    "mitypeNumber": "50247-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362044",
+                    "mitypeTitle": "Виброустановки калибровочные портативные",
+                    "notation": "9100D и 9110D",
+                    "modification": "9110D",
+                    "manufactureNum": "10238",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ виброперемещения, виброскорости, виброускорения и углового ускорения, утв. приказом Росстандарта № 2772 от 27.12.2018"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "126514869": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36262-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345586",
+                "mitypeType": "КОН.ТЕСТ 795",
+                "mitypeTitle": "Виброанализаторы портативные",
+                "manufactureNum": "704020076",
+                "modification": "Виброанализатор портативный КОН.ТЕСТ 795"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИСКАТЕЛЬ - 2\"(ООО \"ИСКАТЕЛЬ - 2\")",
+            "signCipher": "АКЗ",
+            "miOwner": "АО \"НПФ \"НЕВИНТЕРМАШ\"",
+            "vrfDate": "26.01.2022",
+            "validDate": "25.01.2023",
+            "vriType": "2",
+            "docTitle": "МП Тест-Санкт-Петербург",
+            "applicable": {
+                "certNum": "С-АКЗ\/26-01-2022\/126514869",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "64196.16.2Р.00412539",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/412539",
+                    "mitypeNumber": "64196-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377851",
+                    "mitypeTitle": "Гигрометры",
+                    "notation": "Rotronic мод. HygroPalm, HygroLog NT, HygroLab C1, HL-20D, HL-1D, GTS",
+                    "modification": "HygroPalm исполнение HP23-A",
+                    "manufactureNum": "61789791",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 \"ГСОЕИ. Государственная поверочная схема для средств измерения влажности газов\""
+                },
+                {
+                    "regNumber": "68155.17.2Р.00433038",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/433038",
+                    "mitypeNumber": "68155-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382179",
+                    "mitypeTitle": "Виброустановки электродинамические",
+                    "notation": "ВСВ-133",
+                    "modification": "нет модификации",
+                    "manufactureNum": "81027",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53064-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365348",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "number": "NDG10GAD2R1398"
+                },
+                {
+                    "mitypeNumber": "52058-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364185",
+                    "mitypeTitle": "Штангенциркули",
+                    "number": "105681"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "1007"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "от 0,1 до +100 м\/с ,от 0,1 до +100 мм\/с, от 1 до +700 мкм",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-126514869\/protocol",
+            "additional_info": "Поверено с применением эталонов: 3.2.АКЗ.0095.2019, 3.2.АКЗ.0138.2019,  3.2.АКЗ.0145.2019, 3.2.АКЗ.0147.2019,  3.2.АКЗ.0149.2019. 0693\/F"
+        }
+    }
+}

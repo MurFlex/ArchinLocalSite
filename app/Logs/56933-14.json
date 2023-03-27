@@ -1,0 +1,132 @@
+{
+    "179045168": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "56933-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369721",
+                "mitypeType": "NC 346C",
+                "mitypeTitle": "Генераторы шума",
+                "manufactureNum": "AH445",
+                "manufactureYear": 2015,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "17.08.2022",
+            "validDate": "16.08.2023",
+            "vriType": "2",
+            "docTitle": "документом МП 56933-14 «Инструкция. Генераторы шума NC 346C. Методика поверки»",
+            "applicable": {
+                "certNum": "С-Т\/17-08-2022\/179045168",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZT.0214.2015",
+                    "title": "ГРЭ единицы спектральной плотности мощности шумового радиоизлучения 1 разряда в диапазоне от 1000 до 20000 К в диапазоне частот от 0,002 до 178,3 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/405718"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#midc4e592e0-7cc3-4e01-b263-91e8a7f4aa16"
+        }
+    },
+    "167654757": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "56933-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369721",
+                "mitypeType": "NC 346C",
+                "mitypeTitle": "Генераторы шума",
+                "manufactureNum": "AH444",
+                "manufactureYear": 2018,
+                "modification": "NC346C"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УЛЬЯНОВСКИЙ МЕХАНИЧЕСКИЙ ЗАВОД\"(АО \"УМЗ\")",
+            "signCipher": "АПХ",
+            "miOwner": "АО \"УМЗ\"",
+            "vrfDate": "01.07.2022",
+            "vriType": "2",
+            "docTitle": "МП 56933-14",
+            "inapplicable": {
+                "noticeNum": "И-АПХ\/01-07-2022\/167654757"
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "56388-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369082",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "101998"
+                },
+                {
+                    "mitypeNumber": "52615-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364831",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "number": "104730"
+                },
+                {
+                    "mitypeNumber": "37179-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346682",
+                    "mitypeTitle": "Генераторы шума",
+                    "number": "MY44421790"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "145775266": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "56933-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369721",
+                "mitypeType": "NC 346C",
+                "mitypeTitle": "Генераторы шума",
+                "manufactureNum": "AJ618",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "05.04.2022",
+            "validDate": "04.04.2023",
+            "vriType": "2",
+            "docTitle": "документом МП 56933-14 «Инструкция. Генераторы шума NC 346C. Методика поверки»",
+            "applicable": {
+                "certNum": "С-Т\/05-04-2022\/145775266",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZT.0214.2015",
+                    "title": "ГРЭ единицы спектральной плотности мощности шумового радиоизлучения 1 разряда в диапазоне от 1000 до 20000 К в диапазоне частот от 0,002 до 178,3 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/405718"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "в диапазоне от 1,0 до 26,5 ГГц",
+            "additional_info": "#mid5e1741f8-aac1-4f34-a03b-8ee0f90ed782"
+        }
+    }
+}

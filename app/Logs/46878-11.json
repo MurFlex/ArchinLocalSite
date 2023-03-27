@@ -1,0 +1,92 @@
+{
+    "185426384": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "46878.11.РЭ.00672138",
+                "mitypeNumber": "46878-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358024",
+                "mitypeTitle": "Наборы мер блеска",
+                "mitypeType": "GlossSt-BYK",
+                "modification": "Нет модификации",
+                "manufactureNum": "1050956",
+                "manufactureYear": 2010,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 27.11.2018 №2516"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "7727061249 РОСТЕСТ-МОСКВА ФБУ",
+            "vrfDate": "07.09.2022",
+            "validDate": "06.09.2023",
+            "vriType": "2",
+            "docTitle": "\"Набор  мер блеска GlossSt-BYK. Методика поверки\". п.9 РЭ",
+            "applicable": {
+                "certNum": "С-А\/07-09-2022\/185426384",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZA.0014.2015",
+                    "title": "Государственный вторичный эталон единиц координат цвета в диапазонах от 2,5 до 109,0 для Х, от 1,4 до 98,0 для Y, от 1,7 до 107,0 для Z и координат цветности в диапазонах от 0,0039 до 0,7347 для x и от 0,0048 до 0,8338 для у",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446969"
+                }
+            ]
+        },
+        "info": {
+            "structure": "меры №№ 1050956-1; 1050956-2; 1050956-3; 1050956-4; 1050956-5;",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-185426384\/protocol"
+        }
+    },
+    "173607231": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "46878.11.РЭ.18822",
+                "mitypeNumber": "46878-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358024",
+                "mitypeTitle": "Наборы мер блеска",
+                "mitypeType": "GlossSt-BYK",
+                "modification": "GlossSt-BYK",
+                "manufactureNum": "1013942",
+                "manufactureYear": 2010,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "Приказ Росстандарта №2516"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "7727061249 РОСТЕСТ-МОСКВА ФБУ",
+            "vrfDate": "25.07.2022",
+            "validDate": "24.07.2023",
+            "vriType": "2",
+            "docTitle": "\"Набор  мер блеска GlossSt-BYK. Методика поверки\". п.9 РЭ",
+            "applicable": {
+                "certNum": "С-А\/25-07-2022\/173607231",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZA.0014.2015",
+                    "title": "Государственный вторичный эталон единиц координат цвета в диапазонах от 2,5 до 109,0 для Х, от 1,4 до 98,0 для Y, от 1,7 до 107,0 для Z и координат цветности в диапазонах от 0,0039 до 0,7347 для x и от 0,0048 до 0,8338 для у",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446969"
+                }
+            ]
+        },
+        "info": {
+            "structure": "меры№№ 1013942-1; 1013942-2; 1013942-3; 1013942-4; 1013942-5",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-173607231\/protocol"
+        }
+    }
+}

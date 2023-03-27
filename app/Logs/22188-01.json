@@ -1,0 +1,98 @@
+{
+    "187844654": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "22188-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325876",
+                "mitypeType": "RP-100",
+                "mitypeTitle": "Генераторы",
+                "manufactureNum": "514",
+                "modification": "ТС.ТМК-Н  исп. ТМК-Н.1.1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НИЦ МЕРА\"(ООО \"НИЦ МЕРА\")",
+            "signCipher": "ДДЯ",
+            "miOwner": "ООО \"Фирма Теплоэнергосервис\"",
+            "vrfDate": "13.09.2022",
+            "validDate": "12.09.2026",
+            "vriType": "2",
+            "docTitle": "ППБ.407281.002 РЭ",
+            "applicable": {
+                "certNum": "С-ДДЯ\/13-09-2022\/187844654",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.6.АЛП.0001.2015",
+                    "title": "Рабочий эталон единицы объемного расхода воды 2 разряда с диапазоном 0,02…180 м[^3]\/ч",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/405391"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "9084.90.4Р.00331721",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/331721",
+                    "mitypeNumber": "9084-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387757",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-63\/1",
+                    "modification": "Ч3-63\/1",
+                    "manufactureNum": "9007327",
+                    "manufactureYear": 1990,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "56011.13.4Р.00382864",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/382864",
+                    "mitypeNumber": "56011-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368661",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "DG1022, DG1012, DG1022A, DG1022U, DG1022Z",
+                    "modification": "DG1022",
+                    "manufactureNum": "DG1D140300209",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ № 1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "19736.11.3Р.00631115",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/631115",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "МИТ8.10М",
+                    "manufactureNum": "1799",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "6332.77.4Р.00658627",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/658627",
+                    "mitypeNumber": "6332-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376916",
+                    "mitypeTitle": "Магазины сопротивления",
+                    "notation": "Р4831",
+                    "modification": "Р4831",
+                    "manufactureNum": "08470",
+                    "manufactureYear": 1989,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ Росстандарта № 3456 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

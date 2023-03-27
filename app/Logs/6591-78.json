@@ -1,0 +1,98 @@
+{
+    "192988835": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "6591-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379726",
+                "mitypeType": "Ф4320",
+                "mitypeTitle": "Приборы комбинированные",
+                "manufactureNum": "07061",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ «ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КЕМЕРОВСКОЙ ОБЛАСТИ - КУЗБАССЕ»(ФБУ «КУЗБАССКИЙ ЦСМ»)",
+            "signCipher": "БЧ",
+            "miOwner": "юридическое лицо",
+            "vrfDate": "13.10.2022",
+            "validDate": "12.10.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.409-81",
+            "applicable": {
+                "certNum": "С-БЧ\/13-10-2022\/192988835",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБЧ.1315.2022",
+                    "title": "-",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1400523"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "5395.76.РЭ.14384",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/14384",
+                    "mitypeNumber": "5395-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366344",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "Р5025",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1734",
+                    "manufactureYear": 1978,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ПР-42-2018МП, МП 24900-09, FLUKE 287\/289 Методика поверки, TY520, TY530 Методика поверки, МП 06\/001-09"
+                },
+                {
+                    "regNumber": "11326.90.4Р.00339694",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/339694",
+                    "mitypeNumber": "11326-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305921",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "notation": "Р4834",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "01513",
+                    "manufactureYear": 1992,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "85851.22.1Р.00627055",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/627055",
+                    "mitypeNumber": "85851-22",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1400238",
+                    "mitypeTitle": "Наборы эталонных мер индуктивности и добротности",
+                    "notation": "LQ-2408",
+                    "modification": "LQ-2408-3",
+                    "manufactureNum": "15",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.732-2011 «ГСИ. Государственная поверочная схема для средств измерений индуктивности»"
+                },
+                {
+                    "regNumber": "85851.22.1Р.00627056",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/627056",
+                    "mitypeNumber": "85851-22",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1400238",
+                    "mitypeTitle": "Наборы эталонных мер индуктивности и добротности",
+                    "notation": "LQ-2408",
+                    "modification": "LQ-2408-3",
+                    "manufactureNum": "15",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.868 2014 «ГСИ. Государственная поверочная схема для средств измерений электрической добротности»"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

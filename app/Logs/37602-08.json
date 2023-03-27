@@ -1,0 +1,69 @@
+{
+    "214004221": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "37602.08.1Р.00258556",
+                "mitypeNumber": "37602-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347180",
+                "mitypeTitle": "Установка эталонная для поверки теодолитов",
+                "mitypeType": "ЭУ-1",
+                "modification": "ЭУ-1",
+                "manufactureNum": "РЭТ22-1Т-05",
+                "manufactureYear": 2007,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "приказ №2482 от 26.11.2018 г"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ ЭЛЕКТРОМЕХАНИКИ\"(АО \"НПО ЭЛЕКТРОМЕХАНИКИ\")",
+            "signCipher": "БЖЦ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "08.11.2022",
+            "validDate": "07.11.2024",
+            "vriType": "2",
+            "docTitle": "СНМК.400124.003МП",
+            "applicable": {
+                "certNum": "С-БЖЦ\/08-11-2022\/201203406",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "9773.84.1Р.00563552",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/563552",
+                    "mitypeNumber": "9773-84",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388776",
+                    "mitypeTitle": "Призмы многогранные класса точности 0, 1, 2",
+                    "notation": "ПМ6...ПМ36",
+                    "modification": "ПМ24",
+                    "manufactureNum": "01-88",
+                    "manufactureYear": 1988,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для СИ плоского угла, утвержденная Приказом Росстандарта № 2482 от 26.11.2018"
+                },
+                {
+                    "regNumber": "5280.79.1Р.00563553",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/563553",
+                    "mitypeNumber": "5280-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365042",
+                    "mitypeTitle": "Автоколлиматоры унифицированные",
+                    "notation": "АК-0,2У",
+                    "modification": "АК-0,2У",
+                    "manufactureNum": "800070",
+                    "manufactureYear": 1980,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерения плоского угла утвержденной Приказом Росстандарта № 2482 от 26.11.2018"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-214004221\/protocol"
+        }
+    }
+}

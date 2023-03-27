@@ -1,0 +1,184 @@
+{
+    "200129844": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62973-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376541",
+                "mitypeType": "NI PXIe-5668R",
+                "mitypeTitle": "Анализаторы спектра",
+                "manufactureNum": "30А8592\/1А92А9Е\/30А4С29",
+                "modification": "NI PXIe-5668R"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "09.11.2022",
+            "validDate": "08.11.2023",
+            "vriType": "2",
+            "docTitle": "651-15-62 МП",
+            "applicable": {
+                "certNum": "С-МА\/09-11-2022\/200129844",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39089.08.4Р.00246930",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/246930",
+                    "mitypeNumber": "39089-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/491339",
+                    "mitypeTitle": "Генераторы сигналов СВЧ",
+                    "notation": "R&S SMF100A",
+                    "modification": "R&S SMF100A",
+                    "manufactureNum": "101443",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31 июля 2018 года № 1621"
+                },
+                {
+                    "regNumber": "41567.09.4Р.00274383",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/274383",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "125711",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                },
+                {
+                    "regNumber": "43830.10.3Р.00575847",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/575847",
+                    "mitypeNumber": "43830-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354599",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "GPS-12R, GPS-12RG, GPS-12RR",
+                    "modification": "GPS-12RR",
+                    "manufactureNum": "997693",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                },
+                {
+                    "regNumber": "48368.11.1Р.00602817",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/602817",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "101544",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ ФАТРИМ № 3383 от 30 декабря 2019 г."
+                }
+            ]
+        },
+        "info": {
+            "structure": "аналого-цифровой преобразователь промежуточной частоты NI PXIe-5624R № 1А92А9Е; высокочастотный модуль понижения частоты NI PXIe-5606 № 30А8592; модуль синтезатора частоты NI PXIe-5653 № 30А4С29",
+            "briefIndicator": false,
+            "additional_info": "898e2f14-9423-4445-82e6-48cec0033315"
+        }
+    },
+    "179677272": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62973-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376541",
+                "mitypeType": "NI PXIe-5668R",
+                "mitypeTitle": "Анализаторы спектра",
+                "manufactureNum": "00F67853\/00F68237\/0309F76F",
+                "modification": "NI PXIe-5668R"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ПАО \"Радиофизика\"",
+            "vrfDate": "19.08.2022",
+            "validDate": "18.08.2023",
+            "vriType": "2",
+            "docTitle": "651-15-62 МП",
+            "applicable": {
+                "certNum": "С-МА\/19-08-2022\/179677272",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "48368.11.2Р.60448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60448",
+                    "mitypeNumber": "48368-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359839",
+                    "mitypeTitle": "Аттенюаторы ступенчатые",
+                    "notation": "R&S RSC",
+                    "modification": "R&S RSC (с модулем 03)",
+                    "manufactureNum": "101312",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ ослабления электромагнитных колебаний в диапазоне частот от 0 до 178 ГГц. Приказ ФАТРИМ  №3383 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "39089.08.4Р.00246930",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/246930",
+                    "mitypeNumber": "39089-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/491339",
+                    "mitypeTitle": "Генераторы сигналов СВЧ",
+                    "notation": "R&S SMF100A",
+                    "modification": "R&S SMF100A",
+                    "manufactureNum": "101443",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31 июля 2018 года № 1621"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ]
+        },
+        "info": {
+            "structure": "аналого-цифровой преобразователь промежуточной частоты NI PXIe-5624R № 00F67853; высокочастотный модуль понижения частоты NI PXIe-5606 № 00F68237; модуль синтезатора частоты NI PXIe-5653 № 0309F76F",
+            "briefIndicator": false,
+            "additional_info": "7d41b242-6314-44d8-8ce2-924f85b78387"
+        }
+    }
+}

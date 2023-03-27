@@ -1,0 +1,106 @@
+{
+    "206327131": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "55230-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367781",
+                "mitypeType": "ЭИНС РТ2.890.005 (приборы) МРК40-МС (имитаторы)",
+                "mitypeTitle": "Приборы-имитаторы навигационных сигналов",
+                "manufactureNum": "120001",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "АО \"ИСС\"",
+            "vrfDate": "07.12.2022",
+            "validDate": "06.12.2023",
+            "vriType": "2",
+            "docTitle": "651-13-33 МП \"Инструкция. Приборы ЭИНС РТ.890.005-имитаторы навигационных сигналов МРК40-МС. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-Т\/07-12-2022\/206327131",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZT.0378.2021",
+                    "title": "Государственный рабочий эталон 1 разряда единиц времени в диапазоне значений от 1,0 нс до 9,(9) с, частоты номинальных значений 1 Гц, 5 МГц, 10 МГц, 100 МГц и шкалы времени",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393287"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "82567.21.1Р.00434535",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/434535",
+                    "mitypeNumber": "82567-21",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1392364",
+                    "mitypeTitle": "Комплекс эталонный формирования и измерения радионавигационных параметров",
+                    "notation": "ЭФИР",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "001",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для координатно-временных средств измерений. Приказ 2831 от 29.12.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#midf7f62ff8-022e-4cac-9290-0d715419f81b"
+        }
+    },
+    "175993439": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "55230-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367781",
+                "mitypeType": "ЭИНС РТ2.890.005 (приборы) МРК40-МС (имитаторы)",
+                "mitypeTitle": "Приборы-имитаторы навигационных сигналов",
+                "manufactureNum": "120002",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "АО \"ИСС\"",
+            "vrfDate": "04.08.2022",
+            "validDate": "03.08.2023",
+            "vriType": "2",
+            "docTitle": "651-13-33 МП \"Инструкция. Приборы ЭИНС РТ.890.005-имитаторы навигационных сигналов МРК40-МС. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-Т\/04-08-2022\/175993439",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "82567.21.1Р.00434535",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/434535",
+                    "mitypeNumber": "82567-21",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1392364",
+                    "mitypeTitle": "Комплекс эталонный формирования и измерения радионавигационных параметров",
+                    "notation": "ЭФИР",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "001",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для координатно-временных средств измерений. Приказ 2831 от 29.12.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-175993439\/protocol",
+            "additional_info": "#mid90d66661-e2d1-46ce-932b-0ce7adf79047"
+        }
+    }
+}

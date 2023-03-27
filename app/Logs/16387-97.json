@@ -1,0 +1,101 @@
+{
+    "218883788": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "16387-97",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315374",
+                "mitypeType": "DA-110M",
+                "mitypeTitle": "Плотномеры",
+                "manufactureNum": "NJB89B69",
+                "modification": "DA-110M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "30.01.2023",
+            "validDate": "29.01.2025",
+            "vriType": "2",
+            "docTitle": "МП ГР 16387-97, Ростест-Москва, 1997",
+            "applicable": {
+                "certNum": "С-МА\/30-01-2023\/218883788",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZTT.0012.2021",
+                    "title": "Государственный вторичный эталон единицы плотности в диапазоне значений от 650 до 2000 кг\/м[^3]",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1391638"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "e3a03b82-bdee-4060-a2dc-52ada2144303"
+        }
+    },
+    "165543133": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "16387-97",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315374",
+                "mitypeType": "DA-110M",
+                "mitypeTitle": "Плотномеры",
+                "manufactureNum": "NJB15950",
+                "manufactureYear": 1995,
+                "modification": "DA-110M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОЯРСКОМ КРАЕ, РЕСПУБЛИКЕ ХАКАСИЯ И РЕСПУБЛИКЕ ТЫВА\"(ФБУ \"КРАСНОЯРСКИЙ ЦСМ\")",
+            "signCipher": "АШ",
+            "miOwner": "ЮЛ",
+            "vrfDate": "10.06.2022",
+            "validDate": "09.06.2024",
+            "vriType": "2",
+            "docTitle": "МП Ростест-Москва",
+            "applicable": {
+                "certNum": "С-АШ\/10-06-2022\/165543133",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 8102-2002",
+                    "title": "СО ПЛОТНОСТИ ЖИДКОСТИ (РЭП-8)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/391950",
+                    "manufactureYear": 2022
+                },
+                {
+                    "number": "ГСО 8583-2004",
+                    "title": "СО ПЛОТНОСТИ ЖИДКОСТИ (РЭП-5)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/391601",
+                    "manufactureYear": 2022
+                },
+                {
+                    "number": "ГСО 8579-2004",
+                    "title": "СО ПЛОТНОСТИ ЖИДКОСТИ (РЭП-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/391605",
+                    "manufactureYear": 2022
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "69551-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383685",
+                    "mitypeTitle": "Термометры лабораторные электронные",
+                    "number": "870346"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

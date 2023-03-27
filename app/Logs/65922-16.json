@@ -1,0 +1,78 @@
+{
+    "150564726": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "65922-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379739",
+                "mitypeType": "Profile P3",
+                "mitypeTitle": "Устройства контрольно-измерительные для проверки высоковольтных выключателей",
+                "manufactureNum": "100-01533",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И  ИСПЫТАНИЙ В ЛИПЕЦКОЙ ОБЛАСТИ\"(ФБУ \"ЛИПЕЦКИЙ ЦСМ\")",
+            "signCipher": "ВБ",
+            "miOwner": "филиал ПАО \"Россети Центра\" - \"Липецкэнерго\"",
+            "vrfDate": "06.04.2022",
+            "validDate": "05.04.2024",
+            "vriType": "2",
+            "docTitle": "МП 206.1-057-2016",
+            "applicable": {
+                "certNum": "С-ВБ\/06-04-2022\/150564726",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZВБ.0480.2019",
+                    "title": "Государственный рабочий эталон единицы частоты 4 разряда в диапазоне значений от 1мкГц до 120 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/629244"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "37463.08.2Р.00314951",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/314951",
+                    "mitypeNumber": "37463-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395639",
+                    "mitypeTitle": "Калибраторы-вольтметры универсальные",
+                    "notation": "Н4-12",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "002409",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30.12.2019 г. № 3457."
+                },
+                {
+                    "regNumber": "37463.08.1Р.00314952",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/314952",
+                    "mitypeNumber": "37463-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395639",
+                    "mitypeTitle": "Калибраторы-вольтметры универсальные",
+                    "notation": "Н4-12",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "002409",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приложение к приказу Федерального агентства по техническому регулированию и метрологии от 01.10.2018 г. № 2091."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "51562-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363598",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "ЕМ211251"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

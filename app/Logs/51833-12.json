@@ -1,0 +1,217 @@
+{
+    "174246665": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "51833.12.2Р.00649187",
+                "mitypeNumber": "51833-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363921",
+                "mitypeTitle": "Термогигрометры",
+                "mitypeType": "HM70",
+                "modification": "Нет модификации",
+                "manufactureNum": "K3120003",
+                "manufactureYear": 2014,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта от 15.12.2021 № 2885"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"",
+            "vrfDate": "29.07.2022",
+            "validDate": "28.07.2023",
+            "vriType": "2",
+            "docTitle": "МП-242-1397-2012",
+            "applicable": {
+                "certNum": "С-ТТ\/29-07-2022\/174246665",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "62154.15.3Р.00161134",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/161134",
+                    "mitypeNumber": "62154-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375630",
+                    "mitypeTitle": "Термометры сопротивления эталонные",
+                    "notation": "ЭТС-100М",
+                    "modification": "ЭТС-100М1",
+                    "manufactureNum": "101",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "32405.11.1Р.00409855",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/409855",
+                    "mitypeNumber": "32405-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340725",
+                    "mitypeTitle": "Генераторы влажного воздуха",
+                    "notation": "HygroGen",
+                    "modification": "модификация  HygroGen 2-473",
+                    "manufactureNum": "VCT-HG2-1916",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 «Государственная поверочная схема для средств измерений влажности газов»"
+                }
+            ]
+        },
+        "info": {
+            "structure": "измерительный преобразователь HMP77B, зав. № K3230028",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-174246665\/protocol",
+            "additional_info": "гэт151-2020"
+        }
+    },
+    "171522827": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "51833-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363921",
+                "mitypeType": "HM70",
+                "mitypeTitle": "Термогигрометры",
+                "manufactureNum": "J4020008",
+                "modification": "HM70 исп. HMP77"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОЯРСКОМ КРАЕ, РЕСПУБЛИКЕ ХАКАСИЯ И РЕСПУБЛИКЕ ТЫВА\"(ФБУ \"КРАСНОЯРСКИЙ ЦСМ\")",
+            "signCipher": "АШ",
+            "miOwner": "ФБУ \"КРАСНОЯРСКИЙ ЦСМ\"",
+            "vrfDate": "13.05.2022",
+            "validDate": "12.05.2023",
+            "vriType": "2",
+            "docTitle": "МП-242-1397-2012 «Термогигрометры HM70. Фирма “Vaisala Oyj”, Финляндия. Методика поверки»",
+            "applicable": {
+                "certNum": "С-АШ\/13-05-2022\/171522827",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "62154.15.2Р.00436283",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/436283",
+                    "mitypeNumber": "62154-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375630",
+                    "mitypeTitle": "Термометры сопротивления эталонные",
+                    "notation": "ЭТС-100М",
+                    "modification": "исполнение ЭТС-100М2",
+                    "manufactureNum": "210",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "32405.11.1Р.00573392",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/573392",
+                    "mitypeNumber": "32405-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340725",
+                    "mitypeTitle": "Генераторы влажного воздуха",
+                    "notation": "HygroGen",
+                    "modification": "модификация HygroGen 2-473",
+                    "manufactureNum": "VCT-HG2-1997",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений влажности газов и температуры конденсации углеводородов, утвержденная При"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "23245-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395594",
+                    "mitypeTitle": "Преобразователи сигналов ТС и ТП прецизионные",
+                    "number": "830794"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "151232158": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "51833-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363921",
+                "mitypeType": "HM70",
+                "mitypeTitle": "Термогигрометры",
+                "manufactureNum": "М2430008",
+                "manufactureYear": 2016,
+                "modification": "HM70 исп. HMP77"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"РПКБ \"",
+            "vrfDate": "22.04.2022",
+            "validDate": "21.04.2023",
+            "vriType": "2",
+            "docTitle": "МП-242-1397-2012",
+            "applicable": {
+                "certNum": "С-СП\/22-04-2022\/151232158",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32405.06.1Р.34363",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/34363",
+                    "mitypeNumber": "32405-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340724",
+                    "mitypeTitle": "Генераторы влажного воздуха динамические",
+                    "notation": "Hygrogen",
+                    "modification": "HygroGen 2",
+                    "manufactureNum": "60195633",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 \"Государственная поверочная схема для средств измерения влажности"
+                },
+                {
+                    "regNumber": "32777.06.3Р.00181013",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/181013",
+                    "mitypeNumber": "32777-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341242",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ",
+                    "modification": "ПТСВ, мод. ПТСВ-2-3",
+                    "manufactureNum": "551",
+                    "manufactureYear": 2006,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 ПРИНЯТ межгосударственным советом по стандартизации, метрологии и сертификации (протокол от 11 ноября 2009 г. №3"
+                },
+                {
+                    "regNumber": "32777.06.3Р.00181018",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/181018",
+                    "mitypeNumber": "32777-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341242",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ",
+                    "modification": "ПТСВ, мод. ПТСВ-2-3",
+                    "manufactureNum": "551",
+                    "manufactureYear": 2006,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ]
+        },
+        "info": {
+            "structure": "с датчиком М3050322",
+            "briefIndicator": false
+        }
+    }
+}

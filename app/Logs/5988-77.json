@@ -1,0 +1,50 @@
+{
+    "218701172": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "5988-77",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373099",
+                "mitypeType": "М3-48",
+                "mitypeTitle": "Ваттметры поглощаемой мощности",
+                "manufactureNum": "2581\/0462\/0462",
+                "modification": "М3-48"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВОЛГОГРАДСКИЙ ЗАВОД РАДИОТЕХНИЧЕСКОГО ОБОРУДОВАНИЯ\"(ОАО \"ВЗРТО\")",
+            "signCipher": "ВЫП",
+            "miOwner": "ОАО \"ВЗРТО\"",
+            "vrfDate": "27.01.2023",
+            "validDate": "26.01.2024",
+            "vriType": "2",
+            "docTitle": "2.720.025 ТО, раздел 14 \"Поверка прибора\"",
+            "applicable": {
+                "certNum": "С-ВЫП\/27-01-2023\/218701172",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "37008.08.3Р.00281125",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/281125",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z24",
+                    "manufactureNum": "100059",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний, приказ от 30.12.2019 № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Протокол поверки"
+        }
+    }
+}

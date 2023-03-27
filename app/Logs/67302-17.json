@@ -1,0 +1,69 @@
+{
+    "153868940": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "67302.17.4Р.00255699",
+                "mitypeNumber": "67302-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381235",
+                "mitypeTitle": "Генераторы сигналов",
+                "mitypeType": "S1103",
+                "modification": "мод. S1103B",
+                "manufactureNum": "ZFF00311",
+                "manufactureYear": 2018,
+                "rankCode": "4Р",
+                "rankTitle": "Эталон 4-го разряда",
+                "schemaTitle": "ГПС для средств измерений времени и частоты приказ № 1621"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "06.05.2022",
+            "validDate": "05.05.2023",
+            "vriType": "2",
+            "docTitle": "S1103МП-2017 «ГСИ. Генераторы сигналов серии S1103. Методика поверки»",
+            "applicable": {
+                "certNum": "С-Т\/06-05-2022\/153868940",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZТ.0237.2016",
+                    "title": "Государственный рабочий эталон единицы мощности электромагнитных колебаний 1 разряда в диапазоне значений от 0,1 до 10 мВт в диапазоне частот от 0,03 до 37,5 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/401701"
+                },
+                {
+                    "number": "3.1.ZZT.0288.2018",
+                    "title": "Государственный рабочий эталон единицы мощности электромагнитных колебаний в диапазоне значений от 0,1 до 10 мВт в диапазоне частот от 37,5 до 220 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/826873"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "62740.15.3Р.45742",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/45742",
+                    "mitypeNumber": "62740-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376280",
+                    "mitypeTitle": "Стандарты частоты и времени рубидиевые",
+                    "notation": "Ч1-92",
+                    "modification": "Ч1-92",
+                    "manufactureNum": "1729-80А0750М",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты, приказ № 1621"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-153868940\/protocol",
+            "additional_info": "#midb5c31a09-261b-49b3-b274-d71473225fb4"
+        }
+    }
+}

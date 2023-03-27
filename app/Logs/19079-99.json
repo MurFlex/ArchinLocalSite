@@ -1,0 +1,58 @@
+{
+    "221769751": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "19079-99",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320481",
+                "mitypeType": "Elohmi Z",
+                "mitypeTitle": "Измерители сопротивлений заземления",
+                "manufactureNum": "9044",
+                "modification": "Elohmi Z"
+            }
+        },
+        "vriInfo": {
+            "organization": "Филиал в Тюменской и Курганской областях ПАО «Ростелеком»(Филиал в Тюменской и Курганской областях ПАО «Ростелеком»)",
+            "signCipher": "АМЛ",
+            "miOwner": "ПАО \"Ростелеком\"",
+            "vrfDate": "18.01.2023",
+            "validDate": "17.01.2024",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.409-81 \"ГСИ. Омметры. Методы и средства поверки\",",
+            "applicable": {
+                "certNum": "С-АМЛ\/18-01-2023\/221769751",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "6332.77.4Р.00452208",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/452208",
+                    "mitypeNumber": "6332-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376916",
+                    "mitypeTitle": "Магазины сопротивления",
+                    "notation": "Р4831",
+                    "modification": "Р4831",
+                    "manufactureNum": "26462",
+                    "manufactureYear": 1984,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ № 3456 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "6332-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376916",
+                    "mitypeTitle": "Магазины сопротивления",
+                    "number": "26462"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "подразделение: Центр эксплуатации Станционный участок г. Курган"
+        }
+    }
+}

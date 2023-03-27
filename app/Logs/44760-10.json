@@ -1,0 +1,48 @@
+{
+    "143238305": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44760.10.РЭ.00199308",
+                "mitypeNumber": "44760-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355654",
+                "mitypeTitle": "Радиометр объемной активности радона-222 эталонный",
+                "mitypeType": "AlphaGUARD PQ2000PRO",
+                "modification": "Нет модификации",
+                "manufactureNum": "EF-1908",
+                "manufactureYear": 2010,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "еФ2.204.222 МП"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "28.03.2022",
+            "validDate": "27.03.2023",
+            "vriType": "2",
+            "docTitle": "еФ2.204.222 МП \"Радиометр объемной активности радона-222 эталонный AlphaGUARD PQ 2000PRO № EF-1908. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-Т\/28-03-2022\/143238305",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт39-2021",
+                    "title": "ГПЭ единиц объёмной активности радиоактивных аэрозолей, радона, торона и плотности потока радона",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1393292"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-143238305\/protocol",
+            "additional_info": "#midab508dc0-4725-4888-835c-2562b7eaea42"
+        }
+    }
+}

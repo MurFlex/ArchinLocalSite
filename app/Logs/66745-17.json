@@ -1,0 +1,613 @@
+{
+    "217100434": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "66745.17.2Р.00187988",
+                "mitypeNumber": "66745-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380631",
+                "mitypeTitle": "Делители напряжения составные",
+                "mitypeType": "ДН-160пт\/2",
+                "modification": "ДН-160пт\/2",
+                "manufactureNum": "08",
+                "manufactureYear": 2020,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта № 3453 от 30.12.2019 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"",
+            "vrfDate": "20.01.2023",
+            "validDate": "19.01.2024",
+            "vriType": "2",
+            "docTitle": "РТ-МП-3572-551-2016",
+            "applicable": {
+                "certNum": "С-МА\/20-01-2023\/217100434",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32397.06.1Р.00171450",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/171450",
+                    "mitypeNumber": "32397-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340713",
+                    "mitypeTitle": "Трансформаторы напряжения измерительные эталонные",
+                    "notation": "NVDD, NVOD, NVOS, NVRD",
+                    "modification": "NVOS 300mo",
+                    "manufactureNum": "2\/09\/1261",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3453 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "32397.06.1Р.00280122",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/280122",
+                    "mitypeNumber": "56003-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368647",
+                    "mitypeTitle": "Трансформаторы напряжения измерительные эталонные",
+                    "notation": "NVRD",
+                    "modification": "NVRD 40",
+                    "manufactureNum": "2\/06\/2404",
+                    "manufactureYear": 2006,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3453 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-217100434\/protocol",
+            "additional_info": "a777c668-c500-4922-be55-48fa486ea4dd"
+        }
+    },
+    "172752036": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "66745.17.2Р.00387178",
+                "mitypeNumber": "66745-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380631",
+                "mitypeTitle": "Делители напряжения составные",
+                "mitypeType": "ДН-160пт\/2",
+                "modification": "ДН-160пт\/2",
+                "manufactureNum": "02",
+                "manufactureYear": 2018,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3453"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "ООО «Московский Центр Метрологии»",
+            "vrfDate": "19.07.2022",
+            "validDate": "18.07.2023",
+            "vriType": "2",
+            "docTitle": "РТ-МП-3572-551-2016",
+            "applicable": {
+                "certNum": "С-М\/19-07-2022\/172752036",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZM.0063.2013",
+                    "title": "Государственный эталон 1 разряда единиц коэффициента масштабного преобразования напряжения промышленной частоты в диапазоне отношений входных напряжений с номинальными значениями (110000\/√3, 220000\/√3, 330000\/√3) В к входным напряжениям с номинальными значениями (100\/√3, 100\/3) B и угла фазового сдвига напряжений промышленной частоты в диапазоне - 0,09… + 0,09 срад",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/463571"
+                },
+                {
+                    "number": "3.1.ZZM.0060.2013",
+                    "title": "Государственный эталон 1 разряда единиц коэффициента масштабного преобразования напряжения промышленной частоты в диапазоне отношений входных напряжений с номинальными значениями (3000; 5000; 6000; 10000; 15000; 20000; 35000; 40000) В к выходному напряжению с номинальным значением 100 B и угла фазового сдвига напряжений промышленной частоты в диапазоне - 0,09… + 0,09 срад",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/428616"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-172752036\/protocol"
+        }
+    },
+    "158183457": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "66745.17.2Р.00334684",
+                "mitypeNumber": "66745-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380631",
+                "mitypeTitle": "Делители напряжения составные",
+                "mitypeType": "ДН-160пт\/2",
+                "modification": "ДН-160пт\/2",
+                "manufactureNum": "01_58",
+                "manufactureYear": 2017,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3453"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "ОАО «РЖД» ЗАБЦМ",
+            "vrfDate": "18.05.2022",
+            "validDate": "17.05.2023",
+            "vriType": "2",
+            "docTitle": "РТ-МП-3572-551-2016",
+            "applicable": {
+                "certNum": "С-М\/18-05-2022\/158183457",
+                "stickerNum": "-",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZM.0063.2013",
+                    "title": "Государственный эталон 1 разряда единиц коэффициента масштабного преобразования напряжения промышленной частоты в диапазоне отношений входных напряжений с номинальными значениями (110000\/√3, 220000\/√3, 330000\/√3) В к входным напряжениям с номинальными значениями (100\/√3, 100\/3) B и угла фазового сдвига напряжений промышленной частоты в диапазоне - 0,09… + 0,09 срад",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/463571"
+                },
+                {
+                    "number": "3.1.ZZM.0060.2013",
+                    "title": "Государственный эталон 1 разряда единиц коэффициента масштабного преобразования напряжения промышленной частоты в диапазоне отношений входных напряжений с номинальными значениями (3000; 5000; 6000; 10000; 15000; 20000; 35000; 40000) В к выходному напряжению с номинальным значением 100 B и угла фазового сдвига напряжений промышленной частоты в диапазоне - 0,09… + 0,09 срад",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/428616"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-158183457\/protocol"
+        }
+    },
+    "156308221": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "66745.17.2Р.00607964",
+                "mitypeNumber": "66745-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380631",
+                "mitypeTitle": "Делители напряжения составные",
+                "mitypeType": "ДН-160пт\/2",
+                "modification": "ДН-160пт\/2",
+                "manufactureNum": "09",
+                "manufactureYear": 2020,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "3453"
+            }
+        },
+        "vriInfo": {
+            "organization": "УРАЛЬСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ(УРАЛЬСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ)",
+            "signCipher": "С",
+            "miOwner": "ООО \"МОСЭНЕРГОТЕСТ\", ИНН 7727342070",
+            "vrfDate": "12.05.2022",
+            "validDate": "11.05.2023",
+            "vriType": "2",
+            "docTitle": "РТ-МП-3572-551-2016",
+            "applicable": {
+                "certNum": "С-С\/12-05-2022\/156308221",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZВ.0413.2022",
+                    "title": "Государственный вторичный эталон единиц коэффициента масштабного преобразования и угла фазового сдвига электрического напряжения переменного тока промышленной частоты в диапазоне от 110\/√3 до 220\/√3 кВ",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1398894"
+                },
+                {
+                    "number": "2.1.ZZC.0265.2017",
+                    "title": "Государственный вторичный эталон единиц коэффициента масштабного преобразования и угла фазового сдвига электрического напряжения переменного тока промышленной частоты в диапазоне значений от 3 до 36 кВ",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/573451"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "151703842": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "66745.17.2Р.00599637",
+                "mitypeNumber": "66745-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380631",
+                "mitypeTitle": "Делители напряжения составные",
+                "mitypeType": "ДН-160пт\/2",
+                "modification": "ДН-160пт\/2",
+                "manufactureNum": "03",
+                "manufactureYear": 2018,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта № 3453 от 30.12.2019 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФБУ \"Ростест-Москва\"",
+            "vrfDate": "11.04.2022",
+            "validDate": "10.04.2023",
+            "vriType": "2",
+            "docTitle": "РТ-МП-3572-551-2016",
+            "applicable": {
+                "certNum": "С-МА\/11-04-2022\/151703842",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32397.06.1Р.00171450",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/171450",
+                    "mitypeNumber": "32397-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340713",
+                    "mitypeTitle": "Трансформаторы напряжения измерительные эталонные",
+                    "notation": "NVDD, NVOD, NVOS, NVRD",
+                    "modification": "NVOS 300mo",
+                    "manufactureNum": "2\/09\/1261",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3453 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "32397.06.1Р.00280122",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/280122",
+                    "mitypeNumber": "56003-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368647",
+                    "mitypeTitle": "Трансформаторы напряжения измерительные эталонные",
+                    "notation": "NVRD",
+                    "modification": "NVRD 40",
+                    "manufactureNum": "2\/06\/2404",
+                    "manufactureYear": 2006,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3453 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "52854.13.1Р.00284208",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284208",
+                    "mitypeNumber": "52854-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365106",
+                    "mitypeTitle": "Приборы электроизмерительные эталонные многофункциональные",
+                    "notation": "Энергомонитор-3.1КМ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "800",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  № 1436 от 23.07.2021 Приложение А (Подсистема воспроизведения единиц электрической мощности) к ГПС"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-151703842\/protocol",
+            "additional_info": "cfc2f681-fe50-44af-b8b1-0991861f1159"
+        }
+    },
+    "151703838": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "66745.17.2Р.00599636",
+                "mitypeNumber": "66745-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380631",
+                "mitypeTitle": "Делители напряжения составные",
+                "mitypeType": "ДН-160пт\/2",
+                "modification": "ДН-160пт\/2",
+                "manufactureNum": "05",
+                "manufactureYear": 2019,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта № 3453 от 30.12.2019 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФБУ \"Ростест-Москва\"",
+            "vrfDate": "11.04.2022",
+            "validDate": "10.04.2023",
+            "vriType": "2",
+            "docTitle": "РТ-МП-3572-551-2016",
+            "applicable": {
+                "certNum": "С-МА\/11-04-2022\/151703838",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32397.06.1Р.00171450",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/171450",
+                    "mitypeNumber": "32397-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340713",
+                    "mitypeTitle": "Трансформаторы напряжения измерительные эталонные",
+                    "notation": "NVDD, NVOD, NVOS, NVRD",
+                    "modification": "NVOS 300mo",
+                    "manufactureNum": "2\/09\/1261",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3453 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "32397.06.1Р.00280122",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/280122",
+                    "mitypeNumber": "56003-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368647",
+                    "mitypeTitle": "Трансформаторы напряжения измерительные эталонные",
+                    "notation": "NVRD",
+                    "modification": "NVRD 40",
+                    "manufactureNum": "2\/06\/2404",
+                    "manufactureYear": 2006,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3453 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "52854.13.1Р.00284208",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284208",
+                    "mitypeNumber": "52854-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365106",
+                    "mitypeTitle": "Приборы электроизмерительные эталонные многофункциональные",
+                    "notation": "Энергомонитор-3.1КМ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "800",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  № 1436 от 23.07.2021 Приложение А (Подсистема воспроизведения единиц электрической мощности) к ГПС"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-151703838\/protocol",
+            "additional_info": "49f2b27b-bbb1-4fea-99b4-76dbc76fdc02"
+        }
+    },
+    "151703831": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "66745.17.2Р.00599635",
+                "mitypeNumber": "66745-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380631",
+                "mitypeTitle": "Делители напряжения составные",
+                "mitypeType": "ДН-160пт\/2",
+                "modification": "ДН-160пт\/2",
+                "manufactureNum": "06",
+                "manufactureYear": 2019,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта № 3453 от 30.12.2019 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФБУ \"Ростест-Москва\"",
+            "vrfDate": "11.04.2022",
+            "validDate": "10.04.2023",
+            "vriType": "2",
+            "docTitle": "РТ-МП-3572-551-2016",
+            "applicable": {
+                "certNum": "С-МА\/11-04-2022\/151703831",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32397.06.1Р.00171450",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/171450",
+                    "mitypeNumber": "32397-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340713",
+                    "mitypeTitle": "Трансформаторы напряжения измерительные эталонные",
+                    "notation": "NVDD, NVOD, NVOS, NVRD",
+                    "modification": "NVOS 300mo",
+                    "manufactureNum": "2\/09\/1261",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3453 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "32397.06.1Р.00280122",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/280122",
+                    "mitypeNumber": "56003-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368647",
+                    "mitypeTitle": "Трансформаторы напряжения измерительные эталонные",
+                    "notation": "NVRD",
+                    "modification": "NVRD 40",
+                    "manufactureNum": "2\/06\/2404",
+                    "manufactureYear": 2006,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3453 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "52854.13.1Р.00284208",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284208",
+                    "mitypeNumber": "52854-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365106",
+                    "mitypeTitle": "Приборы электроизмерительные эталонные многофункциональные",
+                    "notation": "Энергомонитор-3.1КМ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "800",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  № 1436 от 23.07.2021 Приложение А (Подсистема воспроизведения единиц электрической мощности) к ГПС"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-151703831\/protocol",
+            "additional_info": "fa0b2141-3349-41a5-906a-f2d88b2bc9fd"
+        }
+    },
+    "151703825": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "66745.17.2Р.00599634",
+                "mitypeNumber": "66745-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380631",
+                "mitypeTitle": "Делители напряжения составные",
+                "mitypeType": "ДН-160пт\/2",
+                "modification": "ДН-160пт\/2",
+                "manufactureNum": "07",
+                "manufactureYear": 2019,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта № 3453 от 30.12.2019 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФБУ \"Ростест-Москва\"",
+            "vrfDate": "11.04.2022",
+            "validDate": "10.04.2023",
+            "vriType": "2",
+            "docTitle": "РТ-МП-3572-551-2016",
+            "applicable": {
+                "certNum": "С-МА\/11-04-2022\/151703825",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32397.06.1Р.00171450",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/171450",
+                    "mitypeNumber": "32397-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340713",
+                    "mitypeTitle": "Трансформаторы напряжения измерительные эталонные",
+                    "notation": "NVDD, NVOD, NVOS, NVRD",
+                    "modification": "NVOS 300mo",
+                    "manufactureNum": "2\/09\/1261",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3453 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "32397.06.1Р.00280122",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/280122",
+                    "mitypeNumber": "56003-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368647",
+                    "mitypeTitle": "Трансформаторы напряжения измерительные эталонные",
+                    "notation": "NVRD",
+                    "modification": "NVRD 40",
+                    "manufactureNum": "2\/06\/2404",
+                    "manufactureYear": 2006,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3453 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "52854.13.1Р.00284208",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284208",
+                    "mitypeNumber": "52854-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365106",
+                    "mitypeTitle": "Приборы электроизмерительные эталонные многофункциональные",
+                    "notation": "Энергомонитор-3.1КМ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "800",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  № 1436 от 23.07.2021 Приложение А (Подсистема воспроизведения единиц электрической мощности) к ГПС"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-151703825\/protocol",
+            "additional_info": "f8b39638-2817-43aa-b44a-941e876ac6da"
+        }
+    },
+    "127175610": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "66745.17.2Р.00187988",
+                "mitypeNumber": "66745-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380631",
+                "mitypeTitle": "Делители напряжения составные",
+                "mitypeType": "ДН-160пт\/2",
+                "modification": "ДН-160пт\/2",
+                "manufactureNum": "08",
+                "manufactureYear": 2020,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта № 3453 от 30.12.2019 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФБУ \"Ростест-Москва\" (Сергиево-Посадский филиал)",
+            "vrfDate": "25.01.2022",
+            "validDate": "24.01.2023",
+            "vriType": "2",
+            "docTitle": "РТ-МП-3572-551-2016",
+            "applicable": {
+                "certNum": "С-МА\/25-01-2022\/127175610",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32397.06.1Р.00171450",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/171450",
+                    "mitypeNumber": "32397-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340713",
+                    "mitypeTitle": "Трансформаторы напряжения измерительные эталонные",
+                    "notation": "NVDD, NVOD, NVOS, NVRD",
+                    "modification": "NVOS 300mo",
+                    "manufactureNum": "2\/09\/1261",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3453 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "32397.06.1Р.00280122",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/280122",
+                    "mitypeNumber": "56003-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368647",
+                    "mitypeTitle": "Трансформаторы напряжения измерительные эталонные",
+                    "notation": "NVRD",
+                    "modification": "NVRD 40",
+                    "manufactureNum": "2\/06\/2404",
+                    "manufactureYear": 2006,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3453 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-127175610\/protocol",
+            "additional_info": "c4eb102b-5478-4680-89d0-86cd4d677220"
+        }
+    }
+}

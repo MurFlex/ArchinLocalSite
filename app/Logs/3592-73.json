@@ -1,0 +1,79 @@
+{
+    "171801726": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3592-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345168",
+                "mitypeType": "АШТ",
+                "mitypeTitle": "Теодолиты аэрологические",
+                "manufactureNum": "65487",
+                "manufactureYear": 1983,
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В УДМУРТСКОЙ РЕСПУБЛИКЕ\"(ФБУ \"УДМУРТСКИЙ ЦСМ\")",
+            "signCipher": "АО",
+            "miOwner": "\"Ижевский центр ОВД ф-л \"Аэронавигация Урала \" ФГУП \" Горкорпорация по ОрВД \"",
+            "vrfDate": "11.07.2022",
+            "validDate": "10.07.2023",
+            "vriType": "2",
+            "docTitle": "Паспорт АШТ сб0 ПС.Раздел 8.Методы и средства поверки.",
+            "applicable": {
+                "certNum": "С-АО\/11-07-2022\/171801726",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "27149.04.3Р.25107",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/25107",
+                    "mitypeNumber": "27149-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333645",
+                    "mitypeTitle": "Установки автоколлимационные для поверки нивелиров и теодолитов",
+                    "notation": "АУПНТ",
+                    "modification": "АУПНТ",
+                    "manufactureNum": "08084",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 2482 от 26.11.2018"
+                },
+                {
+                    "regNumber": "47965.11.1Р.28414",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/28414",
+                    "mitypeNumber": "47965-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359359",
+                    "mitypeTitle": "Экзаменаторы эталонные I разряда",
+                    "notation": "М-055",
+                    "modification": "М-055",
+                    "manufactureNum": "1301",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ № 2482 от 26.11.2018 г."
+                },
+                {
+                    "regNumber": "10714.86.1Р.00518571",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/518571",
+                    "mitypeNumber": "10714-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1231418",
+                    "mitypeTitle": "Автоколлиматоры унифицированные",
+                    "notation": "АКУ",
+                    "modification": "АКУ-0,2",
+                    "manufactureNum": "0101",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ плоского угла. Приказ росстандарта № 2482 26.11.2018"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "0-9353"
+        }
+    }
+}

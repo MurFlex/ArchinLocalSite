@@ -1,0 +1,77 @@
+{
+    "128065377": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "1811-63",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318748",
+                "mitypeType": "ТП-11",
+                "mitypeTitle": "Термометры",
+                "manufactureNum": "К3602013",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "ФБУ \"Тюменский ЦСМ\"",
+            "vrfDate": "21.01.2022",
+            "validDate": "20.01.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.279-78 «ГСИ. Термометры стеклянные жидкостные рабочие. Методы и средства поверки»",
+            "applicable": {
+                "certNum": "С-ВЯ\/21-01-2022\/128065377",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "11804.99.1Р.00140249",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/140249",
+                    "mitypeNumber": "11804-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306580",
+                    "mitypeTitle": "Термометры сопротивления платиновые эталонные",
+                    "notation": "ПТС-10М",
+                    "modification": "ПТС-10М",
+                    "manufactureNum": "2415",
+                    "manufactureYear": 2008,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "19736.11.4Р.00283626",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/283626",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "МИТ 8.15",
+                    "manufactureNum": "154",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ Росстандарта № 3456 от 30 декабря 2019 года"
+                },
+                {
+                    "regNumber": "29228.05.3Р.00316156",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/316156",
+                    "mitypeNumber": "29228-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336482",
+                    "mitypeTitle": "Калибраторы температуры",
+                    "notation": "КТ-1",
+                    "modification": "КТ-1",
+                    "manufactureNum": "102",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ  8.558-2009\"ГСОЕИ. Государственная поверочная схема для средств  измерений температуры»"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

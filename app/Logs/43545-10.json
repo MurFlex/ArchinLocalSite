@@ -1,0 +1,48 @@
+{
+    "181302033": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "43545.10.3Р.00663377",
+                "mitypeNumber": "43545-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354253",
+                "mitypeTitle": "Полигон пространственный эталонный",
+                "mitypeType": "ОМСКИЙ",
+                "modification": "Нет модификации",
+                "manufactureNum": "ОМ-11",
+                "manufactureYear": 2010,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "ГПС для координатно-временных средств измерений. Приказ Росстандарта от 29.12.2018 г. №2831"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ФБУ \"Омский ЦСМ\"",
+            "vrfDate": "27.07.2022",
+            "validDate": "26.07.2025",
+            "vriType": "2",
+            "docTitle": "ОМ-11 МП «Полигоны пространственные эталонные. Методика поверки»",
+            "applicable": {
+                "certNum": "С-Т\/27-07-2022\/181302033",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт199-2018",
+                    "title": "ГПСЭ единицы длины",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397885"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "в части линейных измерений на интервалах базиса 24÷1000 м, на интервалах полигона 31000 м, 19690 м, 23866 м.",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-181302033\/protocol",
+            "additional_info": "Средство измерений поверено в части линейных измерений на интервалах Базиса 24÷1000 м, на интервалах Полигона 31000 м, 19690 м, 23866 м.  #mid8af2436a-305d-486b-b774-bfd7fad45e4b"
+        }
+    }
+}

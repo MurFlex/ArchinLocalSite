@@ -1,0 +1,132 @@
+{
+    "192421036": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47504-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358783",
+                "mitypeType": "VMX-250",
+                "mitypeTitle": "Комплексы измерительные сканирующие",
+                "manufactureNum": "130416339",
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВТК СЕРВИС\"(ООО \"ВТК СЕРВИС\")",
+            "signCipher": "ДХО",
+            "miOwner": "Лумпов Л Н",
+            "vrfDate": "10.10.2022",
+            "validDate": "10.10.2028",
+            "vriType": "2",
+            "docTitle": "МИ 1592-2015",
+            "applicable": {
+                "certNum": "С-ДХО\/10-10-2022\/192421036",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ДХО.0001.2019",
+                    "title": "Рабочий эталон единицы объемного расхода жидкости 3 разряда в диапазоне значений от 0,02 до 5,0 м[^3]\/ч",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/989329"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "72850.18.3Р.38181",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/38181",
+                    "mitypeNumber": "72850-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492471",
+                    "mitypeTitle": "Установки поверочные переносные",
+                    "notation": "УПСЖ 5П",
+                    "modification": "УПСЖ 5П",
+                    "manufactureNum": "948",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ № 256 от 17.02.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Производственная15-42 Показ Х94"
+        }
+    },
+    "165297910": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47504-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358783",
+                "mitypeType": "VMX-250",
+                "mitypeTitle": "Комплексы измерительные сканирующие",
+                "manufactureNum": "2220588",
+                "modification": "Нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"СИБИРСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ ГЕОСИСТЕМ И ТЕХНОЛОГИЙ\"(СГУГИТ)",
+            "signCipher": "ААИ",
+            "miOwner": "ГБУ НСО \"Центр цифровой трансформации Новосибирской области\"",
+            "vrfDate": "23.06.2022",
+            "validDate": "22.06.2023",
+            "vriType": "2",
+            "docTitle": "«Инструкция. Комплексы измерительные сканирующие VMX250 фирмы «RIEGL LASER MEASUREMENT SYSTEMS GmbH»",
+            "applicable": {
+                "certNum": "С-ААИ\/23-06-2022\/165297910",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "40890.09.2Р.00418613",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/418613",
+                    "mitypeNumber": "40890-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351115",
+                    "mitypeTitle": "Тахеометры электронные",
+                    "notation": "Leica TS30, Leica TM30",
+                    "modification": "Leica ТМ30",
+                    "manufactureNum": "361732",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений плоского угла. Приказ № 2482 от 26.11.2018 г."
+                },
+                {
+                    "regNumber": "40890.09.2Р.00418614",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/418614",
+                    "mitypeNumber": "40890-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351115",
+                    "mitypeTitle": "Тахеометры электронные",
+                    "notation": "Leica TS30, Leica TM30",
+                    "modification": "Leica ТМ30",
+                    "manufactureNum": "361732",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для координатно-временных средств измерений. Приказ 2831 от 29.12.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27060-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333522",
+                    "mitypeTitle": "Рулетки измерительные",
+                    "number": "041018"
+                },
+                {
+                    "mitypeNumber": "20048-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322203",
+                    "mitypeTitle": "Линейки измерительные металлические",
+                    "number": "1"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

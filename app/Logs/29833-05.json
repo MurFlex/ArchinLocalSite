@@ -1,0 +1,76 @@
+{
+    "160265414": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "29833-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/337321",
+                "mitypeType": "37369D",
+                "mitypeTitle": "Анализатор параметров цепей векторный",
+                "manufactureNum": "050403",
+                "modification": "37369D"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"ИСТОК\" ИМЕНИ А. И. ШОКИНА\"(АО \"НПП \"ИСТОК\" ИМ. ШОКИНА\")",
+            "signCipher": "АБТ",
+            "miOwner": "АО \"НПП \"Исток\" им. Шокина\"",
+            "vrfDate": "24.04.2022",
+            "validDate": "23.04.2023",
+            "vriType": "2",
+            "docTitle": "РЭ, описание типа",
+            "applicable": {
+                "certNum": "С-АБТ\/24-04-2022\/160265414",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.7.АИН.0001.2022",
+                    "title": "Государственный вторичный эталон единиц комплексных коэффициентов отражения и передачи в коаксиальных волноводах в диапазоне частот от 10 МГц до 26,5 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1398929"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "31222.06.3Р.00410250",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/410250",
+                    "mitypeNumber": "31222-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339120",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FS 725",
+                    "modification": "FS725",
+                    "manufactureNum": "158379",
+                    "manufactureYear": 2021,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "70888-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395868",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "number": "510003"
+                },
+                {
+                    "mitypeNumber": "57387-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370239",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "number": "MY54060005"
+                },
+                {
+                    "mitypeNumber": "9273-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388034",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "8907077"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

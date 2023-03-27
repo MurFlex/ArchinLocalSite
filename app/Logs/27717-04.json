@@ -1,0 +1,66 @@
+{
+    "171305093": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "27717-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334439",
+                "mitypeType": "МОРИОН-Е100М",
+                "mitypeTitle": "Тестеры цифровых линий универсальные",
+                "manufactureNum": "004606",
+                "manufactureYear": 2006,
+                "modification": "без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СВЯЗЬ ОБЪЕКТОВ ТРАНСПОРТА И ДОБЫЧИ НЕФТИ\"(АО \"СВЯЗЬТРАНСНЕФТЬ\")",
+            "signCipher": "ВЮС",
+            "miOwner": "Филиал АО \"Связьтранснефть\"-\"Волго-Камское ПТУС\"",
+            "vrfDate": "18.02.2022",
+            "validDate": "17.02.2023",
+            "vriType": "2",
+            "docTitle": "Раздел РТ1.282.000 РЭ",
+            "applicable": {
+                "certNum": "С-ВЮС\/18-02-2021\/138745019",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт182-2010",
+                    "title": "ГПСЭ единицы импульсного электрического напряжения с длительностью импульса от 4×10[^-11] до 1×10[^-5] с",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397867"
+                },
+                {
+                    "number": "гэт1-2022",
+                    "title": "ГПЭ единиц времени, частоты и национальной шкалы времени",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1398028"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "9135-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387836",
+                    "mitypeTitle": "Частотомеры электронно-счетные вычислительные",
+                    "number": "9005111"
+                },
+                {
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389851",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "С101100"
+                },
+                {
+                    "mitypeNumber": "15963-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/314538",
+                    "mitypeTitle": "Анализаторы цифровых линий связи",
+                    "number": "FY-0005"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

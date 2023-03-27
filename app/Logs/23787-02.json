@@ -1,0 +1,64 @@
+{
+    "123276493": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "23787-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328499",
+                "mitypeType": "МИК-300М (MIC-300М)",
+                "mitypeTitle": "Приборы для измерения, анализа и регистрации параметров вибрационных процессов",
+                "manufactureNum": "30282",
+                "modification": "MIC-300М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПЕРМСКОМ КРАЕ\"(ФБУ \"ПЕРМСКИЙ ЦСМ\")",
+            "signCipher": "ВН",
+            "miOwner": "АО \"НИИПМ\"",
+            "vrfDate": "13.01.2022",
+            "validDate": "12.01.2023",
+            "vriType": "2",
+            "docTitle": "БЛИЖ.401250.300 РЭ, раздел Методика поверки",
+            "applicable": {
+                "certNum": "С-ВН\/13-01-2022\/123276493",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "5596.76.3Р.00183099",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/183099",
+                    "mitypeNumber": "5596-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368591",
+                    "mitypeTitle": "Приборы для поверки вольтметров переменного тока (только в комплекте с блоками усиления напряжения)",
+                    "notation": "В1-9 (приборы) Я1В-20, Я1В-22 (блоки)",
+                    "modification": "В1-9",
+                    "manufactureNum": "09887",
+                    "manufactureYear": 1992,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 1053 от 29.05.2018"
+                },
+                {
+                    "regNumber": "2684.70.3Р.00234932",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/234932",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597 ; мод. Р597\/7",
+                    "manufactureNum": "456",
+                    "manufactureYear": 1985,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80"
+                }
+            ]
+        },
+        "info": {
+            "structure": "модуль М2428, № 242 с усилителем заряда программируемым МЕ-918-1, № МЕ0918001; модуль М2428, № 247 с усилителем заряда программируемым МЕ-908-1, № МЕ9081088",
+            "briefIndicator": false
+        }
+    }
+}

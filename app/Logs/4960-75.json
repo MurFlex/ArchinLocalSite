@@ -1,0 +1,877 @@
+{
+    "219808379": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "1233",
+                "modification": "ИМУ-3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "27.01.2023",
+            "validDate": "26.01.2024",
+            "vriType": "2",
+            "docTitle": "МП Э58-00-00 ПС",
+            "applicable": {
+                "certNum": "С-ДИЭ\/27-01-2023\/219808379",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "75430-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/666854",
+                    "mitypeTitle": "Весы неавтоматического действия",
+                    "number": "182365008"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "211197007": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "341",
+                "modification": "ИМУ-3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "23.12.2022",
+            "validDate": "22.12.2023",
+            "vriType": "2",
+            "docTitle": "Э58-00-00 ПС",
+            "applicable": {
+                "certNum": "С-МА\/23-12-2022\/211197007",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0250.2016",
+                    "title": "Государственный рабочий эталон единицы мощности ультразвука в воде в диапазоне значений от 0,01 до 30 Вт в диапазоне частот от 0,5 до 10 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/468191"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "75430.19.5Р.00412171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/412171",
+                    "mitypeNumber": "75430-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/666854",
+                    "mitypeTitle": "Весы неавтоматического действия",
+                    "notation": "HT",
+                    "modification": "HT224CE",
+                    "manufactureNum": "182365008",
+                    "manufactureYear": 2020,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.12.2018 г. № 2818"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "fad214a4-aa08-4ae3-b8ac-9aa193d60676"
+        }
+    },
+    "193796783": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "524",
+                "modification": "ИМУ-3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "17.10.2022",
+            "validDate": "16.10.2023",
+            "vriType": "2",
+            "docTitle": "Э58-00-00 ПС",
+            "applicable": {
+                "certNum": "С-МА\/17-10-2022\/193796783",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0250.2016",
+                    "title": "Государственный рабочий эталон единицы мощности ультразвука в воде в диапазоне значений от 0,01 до 30 Вт в диапазоне частот от 0,5 до 10 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/468191"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "75430.19.5Р.00412171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/412171",
+                    "mitypeNumber": "75430-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/666854",
+                    "mitypeTitle": "Весы неавтоматического действия",
+                    "notation": "HT",
+                    "modification": "HT224CE",
+                    "manufactureNum": "182365008",
+                    "manufactureYear": 2020,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.12.2018 г. № 2818"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "eddcd5a0-6b09-473c-8f73-a20b592001cc"
+        }
+    },
+    "196504418": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "3073",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "10.10.2022",
+            "validDate": "09.10.2023",
+            "vriType": "2",
+            "docTitle": "МП Э58-00-00 ПС",
+            "applicable": {
+                "certNum": "С-СП\/10-10-2022\/196504418",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52768.13.4Р.00364812",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/364812",
+                    "mitypeNumber": "52768-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365001",
+                    "mitypeTitle": "Гири от 1 мг до 20 кг классов точности Е1, Е2, F1, F2, М1",
+                    "notation": "Нет данных",
+                    "modification": "Набор гирь (1g - 5kg) M1",
+                    "manufactureNum": "28825066",
+                    "manufactureYear": 2013,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 29.12.2018 №2818"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "185949518": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "576",
+                "modification": "ИМУ-3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"Алтаймедтехника\"",
+            "vrfDate": "14.09.2022",
+            "validDate": "13.09.2023",
+            "vriType": "2",
+            "docTitle": "Э58-00-00 ПС",
+            "applicable": {
+                "certNum": "С-МА\/14-09-2022\/185949518",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0250.2016",
+                    "title": "Государственный рабочий эталон единицы мощности ультразвука в воде в диапазоне значений от 0,01 до 30 Вт в диапазоне частот от 0,5 до 10 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/468191"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "75430.19.5Р.00412171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/412171",
+                    "mitypeNumber": "75430-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/666854",
+                    "mitypeTitle": "Весы неавтоматического действия",
+                    "notation": "HT",
+                    "modification": "HT224CE",
+                    "manufactureNum": "182365008",
+                    "manufactureYear": 2020,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.12.2018 г. № 2818"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "756780c6-8086-4778-b4f4-726f25fb9c9e"
+        }
+    },
+    "183555919": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "432",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОЯРСКОМ КРАЕ, РЕСПУБЛИКЕ ХАКАСИЯ И РЕСПУБЛИКЕ ТЫВА\"(ФБУ \"КРАСНОЯРСКИЙ ЦСМ\")",
+            "signCipher": "АШ",
+            "miOwner": "ЮЛ",
+            "vrfDate": "02.09.2022",
+            "validDate": "01.09.2023",
+            "vriType": "2",
+            "docTitle": "документом Э58-00-00 ПС Методика поверки",
+            "applicable": {
+                "certNum": "С-АШ\/02-09-2022\/183555919",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "36068.07.1Р.00325778",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325778",
+                    "mitypeNumber": "36068-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345346",
+                    "mitypeTitle": "Гири классов точности E1, E2, F1, F2 и M1",
+                    "notation": "Нет данных",
+                    "modification": "Набор гирь (1мг - 5г) Е2",
+                    "manufactureNum": "27825575",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №2818 от 29.12.2018г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "181129342": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "432",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОЯРСКОМ КРАЕ, РЕСПУБЛИКЕ ХАКАСИЯ И РЕСПУБЛИКЕ ТЫВА\"(ФБУ \"КРАСНОЯРСКИЙ ЦСМ\")",
+            "signCipher": "АШ",
+            "miOwner": "ЮЛ",
+            "vrfDate": "26.08.2022",
+            "vriType": "2",
+            "docTitle": "документом Э58-00-00 ПС Методика поверки",
+            "inapplicable": {
+                "noticeNum": "И-АШ\/26-08-2022\/181129342"
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "23653-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328331",
+                    "mitypeTitle": "Гири классов точности E1, E2, F1 и F2",
+                    "number": "1"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "179888524": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "200",
+                "modification": "ИМУ-3"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью «МетрЛифтСервис»(ООО «МетрЛифтСервис»)",
+            "signCipher": "ЕВЧ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "22.08.2022",
+            "validDate": "21.08.2023",
+            "vriType": "2",
+            "docTitle": "МП Э58-00-00 ПС",
+            "applicable": {
+                "certNum": "С-ЕВЧ\/22-08-2022\/179888524",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "75430-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/666854",
+                    "mitypeTitle": "Весы неавтоматического действия",
+                    "number": "182365008"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "169826296": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "561",
+                "modification": "ИМУ-3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО \"СП \"МЕДТЕХНИКА\"",
+            "vrfDate": "11.07.2022",
+            "vriType": "2",
+            "docTitle": "Методика поверки Э58-00-00 ПС",
+            "inapplicable": {
+                "noticeNum": "И-МА\/11-07-2022\/169826296"
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0250.2016",
+                    "title": "Государственный рабочий эталон единицы мощности ультразвука в воде в диапазоне значений от 0,01 до 30 Вт в диапазоне частот от 0,5 до 10 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/468191"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "75430.19.5Р.00412171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/412171",
+                    "mitypeNumber": "75430-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/666854",
+                    "mitypeTitle": "Весы неавтоматического действия",
+                    "notation": "HT",
+                    "modification": "HT224CE",
+                    "manufactureNum": "182365008",
+                    "manufactureYear": 2020,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.12.2018 г. № 2818"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "7bb877a8-5991-49ae-a979-9b403fd642e9"
+        }
+    },
+    "166606260": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "928",
+                "modification": "ИМУ-3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО \"Техномед-1\"",
+            "vrfDate": "28.06.2022",
+            "validDate": "27.06.2023",
+            "vriType": "2",
+            "docTitle": "Э58-00-00 ПС",
+            "applicable": {
+                "certNum": "С-МА\/28-06-2022\/166606260",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0250.2016",
+                    "title": "Государственный рабочий эталон единицы мощности ультразвука в воде в диапазоне значений от 0,01 до 30 Вт в диапазоне частот от 0,5 до 10 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/468191"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "75430.19.5Р.00412171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/412171",
+                    "mitypeNumber": "75430-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/666854",
+                    "mitypeTitle": "Весы неавтоматического действия",
+                    "notation": "HT",
+                    "modification": "HT224CE",
+                    "manufactureNum": "182365008",
+                    "manufactureYear": 2020,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.12.2018 г. № 2818"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "13f13f07-33e1-42e0-9444-05d95993e9ed"
+        }
+    },
+    "164183109": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "952",
+                "manufactureYear": 1974,
+                "modification": "ИМУ-3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"СЕРВИС МЕД\"",
+            "vrfDate": "07.06.2022",
+            "validDate": "06.06.2023",
+            "vriType": "2",
+            "docTitle": "МП Э58-00-00 ПС",
+            "applicable": {
+                "certNum": "С-СП\/07-06-2022\/164013564",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "16500.97.4Р.00293400",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/293400",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY45038393",
+                    "manufactureYear": 2007,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "56478.14.4Р.00324927",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/324927",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6C8164028",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32993-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341531",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "MY44042153"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "158412290": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "430",
+                "modification": "ИМУ-3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО Испытательный лабораторный центр \"МедТестПрибор\"",
+            "vrfDate": "25.05.2022",
+            "validDate": "24.05.2023",
+            "vriType": "2",
+            "docTitle": "Э58-00-00 ПС",
+            "applicable": {
+                "certNum": "С-МА\/25-05-2022\/158412290",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0250.2016",
+                    "title": "Государственный рабочий эталон единицы мощности ультразвука в воде в диапазоне значений от 0,01 до 30 Вт в диапазоне частот от 0,5 до 10 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/468191"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "75430.19.5Р.00412171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/412171",
+                    "mitypeNumber": "75430-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/666854",
+                    "mitypeTitle": "Весы неавтоматического действия",
+                    "notation": "HT",
+                    "modification": "HT224CE",
+                    "manufactureNum": "182365008",
+                    "manufactureYear": 2020,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.12.2018 г. № 2818"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "1a581c7f-fa62-4533-8db4-01fe507d8f1a"
+        }
+    },
+    "157400821": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "387",
+                "manufactureYear": 1986,
+                "modification": "ИМУ-3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"Медицинская Техника\"",
+            "vrfDate": "19.05.2022",
+            "validDate": "18.05.2023",
+            "vriType": "2",
+            "docTitle": "МП Э58-00-00 ПС",
+            "applicable": {
+                "certNum": "С-СП\/19-05-2022\/157400821",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.1309.2015",
+                    "title": "Государственный рабочий эталон единицы мощности ультразвука в воде в диапазоне значений от 0,01 до 30,0 Вт в диапазонечастот от 0,5 до 10,0 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/406191"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "146281577": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "592",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "ООО  «СпецМедТорг»",
+            "vrfDate": "06.04.2022",
+            "validDate": "05.04.2023",
+            "vriType": "2",
+            "docTitle": "МП Э58-00-00 ПС",
+            "applicable": {
+                "certNum": "С-ДИЭ\/06-04-2022\/146281577",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "75430-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/666854",
+                    "mitypeTitle": "Весы неавтоматического действия",
+                    "number": "182365008"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "144277660": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "952",
+                "manufactureYear": 1974,
+                "modification": "ИМУ-3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО  \"Медтехсервис\"",
+            "vrfDate": "22.03.2022",
+            "vriType": "2",
+            "docTitle": "МП Э58-00-00 ПС",
+            "inapplicable": {
+                "noticeNum": "И-СП\/22-03-2022\/144277660"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "16500.97.4Р.00293400",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/293400",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY45038393",
+                    "manufactureYear": 2007,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "56478.14.4Р.00324927",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/324927",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6C8164028",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32993-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341531",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "MY44042153"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "134469424": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "311",
+                "modification": "ИМУ-3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФКУ \"ОСК ЗВО\"",
+            "vrfDate": "22.02.2022",
+            "validDate": "21.02.2023",
+            "vriType": "2",
+            "docTitle": "Э58-00-00 ПС",
+            "applicable": {
+                "certNum": "С-МА\/22-02-2022\/134469424",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0250.2016",
+                    "title": "Государственный рабочий эталон единицы мощности ультразвука в воде в диапазоне значений от 0,01 до 30 Вт в диапазоне частот от 0,5 до 10 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/468191"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "75430.19.5Р.00412171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/412171",
+                    "mitypeNumber": "75430-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/666854",
+                    "mitypeTitle": "Весы неавтоматического действия",
+                    "notation": "HT",
+                    "modification": "HT224CE",
+                    "manufactureNum": "182365008",
+                    "manufactureYear": 2020,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.12.2018 г. № 2818"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "43363550-2553-406a-b723-3dc157816193"
+        }
+    },
+    "132983873": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4960-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361281",
+                "mitypeType": "ИМУ-3",
+                "mitypeTitle": "Измерители мощности ультразвукового излучения",
+                "manufactureNum": "498",
+                "modification": "ИМУ-3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"Медтехника Ессентукикурорт\"",
+            "vrfDate": "16.02.2022",
+            "vriType": "2",
+            "docTitle": "МП Э58-00-00 ПС",
+            "inapplicable": {
+                "noticeNum": "И-СП\/16-02-2022\/132983873"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "16500.97.4Р.00293400",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/293400",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY45038393",
+                    "manufactureYear": 2007,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "56478.14.4Р.00324927",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/324927",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/5",
+                    "manufactureNum": "6C8164028",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32993-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341531",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "MY44042153"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    }
+}

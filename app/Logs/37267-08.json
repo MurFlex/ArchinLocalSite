@@ -1,0 +1,51 @@
+{
+    "177108983": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "37267-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346777",
+                "mitypeType": "Поток Плюс",
+                "mitypeTitle": "Системы измерительные",
+                "manufactureNum": "00004410",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НЕЗАВИСИМОЕ МЕТРОЛОГИЧЕСКОЕ ОБЕСПЕЧЕНИЕ ПОТРЕБИТЕЛЯ\"(ООО \"НМОП\")",
+            "signCipher": "ВЦЛ",
+            "miOwner": "АО \"Сибур-ПЭТФ\" ИНН 6903038398",
+            "vrfDate": "19.07.2022",
+            "validDate": "18.07.2024",
+            "vriType": "2",
+            "docTitle": "РВАС 407208.001МП",
+            "applicable": {
+                "certNum": "С-ВЦЛ\/19-07-2022\/177108983",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "74630.19.ВЭ.00644869",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/644869",
+                    "mitypeNumber": "74630-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/582938",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "УПСЖ-ПРО",
+                    "modification": "1200-0400-А-С-ОР-000-15\/25",
+                    "manufactureNum": "136",
+                    "manufactureYear": 2022,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "Приказ Федерального агенства по техническому регулированию и метрологии от 07.02.2018 №256"
+                }
+            ]
+        },
+        "info": {
+            "structure": "массомер Promass 83F № D801BC02000",
+            "briefIndicator": false,
+            "additional_info": "Протокол № c20719-164"
+        }
+    }
+}

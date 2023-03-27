@@ -1,0 +1,100 @@
+{
+    "210997044": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "63066.16.РЭ.00178062",
+                "mitypeNumber": "63066-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376642",
+                "mitypeTitle": "Тестеры оптические",
+                "mitypeType": "ОТ-3-1",
+                "modification": "",
+                "manufactureNum": "04915",
+                "manufactureYear": 2016,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 05.12.2019 №2862"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "13.12.2022",
+            "validDate": "12.12.2023",
+            "vriType": "2",
+            "docTitle": "Р 50.2.084-2013",
+            "applicable": {
+                "certNum": "С-А\/13-12-2022\/210997044",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт170-2011",
+                    "title": "ГПСЭ единиц длины и времени распространения сигнала в световоде, средней мощности, ослабления и длины волны оптического излучения для волоконно-оптических систем передачи информации",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397854"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011276",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "6157"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Тестер оптический ОТ-3-1 № 04915, ОЭП-2 №51",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-210997044\/protocol"
+        }
+    },
+    "129375881": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "63066.16.РЭ.00178062",
+                "mitypeNumber": "63066-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376642",
+                "mitypeTitle": "Тестеры оптические",
+                "mitypeType": "ОТ-3-1",
+                "modification": "",
+                "manufactureNum": "04915",
+                "manufactureYear": 2016,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 05.12.2019 №2862"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.02.2022",
+            "validDate": "02.02.2023",
+            "vriType": "2",
+            "docTitle": "Р 50.2.084-2013",
+            "applicable": {
+                "certNum": "С-А\/03-02-2022\/129375881",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт170-2011",
+                    "title": "ГПСЭ единиц длины и времени распространения сигнала в световоде, средней мощности, ослабления и длины волны оптического излучения для волоконно-оптических систем передачи информации",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397854"
+                }
+            ]
+        },
+        "info": {
+            "structure": "тестер оптический, ОЭП-2 № 51",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-129375881\/protocol"
+        }
+    }
+}

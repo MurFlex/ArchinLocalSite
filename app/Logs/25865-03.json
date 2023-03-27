@@ -1,0 +1,3178 @@
+{
+    "219674605": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "127",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "01.02.2023",
+            "validDate": "31.01.2024",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/01-02-2023\/219674605",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-06 № 15127",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-219674605\/protocol",
+            "additional_info": "#mid951e4cfc-f7a3-452e-9cd3-3437493097ec"
+        }
+    },
+    "218704686": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00210131",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "61",
+                "manufactureYear": 2008,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений поглощенной и эквивалентной доз фотонного и электронного излучений."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\"",
+            "vrfDate": "26.01.2023",
+            "validDate": "25.01.2024",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/26-01-2023\/218704686",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "5738.76.2Р.00237965",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/237965",
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370229",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "notation": "БАММ-1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "14852",
+                    "manufactureYear": 1980,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.840-2013 «ГСИ. Государственная поверочная схема для средств измерений абсолютного давления в диапазоне 1 – 1 • 10 6  Па"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323575",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "3000"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-500 № 0861, БМК-50 № 0861",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-218704686\/protocol",
+            "additional_info": "#mid64815b6f-d0e9-41f3-a3f4-a89a5d4e8654"
+        }
+    },
+    "217352459": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00771828",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "ДКС-101",
+                "manufactureNum": "89",
+                "manufactureYear": 2011,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приказ Росстандарта от 31.12.2020 №2314"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЛАВНЫЙ НАУЧНЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ(ФГБУ \"ГНМЦ\" МИНОБОРОНЫ РОССИИ)",
+            "signCipher": "ВХН",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "23.01.2023",
+            "validDate": "22.01.2024",
+            "vriType": "2",
+            "docTitle": "Методика аттестации Хд1.400071 ИС 3",
+            "applicable": {
+                "certNum": "С-ВХН\/23-01-2023\/217352459",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ВХН.0012.2020",
+                    "title": "Вторичный эталон единиц кермы в воздухе и мощности кермы в воздухе, экспозиционной дозы и мощности экспозиционной дозы фотонного излучения ВЭ-19КЭДФ",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1384680"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок электрометрический № 89, ионизационные камеры БМК-06 №1089, БМК-50 №1089, БМК-500 №1089",
+            "briefIndicator": false
+        }
+    },
+    "216646932": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00196964",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "73",
+                "manufactureYear": 2009,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "13.01.2023",
+            "validDate": "12.01.2024",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/13-01-2023\/216646932",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная каера БМК-500 № 0873",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-216646932\/protocol",
+            "additional_info": "#mid868a860d-6046-43be-a4cc-b45e82dbff75"
+        }
+    },
+    "210029251": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "157",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "16.12.2022",
+            "validDate": "15.12.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/16-12-2022\/210029251",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "БМК-06 № 157, БМК-50 № 157, БМК-500 № 157",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-210029251\/protocol",
+            "additional_info": "#mid27ce429f-d01b-4bf5-8a2d-9ee422f5fee2"
+        }
+    },
+    "206582665": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00461400",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "ДКС-101",
+                "manufactureNum": "64",
+                "manufactureYear": 2004,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приказ от 31.12.2020 №2314"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "08.12.2022",
+            "validDate": "07.12.2023",
+            "vriType": "2",
+            "docTitle": "разделом 14 \"Поверка дозиметра\" документа ГКПС 130000.000РЭ «Дозиметры универсальные ДКС-101. Руководство по эксплуатации»",
+            "applicable": {
+                "certNum": "С-В\/08-12-2022\/206582665",
+                "stickerNum": "22022518579",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт8-2019",
+                    "title": "ГПЭ кермы в воздухе, мощности кермы в воздухе, экспозиционной дозы, мощности экспозиционной дозы и потока энергии рентгеновского и гамма- излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1041514"
+                }
+            ],
+            "uve": [
+                {
+                    "number": "2.1.ZZB.0135.2015",
+                    "title": "Государственный вторичный эталон единиц: кермы в воздухе в диапазоне от 1·10[^-7] до 20Гр, мощности кермы в воздухе в диапазоне от 1·10[^-8] до 1·10[^-3]Гр\/с, экспозиционной дозы в диапазоне от 3·10[^-9] до 6·10[^-1]Кл\/кг, мощности экспозиционной дозы в диапазоне от 3·10[^-10] до 3·10[^-5]А\/кг, амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-7] до 20Зв, мощностей амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-8] до 1·10[^-3]Зв\/с гамма-излучения (ГВЭТ 8-2)",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/411524"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок электрометрический № 64, ионизационная камера БМК-50 № 0864, ионизационная камера БМК-500 № 0864",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-206582665\/protocol",
+            "additional_info": "#mid50f6f528-b261-4f86-95cf-84220712778d"
+        }
+    },
+    "206500095": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "137",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "02.12.2022",
+            "validDate": "01.12.2023",
+            "vriType": "2",
+            "docTitle": "Раздел 14 \"Поверка дозиметра\" руководства по эксплуатации",
+            "applicable": {
+                "certNum": "С-Т\/02-12-2022\/206068569",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-06 № 137",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-206500095\/protocol",
+            "additional_info": "#mida984437f-cb31-4080-bf6d-51981e1ce342"
+        }
+    },
+    "207072534": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "84",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "02.12.2022",
+            "validDate": "01.12.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/02-12-2022\/207072534",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-500 № 1084",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-207072534\/protocol",
+            "additional_info": "#mid85056b04-86fc-4d8b-afb0-2fa7fecb83f5"
+        }
+    },
+    "204481592": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "87",
+                "manufactureYear": 2011,
+                "modification": "ДКС-101"
+            }
+        },
+        "vriInfo": {
+            "organization": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБОРНЫЙ ЗАВОД \"СИГНАЛ\"(ПАО ПЗ \"СИГНАЛ\")",
+            "signCipher": "АРФ",
+            "miOwner": "ФГБНУ ВНИИРАЭ",
+            "vrfDate": "29.11.2022",
+            "validDate": "28.11.2023",
+            "vriType": "2",
+            "docTitle": "ГКПС13.00.00.000РЭ",
+            "applicable": {
+                "certNum": "С-АРФ\/29-11-2022\/204481592",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.7.АИЮ.0001.2022",
+                    "title": "Рабочий эталон 1 разряда единиц кермы в воздухе, экспозиционной дозы, амбиентного, направленного, индивидуального эквивалентов дозы, мощности кермы в воздухе, мощности экспозиционной дозы, мощности амбиентного, направленного, индивидуального эквивалентов дозы гамма-излучения",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1398908"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Ионизационная камера БМК-50 № 156",
+            "briefIndicator": false
+        }
+    },
+    "202456038": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "49",
+                "manufactureYear": 2006,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ РЕСПУБЛИКИ АДЫГЕЯ \"АДЫГЕЙСКИЙ РЕСПУБЛИКАНСКИЙ КЛИНИЧЕСКИЙ ОНКОЛОГИЧЕСКИЙ ДИСПАНСЕР ИМЕНИ М.Х. АШХАМАФА\"",
+            "vrfDate": "18.11.2022",
+            "validDate": "17.11.2023",
+            "vriType": "2",
+            "docTitle": "разделом 14 \"Поверка дозиметра\" документа ГКПС 130000.000РЭ «Дозиметры универсальные ДКС-101. Руководство по эксплуатации»",
+            "applicable": {
+                "certNum": "С-В\/18-11-2022\/202456038",
+                "stickerNum": "22022523986",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт8-2019",
+                    "title": "ГПЭ кермы в воздухе, мощности кермы в воздухе, экспозиционной дозы, мощности экспозиционной дозы и потока энергии рентгеновского и гамма- излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1041514"
+                }
+            ],
+            "uve": [
+                {
+                    "number": "2.1.ZZB.0135.2015",
+                    "title": "Государственный вторичный эталон единиц: кермы в воздухе в диапазоне от 1·10[^-7] до 20Гр, мощности кермы в воздухе в диапазоне от 1·10[^-8] до 1·10[^-3]Гр\/с, экспозиционной дозы в диапазоне от 3·10[^-9] до 6·10[^-1]Кл\/кг, мощности экспозиционной дозы в диапазоне от 3·10[^-10] до 3·10[^-5]А\/кг, амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-7] до 20Зв, мощностей амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-8] до 1·10[^-3]Зв\/с гамма-излучения (ГВЭТ 8-2)",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/411524"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок электрометрический № 49, ионизационная камера БМК-06 № 0649",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-202456038\/protocol",
+            "additional_info": "#midc6c05642-15db-4f40-b0b5-96bc6c53be4d"
+        }
+    },
+    "202023229": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00146240",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "65",
+                "manufactureYear": 2003,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ Р 8.804-2012 «ГСИ. Государственная поверочная схема для средств измерений кермы в воздухе, мощности кермы в воздухе, экспоз"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Самарской области\"",
+            "vrfDate": "16.11.2022",
+            "validDate": "15.11.2023",
+            "vriType": "2",
+            "docTitle": "разделом 14 \"Поверка дозиметра\" документа ГКПС 130000.000РЭ «Дозиметры универсальные ДКС-101. Руководство по эксплуатации»",
+            "applicable": {
+                "certNum": "С-В\/16-11-2022\/202023229",
+                "stickerNum": "22022523981",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт8-2019",
+                    "title": "ГПЭ кермы в воздухе, мощности кермы в воздухе, экспозиционной дозы, мощности экспозиционной дозы и потока энергии рентгеновского и гамма- излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1041514"
+                }
+            ],
+            "uve": [
+                {
+                    "number": "2.1.ZZB.0135.2015",
+                    "title": "Государственный вторичный эталон единиц: кермы в воздухе в диапазоне от 1·10[^-7] до 20Гр, мощности кермы в воздухе в диапазоне от 1·10[^-8] до 1·10[^-3]Гр\/с, экспозиционной дозы в диапазоне от 3·10[^-9] до 6·10[^-1]Кл\/кг, мощности экспозиционной дозы в диапазоне от 3·10[^-10] до 3·10[^-5]А\/кг, амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-7] до 20Зв, мощностей амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-8] до 1·10[^-3]Зв\/с гамма-излучения (ГВЭТ 8-2)",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/411524"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок электрометрический № 65, ионизационная камера БМК-06 № 0865, ионизационная камера БМК-500 № 0865",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-202023229\/protocol",
+            "additional_info": "#mid97f4a1a2-a06f-4408-9eae-8fa5f4772b8c"
+        }
+    },
+    "200684886": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00493502",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "38",
+                "manufactureYear": 2004,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приказ Федерального агенства по техническому регулированию и метрологии от 31 декабря 2020 г. № 2314"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "10.11.2022",
+            "validDate": "09.11.2023",
+            "vriType": "2",
+            "docTitle": "разделом 14 \"Поверка дозиметра\" документа ГКПС 130000.000РЭ «Дозиметры универсальные ДКС-101. Руководство по эксплуатации»",
+            "applicable": {
+                "certNum": "С-В\/10-11-2022\/200684886",
+                "stickerNum": "22022523891",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZB.0135.2015",
+                    "title": "Государственный вторичный эталон единиц: кермы в воздухе в диапазоне от 1·10[^-7] до 20Гр, мощности кермы в воздухе в диапазоне от 1·10[^-8] до 1·10[^-3]Гр\/с, экспозиционной дозы в диапазоне от 3·10[^-9] до 6·10[^-1]Кл\/кг, мощности экспозиционной дозы в диапазоне от 3·10[^-10] до 3·10[^-5]А\/кг, амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-7] до 20Зв, мощностей амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-8] до 1·10[^-3]Зв\/с гамма-излучения (ГВЭТ 8-2)",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/411524"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок электрометрический № 38, ионизационная камера БМК-06 № 0438, ионизационная камера БМК-50 № 0438",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-200684886\/protocol",
+            "additional_info": "#midaf5fd6d2-c556-41fa-8665-31a08b8d199f"
+        }
+    },
+    "197420026": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00375931",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "63",
+                "manufactureYear": 2008,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "18.10.2022",
+            "validDate": "17.10.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/18-10-2022\/197420026",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-50  № 0863, БМК-500 № 0863",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-197420026\/protocol",
+            "additional_info": "#mid5e443e5a-a05d-4dcc-97f4-100d3e2f0d41"
+        }
+    },
+    "196445909": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.51975",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "74",
+                "manufactureYear": 2009,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной дозы и мощности ПД, эквивалента дозы и мощности эквивалента дозы фотонного и электронного излучений"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "18.10.2022",
+            "validDate": "17.10.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/18-10-2022\/196445909",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-06 № 0874, БМК-50 № 0874, БМК-500 № 0874",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-196445909\/protocol",
+            "additional_info": "#mid1b34f281-48f6-4546-81a6-e72c1b5ae23f"
+        }
+    },
+    "191220884": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00686466",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "134",
+                "manufactureYear": 2018,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ФБУ \"МОРДОВСКИЙ ЦСМ\"",
+            "vrfDate": "05.10.2022",
+            "validDate": "04.10.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/05-10-2022\/191220884",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-03 № 134, БМК-50 № 134, БМК-500 № 134",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-191220884\/protocol",
+            "additional_info": "#mid22c3324a-4092-4a58-a922-bc9f550fac33"
+        }
+    },
+    "191208613": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00686462",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "128",
+                "manufactureYear": 2015,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "04.10.2022",
+            "validDate": "03.10.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/04-10-2022\/191208613",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-06 № 15128, БМК-50 № 15128, БМК-500 № 15128",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-191208613\/protocol",
+            "additional_info": "#mid6db9a03d-353d-48e6-925a-da372af511bc"
+        }
+    },
+    "189570222": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "88",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "29.09.2022",
+            "vriType": "2",
+            "docTitle": "разделом 14 \"Поверка дозиметра\" документа ГКПС 130000.000РЭ «Дозиметры универсальные ДКС-101. Руководство по эксплуатации»",
+            "inapplicable": {
+                "noticeNum": "И-В\/29-09-2022\/189570222"
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZB.0135.2015",
+                    "title": "Государственный вторичный эталон единиц: кермы в воздухе в диапазоне от 1·10[^-7] до 20Гр, мощности кермы в воздухе в диапазоне от 1·10[^-8] до 1·10[^-3]Гр\/с, экспозиционной дозы в диапазоне от 3·10[^-9] до 6·10[^-1]Кл\/кг, мощности экспозиционной дозы в диапазоне от 3·10[^-10] до 3·10[^-5]А\/кг, амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-7] до 20Зв, мощностей амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-8] до 1·10[^-3]Зв\/с гамма-излучения (ГВЭТ 8-2)",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/411524"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-500 № 1088",
+            "briefIndicator": false,
+            "additional_info": "#mid1ade2c25-2967-45eb-aaa6-8a791048f49c"
+        }
+    },
+    "191060714": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00686315",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "101",
+                "manufactureYear": 2012,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ФБУ \"Красноярский ЦСМ\"",
+            "vrfDate": "28.09.2022",
+            "validDate": "27.09.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/28-09-2022\/191060714",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-500 № 137, БМК-50 № 137, БМК-06 № 12101",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-191060714\/protocol",
+            "additional_info": "#mid5550a9aa-a30a-4b62-8e61-3e7d4666e78d"
+        }
+    },
+    "184720205": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00419926",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "54",
+                "manufactureYear": 2007,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "08.09.2022",
+            "validDate": "07.09.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/08-09-2022\/184720205",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-06 № 13126, БМК-50 № 0754, БМК-500 № 0754",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-184720205\/protocol",
+            "additional_info": "#mid47e67e53-35c9-4faf-aa37-2a7a31cbf6bd"
+        }
+    },
+    "184102562": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "154",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "06.09.2022",
+            "validDate": "05.09.2023",
+            "vriType": "1",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/06-09-2022\/184102562",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-06 № 154, БМК-50 № 154, БМК-500 № 154",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-184102562\/protocol",
+            "additional_info": "#mid16e36c54-6123-4440-8ee6-674aa6c71242"
+        }
+    },
+    "185070216": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00413366",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "55",
+                "manufactureYear": 2007,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "05.09.2022",
+            "validDate": "04.09.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/05-09-2022\/185070216",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-50 № 0755, БМК-500 № 14123",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-185070216\/protocol",
+            "additional_info": "#mide50e78d7-c6c2-4226-9555-1ad06bbbeebf"
+        }
+    },
+    "185070217": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00413366",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "55",
+                "manufactureYear": 2007,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "05.09.2022",
+            "validDate": "04.09.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/05-09-2022\/185070217",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-50 № 0755, БМК-500 № 14123",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-185070217\/protocol",
+            "additional_info": "#mid4b9a106b-7a22-40de-bbe1-c8f5390431e4"
+        }
+    },
+    "183770153": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "155",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "05.09.2022",
+            "validDate": "04.09.2023",
+            "vriType": "1",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/05-09-2022\/183770153",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-06 № 155, БМК-50 № 155, БМК-500 № 155",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-183770153\/protocol",
+            "additional_info": "#mid4066b2d9-7fb6-494c-9453-bb2cad41a233"
+        }
+    },
+    "183162390": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00146250",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "15",
+                "manufactureYear": 2003,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ Р 8.804-2012 «ГСИ. Государственная поверочная схема для средств измерений кермы в воздухе, мощности кермы в воздухе, экспоз"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Мурманской области\"",
+            "vrfDate": "02.09.2022",
+            "validDate": "01.09.2023",
+            "vriType": "2",
+            "docTitle": "разделом 14 \"Поверка дозиметра\" документа ГКПС 130000.000РЭ «Дозиметры универсальные ДКС-101. Руководство по эксплуатации»",
+            "applicable": {
+                "certNum": "С-В\/02-09-2022\/183162390",
+                "stickerNum": "22022527387",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZB.0135.2015",
+                    "title": "Государственный вторичный эталон единиц: кермы в воздухе в диапазоне от 1·10[^-7] до 20Гр, мощности кермы в воздухе в диапазоне от 1·10[^-8] до 1·10[^-3]Гр\/с, экспозиционной дозы в диапазоне от 3·10[^-9] до 6·10[^-1]Кл\/кг, мощности экспозиционной дозы в диапазоне от 3·10[^-10] до 3·10[^-5]А\/кг, амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-7] до 20Зв, мощностей амбиентного, направленного и индивидуального эквивалентов дозы в диапазоне от 1·10[^-8] до 1·10[^-3]Зв\/с гамма-излучения (ГВЭТ 8-2)",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/411524"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок электрометрический № 15, ионизационная камера БМК-50 № 138, ионизационная камера БМК-500 № 15129",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-183162390\/protocol",
+            "additional_info": "#midb13dcdd6-8574-45d4-ae3b-d379ad210dc5"
+        }
+    },
+    "196445912": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00698449",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "94",
+                "manufactureYear": 2011,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "01.09.2022",
+            "validDate": "31.08.2023",
+            "vriType": "2",
+            "docTitle": "Раздел 14 \"Поверка дозиметра\" руководства по эксплуатации",
+            "applicable": {
+                "certNum": "С-Т\/01-09-2022\/196445912",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-196445912\/protocol",
+            "additional_info": "#mida37c0617-8e89-4a47-a9cc-5f65887ce486"
+        }
+    },
+    "196445911": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00686466",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "134",
+                "manufactureYear": 2018,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ФГУП \"ВНИИФТРИ\"",
+            "vrfDate": "01.09.2022",
+            "validDate": "31.08.2023",
+            "vriType": "2",
+            "docTitle": "Раздел 14 \"Поверка дозиметра\" руководства по эксплуатации",
+            "applicable": {
+                "certNum": "С-Т\/01-09-2022\/196445911",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-196445911\/protocol",
+            "additional_info": "#mida5339236-27c8-4995-b6d0-a9dd1181b6cf"
+        }
+    },
+    "181777157": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "71",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "25.08.2022",
+            "validDate": "24.08.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/25-08-2022\/181777157",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-06 № 0870",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-181777157\/protocol",
+            "additional_info": "#mid4d241680-04a2-4141-9f62-dc525bfafa17"
+        }
+    },
+    "178592261": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "80",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "10.08.2022",
+            "validDate": "09.08.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/10-08-2022\/178592261",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-500 № 1080, БМК-50 № 1080",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-178592261\/protocol",
+            "additional_info": "#mid912475b1-0f03-4be2-ad90-2a575a0b90d7"
+        }
+    },
+    "173456707": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00647039",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "ДКС-101",
+                "manufactureNum": "99",
+                "manufactureYear": 2012,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ПРИБОРОВ\"(АО \"НИИП\")",
+            "signCipher": "БЛЗ",
+            "miOwner": "АО \"ЭНПО СПЭЛС\"",
+            "vrfDate": "26.07.2022",
+            "validDate": "25.07.2023",
+            "vriType": "2",
+            "docTitle": "Техническое описание и инструкция по эксплуатации, раздел 14 \"Методика поверки\"",
+            "applicable": {
+                "certNum": "С-БЛЗ\/26-07-2022\/173456707",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.БЛЗ.0052.2016",
+                    "title": "Государственный вторичный эталон единицы мощности кермы в воздухе и кермы в воздухе гамма-излучения в диапазоне значений (2·10[^-4] - 1,5·10[^-2]) Гр·с[^-1]",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/405082"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "173602402": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00647595",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "152",
+                "manufactureYear": 2022,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "26.07.2022",
+            "validDate": "25.07.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/26-07-2022\/173602402",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-500 № 152",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-173602402\/protocol",
+            "additional_info": "#midd242162e-f553-49e7-b2c6-49239d89b3d6"
+        }
+    },
+    "171837968": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "70",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "19.07.2022",
+            "validDate": "18.07.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/19-07-2022\/171837968",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-06 № 0870",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-171837968\/protocol",
+            "additional_info": "#midc2395702-68cd-4bd9-ad1a-7d80b7ccdb50"
+        }
+    },
+    "171542618": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "112",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "18.07.2022",
+            "validDate": "17.07.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/18-07-2022\/171542618",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера  БМК-06 № 13112, БМК-50 № 13112, БМК-500 № 13112",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-171542618\/protocol",
+            "additional_info": "#mide70e2413-3328-435c-bd7c-9bded2481867"
+        }
+    },
+    "171542619": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "142",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "18.07.2022",
+            "validDate": "17.07.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/18-07-2022\/171542619",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-06 № 142",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-171542619\/protocol",
+            "additional_info": "#mid3f0e5c49-44fd-4cee-9bdc-9a2d9e43a353"
+        }
+    },
+    "177860477": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00379621",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "78",
+                "manufactureYear": 2010,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Филиал АО \"КОНЦЕРН РОСЭНЕРГОАТОМ\" \"Ростовская атомная станция\"",
+            "vrfDate": "18.07.2022",
+            "validDate": "17.07.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/18-07-2022\/172015793",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-500 № 1078",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-177860477\/protocol",
+            "additional_info": "#midee6aef62-2306-4abb-9eea-042d4a5ffed9"
+        }
+    },
+    "171998385": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "96",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "18.07.2022",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "inapplicable": {
+                "noticeNum": "И-Т\/18-07-2022\/171998385"
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-06 № 1196",
+            "briefIndicator": false,
+            "additional_info": "#midfac1dec6-a64c-4914-ae0f-93e6c5814d6d"
+        }
+    },
+    "166627494": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00631982",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "150",
+                "manufactureYear": 2022,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "27.06.2022",
+            "validDate": "26.06.2023",
+            "vriType": "1",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/27-06-2022\/166627494",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-06 № 150",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-166627494\/protocol",
+            "additional_info": "#midcb272c97-705c-45a6-b5b4-3d5ba48539f5"
+        }
+    },
+    "165925244": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "119",
+                "manufactureYear": 2013,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "24.06.2022",
+            "validDate": "23.06.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/24-06-2022\/165925244",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-06 № 13119",
+            "briefIndicator": false,
+            "additional_info": "#mid806a4dd4-b960-4cfa-9306-363ccd02e645"
+        }
+    },
+    "165301128": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00629418",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "ДКС-101",
+                "manufactureNum": "18",
+                "manufactureYear": 2003,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2020 г. № 2314"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "20.06.2022",
+            "validDate": "19.06.2023",
+            "vriType": "2",
+            "docTitle": "ГКПС130000.000РЭ \"Дозиметры универсальные ДКС-101. Руководство по эксплуатации\", р.14",
+            "applicable": {
+                "certNum": "С-СЕ\/20-06-2022\/165301128",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZCE.0494.2013",
+                    "title": "Государственный вторичный эталон ВЭТ8-8-83 единиц экспозиционной дозы, кермы в воздухе, амбиентного и индивидуального эквивалентов дозы гамма-излучения и их мощностей, в диапазоне значений: мощности экспозиционной дозы от 3·10[^-10] до 1·10[^-6] А\/кг, мощности кермы в воздухе от 1·10[^-8] до 5·10[^-5] Гр\/с, мощности амбиентного эквивалента дозы от 1·10[^-8] до 6·10[^-5] Зв\/с, мощности индивидуального эквивалента дозы от 1·10[^-8] до 3·10[^-5] Зв\/с, экспозиционной дозы от 3·10[^-9] до 1·10[^-3] Кл\/кг, кермы в воздухе от 1·10[^-7] до 5·10[^-2] Гр, амбиентного эквивалента дозы от 1·10[^-7] до 6·10[^-2] Зв, индивидуального эквивалента дозы от 1·10[^-7] до 3·10[^-2] Зв.",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418804"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "19793-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321726",
+                    "mitypeTitle": "Дозиметры рентгеновского и гамма-излучения",
+                    "number": "40613"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "107"
+                }
+            ]
+        },
+        "info": {
+            "structure": "электрометрический блок, зав. № 18; ионизационные камеры типа: БМК-500, зав. № 0318, БМК-50, зав. № 0318; контрольный источник 101\/50, зав. № 18",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-165301128\/protocol",
+            "additional_info": "Поверяемый эталон прослеживается к гэт8-2019."
+        }
+    },
+    "159106015": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.2Р.00614819",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "ДКС-101",
+                "manufactureNum": "152",
+                "manufactureYear": 2022,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ Р. 8.804-2012"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЛАВНЫЙ НАУЧНЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ(ФГБУ \"ГНМЦ\" МИНОБОРОНЫ РОССИИ)",
+            "signCipher": "ВХН",
+            "miOwner": "Юр. лицо",
+            "vrfDate": "27.05.2022",
+            "validDate": "26.05.2023",
+            "vriType": "1",
+            "docTitle": "Дозиметр универсальный ДКС-101, техническое описание и руководство по эксплуатации, раздел 14 \"Методика поверки\"",
+            "applicable": {
+                "certNum": "С-ВХН\/27-05-2022\/159106015",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ВХН.0012.2020",
+                    "title": "Вторичный эталон единиц кермы в воздухе и мощности кермы в воздухе, экспозиционной дозы и мощности экспозиционной дозы фотонного излучения ВЭ-19КЭДФ",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1384680"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок измерительный №152, ионизационная камера БМК-500 №152",
+            "briefIndicator": false
+        }
+    },
+    "159106217": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00614820",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "ДКС-101",
+                "manufactureNum": "82",
+                "manufactureYear": 2010,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ Р8.804-2012"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЛАВНЫЙ НАУЧНЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ(ФГБУ \"ГНМЦ\" МИНОБОРОНЫ РОССИИ)",
+            "signCipher": "ВХН",
+            "miOwner": "Юр. лицо",
+            "vrfDate": "25.05.2022",
+            "validDate": "24.05.2023",
+            "vriType": "2",
+            "docTitle": "Методика аттестации Хд.1.400071ИС3, МИ-1788-87",
+            "applicable": {
+                "certNum": "С-ВХН\/25-05-2022\/159106217",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ВХН.0012.2020",
+                    "title": "Вторичный эталон единиц кермы в воздухе и мощности кермы в воздухе, экспозиционной дозы и мощности экспозиционной дозы фотонного излучения ВЭ-19КЭДФ",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1384680"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок электрометрический №82, ионизационные камеры БМК-06 №1082, БМК-50 №1082, БМК-500 №1082",
+            "briefIndicator": false
+        }
+    },
+    "158553376": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00613701",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "ДКС-101",
+                "manufactureNum": "60",
+                "manufactureYear": 2008,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2020 г. № 2314"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"МАЯК\"",
+            "vrfDate": "20.05.2022",
+            "validDate": "19.05.2023",
+            "vriType": "2",
+            "docTitle": "ГКПС130000.000РЭ \"Дозиметры универсальные ДКС-101. Руководство по эксплуатации\", р.14",
+            "applicable": {
+                "certNum": "С-СЕ\/20-05-2022\/158553376",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZCE.0494.2013",
+                    "title": "Государственный вторичный эталон ВЭТ8-8-83 единиц экспозиционной дозы, кермы в воздухе, амбиентного и индивидуального эквивалентов дозы гамма-излучения и их мощностей, в диапазоне значений: мощности экспозиционной дозы от 3·10[^-10] до 1·10[^-6] А\/кг, мощности кермы в воздухе от 1·10[^-8] до 5·10[^-5] Гр\/с, мощности амбиентного эквивалента дозы от 1·10[^-8] до 6·10[^-5] Зв\/с, мощности индивидуального эквивалента дозы от 1·10[^-8] до 3·10[^-5] Зв\/с, экспозиционной дозы от 3·10[^-9] до 1·10[^-3] Кл\/кг, кермы в воздухе от 1·10[^-7] до 5·10[^-2] Гр, амбиентного эквивалента дозы от 1·10[^-7] до 6·10[^-2] Зв, индивидуального эквивалента дозы от 1·10[^-7] до 3·10[^-2] Зв.",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418804"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "19793-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321726",
+                    "mitypeTitle": "Дозиметры рентгеновского и гамма-излучения",
+                    "number": "40613"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "107"
+                }
+            ]
+        },
+        "info": {
+            "structure": "электрометрический блок, зав. №60; ионизационная  камера  типа БМК-500, зав.№0860; ионизационная  камера  типа БМК-50, зав.№0860.",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-158553376\/protocol",
+            "additional_info": "Поверяемый эталон прослеживается к гэт8-2019."
+        }
+    },
+    "156470032": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00608495",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "ДКС-101",
+                "manufactureNum": "67",
+                "manufactureYear": 2008,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2020 г. № 2314"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"МАЯК\"",
+            "vrfDate": "16.05.2022",
+            "validDate": "15.05.2023",
+            "vriType": "2",
+            "docTitle": "ГКПС130000.000РЭ \"Дозиметры универсальные ДКС-101. Руководство по эксплуатации\", р.14",
+            "applicable": {
+                "certNum": "С-СЕ\/16-05-2022\/156470032",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZCE.0494.2013",
+                    "title": "Государственный вторичный эталон ВЭТ8-8-83 единиц экспозиционной дозы, кермы в воздухе, амбиентного и индивидуального эквивалентов дозы гамма-излучения и их мощностей, в диапазоне значений: мощности экспозиционной дозы от 3·10[^-10] до 1·10[^-6] А\/кг, мощности кермы в воздухе от 1·10[^-8] до 5·10[^-5] Гр\/с, мощности амбиентного эквивалента дозы от 1·10[^-8] до 6·10[^-5] Зв\/с, мощности индивидуального эквивалента дозы от 1·10[^-8] до 3·10[^-5] Зв\/с, экспозиционной дозы от 3·10[^-9] до 1·10[^-3] Кл\/кг, кермы в воздухе от 1·10[^-7] до 5·10[^-2] Гр, амбиентного эквивалента дозы от 1·10[^-7] до 6·10[^-2] Зв, индивидуального эквивалента дозы от 1·10[^-7] до 3·10[^-2] Зв.",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418804"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "19793-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321726",
+                    "mitypeTitle": "Дозиметры рентгеновского и гамма-излучения",
+                    "number": "40613"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "107"
+                }
+            ]
+        },
+        "info": {
+            "structure": "электрометрический блок, зав. №67; ионизационная  камер   типа БМК-50, зав.№0867",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-156470032\/protocol",
+            "additional_info": "Поверяемый эталон прослеживается к гэт8-2019."
+        }
+    },
+    "155400838": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "146",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "11.05.2022",
+            "validDate": "10.05.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/11-05-2022\/155400838",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "5738.76.2Р.00237965",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/237965",
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370229",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "notation": "БАММ-1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "14852",
+                    "manufactureYear": 1980,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.840-2013 «ГСИ. Государственная поверочная схема для средств измерений абсолютного давления в диапазоне 1 – 1 • 10 6  Па"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323575",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "3000"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-06 № 146",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-155400838\/protocol",
+            "additional_info": "#midc4b8172a-0c28-4b3d-a23f-b75f9bc68001"
+        }
+    },
+    "153010633": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00602056",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "151",
+                "manufactureYear": 2022,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "04.05.2022",
+            "validDate": "03.05.2023",
+            "vriType": "1",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/04-05-2022\/153010633",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-06 № 151",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-153010633\/protocol",
+            "additional_info": "#mid5c17a694-1568-450d-91a4-4c63ea95f696"
+        }
+    },
+    "156512942": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00608793",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "130",
+                "manufactureYear": 2016,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Филиал \"Южный территориальный округ\" ФГУП \"РосРАО\"",
+            "vrfDate": "04.05.2022",
+            "validDate": "03.05.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/04-05-2022\/156512942",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-500 № 16130, БМК-50 № 16130",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-156512942\/protocol",
+            "additional_info": "#mid435c1027-f907-4b95-a743-d84c709548ac"
+        }
+    },
+    "153010639": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "150",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "27.04.2022",
+            "vriType": "1",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "inapplicable": {
+                "noticeNum": "И-Т\/27-04-2022\/153010639"
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-06 № 150",
+            "briefIndicator": false,
+            "additional_info": "#mid18afc13e-d361-49b7-a400-ce3f32fc336b"
+        }
+    },
+    "152008610": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00600184",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "52",
+                "manufactureYear": 2007,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "25.04.2022",
+            "validDate": "24.04.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/25-04-2022\/152008610",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-500 № 0752, БМК-50 № 0752",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-152008610\/protocol",
+            "additional_info": "#mid16540b82-f018-4dd4-b594-85e889859019"
+        }
+    },
+    "148913063": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00593155",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "50",
+                "manufactureYear": 2007,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "13.04.2022",
+            "validDate": "12.04.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/13-04-2022\/148913063",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-50 № 0750",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-148913063\/protocol",
+            "additional_info": "#mide75ead7a-79ba-4344-9c28-f95e2b3e396d"
+        }
+    },
+    "149192879": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00593430",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "56",
+                "manufactureYear": 2007,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "04.04.2022",
+            "validDate": "03.04.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/04-04-2022\/149192879",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-500  № 0756",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-149192879\/protocol",
+            "additional_info": "#mid2903e1af-03c2-4582-b2d3-d3cde1ce8109"
+        }
+    },
+    "142686338": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00214091",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "ДКС-101",
+                "manufactureNum": "110",
+                "manufactureYear": 2012,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ФБУ \"Хабаровский ЦСМ\"",
+            "vrfDate": "14.03.2022",
+            "validDate": "13.03.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/14-03-2022\/142686338",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-500 № 12110",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-142686338\/protocol",
+            "additional_info": "#mid0fc8838b-0d90-479d-b0d6-7e919a2a590c"
+        }
+    },
+    "139354558": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "153",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "10.03.2022",
+            "validDate": "09.03.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/10-03-2022\/139354558",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "5738.76.2Р.00237965",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/237965",
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370229",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "notation": "БАММ-1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "14852",
+                    "manufactureYear": 1980,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.840-2013 «ГСИ. Государственная поверочная схема для средств измерений абсолютного давления в диапазоне 1 – 1 • 10 6  Па"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323575",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "3000"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-06 № 153",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-139354558\/protocol",
+            "additional_info": "#mid794d3a5a-679b-4579-aab7-65835376d73e"
+        }
+    },
+    "137420602": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00249036",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "6",
+                "manufactureYear": 2003,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений поглощенной и эквивалентной доз фотонного и электронного излучений."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ФБУ \"Архангельский ЦСМ\"",
+            "vrfDate": "04.03.2022",
+            "validDate": "03.03.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/04-03-2022\/137420602",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-500 № 206",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-137420602\/protocol",
+            "additional_info": "#mid5f56d46f-7df3-4d25-a39d-927fa8f3fe67"
+        }
+    },
+    "135295942": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00214092",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "ДКС-101",
+                "manufactureNum": "47",
+                "manufactureYear": 2006,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ФБУ \"Иркутский ЦСМ\"",
+            "vrfDate": "25.02.2022",
+            "validDate": "24.02.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/25-02-2022\/135295942",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-06 № 0647, БМК-500 № 0647",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-135295942\/protocol",
+            "additional_info": "#midd54b9aee-48c2-4ed6-87ef-8901fbb597a1"
+        }
+    },
+    "133330987": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00557766",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "ДКС-101",
+                "manufactureNum": "76",
+                "manufactureYear": 2010,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2020 г. № 2314"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"МАЯК\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГКПС130000.000РЭ \"Дозиметры универсальные ДКС-101. Руководство по эксплуатации\", р.14",
+            "applicable": {
+                "certNum": "С-СЕ\/10-02-2022\/133330987",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZCE.0494.2013",
+                    "title": "Государственный вторичный эталон ВЭТ8-8-83 единиц экспозиционной дозы, кермы в воздухе, амбиентного и индивидуального эквивалентов дозы гамма-излучения и их мощностей, в диапазоне значений: мощности экспозиционной дозы от 3·10[^-10] до 1·10[^-6] А\/кг, мощности кермы в воздухе от 1·10[^-8] до 5·10[^-5] Гр\/с, мощности амбиентного эквивалента дозы от 1·10[^-8] до 6·10[^-5] Зв\/с, мощности индивидуального эквивалента дозы от 1·10[^-8] до 3·10[^-5] Зв\/с, экспозиционной дозы от 3·10[^-9] до 1·10[^-3] Кл\/кг, кермы в воздухе от 1·10[^-7] до 5·10[^-2] Гр, амбиентного эквивалента дозы от 1·10[^-7] до 6·10[^-2] Зв, индивидуального эквивалента дозы от 1·10[^-7] до 3·10[^-2] Зв.",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418804"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "19793-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321726",
+                    "mitypeTitle": "Дозиметры рентгеновского и гамма-излучения",
+                    "number": "40613"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "107"
+                }
+            ]
+        },
+        "info": {
+            "structure": "электрометрический блок, зав. №76; ионизационная  камера  типа БМК-500, зав.№1076",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-133330987\/protocol",
+            "additional_info": "Поверяемый эталон прослеживается к гэт8-2019. Значение чувствительности камеры БМК-500, зав. №1076 равно 0,0715 мЗв\/нКл;"
+        }
+    },
+    "131592125": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.2Р.00244343",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "118",
+                "manufactureYear": 2013,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений поглощенной и эквивалентной доз фотонного и электронного излучений."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ГУП КК \"СПГО \"Защита\"",
+            "vrfDate": "09.02.2022",
+            "validDate": "08.02.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/09-02-2022\/131592125",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-50 № 118",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-131592125\/protocol",
+            "additional_info": "#mid3d1485f5-3ca6-447e-9233-2634dfd67c6b"
+        }
+    },
+    "139941402": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "53",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ГБУЗ НСО \"НОКОД\"",
+            "vrfDate": "07.02.2022",
+            "validDate": "06.02.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/07-02-2022\/139941402",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-06 № 0753",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-139941402\/protocol",
+            "additional_info": "#mid5a38c98f-bd1c-4bf0-96db-8201fe397a1c"
+        }
+    },
+    "128983656": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00542841",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "ДКС-101",
+                "manufactureNum": "89",
+                "manufactureYear": 2011,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ Р 8.034-2012"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЛАВНЫЙ НАУЧНЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ(ФГБУ \"ГНМЦ\" МИНОБОРОНЫ РОССИИ)",
+            "signCipher": "ВХН",
+            "miOwner": "ФГБУ \"ГНМЦ\" МИНОБОРОНЫ РОССИИ",
+            "vrfDate": "31.01.2022",
+            "validDate": "30.01.2023",
+            "vriType": "2",
+            "docTitle": "Методика аттестации Хд1.400071 ИС 3, МИ-1788-87",
+            "applicable": {
+                "certNum": "С-ВХН\/31-01-2022\/128983656",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ВХН.0012.2020",
+                    "title": "Вторичный эталон единиц кермы в воздухе и мощности кермы в воздухе, экспозиционной дозы и мощности экспозиционной дозы фотонного излучения ВЭ-19КЭДФ",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1384680"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок электрометрический № 89, ионизационные камеры БМК-06 №1089, БМК-50 №1089, БМК-500 №1089",
+            "briefIndicator": false
+        }
+    },
+    "127881271": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00210131",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "61",
+                "manufactureYear": 2008,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений поглощенной и эквивалентной доз фотонного и электронного излучений."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\"",
+            "vrfDate": "20.01.2022",
+            "validDate": "19.01.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/20-01-2022\/127881271",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "5738.76.2Р.00237965",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/237965",
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370229",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "notation": "БАММ-1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "14852",
+                    "manufactureYear": 1980,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.840-2013 «ГСИ. Государственная поверочная схема для средств измерений абсолютного давления в диапазоне 1 – 1 • 10 6  Па"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323575",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "3000"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационные камеры БМК-500 № 0861, БМК-50 № 0861",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-127881271\/protocol",
+            "additional_info": "#mid9f13a37e-8cd9-4347-bfdf-e335bf928421"
+        }
+    },
+    "124449566": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeType": "ДКС-101",
+                "mitypeTitle": "Дозиметры универсальные",
+                "manufactureNum": "127",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ООО\"Компания Киль-Казань\"",
+            "vrfDate": "18.01.2022",
+            "validDate": "17.01.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/18-01-2022\/124449566",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-06 № 15127",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-124449566\/protocol",
+            "additional_info": "#mid2556549b-b19d-40f5-95f7-205432d2f9da"
+        }
+    },
+    "124963126": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00196964",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "73",
+                "manufactureYear": 2009,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ООО НПП \"ИЗОТОП\"",
+            "vrfDate": "14.01.2022",
+            "validDate": "13.01.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/14-01-2022\/124963126",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "20857-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323576",
+                    "mitypeTitle": "Измерители температуры и влажности микропроцессорные",
+                    "number": "2661"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "8388"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-500 № 0873",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-124963126\/protocol",
+            "additional_info": "#mid1bea38a3-1fa1-41ea-8438-d7fdd7e43039"
+        }
+    },
+    "124167832": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "25865.03.1Р.00530877",
+                "mitypeNumber": "25865-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331698",
+                "mitypeTitle": "Дозиметры универсальные",
+                "mitypeType": "ДКС-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "109",
+                "manufactureYear": 2012,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для СИ поглощенной и эквивалентной доз фотонного и электронного излучений. ГОСТ 8.070-2014"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Акционерное общество \"Сибиркий химический комбинат\"",
+            "vrfDate": "14.01.2022",
+            "validDate": "13.01.2023",
+            "vriType": "2",
+            "docTitle": "раздел 14 «Поверка дозиметра» ГКПС 130000.000РЭ",
+            "applicable": {
+                "certNum": "С-Т\/14-01-2022\/124167832",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт38-2021",
+                    "title": "ГПЭ единиц поглощенной дозы и мощности поглощенной дозы фотонного, электронного и протонного излучений",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390910"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера БМК-500 № 12109",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-124167832\/protocol",
+            "additional_info": "#midfc9968d5-648f-41fc-8c60-b113080b5095"
+        }
+    }
+}

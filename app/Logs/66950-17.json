@@ -1,0 +1,232 @@
+{
+    "201392212": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "66950-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380854",
+                "mitypeType": "РАТ 940",
+                "mitypeTitle": "Титраторы автоматические",
+                "manufactureNum": "1559020C\/1559079T\/1559079D",
+                "manufactureYear": 2017,
+                "modification": "РАТ 940"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "Акционерное общество \"Газпром добыча Томск\"",
+            "vrfDate": "14.11.2022",
+            "validDate": "13.11.2023",
+            "vriType": "2",
+            "docTitle": "МП 242-2062-2016 «Титраторы автоматические РАТ 940. Методика поверки», утвержденному ФГУП «ВНИИМ им. Д.И. Менделеева» 22.09.2016",
+            "applicable": {
+                "certNum": "С-НН\/14-11-2022\/201392212",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "33646.06.РЭ.00262817",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/262817",
+                    "mitypeNumber": "33646-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342322",
+                    "mitypeTitle": "Весы лабораторные электронные",
+                    "notation": "DISCOVERY (DV)",
+                    "modification": "DV215CD",
+                    "manufactureNum": "1129493161",
+                    "manufactureYear": 2012,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Приказ  256 от 07.02.2018г."
+                }
+            ],
+            "reagent": [
+                {
+                    "number": "РКТ.6",
+                    "type": "Реактив",
+                    "title": "Серебро азотнокислое"
+                },
+                {
+                    "number": "РКТ.13",
+                    "type": "Реактив",
+                    "title": "Калий йодистый (калия йодид)"
+                },
+                {
+                    "number": "БРР.1",
+                    "type": "Буферный раствор",
+                    "title": "Буферные растворы pH 2-го разряда"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "149753786": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "66950-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380854",
+                "mitypeType": "РАТ 940",
+                "mitypeTitle": "Титраторы автоматические",
+                "manufactureNum": "1559065С\/1559045Т\/1559074D",
+                "manufactureYear": 2016,
+                "modification": "РАТ 940"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТОМСКОЙ ОБЛАСТИ\"(ФБУ \"ТОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЭ",
+            "miOwner": "АО \"Газпром добыча Томск\"",
+            "vrfDate": "08.04.2022",
+            "validDate": "07.04.2023",
+            "vriType": "2",
+            "docTitle": "МП 242-2062-2016",
+            "applicable": {
+                "certNum": "С-ВЭ\/08-04-2022\/149753786",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "23245.08.3Р.56507",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/56507",
+                    "mitypeNumber": "23245-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395594",
+                    "mitypeTitle": "Преобразователи сигналов ТС и ТП прецизионные",
+                    "notation": "Теркон",
+                    "modification": "теркон",
+                    "manufactureNum": "329323",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и  электродвижущей силы"
+                },
+                {
+                    "regNumber": "23245.08.4Р.56509",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/56509",
+                    "mitypeNumber": "23245-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395594",
+                    "mitypeTitle": "Преобразователи сигналов ТС и ТП прецизионные",
+                    "notation": "Теркон",
+                    "modification": "теркон",
+                    "manufactureNum": "329323",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "49400.12.2Р.93797",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/93797",
+                    "mitypeNumber": "49400-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361046",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные",
+                    "notation": "ПТСВ",
+                    "modification": "ПТСВ",
+                    "manufactureNum": "2103",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "18949-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320279",
+                    "mitypeTitle": "Весы-компараторы",
+                    "number": "1120022154"
+                }
+            ],
+            "reagent": [
+                {
+                    "number": "РКТ.4",
+                    "type": "Реактив",
+                    "title": "Калия гидроокись"
+                },
+                {
+                    "number": "РКТ.6",
+                    "type": "Реактив",
+                    "title": "Серебро азотнокислое"
+                },
+                {
+                    "number": "РКТ.13",
+                    "type": "Реактив",
+                    "title": "Калий йодистый (калия йодид)"
+                },
+                {
+                    "number": "БРР.1",
+                    "type": "Буферный раствор",
+                    "title": "Буферные растворы pH 2-го разряда"
+                },
+                {
+                    "number": "РКТ.19",
+                    "type": "Реактив",
+                    "title": "Вода дистиллированная"
+                }
+            ]
+        },
+        "info": {
+            "structure": "электрод E-Chem PATrode, желтый; электрода RED PATrode, красный",
+            "briefIndicator": false
+        }
+    },
+    "138344771": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "66950-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380854",
+                "mitypeType": "РАТ 940",
+                "mitypeTitle": "Титраторы автоматические",
+                "manufactureNum": "1559041C\/1559081Т\/1559068D",
+                "modification": "РАТ 940"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТОМСКОЙ ОБЛАСТИ\"(ФБУ \"ТОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЭ",
+            "miOwner": "АО \"Газпром добыча Томск\"",
+            "vrfDate": "03.03.2022",
+            "validDate": "02.03.2023",
+            "vriType": "2",
+            "docTitle": "МП 242-2062-2016",
+            "applicable": {
+                "certNum": "С-ВЭ\/03-03-2022\/138344771",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "reagent": [
+                {
+                    "number": "РКТ.13",
+                    "type": "Реактив",
+                    "title": "Калий йодистый (калия йодид)"
+                },
+                {
+                    "number": "РКТ.17",
+                    "type": "Реактив",
+                    "title": "Спирт изопропиловый (2-пропанол)"
+                },
+                {
+                    "number": "ДРГ.20",
+                    "type": "Другое",
+                    "title": "Стандарт-титр серебро азотнокислое"
+                },
+                {
+                    "number": "БРР.1",
+                    "type": "Буферный раствор",
+                    "title": "Буферные растворы pH 2-го разряда"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

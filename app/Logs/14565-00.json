@@ -1,0 +1,2739 @@
+{
+    "220212631": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "367",
+                "manufactureYear": 1999,
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\"(ООО \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\")",
+            "signCipher": "АЧЖ",
+            "miOwner": "ООО \"Газпром добыча Уренгой\"",
+            "vrfDate": "03.02.2023",
+            "validDate": "02.08.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АЧЖ\/03-02-2023\/220212631",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317186",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "number": "137"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "СИ поверено по каналу измерения температуры точки росы по влаге в диапазоне измерений   -25 °С …+10 °С.",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-220212631\/protocol"
+        }
+    },
+    "218064211": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "365",
+                "manufactureYear": 2000,
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\"(ООО \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\")",
+            "signCipher": "АЧЖ",
+            "miOwner": "ООО \"Газпром добыча Уренгой\"",
+            "vrfDate": "26.01.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "inapplicable": {
+                "noticeNum": "И-АЧЖ\/26-01-2023\/218064211"
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317186",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "number": "137"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "210719760": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "418",
+                "manufactureYear": 2001,
+                "modification": "КОНГ-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-1C",
+            "vrfDate": "18.12.2022",
+            "validDate": "17.06.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/18-12-2022\/210719760",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                },
+                {
+                    "regNumber": "22237.08.2Р.00720084",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/720084",
+                    "mitypeNumber": "22237-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/397121",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MCх-R",
+                    "modification": "MC5-R",
+                    "manufactureNum": "25514742",
+                    "manufactureYear": 2003,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 1 октября 2018 г. №2091"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1397250",
+                    "mitypeTitle": "Источники питания  ",
+                    "number": "АС3091"
+                },
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011276",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "8205"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346988",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "4"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "206185276": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "504",
+                "manufactureYear": 2002,
+                "modification": "\"Конг-Прима-2\""
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "07.12.2022",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "inapplicable": {
+                "noticeNum": "И-АБИ\/07-12-2022\/206185276"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                },
+                {
+                    "regNumber": "73828.19.1Р.00568084",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/568084",
+                    "mitypeNumber": "73828-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/531692",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "ЭЛМЕТРО-Паскаль-03, Паскаль-03",
+                    "modification": "исп. ЭЛМЕТРО Паскаль-03-0,005",
+                    "manufactureNum": "0131",
+                    "manufactureYear": 2022,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 01.10.2018 №2091"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1397250",
+                    "mitypeTitle": "Источники питания  ",
+                    "number": "АС3091"
+                },
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011276",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "8205"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346988",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "4"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "204889430": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "405",
+                "manufactureYear": 2001,
+                "modification": "\"Конг-Прима-2\""
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "01.12.2022",
+            "validDate": "30.06.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/01-12-2022\/204889430",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                },
+                {
+                    "regNumber": "73828.19.1Р.00568084",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/568084",
+                    "mitypeNumber": "73828-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/531692",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "ЭЛМЕТРО-Паскаль-03, Паскаль-03",
+                    "modification": "исп. ЭЛМЕТРО Паскаль-03-0,005",
+                    "manufactureNum": "0131",
+                    "manufactureYear": 2022,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 01.10.2018 №2091"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1397250",
+                    "mitypeTitle": "Источники питания  ",
+                    "number": "АС3091"
+                },
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011276",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "8205"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346988",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "4"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "203971828": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "409",
+                "manufactureYear": 2001,
+                "modification": "Конг-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-1С",
+            "vrfDate": "24.11.2022",
+            "validDate": "23.05.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/24-11-2022\/203971828",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1397250",
+                    "mitypeTitle": "Источники питания  ",
+                    "number": "АС3091"
+                },
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011276",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "8205"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346988",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "4"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "203446867": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "156",
+                "manufactureYear": 1998,
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\"(ООО \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\")",
+            "signCipher": "АЧЖ",
+            "miOwner": "ООО \"Газпром добыча Уренгой\"",
+            "vrfDate": "23.11.2022",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "inapplicable": {
+                "noticeNum": "И-АЧЖ\/23-11-2022\/203446867"
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "15250-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313076",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "000316"
+                },
+                {
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317186",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "number": "137"
+                },
+                {
+                    "mitypeNumber": "46843-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357983",
+                    "mitypeTitle": "Меры электрического сопротивления однозначные",
+                    "number": "506"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "200769350": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "518",
+                "modification": "Без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ИМ. Б.А. ДУБОВИКОВА В САРАТОВСКОЙ ОБЛАСТИ\"(ФБУ \"САРАТОВСКИЙ ЦСМ ИМ. Б.А. ДУБОВИКОВА\")",
+            "signCipher": "ВУ",
+            "miOwner": "ООО \"Газпром трансгаз Екатеринбур\" Челябинское ЛПУМГ",
+            "vrfDate": "10.11.2022",
+            "validDate": "09.05.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ2.844.001 \"Преобразователи точки росы Конг-Прима-2. Методика поверки.\"",
+            "applicable": {
+                "certNum": "С-ВУ\/10-11-2022\/200769350",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.05.1Р.00126257",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/126257",
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317187",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "нет",
+                    "manufactureNum": "144",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 \"Государственная поверочная схема для средств измерений влажности газов"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "200766213": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "518",
+                "modification": "Без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ИМ. Б.А. ДУБОВИКОВА В САРАТОВСКОЙ ОБЛАСТИ\"(ФБУ \"САРАТОВСКИЙ ЦСМ ИМ. Б.А. ДУБОВИКОВА\")",
+            "signCipher": "ВУ",
+            "miOwner": "ООО \"Газпром трансгаз Екатеринбур\" Челябинское ЛПУМГ",
+            "vrfDate": "10.11.2022",
+            "validDate": "09.05.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ2.844.001 \"Преобразователи точки росы Конг-Прима-2. Методика поверки.\"",
+            "applicable": {
+                "certNum": "С-ВУ\/10-11-2022\/200766213",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.05.1Р.00126257",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/126257",
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317187",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "нет",
+                    "manufactureNum": "144",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 \"Государственная поверочная схема для средств измерений влажности газов"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "198877231": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "675",
+                "manufactureYear": 2004,
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\"(ООО \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\")",
+            "signCipher": "АЧЖ",
+            "miOwner": "ООО \"Газпром добыча Уренгой\"",
+            "vrfDate": "02.11.2022",
+            "validDate": "01.05.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АЧЖ\/02-11-2022\/198877231",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "15250-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313076",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "000316"
+                },
+                {
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317186",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "number": "137"
+                },
+                {
+                    "mitypeNumber": "46843-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357983",
+                    "mitypeTitle": "Меры электрического сопротивления однозначные",
+                    "number": "506"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "197895147": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "472",
+                "manufactureYear": 2002,
+                "modification": "\"Конг-Прима-2\""
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "28.10.2022",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "inapplicable": {
+                "noticeNum": "И-АБИ\/28-10-2022\/197895147"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346988",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "4"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1397250",
+                    "mitypeTitle": "Источники питания  ",
+                    "number": "АС3091"
+                },
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011276",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "8205"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "197895148": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "466",
+                "manufactureYear": 2002,
+                "modification": "\"Конг-Прима-2\""
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "28.10.2022",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "inapplicable": {
+                "noticeNum": "И-АБИ\/28-10-2022\/197895148"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346988",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "4"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1397250",
+                    "mitypeTitle": "Источники питания  ",
+                    "number": "АС3091"
+                },
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011276",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "8205"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "197644724": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "608",
+                "modification": "\"КОНГ-ПРИМА-2\""
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ,МЕТРОЛОГИИ И ИСПЫТАНИЙ В КУРСКОЙ ОБЛАСТИ\"(ФБУ \"КУРСКИЙ ЦСМ\")",
+            "signCipher": "ВА",
+            "miOwner": "ООО \"Газпром трансгаз Москва\"",
+            "vrfDate": "27.10.2022",
+            "validDate": "26.04.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-ВА\/27-10-2022\/197644724",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.98.1Р.00518074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/518074",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "015",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "203383515": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "586",
+                "manufactureYear": 2003,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "ГАЗПРОМ ТРАНСГАЗ ЮГОРСК ООО",
+            "vrfDate": "27.10.2022",
+            "validDate": "26.04.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-ВЯ\/27-10-2022\/203383515",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "48434.11.2Р.00649857",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/649857",
+                    "mitypeNumber": "48434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359914",
+                    "mitypeTitle": "Генераторы влажного газа",
+                    "notation": "Michell Instruments мод. HG-1, OptiCal, DG-4, VDS-3",
+                    "modification": "модификация DG-4",
+                    "manufactureNum": "139432",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений влажности газов и температуры конденсации углеводородов, утвержденная При"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "(id:4232805010073)"
+        }
+    },
+    "203383516": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "602",
+                "manufactureYear": 2003,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "ГАЗПРОМ ТРАНСГАЗ ЮГОРСК ООО",
+            "vrfDate": "26.10.2022",
+            "validDate": "25.04.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-ВЯ\/26-10-2022\/203383516",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "48434.11.2Р.00649857",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/649857",
+                    "mitypeNumber": "48434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359914",
+                    "mitypeTitle": "Генераторы влажного газа",
+                    "notation": "Michell Instruments мод. HG-1, OptiCal, DG-4, VDS-3",
+                    "modification": "модификация DG-4",
+                    "manufactureNum": "139432",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений влажности газов и температуры конденсации углеводородов, утвержденная При"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "(id:4232801010073)"
+        }
+    },
+    "206051246": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "634",
+                "manufactureYear": 2004,
+                "modification": "Нет модификации."
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ТРАНСГАЗ СУРГУТ\"(ООО \"ГАЗПРОМ ТРАНСГАЗ СУРГУТ\")",
+            "signCipher": "ВЧШ",
+            "miOwner": "ООО \"Газпром трансгаз Сургут\" Вынгапуровское ЛПУМГ КС-1",
+            "vrfDate": "21.10.2022",
+            "vriType": "2",
+            "docTitle": "КРАУ2.844.001 МИ Преобразователь точки росы \"КОНГ-Прима-2\" Инструкция по  поверке.",
+            "inapplicable": {
+                "noticeNum": "И-ВЧШ\/21-10-2022\/206051246"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "16347.03.3Р.00327740",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/327740",
+                    "mitypeNumber": "16347-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315299",
+                    "mitypeTitle": "Калибраторы давления",
+                    "notation": "DPI",
+                    "modification": "DPI 610",
+                    "manufactureNum": "61053877",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 30 декабря 2019 года №3457"
+                },
+                {
+                    "regNumber": "11326.90.4Р.00618954",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/618954",
+                    "mitypeNumber": "11326-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305921",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "notation": "Р4834",
+                    "modification": "Р4834",
+                    "manufactureNum": "06229",
+                    "manufactureYear": 1990,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "17286.05.2Р.00656741",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/656741",
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317186",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "\"Конг\"",
+                    "manufactureNum": "19110187",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 15.12.2021 г. № 2885 \"ГПС для средств измерений влажности газов и температуры конденсации углеводородов\""
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "31953-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340128",
+                    "mitypeTitle": "Приборы для измерения электроэнергетических величин и показателей качества электрической энергии",
+                    "number": "1160"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346988",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "2511"
+                },
+                {
+                    "mitypeNumber": "15500-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313586",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "60312"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "189545868": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "661",
+                "modification": "КОНГ-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\"(ООО \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\")",
+            "signCipher": "АЧЖ",
+            "miOwner": "ООО \"Газпром добыча Уренгой\"",
+            "vrfDate": "31.08.2022",
+            "vriType": "2",
+            "docTitle": "КРАУ2.844.001",
+            "inapplicable": {
+                "noticeNum": "И-АЧЖ\/31-08-2022\/189545868"
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317186",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "number": "023"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183504448": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "467",
+                "manufactureYear": 2002,
+                "modification": "Конг-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "20.08.2022",
+            "validDate": "19.02.2024",
+            "vriType": "1",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/20-08-2022\/179747736",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "73828-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/531692",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "0131"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346990",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "4"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1397250",
+                    "mitypeTitle": "Источники питания  ",
+                    "number": "АС3091"
+                },
+                {
+                    "mitypeNumber": "15500-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313583",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "21426"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183504520": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "476",
+                "manufactureYear": 2002,
+                "modification": "Конг-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "19.08.2022",
+            "validDate": "18.02.2024",
+            "vriType": "1",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/19-08-2022\/179653825",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "73828-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/531692",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "0131"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346990",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "4"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1397250",
+                    "mitypeTitle": "Источники питания  ",
+                    "number": "АС3091"
+                },
+                {
+                    "mitypeNumber": "15500-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313583",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "21428"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183504451": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "471",
+                "manufactureYear": 2002,
+                "modification": "Конг-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "17.08.2022",
+            "validDate": "16.02.2024",
+            "vriType": "1",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/17-08-2022\/179228131",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "73828-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/531692",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "0131"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346990",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "4"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1397250",
+                    "mitypeTitle": "Источники питания  ",
+                    "number": "АС3091"
+                },
+                {
+                    "mitypeNumber": "15500-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313583",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "21428"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183870282": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "663",
+                "modification": "КОНГ-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\"(ООО \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\")",
+            "signCipher": "АЧЖ",
+            "miOwner": "ООО \"Газпром добыча Уренгой\"",
+            "vrfDate": "15.08.2022",
+            "validDate": "14.01.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АЧЖ\/15-08-2022\/183870282",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1162.58.3Р.00110246",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/110246",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р331",
+                    "manufactureNum": "001515",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ Росстандарта № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "38358.08.3Р.00438009",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/438009",
+                    "mitypeNumber": "38358-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/397138",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-84",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "023120",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ Росстандарта №3457 от 30 декабря 2019 г"
+                },
+                {
+                    "regNumber": "17286.98.1Р.00498799",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/498799",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "модификации нет",
+                    "manufactureNum": "023",
+                    "manufactureYear": 1998,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 «Государственная поверочная схема для средств измерений влажности газов»"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183552641": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "472",
+                "manufactureYear": 2002,
+                "modification": "Конг-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "13.08.2022",
+            "validDate": "12.02.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/13-08-2022\/178362056",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "73828-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/531692",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "0131"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346990",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "4"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1397250",
+                    "mitypeTitle": "Источники питания  ",
+                    "number": "АС3091"
+                },
+                {
+                    "mitypeNumber": "15500-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313583",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "21428"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "172998792": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "508",
+                "manufactureYear": 2002,
+                "modification": "\"Конг-Прима-2\""
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "18.07.2022",
+            "validDate": "17.01.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/18-07-2022\/172998792",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22237.08.2Р.00527172",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/527172",
+                    "mitypeNumber": "22237-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/397121",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MCх-R",
+                    "modification": "MC5-R",
+                    "manufactureNum": "25515366",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 1 октября 2018 года №2091"
+                },
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "15500-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313584",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "21428"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346990",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "4"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327754",
+                    "mitypeTitle": "Источники питания",
+                    "number": "АС3091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "172934210": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "508",
+                "manufactureYear": 2002,
+                "modification": "\"Конг-Прима-2\""
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "18.07.2022",
+            "validDate": "17.01.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/18-07-2022\/172934210",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22237.08.2Р.00527172",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/527172",
+                    "mitypeNumber": "22237-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/397121",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MCх-R",
+                    "modification": "MC5-R",
+                    "manufactureNum": "25515366",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 1 октября 2018 года №2091"
+                },
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "15500-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313584",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "21428"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346990",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "4"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327754",
+                    "mitypeTitle": "Источники питания",
+                    "number": "АС3091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "210742302": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "466",
+                "manufactureYear": 2002,
+                "modification": "\"Конг-Прима-2\""
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "18.07.2022",
+            "validDate": "17.01.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/18-07-2022\/210742302",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22237.08.2Р.00527172",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/527172",
+                    "mitypeNumber": "22237-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/397121",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MCх-R",
+                    "modification": "MC5-R",
+                    "manufactureNum": "25515366",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 1 октября 2018 года №2091"
+                },
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1397250",
+                    "mitypeTitle": "Источники питания  ",
+                    "number": "АС3091"
+                },
+                {
+                    "mitypeNumber": "15500-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313583",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "21428"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346988",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "4"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "172567543": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "466",
+                "manufactureYear": 2002,
+                "modification": "\"Конг-Прима-2\""
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "14.07.2022",
+            "validDate": "13.01.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/14-07-2022\/172567543",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22237.08.2Р.00527172",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/527172",
+                    "mitypeNumber": "22237-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/397121",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MCх-R",
+                    "modification": "MC5-R",
+                    "manufactureNum": "25515366",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 1 октября 2018 года №2091"
+                },
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "15500-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313584",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "21428"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346990",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "4"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327754",
+                    "mitypeTitle": "Источники питания",
+                    "number": "АС3091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "177547204": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "299",
+                "modification": "исполнение КРАУ2.844.001"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ИМ. Б.А. ДУБОВИКОВА В САРАТОВСКОЙ ОБЛАСТИ\"(ФБУ \"САРАТОВСКИЙ ЦСМ ИМ. Б.А. ДУБОВИКОВА\")",
+            "signCipher": "ВУ",
+            "miOwner": "ООО ''Газпром ПХГ''  Карашурское УПХГ",
+            "vrfDate": "13.07.2022",
+            "validDate": "12.01.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-ВУ\/13-07-2022\/171002948",
+                "stickerNum": "18001662040",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.05.1Р.00126257",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/126257",
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317187",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "нет",
+                    "manufactureNum": "144",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 \"Государственная поверочная схема для средств измерений влажности газов"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "169838530": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "576",
+                "manufactureYear": 2003,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "-",
+            "vrfDate": "11.07.2022",
+            "validDate": "10.01.2024",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-ВЯ\/11-07-2022\/169838530",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "48434.11.1Р.42396",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/42396",
+                    "mitypeNumber": "48434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359914",
+                    "mitypeTitle": "Генераторы влажного газа",
+                    "notation": "Michell Instruments мод. HG-1, OptiCal, DG-4, VDS-3",
+                    "modification": "DG-4",
+                    "manufactureNum": "139432",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 \"Государственная поверочная схема для средств измерения влажности"
+                },
+                {
+                    "regNumber": "49867.12.3Р.00132297",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/132297",
+                    "mitypeNumber": "49867-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361588",
+                    "mitypeTitle": "Манометры цифровые",
+                    "notation": "ДМ5002М, ДМ5002Вн",
+                    "modification": "ДМ5002М мод. ДМ5002М-А",
+                    "manufactureNum": "1307",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ Росстандарта № 1339. от 29 июня 2018 г."
+                }
+            ],
+            "reagent": [
+                {
+                    "number": "РКТ.173",
+                    "type": "Реактив",
+                    "title": "Пропан сжиженный (объемная доля пропана не менее 99,97 %)"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "(id:4045529010073)"
+        }
+    },
+    "168347985": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "661",
+                "modification": "Конг-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\"(ООО \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\")",
+            "signCipher": "АЧЖ",
+            "miOwner": "ООО \"Газпром добыча Уренгой\"",
+            "vrfDate": "25.06.2022",
+            "validDate": "24.12.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АЧЖ\/25-06-2022\/168347985",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1162.58.3Р.00110246",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/110246",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р331",
+                    "manufactureNum": "001515",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ Росстандарта № 3456 от 30.12.2019 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "number": "023"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "165965457": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "634",
+                "manufactureYear": 2002,
+                "modification": "Нет модификации."
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ТРАНСГАЗ СУРГУТ\"(ООО \"ГАЗПРОМ ТРАНСГАЗ СУРГУТ\")",
+            "signCipher": "ВЧШ",
+            "miOwner": "ООО \"Газпром трансгаз Сургут\" Вынгапуровское ЛПУМГ КС-1",
+            "vrfDate": "08.06.2022",
+            "validDate": "07.12.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ2.844.001 МИ Преобразователь точки росы \"КОНГ-Прима-2\" Инструкция по  поверке.",
+            "applicable": {
+                "certNum": "С-ВЧШ\/08-06-2022\/165965457",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.05.1Р.00384065",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/384065",
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317186",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "19110187",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 «ГСИ. ГПС для средств измерений влажности газов»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "31953-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340128",
+                    "mitypeTitle": "Приборы для измерения электроэнергетических величин и показателей качества электрической энергии",
+                    "number": "1160"
+                },
+                {
+                    "mitypeNumber": "15500-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313584",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "19992"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346990",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "177"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "158957532": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "618",
+                "manufactureYear": 2004,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "-",
+            "vrfDate": "26.05.2022",
+            "validDate": "25.11.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-ВЯ\/26-05-2022\/158957532",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "48434.11.1Р.42396",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/42396",
+                    "mitypeNumber": "48434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359914",
+                    "mitypeTitle": "Генераторы влажного газа",
+                    "notation": "Michell Instruments мод. HG-1, OptiCal, DG-4, VDS-3",
+                    "modification": "DG-4",
+                    "manufactureNum": "139432",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 \"Государственная поверочная схема для средств измерения влажности"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "157432047": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "362",
+                "manufactureYear": 1999,
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\"(ООО \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\")",
+            "signCipher": "АЧЖ",
+            "miOwner": "ООО \"Газпром добыча Уренгой\"",
+            "vrfDate": "20.05.2022",
+            "validDate": "19.11.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АЧЖ\/20-05-2022\/157432047",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "15250-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313078",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "2591303"
+                },
+                {
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317186",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "number": "023"
+                },
+                {
+                    "mitypeNumber": "46843-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357983",
+                    "mitypeTitle": "Меры электрического сопротивления однозначные",
+                    "number": "506"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "СИ поверено в диапазоне измерения температуры точки росы по влаге -25 °С...+10 °С."
+        }
+    },
+    "155506213": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "584",
+                "manufactureYear": 2003,
+                "modification": "КОНГ-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-3C",
+            "vrfDate": "06.05.2022",
+            "validDate": "05.11.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/06-05-2022\/155506213",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "26044.07.2Р.00376586",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/376586",
+                    "mitypeNumber": "26044-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331987",
+                    "mitypeTitle": "Калибраторы многофункциональные портативные",
+                    "notation": "Метран 510-ПКМ",
+                    "modification": "Метран 510-ПКМ-Б",
+                    "manufactureNum": "1151",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 1 октября 2018 г. №2091"
+                },
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "15500-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313584",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "21428"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "450"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327754",
+                    "mitypeTitle": "Источники питания",
+                    "number": "АС3091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "155506214": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "606",
+                "manufactureYear": 2003,
+                "modification": "КОНГ-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-3C",
+            "vrfDate": "03.05.2022",
+            "validDate": "02.11.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/03-05-2022\/155506214",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "26044.07.2Р.00376586",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/376586",
+                    "mitypeNumber": "26044-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331987",
+                    "mitypeTitle": "Калибраторы многофункциональные портативные",
+                    "notation": "Метран 510-ПКМ",
+                    "modification": "Метран 510-ПКМ-Б",
+                    "manufactureNum": "1151",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 1 октября 2018 г. №2091"
+                },
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "15500-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313584",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "21428"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "450"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327754",
+                    "mitypeTitle": "Источники питания",
+                    "number": "АС3091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "153490574": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "663",
+                "modification": "Конг-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\"(ООО \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\")",
+            "signCipher": "АЧЖ",
+            "miOwner": "ООО \"Газпром добыча Уренгой\"",
+            "vrfDate": "24.04.2022",
+            "validDate": "23.10.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001.Д22",
+            "applicable": {
+                "certNum": "С-АЧЖ\/24-04-2022\/153490574",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.00.1Р.00498825",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/498825",
+                    "mitypeNumber": "17286-00",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317185",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "модификации нет",
+                    "manufactureNum": "62",
+                    "manufactureYear": 2002,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 «Государственная поверочная схема для средств измерений влажности газов»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "38358-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/397138",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "020218"
+                },
+                {
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "number": "001515"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "153467482": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "673",
+                "modification": "КОНГ-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\"(ООО \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\")",
+            "signCipher": "АЧЖ",
+            "miOwner": "ООО \"Газпром добыча Уренгой\"",
+            "vrfDate": "28.03.2022",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001",
+            "inapplicable": {
+                "noticeNum": "И-АЧЖ\/28-03-2022\/153467482"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.00.1Р.00498825",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/498825",
+                    "mitypeNumber": "17286-00",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317185",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "модификации нет",
+                    "manufactureNum": "62",
+                    "manufactureYear": 2002,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 «Государственная поверочная схема для средств измерений влажности газов»"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "140440127": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "662",
+                "manufactureYear": 2004,
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\"(ООО \"ГАЗПРОМ ДОБЫЧА УРЕНГОЙ\")",
+            "signCipher": "АЧЖ",
+            "miOwner": "ООО \"Газпром добыча Уренгой\"",
+            "vrfDate": "16.03.2022",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "inapplicable": {
+                "noticeNum": "И-АЧЖ\/16-03-2022\/140440127"
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "15250-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313078",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "000416"
+                },
+                {
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317186",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "number": "137"
+                },
+                {
+                    "mitypeNumber": "46843-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357983",
+                    "mitypeTitle": "Меры электрического сопротивления однозначные",
+                    "number": "506"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "124250271": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "476",
+                "manufactureYear": 2002,
+                "modification": "Конг-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "18.01.2022",
+            "validDate": "17.07.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/18-01-2022\/124250271",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.05.1Р.00396864",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/396864",
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317186",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "006",
+                    "manufactureYear": 2007,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 «ГСИ. ГПС для средств измерений влажности газов»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011276",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "3629"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327754",
+                    "mitypeTitle": "Источники питания",
+                    "number": "АС3091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183562735": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "405",
+                "manufactureYear": 2001,
+                "modification": "\"Конг-Прима-2\""
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "17.01.2022",
+            "validDate": "16.07.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/17-01-2022\/164364562",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "26044.07.2Р.00376586",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/376586",
+                    "mitypeNumber": "26044-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331987",
+                    "mitypeTitle": "Калибраторы многофункциональные портативные",
+                    "notation": "Метран 510-ПКМ",
+                    "modification": "Метран 510-ПКМ-Б",
+                    "manufactureNum": "1151",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 1 октября 2018 г. №2091"
+                },
+                {
+                    "regNumber": "17286.98.1Р.00529079",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/529079",
+                    "mitypeNumber": "17286-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317188",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "021",
+                    "manufactureYear": 1999,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "«ГОСТ 8.547-2009 \"ГСИ. Государственная поверочная схема для средств измерений влажности газов\"»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334071",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "3629"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1397250",
+                    "mitypeTitle": "Источники питания  ",
+                    "number": "АС3091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "121776487": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "472",
+                "manufactureYear": 2002,
+                "modification": "Конг-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "09.01.2022",
+            "validDate": "09.07.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/09-01-2022\/121776487",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.05.1Р.00396864",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/396864",
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317186",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "006",
+                    "manufactureYear": 2007,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 «ГСИ. ГПС для средств измерений влажности газов»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334071",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "3629"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327754",
+                    "mitypeTitle": "Источники питания",
+                    "number": "АС3091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "121573517": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "583",
+                "manufactureYear": 2002,
+                "modification": "Конг-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-3С",
+            "vrfDate": "06.01.2022",
+            "validDate": "05.07.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/06-01-2022\/121573517",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.05.1Р.00396864",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/396864",
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317186",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "006",
+                    "manufactureYear": 2007,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 «ГСИ. ГПС для средств измерений влажности газов»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334071",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "3629"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327754",
+                    "mitypeTitle": "Источники питания",
+                    "number": "АС3091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "121573518": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "467",
+                "manufactureYear": 2002,
+                "modification": "Конг-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "05.01.2022",
+            "validDate": "04.07.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/05-01-2022\/121573518",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.05.1Р.00396864",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/396864",
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317186",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "006",
+                    "manufactureYear": 2007,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 «ГСИ. ГПС для средств измерений влажности газов»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334071",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "3629"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327754",
+                    "mitypeTitle": "Источники питания",
+                    "number": "АС3091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "121555593": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14565-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/311538",
+                "mitypeType": "КОНГ-Прима-2",
+                "mitypeTitle": "Преобразователи точки росы",
+                "manufactureNum": "471",
+                "manufactureYear": 2002,
+                "modification": "Конг-Прима-2"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью \"Газпром добыча Ямбург\"(ООО \"Газпром добыча Ямбург\")",
+            "signCipher": "АБИ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\", ф.НГДУ, ГП-2С",
+            "vrfDate": "04.01.2022",
+            "validDate": "03.06.2023",
+            "vriType": "2",
+            "docTitle": "КРАУ 2.844.001 МИ",
+            "applicable": {
+                "certNum": "С-АБИ\/04-01-2022\/121555593",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17286.05.1Р.00396864",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/396864",
+                    "mitypeNumber": "17286-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317186",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "Конг",
+                    "modification": "",
+                    "manufactureNum": "006",
+                    "manufactureYear": 2007,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 «ГСИ. ГПС для средств измерений влажности газов»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334071",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "3629"
+                },
+                {
+                    "mitypeNumber": "23310-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327754",
+                    "mitypeTitle": "Источники питания",
+                    "number": "АС3091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

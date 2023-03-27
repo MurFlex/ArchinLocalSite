@@ -1,0 +1,137 @@
+{
+    "192011867": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "11075.87.2Р.00684182",
+                "mitypeNumber": "11075-87",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305577",
+                "mitypeTitle": "Стандарты частоты и времени водородные",
+                "mitypeType": "Ч1-76",
+                "modification": "Ч1-76",
+                "manufactureNum": "26141",
+                "manufactureYear": 2000,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Времени и частоты"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЛАВНЫЙ НАУЧНЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ(ФГБУ \"ГНМЦ\" МИНОБОРОНЫ РОССИИ)",
+            "signCipher": "ВХН",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.10.2022",
+            "validDate": "02.10.2023",
+            "vriType": "1",
+            "docTitle": "ЕЭ2.721.655 ТО",
+            "applicable": {
+                "certNum": "С-ВХН\/03-10-2022\/190241558",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ВХН.0025.2020",
+                    "title": "Вторичный эталон единиц времени и частоты ВЭ-31-16",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1384694"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "70997-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395960",
+                    "mitypeTitle": "Компараторы-анализаторы фазовые",
+                    "number": "034 22"
+                },
+                {
+                    "mitypeNumber": "54986-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367504",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "DS6D182700026"
+                },
+                {
+                    "mitypeNumber": "52615-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364831",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "number": "103675"
+                },
+                {
+                    "mitypeNumber": "26211-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332218",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "MY47000415"
+                },
+                {
+                    "mitypeNumber": "35266-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389759",
+                    "mitypeTitle": "Компараторы частотные",
+                    "number": "115 16"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-192011867\/protocol"
+        }
+    },
+    "132319211": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "11075.87.2Р.00199438",
+                "mitypeNumber": "11075-87",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305577",
+                "mitypeTitle": "Стандарты частоты и времени водородные",
+                "mitypeType": "Ч1-76",
+                "modification": "-",
+                "manufactureNum": "84055",
+                "manufactureYear": 1989,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГПС для средств измерений времени и частоты"
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "в\/ч 55236",
+            "vrfDate": "16.02.2022",
+            "validDate": "15.02.2023",
+            "vriType": "2",
+            "docTitle": "ЕЭ2.721.655 ТО, раздел 9",
+            "applicable": {
+                "certNum": "С-Х\/16-02-2022\/132319211",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0381.2021",
+                    "title": "Государственный вторичный эталон единиц времени в диапазоне значений от 1,0 нс до 1,0·10[^6] с, частоты в диапазоне значений от 1,0·10[^-3] Гц до 4,0·10[^10] Гц и шкалы времени ВЭТ 1-7",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393892"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "67603-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381573",
+                    "mitypeTitle": "Датчики",
+                    "number": "0147"
+                },
+                {
+                    "mitypeNumber": "63132-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376715",
+                    "mitypeTitle": "Источники питания",
+                    "number": "600594010727350003"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "в полном объеме, за исключением проверки параметров выхода 5 МГц № 1, относительной погрешности воспроизведения частоты и дополнительного относительного изменения частоты при изменении температуры окружающей среды на 1 ⁰С по п. 9.4.9 и 9.4.10 ЕЭ2.721.655 ТО соответственно",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-132319211\/protocol"
+        }
+    }
+}

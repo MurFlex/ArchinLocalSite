@@ -1,0 +1,71 @@
+{
+    "206518551": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "23724-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328430",
+                "mitypeType": "SKC 224-44 XR KDB",
+                "mitypeTitle": "Устройство пробоотборное",
+                "manufactureNum": "A 028394",
+                "modification": "SKС 224-44 XR"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В МАГАДАНСКОЙ ОБЛАСТИ И ЧУКОТСКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"МАГАДАНСКИЙ ЦСМ\")",
+            "signCipher": "ВГ",
+            "miOwner": "ООО \"ВНИИ 1\"",
+            "vrfDate": "07.12.2022",
+            "validDate": "06.12.2023",
+            "vriType": "2",
+            "docTitle": "ГСИ Устройства пробоотборные SKC. Методика поверки",
+            "applicable": {
+                "certNum": "С-ВГ\/07-12-2022\/206518551",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "51713.18.2Р.00512414",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/512414",
+                    "mitypeNumber": "51713-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/530438",
+                    "mitypeTitle": "Расходомеры-счетчики газа",
+                    "notation": "РГТ",
+                    "modification": "РГТ-7",
+                    "manufactureNum": "687",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС, утвержденная приказом Росстандарта от 29.12.2018 г. № 2825"
+                },
+                {
+                    "regNumber": "11519.96.РЭ.00535900",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535900",
+                    "mitypeNumber": "11519-96",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306188",
+                    "mitypeTitle": "Секундомеры механические",
+                    "notation": "СОПпр, СОСпр",
+                    "modification": "СОСпр-2б-2",
+                    "manufactureNum": "4665",
+                    "manufactureYear": 1996,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГОСТ 8.423-81, МП 066.00.00.000РЭ, ПГС.00.00.000 РЭ, раздел 5"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "OF49"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

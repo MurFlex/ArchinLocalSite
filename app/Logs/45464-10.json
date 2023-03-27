@@ -1,0 +1,59 @@
+{
+    "147892392": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "45464-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356455",
+                "mitypeType": "HSV 2000",
+                "mitypeTitle": "Виброметры лазерные",
+                "manufactureNum": "0184021",
+                "modification": "HSV 2000"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПЕРВЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\"(ООО \"ПМЦ\")",
+            "signCipher": "ДУИ",
+            "miOwner": "ФАУ \"ЦИАМ им. П.И. Баранова\"",
+            "vrfDate": "08.04.2022",
+            "validDate": "07.04.2024",
+            "vriType": "2",
+            "docTitle": "МП \"Виброметры лазерные HSV 2000 фирмы \"Polytec GmbH\", Германия\", утв. ГЦИ СИ ФГУП \"ВНИИМС\" 15 октября 2010 года",
+            "applicable": {
+                "certNum": "С-ДУИ\/08-04-2022\/147892392",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "68875.17.1Р.00149712",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149712",
+                    "mitypeNumber": "68875-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382972",
+                    "mitypeTitle": "Установки для поверки и калибровки виброизмерительных преобразователей",
+                    "notation": "9155",
+                    "modification": "9155-831 и 9155-779",
+                    "manufactureNum": "1807-0x186D",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "63371-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376958",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "MY57513765"
+                }
+            ]
+        },
+        "info": {
+            "structure": "контроллер HSV-2001 № 0184021, сенсорная головка HSV-700, лазерный модуль HSV-800 № 0184020",
+            "briefIndicator": true,
+            "briefCharacteristics": "в диапазоне частот от 0,1 до 20000,0 Гц"
+        }
+    }
+}

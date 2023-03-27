@@ -1,0 +1,73 @@
+{
+    "182629954": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "22496.02.2Р.00421520",
+                "mitypeNumber": "22496-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326385",
+                "mitypeTitle": "Установка газосмесительная",
+                "mitypeType": "368УО-R22",
+                "modification": "Нет модификации",
+                "manufactureNum": "1",
+                "manufactureYear": 2002,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта от 31.12.2020 г. № 2315"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "ФГУП \"СПО \"Аналитприбор\"",
+            "vrfDate": "26.08.2022",
+            "validDate": "25.08.2023",
+            "vriType": "2",
+            "docTitle": "Приложение А к ИБЯЛ.064444.001 РЭ \"Установка газосмесительная 368УО-R22, заводской N 1. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-В\/26-08-2022\/182629954",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт154-2019",
+                    "title": "ГПЭ единиц молярной доли, массовой доли и массовой концентрации компонентов в газовых и газоконденсатных средах",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1365155"
+                }
+            ],
+            "ses": [
+                {
+                    "number": "ГСО 10774-2016",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ, СОДЕРЖАЩЕЙ ХИМИЧЕСКИ АКТИВНЫЕ ГАЗЫ (ХА-ВНИИМ-ЭС)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389408",
+                    "manufactureYear": 2022,
+                    "manufactureNum": "D936724",
+                    "metroChars": "Наименование и аттестованное значение: 0,05154 % мол.д., погрешность и (или) неопределенность: ±0,5 % мол.д."
+                },
+                {
+                    "number": "ГСО 10774-2016",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ, СОДЕРЖАЩЕЙ ХИМИЧЕСКИ АКТИВНЫЕ ГАЗЫ (ХА-ВНИИМ-ЭС)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389408",
+                    "manufactureYear": 2022,
+                    "manufactureNum": "D116967",
+                    "metroChars": "Наименование и аттестованное значение: 0,01001 % мол.д., погрешность и (или) неопределенность: ±0,6 % мол.д."
+                },
+                {
+                    "number": "ГСО 10774-2016",
+                    "title": "СО СОСТАВА ИСКУССТВЕННОЙ ГАЗОВОЙ СМЕСИ, СОДЕРЖАЩЕЙ ХИМИЧЕСКИ АКТИВНЫЕ ГАЗЫ (ХА-ВНИИМ-ЭС)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389408",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "Ф653",
+                    "metroChars": "Наименование и аттестованное значение: 0,002771 % мол.д., погрешность и (или) неопределенность: ±0,6 % мол.д."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-182629954\/protocol",
+            "additional_info": "#midd4b86cc4-5fd0-4540-9c46-abe2d89a7d86"
+        }
+    }
+}

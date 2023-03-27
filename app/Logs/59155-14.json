@@ -1,0 +1,50 @@
+{
+    "190031501": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "59155-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372288",
+                "mitypeType": "АСДКУ ВСВ ГХН",
+                "mitypeTitle": "Система измерительная автоматизированная диспетчерского контроля и управления",
+                "manufactureNum": "002",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "22.09.2022",
+            "validDate": "21.09.2024",
+            "vriType": "2",
+            "docTitle": "ВСВ.002.2014 МП",
+            "applicable": {
+                "certNum": "С-М\/22-09-2022\/190031501",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52489.13.2Р.00396816",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/396816",
+                    "mitypeNumber": "52489-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364689",
+                    "mitypeTitle": "Калибраторы многофункциональные и коммуникаторы",
+                    "notation": "ВЕАМЕХ MC6 (-R)",
+                    "modification": "BEAMEX MC6 (-R)",
+                    "manufactureNum": "605421",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-190031501\/protocol"
+        }
+    }
+}

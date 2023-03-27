@@ -1,0 +1,110 @@
+{
+    "188239979": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "67042-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380956",
+                "mitypeType": "VC-6000",
+                "mitypeTitle": "Аппаратура измерения параметров вибрации многоканальная",
+                "manufactureNum": "001889",
+                "modification": "VC-6000"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПЕРВЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\"(ООО \"ПМЦ\")",
+            "signCipher": "ДУИ",
+            "miOwner": "АО \"УСТЬ-СРЕДНЕКАНСКАЯ ГЭС ИМ. А.Ф. ДЬЯКОВА\", ИНН 4909095293",
+            "vrfDate": "14.09.2022",
+            "validDate": "13.09.2025",
+            "vriType": "1",
+            "docTitle": "МП 204\/3-12-2016",
+            "applicable": {
+                "certNum": "С-ДУИ\/14-09-2022\/188239979",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "63371-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376958",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "MY57513765"
+                },
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "123991"
+                }
+            ]
+        },
+        "info": {
+            "structure": "шасси RC-600 № 001889, модули SM-610-A07 №№ 1050670100000608, 1050670100000609, модуль SM-610-A05 №№ 1041740100000049",
+            "briefIndicator": false
+        }
+    },
+    "146519556": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "67042-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380956",
+                "mitypeType": "VC-6000",
+                "mitypeTitle": "Аппаратура измерения параметров вибрации многоканальная",
+                "manufactureNum": "001726",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "АО \"СХЗ\"",
+            "vrfDate": "29.03.2022",
+            "validDate": "28.03.2025",
+            "vriType": "2",
+            "docTitle": "МП 204\/3-12-2016",
+            "applicable": {
+                "certNum": "С-АБ\/29-03-2022\/146519556",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "33921.07.2Р.00154639",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/154639",
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Agilent 34410A, Agilent 34411A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "SG47000131",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2091 от 01.10.2018 г. ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10^-16 до 100 А."
+                },
+                {
+                    "regNumber": "26204.03.СИ.00578038",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/578038",
+                    "mitypeNumber": "26204-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332209",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "notation": "DS360",
+                    "modification": "Без модификации",
+                    "manufactureNum": "88075",
+                    "manufactureYear": 2008,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "Приказ Росстандарта №1621 от 31.07.18"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

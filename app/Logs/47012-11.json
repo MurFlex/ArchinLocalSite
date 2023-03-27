@@ -1,0 +1,93 @@
+{
+    "217501177": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47012.11.РЭ.00136815",
+                "mitypeNumber": "47012-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358184",
+                "mitypeTitle": "Стенды аэродинамические",
+                "mitypeType": "АДС300\/30М",
+                "modification": "нет",
+                "manufactureNum": "12",
+                "manufactureYear": 2014,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "Приказ Росстандарта №2815 от 25.11.2019"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "ФБУ \"Липецкий ЦСМ\"",
+            "vrfDate": "23.01.2023",
+            "validDate": "22.01.2024",
+            "vriType": "2",
+            "docTitle": "МП 2550-0169-2011 «Стенд аэродинамический АДС-300\/30М. Методика поверки».",
+            "applicable": {
+                "certNum": "С-В\/23-01-2023\/217501177",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт150-2012",
+                    "title": "ГПСЭ единицы скорости воздушного потока",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397833"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-217501177\/protocol",
+            "additional_info": "#mida83b465b-7e32-471d-b82a-f1c72f4ca686"
+        }
+    },
+    "131862432": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47012.11.РЭ.00226696",
+                "mitypeNumber": "47012-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358184",
+                "mitypeTitle": "Стенды аэродинамические",
+                "mitypeType": "АДС300\/30М",
+                "modification": "Нет модификации",
+                "manufactureNum": "11",
+                "manufactureYear": 2011,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "приказ Росстандарта №2815 от 25 ноября 2019 г. об утверждении Государственной поверочной схемы для средств измерений скорости во"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ  \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ  МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"",
+            "vrfDate": "14.02.2022",
+            "validDate": "13.02.2023",
+            "vriType": "2",
+            "docTitle": "МП 2550-0169-2011 «Стенд аэродинамический АДС-300\/30М. Методика поверки».",
+            "applicable": {
+                "certNum": "С-В\/14-02-2022\/131862432",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт150-2012",
+                    "title": "ГПСЭ единицы скорости воздушного потока",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397833"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-131862432\/protocol",
+            "additional_info": "#midbd4f7660-3b2e-4199-abf6-8a3762c309bc"
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "177944913": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "2549-70",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331162",
+                "mitypeType": "Г3-48",
+                "mitypeTitle": "Генераторы сигналов",
+                "manufactureNum": "0573",
+                "manufactureYear": 1970,
+                "modification": "Г3-48"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ТЕХНИЧЕСКОЙ ФИЗИКИ ИМЕНИ АКАДЕМИКА Е.И. ЗАБАБАХИНА\"(ФГУП \"РФЯЦ - ВНИИТФ ИМ. АКАДЕМ. Е.И. ЗАБАБАХИНА\")",
+            "signCipher": "АБУ",
+            "miOwner": "ФГУП \"РФЯЦ - ВНИИТФ им. академ. Е.И. Забабахина\"",
+            "vrfDate": "09.08.2022",
+            "validDate": "08.08.2023",
+            "vriType": "2",
+            "docTitle": "Раздел 9 «Генератор звуковых и ультразвуковых частот Г3-48» Паспорт, техническое описание и инструкция по эксплуатации.",
+            "applicable": {
+                "certNum": "С-АБУ\/09-08-2022\/177944913",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32359.06.4Р.53228",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/53228",
+                    "mitypeNumber": "32359-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340667",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/3",
+                    "modification": "Ч3-85\/3",
+                    "manufactureNum": "83040223",
+                    "manufactureYear": 2008,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31 июля 2018 г. «ГПС для СИ времени и частоты»"
+                },
+                {
+                    "regNumber": "9081.83.2Р.00112827",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/112827",
+                    "mitypeNumber": "9081-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387751",
+                    "mitypeTitle": "Измерители нелинейных искажений автоматические",
+                    "notation": "С6-11",
+                    "modification": "С6-11",
+                    "manufactureNum": "8712093",
+                    "manufactureYear": 1987,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.762-2011"
+                },
+                {
+                    "regNumber": "25984.03.2Р.00432333",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/432333",
+                    "mitypeNumber": "25984-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331871",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A",
+                    "modification": "8508A",
+                    "manufactureNum": "878349791",
+                    "manufactureYear": 2005,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 МГц"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76912-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011069",
+                    "mitypeTitle": "Регистраторы показателей качества электрической энергии",
+                    "number": "1210"
+                },
+                {
+                    "mitypeNumber": "22129-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325758",
+                    "mitypeTitle": "Термогигрометры электронные",
+                    "number": "180705872"
+                },
+                {
+                    "mitypeNumber": "3745-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178301",
+                    "mitypeTitle": "Барометры-анероиды",
+                    "number": "269"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

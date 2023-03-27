@@ -1,0 +1,72 @@
+{
+    "196081035": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "17867-98",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318267",
+                "mitypeType": "ОТМ-1",
+                "mitypeTitle": "Тестеры оптические малогабаритные",
+                "manufactureNum": "09",
+                "manufactureYear": 2000,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "Хабаровский филиал ПАО \"Ростелеком\" МРФ \"Дальний Восток\"(Хабаровский филиал ПАО \"Ростелеком\" МРФ \"Дальний Восток\")",
+            "signCipher": "АДХ",
+            "miOwner": "Филиал Сахателеком ПАО Ростелеком",
+            "vrfDate": "29.09.2022",
+            "validDate": "28.09.2023",
+            "vriType": "2",
+            "docTitle": "с МП, в руководстве по эксплуатации, согласованной ВНИИФТРИ.",
+            "applicable": {
+                "certNum": "С-АДХ\/29-09-2022\/196081035",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "48509.11.РЭ.00602635",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/602635",
+                    "mitypeNumber": "48509-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359996",
+                    "mitypeTitle": "Тестеры оптические",
+                    "notation": "ОТ-3-1",
+                    "modification": "ОТ-3-1\/4-1-1",
+                    "manufactureNum": "03811",
+                    "manufactureYear": 2011,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 05.12.2019 №2862"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "23658-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328341",
+                    "mitypeTitle": "Тестеры оптические сетевые",
+                    "number": "H-0008\/J-0016"
+                },
+                {
+                    "mitypeNumber": "21019-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390451",
+                    "mitypeTitle": "Мультиметры цифровые портативные",
+                    "number": "88580245"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39518452-809"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "поверено на длиннах волн калибровки 1310 нм (от+3 до -50) дБм, 1550 нм (от+3 до -50) дБм.",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-196081035\/protocol"
+        }
+    }
+}

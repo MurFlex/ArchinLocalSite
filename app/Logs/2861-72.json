@@ -1,0 +1,64 @@
+{
+    "212403223": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "2861-72",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335661",
+                "mitypeType": "Г5-39",
+                "mitypeTitle": "Комплект генераторов испытательных импульсов",
+                "manufactureNum": "02022",
+                "modification": "Г5-39"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВОЛГОГРАДСКИЙ ЗАВОД РАДИОТЕХНИЧЕСКОГО ОБОРУДОВАНИЯ\"(ОАО \"ВЗРТО\")",
+            "signCipher": "ВЫП",
+            "miOwner": "ОАО ВЗРТО",
+            "vrfDate": "23.12.2022",
+            "validDate": "22.12.2023",
+            "vriType": "2",
+            "docTitle": "ГВ3.264.015 ТО, раздел 13",
+            "applicable": {
+                "certNum": "С-ВЫП\/23-12-2022\/212403223",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "6013.77.2Р.00238039",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/238039",
+                    "mitypeNumber": "6013-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373376",
+                    "mitypeTitle": "Приборы для поверки вольтметров дифференциальные",
+                    "notation": "В1-12",
+                    "modification": "В1-12",
+                    "manufactureNum": "0332",
+                    "manufactureYear": 1990,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 ГПС для СИ силы постоянного электрического тока в диапазоне 1×10⁻¹⁶ ÷ 100 А"
+                },
+                {
+                    "regNumber": "5477.76.1Р.00628937",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/628937",
+                    "mitypeNumber": "5477-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367253",
+                    "mitypeTitle": "Вольтметры переменного тока диодные компенсационные",
+                    "notation": "В3-49",
+                    "modification": "Без модификации",
+                    "manufactureNum": "0620",
+                    "manufactureYear": 1989,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 03.09.2021 года № 1942"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Протокол поверки"
+        }
+    }
+}

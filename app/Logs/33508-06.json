@@ -1,0 +1,70 @@
+{
+    "206476127": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "33508.06.2Р.00213458",
+                "mitypeNumber": "33508-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342146",
+                "mitypeTitle": "Комплексы поверочные портативные",
+                "mitypeType": "КПП-3",
+                "modification": "Нет модификации",
+                "manufactureNum": "01",
+                "manufactureYear": 2006,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ 8.547-2009 Государственная поверочная схема для средств измерений влажности газов"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЛАВНАЯ ГЕОФИЗИЧЕСКАЯ ОБСЕРВАТОРИЯ ИМ А.И. ВОЕЙКОВА\"(ФГБУ \"ГГО\")",
+            "signCipher": "БАГ",
+            "miOwner": "ФГБУ \"ГГО\"",
+            "vrfDate": "01.12.2022",
+            "validDate": "30.11.2023",
+            "vriType": "2",
+            "docTitle": "«Комплекс поверочный портативный КПП-3. Методика поверки»  МП-254-0002-2006",
+            "applicable": {
+                "certNum": "С-БАГ\/01-12-2022\/206476127",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "66622.17.3Р.00524140",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/524140",
+                    "mitypeNumber": "66622-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380497",
+                    "mitypeTitle": "Комплексы поверочные портативные",
+                    "notation": "КПП-2",
+                    "modification": "КПП-2",
+                    "manufactureNum": "10",
+                    "manufactureYear": 2017,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "46797.11.1Р.00644000",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/644000",
+                    "mitypeNumber": "46797-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357925",
+                    "mitypeTitle": "Генератор влажного газа эталонный",
+                    "notation": "РОДНИК-4 ГГО",
+                    "modification": "Родник-4 ГГО",
+                    "manufactureNum": "01",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений влажности газов и температуры конденсации углеводородов Приказ № 2885 от"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Термогигрометр ИВА-6Б зав. № 3550; ПСГ зав. № 01",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-206476127\/protocol"
+        }
+    }
+}

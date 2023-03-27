@@ -1,0 +1,64 @@
+{
+    "162197434": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "11277-88",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305854",
+                "mitypeType": "АНС114",
+                "mitypeTitle": "Преобразователи виброизмерительные пьезоэлектрические низкочастотные (вибропреобразователи)",
+                "manufactureNum": "7538010",
+                "modification": "АНС 114"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "владелец",
+            "vrfDate": "07.06.2022",
+            "validDate": "06.06.2023",
+            "vriType": "1",
+            "docTitle": "ГОСТ8.246-77",
+            "applicable": {
+                "certNum": "С-ТТ\/07-06-2022\/162197434",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.05301",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/5301",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1766",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                },
+                {
+                    "regNumber": "16500.97.РЭ.00449208",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/449208",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401A",
+                    "manufactureNum": "10149",
+                    "manufactureYear": 2005,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "340-0321-17 МП; МП 254-0025-2014; ЗТСМ411168.004 МП; МП 40108-08; МП 340-03-2008; LVS SCADAS-2017 МП; 340\/86-15 МП"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "[ID=00a7a4bb-e66b-11ec-93e1-0025902af9c6] Действительное значение коэффициента преобразования преобразователя на базовой частоте f = 160 Гц:  Кд = 1,15 мВ\/м\/с² , Кд = 3,54 пКл\/м\/с² .  Неравномерность ЧХ равна 11,72 % в диапазоне частот от 20 до 2500 Гц.  Нелинейность АХ равна 10,14 % в диапазоне ускорений др 3000 м\/с².  Относительный коэффициент поперечного преобразования К = 3,57%."
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "174269354": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "31159-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339039",
+                "mitypeType": "T-10M",
+                "mitypeTitle": "Люксметр",
+                "manufactureNum": "38421014, 77411088",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "28.07.2022",
+            "validDate": "27.07.2023",
+            "vriType": "2",
+            "docTitle": "Приложение к РЭ, утверждена ГЦИ СИ ВНИИОФИ",
+            "applicable": {
+                "certNum": "С-ВЗ\/28-07-2022\/174269354",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55961.13.РЭ.51410",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/51410",
+                    "mitypeNumber": "55961-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368594",
+                    "mitypeTitle": "Установки автоматизированные для поверки люксметров, яркомеров, пульсметров и радиометров",
+                    "notation": "УЛР-1А",
+                    "modification": "УЛР-1А",
+                    "manufactureNum": "43",
+                    "manufactureYear": 2020,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Приказ № 3460 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "47691.11.РЭ.00245437",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/245437",
+                    "mitypeNumber": "47691-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359010",
+                    "mitypeTitle": "Комплекты светофильтров",
+                    "notation": "КНС-10.2",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "148",
+                    "manufactureYear": 2013,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "утверждено приказом Росстандарта №2517 от 27.11.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "51110-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363089",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "34410045"
+                }
+            ]
+        },
+        "info": {
+            "structure": "измерительный блок №38421014,фотометрическая головка №77411088",
+            "briefIndicator": true,
+            "briefCharacteristics": "в диапазоне измерения освещенности в видимой области спектра от 1 до 200000 лк",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-174269354\/protocol"
+        }
+    }
+}

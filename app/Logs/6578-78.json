@@ -1,0 +1,1933 @@
+{
+    "219751102": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.РЭ.00779713",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-1",
+                "manufactureNum": "44",
+                "manufactureYear": 1986,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "«перечень методик поверки согласно протоколу поверки»"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "ФБУ \"Новосибирский ЦСМ\"",
+            "vrfDate": "01.02.2023",
+            "validDate": "31.01.2024",
+            "vriType": "2",
+            "docTitle": "\"ГСИ. Меры толщины ультразвуковые образцовые КМТ176М-1. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-НН\/01-02-2023\/219751102",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "2535.69.3Р.40413",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/40413",
+                    "mitypeNumber": "2535-69",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/330934",
+                    "mitypeTitle": "Меры длины плоскопараллельные концевые из твердого сплава",
+                    "notation": "МКП",
+                    "modification": "0.5-100мм",
+                    "manufactureNum": "29575",
+                    "manufactureYear": 1973,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС, приказ №2840 от 29.12.2018г."
+                },
+                {
+                    "regNumber": "140.49.4Р.00763554",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/763554",
+                    "mitypeNumber": "140-49",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/310263",
+                    "mitypeTitle": "Оптиметры на вертикальном штативе",
+                    "notation": "ИКВ",
+                    "modification": "ИКВ",
+                    "manufactureNum": "610524\/9314",
+                    "manufactureYear": 1961,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Пр.№2018 от 15.05.2022 ГПС для средств измерений длины в диапазоне от 1·10^-9 до 100 м и длин волн в диапазоне от 0,2 до 50 мкм"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-219751102\/protocol"
+        }
+    },
+    "210610895": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00419337",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-1",
+                "manufactureNum": "87",
+                "manufactureYear": 1991,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ Росстандарта от 29.12.2018 №2842"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО \"Норильскникельремонт\"",
+            "vrfDate": "22.12.2022",
+            "validDate": "21.12.2024",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86",
+            "applicable": {
+                "certNum": "С-МА\/22-12-2022\/210610895",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0421.2016",
+                    "title": "Государственный эталон единицы длины в области измерений шероховатости поверхности 1 разряда Rmax, Rz в диапазоне значений от 0,001 до 1000 мкм и Ra в диапазоне значений от 0,001 до 750 мкм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/434167"
+                },
+                {
+                    "number": "3.1.ZMA.0305.2016",
+                    "title": "ГЭЕ скорости распространения продольных ультразвуковых волн в твердых средах 1 разряда в диапазоне значений от 2000 до 7000 м\/с",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/404160"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "17726.98.2Р.00207291",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/207291",
+                    "mitypeNumber": "17726-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318029",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные",
+                    "notation": "Нет данных",
+                    "modification": "набор №1",
+                    "manufactureNum": "П-4875",
+                    "manufactureYear": 1983,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 29.12.2018 №2840"
+                },
+                {
+                    "regNumber": "29965.05.2Р.00316197",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/316197",
+                    "mitypeNumber": "29965-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/337510",
+                    "mitypeTitle": "Системы многоканальные с индуктивными преобразователями",
+                    "notation": "М-200",
+                    "modification": "М-200",
+                    "manufactureNum": "729",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ  Росстандарта от «29» декабря 2018 г. № 2840"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-210610895\/protocol",
+            "additional_info": "f4be5162-dfe9-443e-88f4-23cb8c0bba1f"
+        }
+    },
+    "210284583": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00750704",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-1 (29 шт.)",
+                "manufactureNum": "3",
+                "manufactureYear": 1984,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗ в твердых средах, утвержденным приказом № 2842 от 29.12.2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "ФБУ \"Хабаровский ЦСМ\"",
+            "vrfDate": "12.12.2022",
+            "validDate": "11.12.2025",
+            "vriType": "2",
+            "docTitle": "\"Методика аттестации образцовых  ультразвуковых мер КМТ 176М-1 ХФПИ 2706.008 Д. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-Х\/12-12-2022\/210284583",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "38376.08.3Р.00228146",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/228146",
+                    "mitypeNumber": "38376-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348103",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные до 100 мм",
+                    "notation": "Нет данных",
+                    "modification": "набор № 3",
+                    "manufactureNum": "227212",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 2840"
+                },
+                {
+                    "regNumber": "30093.05.2Р.00461903",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/461903",
+                    "mitypeNumber": "30093-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/337672",
+                    "mitypeTitle": "Установка для измерения скорости распространения продольных ультразвуковых волн в твердых средах",
+                    "notation": "ИВА-285",
+                    "modification": "ИВА-285",
+                    "manufactureNum": "03",
+                    "manufactureYear": 2005,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗ в твердых средах, утвержденным приказом № 2842 от 29.12.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "81409-21",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1387262",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "20030285"
+                },
+                {
+                    "mitypeNumber": "10069-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304174",
+                    "mitypeTitle": "Психрометры аспирационные",
+                    "number": "109"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "668"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-210284583\/protocol"
+        }
+    },
+    "206688427": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00102585",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "комплект образцовых ультразвуковых мер КМТ176М-1",
+                "manufactureNum": "8,133,134",
+                "manufactureYear": 1980,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ Росстандарта от 29.12.2018 № 2842"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО  \"А3-И\"",
+            "vrfDate": "29.11.2022",
+            "validDate": "28.11.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86",
+            "applicable": {
+                "certNum": "С-МА\/29-11-2022\/206688427",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0305.2016",
+                    "title": "ГЭЕ скорости распространения продольных ультразвуковых волн в твердых средах 1 разряда в диапазоне значений от 2000 до 7000 м\/с",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/404160"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "35140.07.РЭ.00119058",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/119058",
+                    "mitypeNumber": "35140-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344175",
+                    "mitypeTitle": "Датчики линейных перемещений с отсчетными устройствами",
+                    "notation": "519, 542, 575",
+                    "modification": "датчик линейных перемещений с отчетным устройством серии 542-173",
+                    "manufactureNum": "000260",
+                    "manufactureYear": 2012,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЛПС № 445-0282"
+                },
+                {
+                    "regNumber": "17726.98.2Р.00207291",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/207291",
+                    "mitypeNumber": "17726-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318029",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные",
+                    "notation": "Нет данных",
+                    "modification": "набор №1",
+                    "manufactureNum": "П-4875",
+                    "manufactureYear": 1983,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 29.12.2018 №2840"
+                },
+                {
+                    "regNumber": "29965.05.2Р.00316197",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/316197",
+                    "mitypeNumber": "29965-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/337510",
+                    "mitypeTitle": "Системы многоканальные с индуктивными преобразователями",
+                    "notation": "М-200",
+                    "modification": "М-200",
+                    "manufactureNum": "729",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ  Росстандарта от «29» декабря 2018 г. № 2840"
+                },
+                {
+                    "regNumber": "25839.08.3Р.00575388",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/575388",
+                    "mitypeNumber": "25839-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331675",
+                    "mitypeTitle": "Длиномеры горизонтальные",
+                    "notation": "Mini-Horizontal TELS, Horizon, Horizon Granite, Horizon Premium, THV, Labconcept\/Labconcept Premium, Twinner, Alesta\/Alesta Premium",
+                    "modification": "Labconcept Premium 500",
+                    "manufactureNum": "1242",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "по Приказу Росстандарта от 29.12.2018 №2840"
+                },
+                {
+                    "regNumber": "54174.13.РЭ.00618647",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/618647",
+                    "mitypeNumber": "54174-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366604",
+                    "mitypeTitle": "Приборы для измерений параметров шероховатости",
+                    "notation": "178",
+                    "modification": "SJ-210",
+                    "manufactureNum": "205481304",
+                    "manufactureYear": 2014,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Локальная поверочная схема для средств измерений шероховатости"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-206688427\/protocol",
+            "additional_info": "71257cda-e79a-445c-a1de-e1d8dbc96c75"
+        },
+        "publication": {
+            "status": "Запись была модифицирована",
+            "reason": "изменен срок действия св-ва",
+            "date": "02.03.2023"
+        }
+    },
+    "201681880": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.РЭ.00715328",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "Образцовые ультразвуковые меры толщины КМТ 176М-1",
+                "manufactureNum": "129",
+                "manufactureYear": 2012,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "приказ №2840 от 29.12.2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВОТКИНСКИЙ ЗАВОД\"(АО \"ВОТКИНСКИЙ ЗАВОД\")",
+            "signCipher": "АТК",
+            "miOwner": "АО \"ВОТКИНСКИЙ ЗАВОД\"",
+            "vrfDate": "14.11.2022",
+            "validDate": "25.10.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86",
+            "applicable": {
+                "certNum": "С-АТК\/14-11-2022\/201402517",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "37335.08.4Р.00527163",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/527163",
+                    "mitypeNumber": "37335-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346867",
+                    "mitypeTitle": "Наборы мер длины концевые плоскопараллельные",
+                    "notation": "Нет данных",
+                    "modification": "Меры длины концевые плоскопараллельные  набор №1",
+                    "manufactureNum": "Н-9942",
+                    "manufactureYear": 2013,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ №2840 от 29.12.2018 г."
+                },
+                {
+                    "regNumber": "11151.87.3Р.00550332",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/550332",
+                    "mitypeNumber": "11151-87",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305683",
+                    "mitypeTitle": "Профилографы-профилометры",
+                    "notation": "250",
+                    "modification": "Профилометр мод.250",
+                    "manufactureNum": "А-182\/А-148\/А-44",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.296-2015"
+                },
+                {
+                    "regNumber": "17726.98.4Р.00566214",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/566214",
+                    "mitypeNumber": "17726-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318029",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные",
+                    "notation": "Нет данных",
+                    "modification": "набор №20",
+                    "manufactureNum": "302616",
+                    "manufactureYear": 1996,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ №2840 от 29.12.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-201681880\/protocol"
+        }
+    },
+    "199260739": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00708040",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-1 (10 шт)",
+                "manufactureNum": "8-02",
+                "manufactureYear": 2019,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗ в твердых средах, утвержденным приказом № 2842 от 29.12.2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.11.2022",
+            "validDate": "02.11.2025",
+            "vriType": "2",
+            "docTitle": "\"Методика аттестации образцовых  ультразвуковых мер КМТ 176М-1 ХФПИ 2706.008 Д. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-Х\/03-11-2022\/199260739",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "38376.08.3Р.00228146",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/228146",
+                    "mitypeNumber": "38376-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348103",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные до 100 мм",
+                    "notation": "Нет данных",
+                    "modification": "набор № 3",
+                    "manufactureNum": "227212",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 2840"
+                },
+                {
+                    "regNumber": "30093.05.2Р.00461903",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/461903",
+                    "mitypeNumber": "30093-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/337672",
+                    "mitypeTitle": "Установка для измерения скорости распространения продольных ультразвуковых волн в твердых средах",
+                    "notation": "ИВА-285",
+                    "modification": "ИВА-285",
+                    "manufactureNum": "03",
+                    "manufactureYear": 2005,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗ в твердых средах, утвержденным приказом № 2842 от 29.12.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "81409-21",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1387262",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "20030285"
+                },
+                {
+                    "mitypeNumber": "10069-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304174",
+                    "mitypeTitle": "Психрометры аспирационные",
+                    "number": "109"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "668"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-199260739\/protocol"
+        }
+    },
+    "199260738": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00708039",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-1 (11 шт)",
+                "manufactureNum": "8-03",
+                "manufactureYear": 2019,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗ в твердых средах, утвержденным приказом № 2842 от 29.12.2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.11.2022",
+            "validDate": "02.11.2025",
+            "vriType": "2",
+            "docTitle": "\"Методика аттестации образцовых  ультразвуковых мер КМТ 176М-1 ХФПИ 2706.008 Д. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-Х\/03-11-2022\/199260738",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "38376.08.3Р.00228146",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/228146",
+                    "mitypeNumber": "38376-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348103",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные до 100 мм",
+                    "notation": "Нет данных",
+                    "modification": "набор № 3",
+                    "manufactureNum": "227212",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 2840"
+                },
+                {
+                    "regNumber": "30093.05.2Р.00461903",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/461903",
+                    "mitypeNumber": "30093-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/337672",
+                    "mitypeTitle": "Установка для измерения скорости распространения продольных ультразвуковых волн в твердых средах",
+                    "notation": "ИВА-285",
+                    "modification": "ИВА-285",
+                    "manufactureNum": "03",
+                    "manufactureYear": 2005,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗ в твердых средах, утвержденным приказом № 2842 от 29.12.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "81409-21",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1387262",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "20030285"
+                },
+                {
+                    "mitypeNumber": "10069-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304174",
+                    "mitypeTitle": "Психрометры аспирационные",
+                    "number": "109"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "668"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-199260738\/protocol"
+        }
+    },
+    "199260742": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00708043",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-1 (8 шт)",
+                "manufactureNum": "1",
+                "manufactureYear": 2019,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗ в твердых средах, утвержденным приказом № 2842 от 29.12.2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.11.2022",
+            "validDate": "02.11.2025",
+            "vriType": "2",
+            "docTitle": "\"Методика аттестации образцовых  ультразвуковых мер КМТ 176М-1 ХФПИ 2706.008 Д. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-Х\/03-11-2022\/199260742",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "38376.08.3Р.00228146",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/228146",
+                    "mitypeNumber": "38376-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348103",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные до 100 мм",
+                    "notation": "Нет данных",
+                    "modification": "набор № 3",
+                    "manufactureNum": "227212",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 2840"
+                },
+                {
+                    "regNumber": "30093.05.2Р.00461903",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/461903",
+                    "mitypeNumber": "30093-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/337672",
+                    "mitypeTitle": "Установка для измерения скорости распространения продольных ультразвуковых волн в твердых средах",
+                    "notation": "ИВА-285",
+                    "modification": "ИВА-285",
+                    "manufactureNum": "03",
+                    "manufactureYear": 2005,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗ в твердых средах, утвержденным приказом № 2842 от 29.12.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "81409-21",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1387262",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "20030285"
+                },
+                {
+                    "mitypeNumber": "10069-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304174",
+                    "mitypeTitle": "Психрометры аспирационные",
+                    "number": "109"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "668"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-199260742\/protocol"
+        }
+    },
+    "199260740": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00708041",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-1 (10 шт)",
+                "manufactureNum": "8-01",
+                "manufactureYear": 2019,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗ в твердых средах, утвержденным приказом № 2842 от 29.12.2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.11.2022",
+            "validDate": "02.11.2025",
+            "vriType": "2",
+            "docTitle": "\"Методика аттестации образцовых  ультразвуковых мер КМТ 176М-1 ХФПИ 2706.008 Д. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-Х\/03-11-2022\/199260740",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "38376.08.3Р.00228146",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/228146",
+                    "mitypeNumber": "38376-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348103",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные до 100 мм",
+                    "notation": "Нет данных",
+                    "modification": "набор № 3",
+                    "manufactureNum": "227212",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 2840"
+                },
+                {
+                    "regNumber": "30093.05.2Р.00461903",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/461903",
+                    "mitypeNumber": "30093-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/337672",
+                    "mitypeTitle": "Установка для измерения скорости распространения продольных ультразвуковых волн в твердых средах",
+                    "notation": "ИВА-285",
+                    "modification": "ИВА-285",
+                    "manufactureNum": "03",
+                    "manufactureYear": 2005,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗ в твердых средах, утвержденным приказом № 2842 от 29.12.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "81409-21",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1387262",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "20030285"
+                },
+                {
+                    "mitypeNumber": "10069-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304174",
+                    "mitypeTitle": "Психрометры аспирационные",
+                    "number": "109"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "668"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-199260740\/protocol"
+        }
+    },
+    "199260741": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00708042",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-1 (2 шт)",
+                "manufactureNum": "26",
+                "manufactureYear": 2019,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗ в твердых средах, утвержденным приказом № 2842 от 29.12.2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "Дальневосточный филиал ФГУП \"ВНИИФТРИ\"(Дальневосточный филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Х",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.11.2022",
+            "validDate": "02.11.2025",
+            "vriType": "2",
+            "docTitle": "\"Методика аттестации образцовых  ультразвуковых мер КМТ 176М-1 ХФПИ 2706.008 Д. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-Х\/03-11-2022\/199260741",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "38376.08.3Р.00228146",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/228146",
+                    "mitypeNumber": "38376-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348103",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные до 100 мм",
+                    "notation": "Нет данных",
+                    "modification": "набор № 3",
+                    "manufactureNum": "227212",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 2840"
+                },
+                {
+                    "regNumber": "30093.05.2Р.00461903",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/461903",
+                    "mitypeNumber": "30093-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/337672",
+                    "mitypeTitle": "Установка для измерения скорости распространения продольных ультразвуковых волн в твердых средах",
+                    "notation": "ИВА-285",
+                    "modification": "ИВА-285",
+                    "manufactureNum": "03",
+                    "manufactureYear": 2005,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗ в твердых средах, утвержденным приказом № 2842 от 29.12.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "81409-21",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1387262",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "20030285"
+                },
+                {
+                    "mitypeNumber": "10069-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304174",
+                    "mitypeTitle": "Психрометры аспирационные",
+                    "number": "109"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "668"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-199260741\/protocol"
+        }
+    },
+    "188610445": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00391841",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ 176М-1",
+                "manufactureNum": "115",
+                "manufactureYear": 1988,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗК, утв. приказом Росстандарта № 2842 от 29 декабря 2018 г"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "26.09.2022",
+            "validDate": "25.09.2025",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86 «ГСИ. Меры толщины ультразвуковые образцовые КМТ 176М-1. Методика поверки»",
+            "applicable": {
+                "certNum": "С-БН\/26-09-2022\/188610445",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1617.2014",
+                    "title": "ГЭЕ скорости распространения продольных ультразвуковых волн в твёрдых средах 2 разряда для значений времени прохождения волн от 0,1 мкс до 120 мкс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446859"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-188610445\/protocol"
+        }
+    },
+    "186121780": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00673866",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-3",
+                "manufactureNum": "7",
+                "manufactureYear": 1988,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗК, утв. приказом Росстандарта № 2842 от 29 декабря 2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "АО \"Гидроагрегат\"",
+            "vrfDate": "14.09.2022",
+            "validDate": "13.09.2025",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86 «ГСИ. Меры толщины ультразвуковые образцовые КМТ 176М-1. Методика поверки»",
+            "applicable": {
+                "certNum": "С-БН\/14-09-2022\/186121780",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1617.2014",
+                    "title": "ГЭЕ скорости распространения продольных ультразвуковых волн в твёрдых средах 2 разряда для значений времени прохождения волн от 0,1 мкс до 120 мкс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446859"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-186121780\/protocol"
+        }
+    },
+    "184934170": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00670823",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-1",
+                "manufactureNum": "38",
+                "manufactureYear": 1986,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ № 2842 от 29.12.2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОРЕНБУРГСКОЙ ОБЛАСТИ\"(ФБУ \"ОРЕНБУРГСКИЙ ЦСМ\")",
+            "signCipher": "ВК",
+            "miOwner": "ЦСМ ТЮМЕНСКИЙ",
+            "vrfDate": "07.09.2022",
+            "validDate": "06.09.2025",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86",
+            "applicable": {
+                "certNum": "С-ВК\/07-09-2022\/184934170",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "67348.17.2Р.45128",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/45128",
+                    "mitypeNumber": "67348-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381287",
+                    "mitypeTitle": "Установки для измерений скорости распространения продольных ультразвуковых волн в твердых средах",
+                    "notation": "ИВА-285",
+                    "modification": "ИВА-285",
+                    "manufactureNum": "06",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗ в твердых средах, утвержденным приказом № 2842 от 29.12.2018 г."
+                },
+                {
+                    "regNumber": "437.50.РЭ.00197812",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/197812",
+                    "mitypeNumber": "437-50",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354433",
+                    "mitypeTitle": "Длиномеры оптические вертикальные",
+                    "notation": "И3В-1",
+                    "modification": "И3В-1",
+                    "manufactureNum": "570216",
+                    "manufactureYear": 1957,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Приказ № 2840 от 29.12.2018 г."
+                },
+                {
+                    "regNumber": "9771.84.3Р.00197832",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/197832",
+                    "mitypeNumber": "9771-84",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388772",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные образцовые 3-го разряда длиной 100 мм",
+                    "notation": "Нет данных",
+                    "modification": "набор № 3",
+                    "manufactureNum": "476",
+                    "manufactureYear": 1985,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 2840 от 29.12.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "381-49",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347784",
+                    "mitypeTitle": "Оптиметры горизонтальные",
+                    "number": "570610"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-184934170\/protocol"
+        }
+    },
+    "180004839": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00460049",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-1 (за 1 образец)",
+                "manufactureNum": "76",
+                "manufactureYear": 1989,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ № 2842 от 29.12.2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОЛОГОДСКОЙ ОБЛАСТИ\"",
+            "vrfDate": "19.08.2022",
+            "validDate": "18.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86; ГСИ. Меры толщины ультразвуковые образцовые КМТ176М-1. Методика поверки",
+            "applicable": {
+                "certNum": "С-СП\/19-08-2022\/180004839",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.1447.2018",
+                    "title": "Государственный эталон 1 разряда единиц скорости распространения продольных ультразвуковых волн в твердых средах в диапазоне значений от 2000 до 7000 м\/с в диапазоне частот от 1 до 50 МГц и коэффициента затухания продольных ультразвуковых волн в твердых средах в диапазоне значений от 0,2 до 2000 дБ\/м в диапазоне частот от 1 до 100 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/434125"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-180004839\/protocol"
+        }
+    },
+    "177631202": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00389499",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-1 (за 1 образец)",
+                "manufactureNum": "08",
+                "manufactureYear": 1984,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ № 2842 от 29.12.2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КАРЕЛИЯ\"",
+            "vrfDate": "09.08.2022",
+            "validDate": "08.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86; ГСИ. Меры толщины ультразвуковые образцовые КМТ176М-1. Методика поверки",
+            "applicable": {
+                "certNum": "С-СП\/09-08-2022\/177631202",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.1447.2018",
+                    "title": "Государственный эталон 1 разряда единиц скорости распространения продольных ультразвуковых волн в твердых средах в диапазоне значений от 2000 до 7000 м\/с в диапазоне частот от 1 до 50 МГц и коэффициента затухания продольных ультразвуковых волн в твердых средах в диапазоне значений от 0,2 до 2000 дБ\/м в диапазоне частот от 1 до 100 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/434125"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Состав комплекта: КМТ-176М-1-2 мм; КМТ-176М-1-10 мм; КМТ-176М-1-25 мм; КМТ-176М-1-50 мм; КМТ-176М-1-100 мм.",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-177631202\/protocol",
+            "additional_info": "Поверка произведена по скорости распростронения ультразвуковых колебаний в твердых средах, на основании приказа № 2842 от 29.12.2018 года"
+        }
+    },
+    "165296632": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00359961",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "(сталь)",
+                "manufactureNum": "18",
+                "manufactureYear": 1979,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ Росстандарта №2842 от 29.12.2018."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФБУ \"Ростест-Москва\"",
+            "vrfDate": "07.06.2022",
+            "validDate": "06.06.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86",
+            "applicable": {
+                "certNum": "С-МА\/07-06-2022\/165296632",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0305.2016",
+                    "title": "ГЭЕ скорости распространения продольных ультразвуковых волн в твердых средах 1 разряда в диапазоне значений от 2000 до 7000 м\/с",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/404160"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "49805.12.РЭ.00327335",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/327335",
+                    "mitypeNumber": "49805-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361516",
+                    "mitypeTitle": "Штангенциркули",
+                    "notation": "ABSOLUTE DIGIMATIC серий 500, 550, 551, 552, 573",
+                    "modification": "сер.500",
+                    "manufactureNum": "0020633",
+                    "manufactureYear": 2013,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "445-0286"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-165296632\/protocol",
+            "additional_info": "- e47966bf-1df0-4b9d-b418-fec132856430"
+        }
+    },
+    "178290085": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00359961",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "(сталь)",
+                "manufactureNum": "18",
+                "manufactureYear": 1979,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ Росстандарта №2842 от 29.12.2018."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФБУ \"Ростест-Москва\"",
+            "vrfDate": "07.06.2022",
+            "validDate": "06.06.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86",
+            "applicable": {
+                "certNum": "С-МА\/07-06-2022\/178290085",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0305.2016",
+                    "title": "ГЭЕ скорости распространения продольных ультразвуковых волн в твердых средах 1 разряда в диапазоне значений от 2000 до 7000 м\/с",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/404160"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "17726.98.2Р.00207291",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/207291",
+                    "mitypeNumber": "17726-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318029",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные",
+                    "notation": "Нет данных",
+                    "modification": "набор №1",
+                    "manufactureNum": "П-4875",
+                    "manufactureYear": 1983,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 29.12.2018 №2840"
+                },
+                {
+                    "regNumber": "49805.12.РЭ.00327335",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/327335",
+                    "mitypeNumber": "49805-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361516",
+                    "mitypeTitle": "Штангенциркули",
+                    "notation": "ABSOLUTE DIGIMATIC серий 500, 550, 551, 552, 573",
+                    "modification": "сер.500",
+                    "manufactureNum": "0020633",
+                    "manufactureYear": 2013,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "445-0286"
+                },
+                {
+                    "regNumber": "25839.08.3Р.00575388",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/575388",
+                    "mitypeNumber": "25839-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331675",
+                    "mitypeTitle": "Длиномеры горизонтальные",
+                    "notation": "Mini-Horizontal TELS, Horizon, Horizon Granite, Horizon Premium, THV, Labconcept\/Labconcept Premium, Twinner, Alesta\/Alesta Premium",
+                    "modification": "Labconcept Premium 500",
+                    "manufactureNum": "1242",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "по Приказу Росстандарта от 29.12.2018 №2840"
+                },
+                {
+                    "regNumber": "54174.13.РЭ.00618647",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/618647",
+                    "mitypeNumber": "54174-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366604",
+                    "mitypeTitle": "Приборы для измерений параметров шероховатости",
+                    "notation": "178",
+                    "modification": "SJ-210",
+                    "manufactureNum": "205481304",
+                    "manufactureYear": 2014,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Локальная поверочная схема для средств измерений шероховатости"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-178290085\/protocol",
+            "additional_info": "- 1b5ec089-0617-4fef-98e6-2c7139fc4c98"
+        }
+    },
+    "165296631": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00359969",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "(алюминий)",
+                "manufactureNum": "18",
+                "manufactureYear": 1979,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ Росстандарта №2842 от 29.12.2018."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФБУ \"Ростест-Москва\"",
+            "vrfDate": "07.06.2022",
+            "validDate": "06.06.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86",
+            "applicable": {
+                "certNum": "С-МА\/07-06-2022\/165296631",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0305.2016",
+                    "title": "ГЭЕ скорости распространения продольных ультразвуковых волн в твердых средах 1 разряда в диапазоне значений от 2000 до 7000 м\/с",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/404160"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "49805.12.РЭ.00327335",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/327335",
+                    "mitypeNumber": "49805-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361516",
+                    "mitypeTitle": "Штангенциркули",
+                    "notation": "ABSOLUTE DIGIMATIC серий 500, 550, 551, 552, 573",
+                    "modification": "сер.500",
+                    "manufactureNum": "0020633",
+                    "manufactureYear": 2013,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "445-0286"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-165296631\/protocol",
+            "additional_info": "- 5933309f-8539-47c7-b2f7-fe7b2680c443"
+        }
+    },
+    "165296849": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00359971",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "(латунь)",
+                "manufactureNum": "18",
+                "manufactureYear": 1979,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ Росстандарта №2842 от 29.12.2018."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФБУ \"Ростест-Москва\"",
+            "vrfDate": "07.06.2022",
+            "validDate": "06.06.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86",
+            "applicable": {
+                "certNum": "С-МА\/07-06-2022\/165296849",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0305.2016",
+                    "title": "ГЭЕ скорости распространения продольных ультразвуковых волн в твердых средах 1 разряда в диапазоне значений от 2000 до 7000 м\/с",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/404160"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "49805.12.РЭ.00327335",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/327335",
+                    "mitypeNumber": "49805-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361516",
+                    "mitypeTitle": "Штангенциркули",
+                    "notation": "ABSOLUTE DIGIMATIC серий 500, 550, 551, 552, 573",
+                    "modification": "сер.500",
+                    "manufactureNum": "0020633",
+                    "manufactureYear": 2013,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "445-0286"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "- 9ef39344-95df-4bdb-b3a3-3a6e96214b15"
+        }
+    },
+    "151658892": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00599339",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-1",
+                "manufactureNum": "35",
+                "manufactureYear": 1985,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "ГПС для СИ скоростей распространения и коэффициента затухания УЗК, утв. приказом Росстандарта № 2842 от 29 декабря 2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "26.04.2022",
+            "validDate": "25.04.2025",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86 «ГСИ. Меры толщины ультразвуковые образцовые КМТ 176М-1. Методика поверки»",
+            "applicable": {
+                "certNum": "С-БН\/26-04-2022\/151658892",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1617.2014",
+                    "title": "ГЭЕ скорости распространения продольных ультразвуковых волн в твёрдых средах 2 разряда для значений времени прохождения волн от 0,1 мкс до 120 мкс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446859"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "186514768": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.РЭ.00218371",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "-",
+                "manufactureNum": "75",
+                "manufactureYear": 1988,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ЛПС для средств измерений толщины"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "ФГБУ \"ВНИИМС\"",
+            "vrfDate": "20.04.2022",
+            "validDate": "19.04.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86",
+            "applicable": {
+                "certNum": "С-М\/20-04-2022\/150949250",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "36001.07.4Р.00302660",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302660",
+                    "mitypeNumber": "36001-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345271",
+                    "mitypeTitle": "Приборы универсальные для измерений длины",
+                    "notation": "DMS 1000",
+                    "modification": "-",
+                    "manufactureNum": "0517",
+                    "manufactureYear": 2008,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений длины в диапазоне от 1∙10-9 до 100 м и длин волн в диапазоне от 0,2 до 50 мкм"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "п. 3.1, 3.2, 3.2.1 МП",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-186514768\/protocol"
+        }
+    },
+    "134414242": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeType": "КМТ176М-1",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "manufactureNum": "67",
+                "manufactureYear": 1980,
+                "modification": "КМТ176М-1 (за 1 образец)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ПАО \"Ижорские заводы\"",
+            "vrfDate": "21.02.2022",
+            "validDate": "20.02.2024",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86; ГСИ. Меры толщины ультразвуковые образцовые КМТ176М-1. Методика поверки",
+            "applicable": {
+                "certNum": "С-СП\/21-02-2022\/134414242",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.1447.2018",
+                    "title": "Государственный эталон 1 разряда единиц скорости распространения продольных ультразвуковых волн в твердых средах в диапазоне значений от 2000 до 7000 м\/с в диапазоне частот от 1 до 50 МГц и коэффициента затухания продольных ультразвуковых волн в твердых средах в диапазоне значений от 0,2 до 2000 дБ\/м в диапазоне частот от 1 до 100 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/434125"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Меры номиналом 2,0; 6,0; 50; 100,0",
+            "briefIndicator": false
+        }
+    },
+    "130411990": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.РЭ.00220158",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "-",
+                "manufactureNum": "44",
+                "manufactureYear": 1986,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ЛПС для средств измерений длины в диапазоне номинальных значений (0.0002-0,3) м, утвержденной ФБУ \"Новосибирский ЦСМ\""
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "ФБУ «Новосибирский ЦСМ»",
+            "vrfDate": "02.02.2022",
+            "validDate": "01.02.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86",
+            "applicable": {
+                "certNum": "С-НН\/02-02-2022\/130411990",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "46539.11.РЭ.09059",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/9059",
+                    "mitypeNumber": "46539-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357590",
+                    "mitypeTitle": "Дефектоскопы ультразвуковые",
+                    "notation": "УД9812",
+                    "modification": "-",
+                    "manufactureNum": "182-03-10",
+                    "manufactureYear": 2010,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Локальная ПС  057-0350 утв. ФБУ «Новосибирский ЦСМ» в 2013 г."
+                },
+                {
+                    "regNumber": "2535.69.3Р.40413",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/40413",
+                    "mitypeNumber": "2535-69",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/330934",
+                    "mitypeTitle": "Меры длины плоскопараллельные концевые из твердого сплава",
+                    "notation": "МКП",
+                    "modification": "0.5-100мм",
+                    "manufactureNum": "29575",
+                    "manufactureYear": 1973,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС, приказ №2840 от 29.12.2018г."
+                },
+                {
+                    "regNumber": "140.49.РЭ.00172320",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/172320",
+                    "mitypeNumber": "140-49",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/310263",
+                    "mitypeTitle": "Оптиметры на вертикальном штативе",
+                    "notation": "ИКВ",
+                    "modification": "-",
+                    "manufactureNum": "610524\/9314",
+                    "manufactureYear": 1961,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЛПС для средств измерений длины в диапазоне измерений (0,1...180)мм"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-130411990\/protocol"
+        }
+    },
+    "129140356": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeType": "КМТ176М-1",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "manufactureNum": "4М",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "31.01.2022",
+            "validDate": "30.01.2024",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86",
+            "applicable": {
+                "certNum": "С-М\/31-01-2022\/129140356",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "36001.07.3Р.00412747",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/412747",
+                    "mitypeNumber": "36001-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345271",
+                    "mitypeTitle": "Приборы универсальные для измерений длины",
+                    "notation": "DMS 1000",
+                    "modification": "-",
+                    "manufactureNum": "0517",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "по приказу Росстандарта от 29.12.2018 г. № 2840"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-129140356\/protocol",
+            "additional_info": "Материал: Д16"
+        }
+    },
+    "129140357": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeType": "КМТ176М-1",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "manufactureNum": "4М",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "31.01.2022",
+            "validDate": "30.01.2024",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86",
+            "applicable": {
+                "certNum": "С-М\/31-01-2022\/129140357",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "36001.07.3Р.00412747",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/412747",
+                    "mitypeNumber": "36001-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345271",
+                    "mitypeTitle": "Приборы универсальные для измерений длины",
+                    "notation": "DMS 1000",
+                    "modification": "-",
+                    "manufactureNum": "0517",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "по приказу Росстандарта от 29.12.2018 г. № 2840"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-129140357\/protocol",
+            "additional_info": "Материал: Л63"
+        }
+    },
+    "129140359": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeType": "КМТ176М-1",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "manufactureNum": "4М",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "31.01.2022",
+            "validDate": "30.01.2024",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86",
+            "applicable": {
+                "certNum": "С-М\/31-01-2022\/129140359",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "36001.07.3Р.00412747",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/412747",
+                    "mitypeNumber": "36001-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345271",
+                    "mitypeTitle": "Приборы универсальные для измерений длины",
+                    "notation": "DMS 1000",
+                    "modification": "-",
+                    "manufactureNum": "0517",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "по приказу Росстандарта от 29.12.2018 г. № 2840"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-129140359\/protocol",
+            "additional_info": "Материал: ст. 40Х13"
+        }
+    },
+    "122891408": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00527731",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-1",
+                "manufactureNum": "70",
+                "manufactureYear": 1988,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2842 от 29.12.2018"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "УНИИМ - филиал ФГУП \"ВНИИМ им. Д.И. Менделеева\"",
+            "vrfDate": "12.01.2022",
+            "validDate": "11.01.2025",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86 \"ГСИ. Меры толщины ультразвуковые образцовые КМТ176М-1. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-СЕ\/12-01-2022\/122891408",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZCE.0695.2015",
+                    "title": "ГРЭ единицы скорости распространения продольных и сдвиговых ультразвуковых волн в твердых средах 2 разряда в диапазоне значений от 1000 до 10000м\/с",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/414373"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39507208\/501"
+                },
+                {
+                    "mitypeNumber": "41043-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351290",
+                    "mitypeTitle": "Приборы для измерений параметров шероховатости",
+                    "number": "10907\/ 09"
+                }
+            ]
+        },
+        "info": {
+            "structure": "100-№70-40х13, 50-№70-40х13, 25-№70-40х13, 10-№70-40х13, 5-№70-40х13, 3-№70-40х13, 2-№70-40х13, 0,2-№70-40х13",
+            "briefIndicator": true,
+            "briefCharacteristics": "эквивалентная ультразвуковая толщина 0,2, 2, 3, 5, 10, 25, 50, 100 мм",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-122891408\/protocol",
+            "additional_info": "Поверяемый эталон прослеживается к гэт189-2014."
+        }
+    },
+    "127686353": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "6578.78.3Р.00539502",
+                "mitypeNumber": "6578-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379579",
+                "mitypeTitle": "Комплекты образцовых ультразвуковых мер",
+                "mitypeType": "КМТ176М-1",
+                "modification": "КМТ176М-1",
+                "manufactureNum": "02",
+                "manufactureYear": 2001,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ 2842 от 29.12.2018"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТОМСКОЙ ОБЛАСТИ\"(ФБУ \"ТОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЭ",
+            "miOwner": "ФБУ \"ТОМСКИЙ ЦСМ\"",
+            "vrfDate": "11.01.2022",
+            "validDate": "10.01.2024",
+            "vriType": "2",
+            "docTitle": "МИ 1294-86",
+            "applicable": {
+                "certNum": "С-ВЭ\/11-01-2022\/127686353",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17726.03.3Р.00329108",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/329108",
+                    "mitypeNumber": "17726-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318028",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные",
+                    "notation": "Нет данных",
+                    "modification": "набор № 1",
+                    "manufactureNum": "75",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 2840 от 29.12.2018 г."
+                },
+                {
+                    "regNumber": "66933.17.2Р.00337002",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/337002",
+                    "mitypeNumber": "66933-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380836",
+                    "mitypeTitle": "Меры шероховатости эталонные",
+                    "notation": "ПРО-10",
+                    "modification": "-",
+                    "manufactureNum": "0825",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 06.11.2019 г. № 2657"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "18373-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/319254",
+                    "mitypeTitle": "Дефектоскопы ультразвуковые",
+                    "number": "6416"
+                },
+                {
+                    "mitypeNumber": "4937-75",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361014",
+                    "mitypeTitle": "Профилографы-профилометры",
+                    "number": "П31"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

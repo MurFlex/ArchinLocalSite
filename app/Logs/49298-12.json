@@ -1,0 +1,92 @@
+{
+    "138798767": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "49298-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360928",
+                "mitypeType": "KEW 3128",
+                "mitypeTitle": "Измерители сопротивления изоляции цифровые высоковольтные",
+                "manufactureNum": "Е0094874",
+                "modification": "KEW 3128"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОРОНЕЖСКОЙ ОБЛАСТИ\"(ФБУ \"ВОРОНЕЖСКИЙ ЦСМ\")",
+            "signCipher": "БМ",
+            "miOwner": "Акционерное общество \"Лебединский горно-обогатительный комбинат\"",
+            "vrfDate": "05.03.2022",
+            "validDate": "04.03.2024",
+            "vriType": "2",
+            "docTitle": "МП 49298-12 «Измерители сопротивления изоляции цифровые высоковольтные KEW 3128. Методика поверки»",
+            "applicable": {
+                "certNum": "С-БМ\/05-03-2022\/138798767",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "38140.08.4Р.00250488",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/250488",
+                    "mitypeNumber": "38140-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347823",
+                    "mitypeTitle": "Калибраторы электрического сопротивления",
+                    "notation": "КС-100К0Т5, КС-100К1Т5, КС-100К5Т",
+                    "modification": "КС-100К5Т",
+                    "manufactureNum": "470015",
+                    "manufactureYear": 2008,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "58445.14.2Р.00257829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/257829",
+                    "mitypeNumber": "58445-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371477",
+                    "mitypeTitle": "Киловольтметры цифровые",
+                    "notation": "СКВ",
+                    "modification": "СКВ-100П",
+                    "manufactureNum": "147",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ № 3458 от 30.12.2019"
+                },
+                {
+                    "regNumber": "25985.03.2Р.00261498",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/261498",
+                    "mitypeNumber": "25985-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331874",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "9100, 9100Е",
+                    "modification": "9100",
+                    "manufactureNum": "867448587",
+                    "manufactureYear": 2004,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В.Приказ 1053"
+                },
+                {
+                    "regNumber": "25985.03.2Р.00261500",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/261500",
+                    "mitypeNumber": "25985-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331874",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "9100, 9100Е",
+                    "modification": "9100",
+                    "manufactureNum": "867448587",
+                    "manufactureYear": 2004,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы.Приказ 3457"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "в диапазоне от 0 до 250 кН"
+        }
+    }
+}

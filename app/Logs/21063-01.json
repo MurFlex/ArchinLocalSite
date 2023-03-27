@@ -1,0 +1,130 @@
+{
+    "164836721": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "21063-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323954",
+                "mitypeType": "Биотокс-10",
+                "mitypeTitle": "Приборы экологического контроля",
+                "manufactureNum": "007",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "5610007278 ОРЕНБУРГСКИЙ ЦСМ ФБУ",
+            "vrfDate": "16.06.2022",
+            "validDate": "15.06.2023",
+            "vriType": "2",
+            "docTitle": "Приложение 1 к ИАЯК 4431-0017-05758078-00 РЭ",
+            "applicable": {
+                "certNum": "С-А\/16-06-2022\/164836721",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "16313-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315230",
+                    "mitypeTitle": "Весы электронные",
+                    "number": "1123350354"
+                }
+            ],
+            "reagent": [
+                {
+                    "number": "ДРГ.38",
+                    "type": "Другое",
+                    "title": "Биосенсор \"Эколюм\""
+                },
+                {
+                    "number": "РКТ.191",
+                    "type": "Реактив",
+                    "title": "Вода для лабораторного анализа двойной перегонки (бидистиллят) 1-ой степени чистоты"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "159551158": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "21063-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323954",
+                "mitypeType": "Биотокс-10",
+                "mitypeTitle": "Приборы экологического контроля",
+                "manufactureNum": "017311159",
+                "modification": "\"Биотокс-10\""
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "ООО \"ЦЭИМ\"",
+            "vrfDate": "30.05.2022",
+            "validDate": "29.05.2023",
+            "vriType": "2",
+            "docTitle": "ИАЯК 4431-0017-0575807800 РЭ. Приложение 1, согл. ВНИИОФИ",
+            "applicable": {
+                "certNum": "С-ТТ\/30-05-2022\/159551158",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "reagent": [
+                {
+                    "number": "ДРГ.21",
+                    "type": "Другое",
+                    "title": "Высокочувствительный специализированный микробный сенсор \"Эколюм\""
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "[ID=c9052166-e017-11ec-bbaa-0050568d0b47]"
+        }
+    },
+    "142512914": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "21063-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323954",
+                "mitypeType": "Биотокс-10",
+                "mitypeTitle": "Приборы экологического контроля",
+                "manufactureNum": "227",
+                "modification": "Биотокс-10М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ВО ВЛАДИМИРСКОЙ ОБЛАСТИ\"(ФБУ \"ВЛАДИМИРСКИЙ ЦСМ\")",
+            "signCipher": "БЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "22.03.2022",
+            "validDate": "21.03.2023",
+            "vriType": "2",
+            "docTitle": "приложение 1 к РЭ. Методика поверки",
+            "applicable": {
+                "certNum": "С-БЗ\/22-03-2022\/142512914",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "reagent": [
+                {
+                    "number": "ДРГ.38",
+                    "type": "Другое",
+                    "title": "Биосенсор \"Эколюм\""
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

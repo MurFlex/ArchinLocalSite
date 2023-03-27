@@ -1,0 +1,121 @@
+{
+    "208494831": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48462-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389234",
+                "mitypeType": "«Фианит» ТСЮИ.468212.019",
+                "mitypeTitle": "Контрольно-проверочная аппаратура",
+                "manufactureNum": "74723001",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "12.12.2022",
+            "vriType": "2",
+            "docTitle": "МП 48462-11",
+            "inapplicable": {
+                "noticeNum": "И-Т\/12-12-2022\/208494831"
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт1-2022",
+                    "title": "ГПЭ единиц времени, частоты и национальной шкалы времени",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1398028"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid4a3771e4-420f-4470-9c3c-83a83687e174"
+        }
+    },
+    "203584249": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "48462-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389234",
+                "mitypeType": "«Фианит» ТСЮИ.468212.019",
+                "mitypeTitle": "Контрольно-проверочная аппаратура",
+                "manufactureNum": "74725001",
+                "modification": "КПА «Фианит»  ТСЮИ.468212.019"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В САМАРСКОЙ ОБЛАСТИ\"(ФБУ \"САМАРСКИЙ ЦСМ\")",
+            "signCipher": "БЯ",
+            "miOwner": "АО \"РКЦ \"Прогресс\"",
+            "vrfDate": "21.11.2022",
+            "validDate": "20.11.2023",
+            "vriType": "2",
+            "docTitle": "МП 48462-11",
+            "applicable": {
+                "certNum": "С-БЯ\/21-11-2022\/203584249",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.3Р.94326",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/94326",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/6",
+                    "manufactureNum": "69201053",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "56005.13.4Р.00572608",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/572608",
+                    "mitypeNumber": "56005-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368649",
+                    "mitypeTitle": "Генераторы сигналов сложной\/произвольной формы",
+                    "notation": "81150А, 81160А, 81180А, 81180В",
+                    "modification": "81150А",
+                    "manufactureNum": "MY53823036",
+                    "manufactureYear": 2021,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ № 1621 от 31.07.18  «приказ № 1621 от 31.07.18 »"
+                },
+                {
+                    "regNumber": "28070.04.2Р.00722022",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/722022",
+                    "mitypeNumber": "28070-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390070",
+                    "mitypeTitle": "Стандарты частоты и времени водородные",
+                    "notation": "Ч1-1006",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "112 08",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты. Приказ Росстандарта от 26.09.2022 г. №2360"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27253-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390116",
+                    "mitypeTitle": "Компараторы частотные",
+                    "number": "04010"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

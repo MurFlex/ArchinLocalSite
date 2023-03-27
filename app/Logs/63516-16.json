@@ -1,0 +1,2561 @@
+{
+    "219655643": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "11981",
+                "manufactureYear": 2018,
+                "modification": "Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КОСТРОМСКОЙ ОБЛАСТИ\"(ФБУ \"КОСТРОМСКОЙ ЦСМ\")",
+            "signCipher": "БЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.11.2022",
+            "validDate": "02.11.2024",
+            "vriType": "1",
+            "docTitle": "АСА1.370.575 Д1",
+            "applicable": {
+                "certNum": "С-БЮ\/03-11-2022\/219655643",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55804.13.1Р.00657216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657216",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657224",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657224",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657225",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657225",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "55804.13.4Р.00657227",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657227",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "55804.13.2Р.00657231",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657231",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00668600",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/668600",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "1012421707"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "219655642": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "11980",
+                "manufactureYear": 2018,
+                "modification": "Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КОСТРОМСКОЙ ОБЛАСТИ\"(ФБУ \"КОСТРОМСКОЙ ЦСМ\")",
+            "signCipher": "БЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.11.2022",
+            "validDate": "02.11.2024",
+            "vriType": "1",
+            "docTitle": "АСА1.370.575 Д1",
+            "applicable": {
+                "certNum": "С-БЮ\/03-11-2022\/219655642",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55804.13.1Р.00657216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657216",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657224",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657224",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657225",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657225",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "55804.13.4Р.00657227",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657227",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "55804.13.2Р.00657231",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657231",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00668600",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/668600",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "1012421707"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "219655644": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "11979",
+                "manufactureYear": 2018,
+                "modification": "Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КОСТРОМСКОЙ ОБЛАСТИ\"(ФБУ \"КОСТРОМСКОЙ ЦСМ\")",
+            "signCipher": "БЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.11.2022",
+            "validDate": "02.11.2024",
+            "vriType": "1",
+            "docTitle": "АСА1.370.575 Д1",
+            "applicable": {
+                "certNum": "С-БЮ\/03-11-2022\/219655644",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55804.13.1Р.00657216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657216",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657224",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657224",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657225",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657225",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "55804.13.4Р.00657227",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657227",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "55804.13.2Р.00657231",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657231",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00668600",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/668600",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "1012421707"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "219655641": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "11982",
+                "manufactureYear": 2018,
+                "modification": "Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КОСТРОМСКОЙ ОБЛАСТИ\"(ФБУ \"КОСТРОМСКОЙ ЦСМ\")",
+            "signCipher": "БЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.11.2022",
+            "validDate": "02.11.2024",
+            "vriType": "1",
+            "docTitle": "АСА1.370.575 Д1",
+            "applicable": {
+                "certNum": "С-БЮ\/03-11-2022\/219655641",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55804.13.1Р.00657216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657216",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657224",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657224",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657225",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657225",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "55804.13.4Р.00657227",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657227",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "55804.13.2Р.00657231",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657231",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00668600",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/668600",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "1012421707"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "219655640": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "11975",
+                "manufactureYear": 2018,
+                "modification": "Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КОСТРОМСКОЙ ОБЛАСТИ\"(ФБУ \"КОСТРОМСКОЙ ЦСМ\")",
+            "signCipher": "БЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.11.2022",
+            "validDate": "02.11.2024",
+            "vriType": "1",
+            "docTitle": "АСА1.370.575 Д1",
+            "applicable": {
+                "certNum": "С-БЮ\/03-11-2022\/219655640",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55804.13.1Р.00657216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657216",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657224",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657224",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657225",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657225",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "55804.13.4Р.00657227",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657227",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "55804.13.2Р.00657231",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657231",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00668600",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/668600",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "1012421707"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "211194235": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "11976",
+                "modification": "Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КОСТРОМСКОЙ ОБЛАСТИ\"(ФБУ \"КОСТРОМСКОЙ ЦСМ\")",
+            "signCipher": "БЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "02.11.2022",
+            "validDate": "01.11.2024",
+            "vriType": "1",
+            "docTitle": "АСА1.370.575 Д1",
+            "applicable": {
+                "certNum": "С-БЮ\/02-11-2022\/211194235",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55804.13.1Р.00657216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657216",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657224",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657224",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657225",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657225",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "55804.13.4Р.00657227",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657227",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "55804.13.2Р.00657231",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657231",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00668600",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/668600",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "1012421707"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "211194236": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "11978",
+                "modification": "Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КОСТРОМСКОЙ ОБЛАСТИ\"(ФБУ \"КОСТРОМСКОЙ ЦСМ\")",
+            "signCipher": "БЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "02.11.2022",
+            "validDate": "01.11.2024",
+            "vriType": "1",
+            "docTitle": "АСА1.370.575 Д1",
+            "applicable": {
+                "certNum": "С-БЮ\/02-11-2022\/211194236",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55804.13.1Р.00657216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657216",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657224",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657224",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657225",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657225",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "55804.13.4Р.00657227",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657227",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "55804.13.2Р.00657231",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657231",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00668600",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/668600",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "1012421707"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "211194233": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "19730",
+                "modification": "Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КОСТРОМСКОЙ ОБЛАСТИ\"(ФБУ \"КОСТРОМСКОЙ ЦСМ\")",
+            "signCipher": "БЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "02.11.2022",
+            "validDate": "01.11.2024",
+            "vriType": "1",
+            "docTitle": "АСА1.370.575 Д1",
+            "applicable": {
+                "certNum": "С-БЮ\/02-11-2022\/211194233",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55804.13.1Р.00657216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657216",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657224",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657224",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657225",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657225",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "55804.13.4Р.00657227",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657227",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "55804.13.2Р.00657231",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657231",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00668600",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/668600",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "1012421707"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "211194234": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "19732",
+                "modification": "Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КОСТРОМСКОЙ ОБЛАСТИ\"(ФБУ \"КОСТРОМСКОЙ ЦСМ\")",
+            "signCipher": "БЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "02.11.2022",
+            "validDate": "01.11.2024",
+            "vriType": "1",
+            "docTitle": "АСА1.370.575 Д1",
+            "applicable": {
+                "certNum": "С-БЮ\/02-11-2022\/211194234",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55804.13.1Р.00657216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657216",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657224",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657224",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657225",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657225",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "55804.13.4Р.00657227",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657227",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "55804.13.2Р.00657231",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657231",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00668600",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/668600",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "1012421707"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "211194231": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "23329",
+                "modification": "Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КОСТРОМСКОЙ ОБЛАСТИ\"(ФБУ \"КОСТРОМСКОЙ ЦСМ\")",
+            "signCipher": "БЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "02.11.2022",
+            "validDate": "01.11.2024",
+            "vriType": "1",
+            "docTitle": "АСА1.370.575 Д1",
+            "applicable": {
+                "certNum": "С-БЮ\/02-11-2022\/211194231",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55804.13.1Р.00657216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657216",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657224",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657224",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657225",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657225",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "55804.13.4Р.00657227",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657227",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "55804.13.2Р.00657231",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657231",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00668600",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/668600",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "1012421707"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "211194232": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "19731",
+                "modification": "Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КОСТРОМСКОЙ ОБЛАСТИ\"(ФБУ \"КОСТРОМСКОЙ ЦСМ\")",
+            "signCipher": "БЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "02.11.2022",
+            "validDate": "01.11.2024",
+            "vriType": "1",
+            "docTitle": "АСА1.370.575 Д1",
+            "applicable": {
+                "certNum": "С-БЮ\/02-11-2022\/211194232",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55804.13.1Р.00657216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657216",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657224",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657224",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657225",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657225",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "55804.13.4Р.00657227",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657227",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "55804.13.2Р.00657231",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657231",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00668600",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/668600",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "1012421707"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "211194237": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "11977",
+                "modification": "Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КОСТРОМСКОЙ ОБЛАСТИ\"(ФБУ \"КОСТРОМСКОЙ ЦСМ\")",
+            "signCipher": "БЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "02.11.2022",
+            "validDate": "01.11.2024",
+            "vriType": "1",
+            "docTitle": "АСА1.370.575 Д1",
+            "applicable": {
+                "certNum": "С-БЮ\/02-11-2022\/211194237",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55804.13.1Р.00657216",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657216",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657224",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657224",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00657225",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657225",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "55804.13.4Р.00657227",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657227",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "55804.13.2Р.00657231",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/657231",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "55804.13.3Р.00668600",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/668600",
+                    "mitypeNumber": "55804-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368414",
+                    "mitypeTitle": "Калибраторы многофункциональные со встраиваемыми модулями поверки осциллографов 300 МГц, 600 МГц",
+                    "notation": "Fluke 5502A и Fluke 5502E",
+                    "modification": "Fluke 5502E",
+                    "manufactureNum": "2685802",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "1012421707"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "172244248": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "27020",
+                "manufactureYear": 2022,
+                "modification": "Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КАЛИНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"КАЛИНИНГРАДСКИЙ ЦСМ\")",
+            "signCipher": "БС",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "21.07.2022",
+            "validDate": "20.07.2024",
+            "vriType": "1",
+            "docTitle": "АСА1.370.575 Д1",
+            "applicable": {
+                "certNum": "С-БС\/21-07-2022\/172244248",
+                "stickerNum": "21018967311",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "51219.12.1Р.00279593",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279593",
+                    "mitypeNumber": "51219-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363201",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "AOIP",
+                    "modification": "AOIP, Calys 150R",
+                    "manufactureNum": "2511U W03 0215A",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ от 01.10.2018 №2091"
+                },
+                {
+                    "regNumber": "51219.12.3Р.00279599",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279599",
+                    "mitypeNumber": "51219-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363201",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "AOIP",
+                    "modification": "AOIP, Calys 150R",
+                    "manufactureNum": "2511U W03 0215A",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 №3457"
+                },
+                {
+                    "regNumber": "51219.12.2Р.00279601",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279601",
+                    "mitypeNumber": "51219-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363201",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "AOIP",
+                    "modification": "AOIP, Calys 150R",
+                    "manufactureNum": "2511U W03 0215A",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 01.10.2018 №2091"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53668-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366030",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "6409.18"
+                }
+            ]
+        },
+        "info": {
+            "structure": "аналоговые измерительные каналы №№ 1-54, 57-58, 61-63, 65-66, 69-70, 73-80",
+            "briefIndicator": false
+        }
+    },
+    "172244247": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "27021",
+                "manufactureYear": 2022,
+                "modification": "Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КАЛИНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"КАЛИНИНГРАДСКИЙ ЦСМ\")",
+            "signCipher": "БС",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "21.07.2022",
+            "validDate": "20.07.2024",
+            "vriType": "1",
+            "docTitle": "АСА1.370.575 Д1",
+            "applicable": {
+                "certNum": "С-БС\/21-07-2022\/172244247",
+                "stickerNum": "21018967310",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "51219.12.1Р.00279593",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279593",
+                    "mitypeNumber": "51219-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363201",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "AOIP",
+                    "modification": "AOIP, Calys 150R",
+                    "manufactureNum": "2511U W03 0215A",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ от 01.10.2018 №2091"
+                },
+                {
+                    "regNumber": "51219.12.3Р.00279599",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279599",
+                    "mitypeNumber": "51219-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363201",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "AOIP",
+                    "modification": "AOIP, Calys 150R",
+                    "manufactureNum": "2511U W03 0215A",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 №3457"
+                },
+                {
+                    "regNumber": "51219.12.2Р.00279601",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279601",
+                    "mitypeNumber": "51219-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363201",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "AOIP",
+                    "modification": "AOIP, Calys 150R",
+                    "manufactureNum": "2511U W03 0215A",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 01.10.2018 №2091"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53668-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366030",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "6409.18"
+                }
+            ]
+        },
+        "info": {
+            "structure": "аналоговые измерительные каналы №№ 1-51",
+            "briefIndicator": false
+        }
+    },
+    "188312959": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "16714",
+                "modification": "Комплекс программно-технический Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "ООО \"Газпром добыча Краснодар\"",
+            "vrfDate": "08.06.2022",
+            "validDate": "07.06.2023",
+            "vriType": "2",
+            "docTitle": "АСА1.370.375 Д1",
+            "applicable": {
+                "certNum": "С-АЕ\/08-06-2022\/188312959",
+                "stickerNum": "20016951533",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "35062.07.1Р.00302947",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302947",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 г."
+                },
+                {
+                    "regNumber": "35062.07.4Р.00302952",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302952",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "35062.07.3Р.00302953",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302953",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ  Росстандарта № 3457 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "18087.99.4Р.00551158",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551158",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "-  приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2019 года  №3456 «Госуда"
+                },
+                {
+                    "regNumber": "18087.99.2Р.00551159",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551159",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приложение к приказу Федерального агентства по техническому регулированию и метрологии от 01 октября 2018 года №2091«Государстве"
+                },
+                {
+                    "regNumber": "18087.99.3Р.00551160",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551160",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2019 года  №3457«Государств"
+                },
+                {
+                    "regNumber": "18087.99.4Р.00561094",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/561094",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "рабочего эталона 2 разряда в соответствии с приложением к приказу Федерального агентства по техническому регулированию и метроло"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "Т7857"
+                },
+                {
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "number": "232-0784"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Регистрационный № в БД: 1864509010006"
+        }
+    },
+    "188312957": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "17415",
+                "modification": "Комплекс программно-технический Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "ООО \"Газпром добыча Краснодар\"",
+            "vrfDate": "08.06.2022",
+            "validDate": "07.06.2024",
+            "vriType": "2",
+            "docTitle": "АСА1.370.375 Д1",
+            "applicable": {
+                "certNum": "С-АЕ\/08-06-2022\/188312957",
+                "stickerNum": "20016011416",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "35062.07.1Р.00302947",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302947",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 г."
+                },
+                {
+                    "regNumber": "35062.07.4Р.00302952",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302952",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "35062.07.3Р.00302953",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302953",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ  Росстандарта № 3457 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "18087.99.4Р.00551158",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551158",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "-  приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2019 года  №3456 «Госуда"
+                },
+                {
+                    "regNumber": "18087.99.2Р.00551159",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551159",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приложение к приказу Федерального агентства по техническому регулированию и метрологии от 01 октября 2018 года №2091«Государстве"
+                },
+                {
+                    "regNumber": "18087.99.3Р.00551160",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551160",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2019 года  №3457«Государств"
+                },
+                {
+                    "regNumber": "18087.99.4Р.00561094",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/561094",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "рабочего эталона 2 разряда в соответствии с приложением к приказу Федерального агентства по техническому регулированию и метроло"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "Т7857"
+                },
+                {
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "number": "232-0784"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Регистрационный № в БД: 1864511010006"
+        }
+    },
+    "188312958": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "16409",
+                "modification": "Комплекс программно-технический Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "ООО \"Газпром добыча Краснодар\"",
+            "vrfDate": "08.06.2022",
+            "validDate": "07.06.2024",
+            "vriType": "2",
+            "docTitle": "АСА1.370.375 Д1",
+            "applicable": {
+                "certNum": "С-АЕ\/08-06-2022\/188312958",
+                "stickerNum": "20016011415",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "35062.07.1Р.00302947",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302947",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 г."
+                },
+                {
+                    "regNumber": "35062.07.4Р.00302952",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302952",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "35062.07.3Р.00302953",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302953",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ  Росстандарта № 3457 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "18087.99.4Р.00551158",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551158",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "-  приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2019 года  №3456 «Госуда"
+                },
+                {
+                    "regNumber": "18087.99.2Р.00551159",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551159",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приложение к приказу Федерального агентства по техническому регулированию и метрологии от 01 октября 2018 года №2091«Государстве"
+                },
+                {
+                    "regNumber": "18087.99.3Р.00551160",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551160",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2019 года  №3457«Государств"
+                },
+                {
+                    "regNumber": "18087.99.4Р.00561094",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/561094",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "рабочего эталона 2 разряда в соответствии с приложением к приказу Федерального агентства по техническому регулированию и метроло"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "Т7857"
+                },
+                {
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "number": "232-0784"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Регистрационный № в БД: 1864510010006"
+        }
+    },
+    "188312955": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "19383",
+                "modification": "Комплекс программно-технический Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "ООО \"Газпром добыча Краснодар\"",
+            "vrfDate": "08.06.2022",
+            "validDate": "07.06.2024",
+            "vriType": "2",
+            "docTitle": "АСА1.370.375 Д1",
+            "applicable": {
+                "certNum": "С-АЕ\/08-06-2022\/188312955",
+                "stickerNum": "20016951532",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "35062.07.1Р.00302947",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302947",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 г."
+                },
+                {
+                    "regNumber": "35062.07.4Р.00302952",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302952",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "35062.07.3Р.00302953",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302953",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ  Росстандарта № 3457 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "18087.99.4Р.00551158",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551158",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "-  приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2019 года  №3456 «Госуда"
+                },
+                {
+                    "regNumber": "18087.99.2Р.00551159",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551159",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приложение к приказу Федерального агентства по техническому регулированию и метрологии от 01 октября 2018 года №2091«Государстве"
+                },
+                {
+                    "regNumber": "18087.99.3Р.00551160",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551160",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2019 года  №3457«Государств"
+                },
+                {
+                    "regNumber": "18087.99.4Р.00561094",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/561094",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "рабочего эталона 2 разряда в соответствии с приложением к приказу Федерального агентства по техническому регулированию и метроло"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "Т7857"
+                },
+                {
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "number": "232-0784"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Регистрационный № в БД: 1864513010006"
+        }
+    },
+    "188312956": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "17413",
+                "modification": "Комплекс программно-технический Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "ООО \"Газпром добыча Краснодар\"",
+            "vrfDate": "08.06.2022",
+            "validDate": "07.06.2024",
+            "vriType": "2",
+            "docTitle": "АСА1.370.375 Д1",
+            "applicable": {
+                "certNum": "С-АЕ\/08-06-2022\/188312956",
+                "stickerNum": "20016011417",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "35062.07.1Р.00302947",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302947",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 г."
+                },
+                {
+                    "regNumber": "35062.07.4Р.00302952",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302952",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "35062.07.3Р.00302953",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302953",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ  Росстандарта № 3457 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "18087.99.4Р.00551158",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551158",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "-  приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2019 года  №3456 «Госуда"
+                },
+                {
+                    "regNumber": "18087.99.2Р.00551159",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551159",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приложение к приказу Федерального агентства по техническому регулированию и метрологии от 01 октября 2018 года №2091«Государстве"
+                },
+                {
+                    "regNumber": "18087.99.3Р.00551160",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551160",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2019 года  №3457«Государств"
+                },
+                {
+                    "regNumber": "18087.99.4Р.00561094",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/561094",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "рабочего эталона 2 разряда в соответствии с приложением к приказу Федерального агентства по техническому регулированию и метроло"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "Т7857"
+                },
+                {
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "number": "232-0784"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Регистрационный № в БД: 1864512010006"
+        }
+    },
+    "150400027": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63516-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377118",
+                "mitypeType": "Неман-Р",
+                "mitypeTitle": "Комплексы программно-технические",
+                "manufactureNum": "6050",
+                "modification": "Комплекс программно-технический Неман-Р"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "ООО \"Газпром добыча Краснодар\"",
+            "vrfDate": "15.04.2022",
+            "validDate": "14.04.2024",
+            "vriType": "2",
+            "docTitle": "АСА1.370.375 Д1.",
+            "applicable": {
+                "certNum": "С-АЕ\/15-04-2022\/150400027",
+                "stickerNum": "21018836302",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "35062.07.1Р.00302947",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302947",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 г."
+                },
+                {
+                    "regNumber": "35062.07.4Р.00302952",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302952",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "35062.07.3Р.00302953",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/302953",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260Ех",
+                    "manufactureNum": "232-0784",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ  Росстандарта № 3457 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "18087.99.4Р.00551158",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551158",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "-  приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2019 года  №3456 «Госуда"
+                },
+                {
+                    "regNumber": "18087.99.2Р.00551159",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551159",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приложение к приказу Федерального агентства по техническому регулированию и метрологии от 01 октября 2018 года №2091«Государстве"
+                },
+                {
+                    "regNumber": "18087.99.3Р.00551160",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551160",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приложение к приказу Федерального агентства по техническому регулированию и метрологии от 30 декабря 2019 года  №3457«Государств"
+                },
+                {
+                    "regNumber": "18087.99.4Р.00561094",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/561094",
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "TRX-IIR",
+                    "modification": "Калибратор многофункциональный TRX-IIR",
+                    "manufactureNum": "T7857",
+                    "manufactureYear": 2002,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "рабочего эталона 2 разряда в соответствии с приложением к приказу Федерального агентства по техническому регулированию и метроло"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "18087-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318698",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "Т7857"
+                },
+                {
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "number": "232-0784"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Регистрационный № в БД: 1857766010006"
+        }
+    }
+}

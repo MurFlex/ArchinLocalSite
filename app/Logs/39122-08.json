@@ -1,0 +1,57 @@
+{
+    "217897280": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39122-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349034",
+                "mitypeType": "CMU200",
+                "mitypeTitle": "Тестер радиокоммуникационный универсальный",
+                "manufactureNum": "100297",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "АО \"ССКТБ-ТОМАСС\"",
+            "vrfDate": "23.01.2023",
+            "validDate": "22.01.2024",
+            "vriType": "2",
+            "docTitle": "«Тестер радиокоммуникационный универсальный CMU200. Методика поверки №1100.4903.12МП»",
+            "applicable": {
+                "certNum": "С-Т\/23-01-2023\/217897280",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZТ.0237.2016",
+                    "title": "Государственный рабочий эталон единицы мощности электромагнитных колебаний 1 разряда в диапазоне значений от 0,1 до 10 мВт в диапазоне частот от 0,03 до 37,5 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/401701"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "62740.15.3Р.45742",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/45742",
+                    "mitypeNumber": "62740-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376280",
+                    "mitypeTitle": "Стандарты частоты и времени рубидиевые",
+                    "notation": "Ч1-92",
+                    "modification": "Ч1-92",
+                    "manufactureNum": "1729-80А0750М",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты, приказ № 1621"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid00000000-0000-0000-0000-000000000000"
+        }
+    }
+}

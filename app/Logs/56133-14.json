@@ -1,0 +1,59 @@
+{
+    "193782450": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "56133-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368787",
+                "mitypeType": "АМУН, индекс 14Ц892",
+                "mitypeTitle": "Аппаратура мониторинга условий навигации",
+                "manufactureNum": "Н89220100",
+                "manufactureYear": 2020,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "13.10.2022",
+            "validDate": "12.10.2023",
+            "vriType": "2",
+            "docTitle": "651-13-60 МП \"Инструкция. Аппаратура мониторинга условий навигации (АМУН). Методика поверки\".",
+            "applicable": {
+                "certNum": "С-Т\/13-10-2022\/193782450",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZT.0378.2021",
+                    "title": "Государственный рабочий эталон 1 разряда единиц времени в диапазоне значений от 1,0 нс до 9,(9) с, частоты номинальных значений 1 Гц, 5 МГц, 10 МГц, 100 МГц и шкалы времени",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393287"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "82567.21.1Р.00434535",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/434535",
+                    "mitypeNumber": "82567-21",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1392364",
+                    "mitypeTitle": "Комплекс эталонный формирования и измерения радионавигационных параметров",
+                    "notation": "ЭФИР",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "001",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для координатно-временных средств измерений. Приказ 2831 от 29.12.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-193782450\/protocol",
+            "additional_info": "#mid2e1914a3-1b3c-4ab1-b79b-b8a9677e88df"
+        }
+    }
+}

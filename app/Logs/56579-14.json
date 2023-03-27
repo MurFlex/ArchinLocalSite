@@ -1,0 +1,118 @@
+{
+    "216914672": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "56579-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369309",
+                "mitypeType": "TC-12",
+                "mitypeTitle": "Преобразователи термоэлектрические в металлической оболочке с минеральной изоляцией",
+                "manufactureNum": "8678111 16",
+                "manufactureYear": 2017,
+                "modification": "СВУ-15"
+            }
+        },
+        "vriInfo": {
+            "organization": "Индивидуальный Предприниматель Субоч Андрей Михайлович(ИП Субоч А.М.)",
+            "signCipher": "ДЭЗ",
+            "miOwner": "ФЛ",
+            "vrfDate": "17.01.2023",
+            "validDate": "16.01.2029",
+            "vriType": "2",
+            "docTitle": "МИ 1592-2015 «Рекомендация. ГСИ. Счетчики воды. Методика поверки.»",
+            "applicable": {
+                "certNum": "С-ДЭЗ\/17-01-2023\/216914672",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "60661.15.3Р.00561067",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/561067",
+                    "mitypeNumber": "60661-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373953",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "ВПУ - Энерго М",
+                    "modification": "ВПУ - Энерго М",
+                    "manufactureNum": "020.15.861",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ  от 07.02.2018  №256"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "299-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/337417",
+                    "mitypeTitle": "Термометры ртутные стеклянные лабораторные",
+                    "number": "32"
+                },
+                {
+                    "mitypeNumber": "44154-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1384160",
+                    "mitypeTitle": "Секундомеры электронные",
+                    "number": "428357"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "75345"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-216914672\/protocol"
+        }
+    },
+    "201414234": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "56579-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369309",
+                "mitypeType": "TC-12",
+                "mitypeTitle": "Преобразователи термоэлектрические в металлической оболочке с минеральной изоляцией",
+                "manufactureNum": "8613582 16",
+                "modification": "СВУ-15"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АКВАТЕХНИКА\"(ООО \"АКВАТЕХНИКА\")",
+            "signCipher": "ДКИ",
+            "miOwner": "0",
+            "vrfDate": "10.11.2022",
+            "validDate": "09.11.2028",
+            "vriType": "2",
+            "docTitle": "МИ 1592-2015 Рекомендация ГСИ Счетчики воды методика поверки Раздел 2",
+            "applicable": {
+                "certNum": "С-ДКИ\/10-11-2022\/201414234",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "60661.15.3Р.58427",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/58427",
+                    "mitypeNumber": "60661-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373953",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "ВПУ - Энерго М",
+                    "modification": "ВПУ - Энерго М",
+                    "manufactureNum": "020.15.781",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ  от 07.02.2018  №256"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

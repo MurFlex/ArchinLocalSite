@@ -1,0 +1,80 @@
+{
+    "182996170": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "31927-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340094",
+                "mitypeType": "ДРОН-7",
+                "mitypeTitle": "Дифрактометры рентгеновские",
+                "manufactureNum": "11",
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "УРАЛЬСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ(УРАЛЬСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ)",
+            "signCipher": "С",
+            "miOwner": "Открытое акционерное общество \"Первоуральский динасовый завод\", ИНН 6625004698",
+            "vrfDate": "18.08.2022",
+            "validDate": "17.08.2024",
+            "vriType": "2",
+            "docTitle": "Яб1.210.077 РЭ \"Дифрактометр рентгеновский ДРОН-7. Руководство по эксплуатации\", раздел 8, ВНИИМ им. Д.И. Меделеева, 05.2006 г.",
+            "applicable": {
+                "certNum": "С-С\/18-08-2022\/182996170",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 11420-2019",
+                    "title": "СО ДИФРАКЦИОННЫХ СВОЙСТВ КРИСТАЛЛИЧЕСКОЙ РЕШЕТКИ (ОКСИД АЛЮМИНИЯ) (SRM 1976с)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/889622",
+                    "manufactureYear": 2019
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "134819040": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "31927-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340094",
+                "mitypeType": "ДРОН-7",
+                "mitypeTitle": "Дифрактометры рентгеновские",
+                "manufactureNum": "18",
+                "modification": "Дрон-7"
+            }
+        },
+        "vriInfo": {
+            "organization": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"НОВОСИБИРСКИЙ ЗАВОД ХИМКОНЦЕНТРАТОВ\"(ПАО \"НЗХК\")",
+            "signCipher": "АГЗ",
+            "miOwner": "ПАО \"НЗХК\"",
+            "vrfDate": "25.02.2022",
+            "validDate": "24.02.2024",
+            "vriType": "2",
+            "docTitle": "Яб1.210.077 РЭ Дифрактометр рентгеновский Дрон-7. Руководство по эксплуатации (Раздел 8. Методы и средства поверки).",
+            "applicable": {
+                "certNum": "С-АГЗ\/25-02-2022\/134819040",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 10475-2014",
+                    "title": "СО ДИФРАКЦИОННЫХ СВОЙСТВ КРИСТАЛЛИЧЕСКОЙ РЕШЕТКИ (ОКСИД АЛЮМИНИЯ) (SRM 1976b)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389707",
+                    "manufactureYear": 2016
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

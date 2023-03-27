@@ -1,0 +1,63 @@
+{
+    "168071282": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "13569-93",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/309293",
+                "mitypeType": "Оксипульс-01",
+                "mitypeTitle": "Оксиметры пульсовые",
+                "manufactureNum": "00201",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ ГОРОДА МОСКВЫ \"ГОРМЕДТЕХНИКА ДЕПАРТАМЕНТА ЗДРАВООХРАНЕНИЯ ГОРОДА МОСКВЫ\"(ГАУ \"ГОРМЕДТЕХНИКА\")",
+            "signCipher": "АБЭ",
+            "miOwner": "ГБУЗ “ЦПСИР ДЗМ “",
+            "vrfDate": "01.07.2022",
+            "validDate": "30.06.2023",
+            "vriType": "2",
+            "docTitle": "МИ 3280-2010",
+            "applicable": {
+                "certNum": "С-АБЭ\/01-07-2022\/168071282",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "63897.16.РЭ.00492026",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/492026",
+                    "mitypeNumber": "63897-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377525",
+                    "mitypeTitle": "Меры для поверки пульсовых оксиметров",
+                    "notation": "МППО-2М",
+                    "modification": "-",
+                    "manufactureNum": "000216",
+                    "manufactureYear": 2019,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 30.12.2019 №3464"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "50279-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362091",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "150827821"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39521776\/908"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

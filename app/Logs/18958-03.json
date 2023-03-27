@@ -1,0 +1,1981 @@
+{
+    "214998867": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "11",
+                "modification": "МАЛАХИТ АС-12А"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "ООО \"ЦНИПР\"",
+            "vrfDate": "13.01.2023",
+            "validDate": "12.01.2024",
+            "vriType": "2",
+            "docTitle": "АМ100.9805.00.000РЭ раздел 8 '' Методика поверки ''",
+            "applicable": {
+                "certNum": "С-ДИЭ\/13-01-2023\/214998867",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "5421"
+                },
+                {
+                    "mitypeNumber": "28768-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335872",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "17917"
+                },
+                {
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "54219689"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "214405126": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "44-2003",
+                "manufactureYear": 2003,
+                "modification": "МАЛАХИТ АС-12А"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "Общество с ограниченной ответственностью Сибирский центр технической диагностики и экспертизы \"ДИАСИБ\"",
+            "vrfDate": "10.01.2023",
+            "validDate": "09.01.2024",
+            "vriType": "2",
+            "docTitle": "АМ100.9805.00.000РЭ раздел 8 '' Методика поверки ''",
+            "applicable": {
+                "certNum": "С-НН\/10-01-2023\/214405126",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "53102.13.4Р.36591",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/36591",
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "AFG2021, AFG3011C, AFG3021C, AFG3022C, AFG3051C, AFG3052C, AFG3101C, AFG3102C, AFG3251C, AFG3252C",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "C012186",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "28768.05.2Р.00347364",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/347364",
+                    "mitypeNumber": "28768-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335872",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "TDS5104B, TDS5032B, TDS5034B, TDS5052B, TDS5054B, TDS5054BE",
+                    "modification": "TDS5052B",
+                    "manufactureNum": "B020189",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 3463 от 30.12.2019"
+                },
+                {
+                    "regNumber": "16500.97.3Р.00628758",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/628758",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47002825",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 1942 от 03.09.2021"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок приборный 44-2003,преобразователь акустический ДР3И №123,125,126,127,128,129,130,131,174,530,556,557,558,559, 560",
+            "briefIndicator": false
+        }
+    },
+    "210400583": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "57-2004",
+                "modification": "исполнение МАЛАХИТ АС-12А\/16"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "3662200776 ТЕХНОГАРАНТ ООО ЭТЦ",
+            "vrfDate": "21.12.2022",
+            "validDate": "20.12.2023",
+            "vriType": "2",
+            "docTitle": "раздел 8  АМ100.9805.00.000 РЭ",
+            "applicable": {
+                "certNum": "С-А\/21-12-2022\/210400583",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32620.06.4Р.60396",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60396",
+                    "mitypeNumber": "32620-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341025",
+                    "mitypeTitle": "Генераторы сигналов сложной формы",
+                    "notation": "AFG3021, AFG3022, AFG3101, AFG3102, AFG3251, AFG3252",
+                    "modification": "AFG3022",
+                    "manufactureNum": "C020222",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "32618.06.2Р.00319109",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/319109",
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341022",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "TDS1001B, TDS1002B, TDS1012B, TDS2002B, TDS2004B, TDS2012B, TDS2014B, TDS2022B, TDS2024B",
+                    "modification": "TDS2012B",
+                    "manufactureNum": "С030140",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  от 30 декабря 2019 г. № 3463"
+                },
+                {
+                    "regNumber": "6705.78.2Р.00558064",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/558064",
+                    "mitypeNumber": "6705-78",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380964",
+                    "mitypeTitle": "Магазины затуханий",
+                    "notation": "МЗ-50-3",
+                    "modification": "МЗ-50-3",
+                    "manufactureNum": "03",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 №3383"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "208420587": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "119-2007",
+                "manufactureYear": 2007,
+                "modification": "МАЛАХИТ АС-12А"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "14.12.2022",
+            "validDate": "13.12.2023",
+            "vriType": "2",
+            "docTitle": "АМ100.9805.00.000РЭ раздел 8 '' Методика поверки ''",
+            "applicable": {
+                "certNum": "С-НН\/14-12-2022\/208420587",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "53102.13.4Р.36591",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/36591",
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "AFG2021, AFG3011C, AFG3021C, AFG3022C, AFG3051C, AFG3052C, AFG3101C, AFG3102C, AFG3251C, AFG3252C",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "C012186",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "28768.05.2Р.00347364",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/347364",
+                    "mitypeNumber": "28768-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335872",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "TDS5104B, TDS5032B, TDS5034B, TDS5052B, TDS5054B, TDS5054BE",
+                    "modification": "TDS5052B",
+                    "manufactureNum": "B020189",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 3463 от 30.12.2019"
+                },
+                {
+                    "regNumber": "16500.97.3Р.00628758",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/628758",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47002825",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 1942 от 03.09.2021"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок приборный МАЛАХИТ АС 12А-16 119-2007,преобразователь акустический ДР15И №267,963,965,966,1069,1072,1074,1075,1076,1078,1079,1080,1081,1082,1083,1084",
+            "briefIndicator": false
+        }
+    },
+    "204127433": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "49-2003",
+                "modification": "МАЛАХИТ АС-12А"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТОМСКОЙ ОБЛАСТИ\"(ФБУ \"ТОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЭ",
+            "miOwner": "ООО \"ТОМСКИЙ ИТЦ\"",
+            "vrfDate": "25.11.2022",
+            "validDate": "24.11.2023",
+            "vriType": "2",
+            "docTitle": "раздел 8 АМ100.9805.00.000 РЭ",
+            "applicable": {
+                "certNum": "С-ВЭ\/25-11-2022\/204127433",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "5460.76.4Р.77671",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/77671",
+                    "mitypeNumber": "5460-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367069",
+                    "mitypeTitle": "Генераторы сигналов низкочастотные прецизионные",
+                    "notation": "Г3-110",
+                    "modification": "Г3-110",
+                    "manufactureNum": "6730",
+                    "manufactureYear": 1982,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Прриказ №1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "28335.04.3Р.00144980",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/144980",
+                    "mitypeNumber": "28335-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335292",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-80",
+                    "modification": "нет модификации",
+                    "manufactureNum": "1499",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "32618.06.2Р.00163455",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/163455",
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341022",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "TDS1001B, TDS1002B, TDS1012B, TDS2002B, TDS2004B, TDS2012B, TDS2014B, TDS2022B, TDS2024B",
+                    "modification": "TDS2012B",
+                    "manufactureNum": "C102690",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 3463 от 30.12.2019"
+                },
+                {
+                    "regNumber": "43317.09.2Р.00257294",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/257294",
+                    "mitypeNumber": "43317-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353987",
+                    "mitypeTitle": "Генераторы импульсов",
+                    "notation": "АКИП-3301, АКИП-3302, АКИП-3303, АКИП-3304, АКИП-3305",
+                    "modification": "АКИП-3305",
+                    "manufactureNum": "15406023",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №3463 от 30.12.2019 \"ГПС для средств измерений импульсного электрического напряжения\""
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "203785997": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "94-2007",
+                "modification": "исполнение МАЛАХИТ АС-12А\/16"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "7841070104 СТЭК ООО",
+            "vrfDate": "23.11.2022",
+            "validDate": "22.11.2023",
+            "vriType": "2",
+            "docTitle": "раздел 8  АМ100.9805.00.000 РЭ",
+            "applicable": {
+                "certNum": "С-А\/23-11-2022\/203785997",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32620.06.4Р.60396",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60396",
+                    "mitypeNumber": "32620-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341025",
+                    "mitypeTitle": "Генераторы сигналов сложной формы",
+                    "notation": "AFG3021, AFG3022, AFG3101, AFG3102, AFG3251, AFG3252",
+                    "modification": "AFG3022",
+                    "manufactureNum": "C020222",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "32618.06.2Р.00319109",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/319109",
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341022",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "TDS1001B, TDS1002B, TDS1012B, TDS2002B, TDS2004B, TDS2012B, TDS2014B, TDS2022B, TDS2024B",
+                    "modification": "TDS2012B",
+                    "manufactureNum": "С030140",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  от 30 декабря 2019 г. № 3463"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "79098-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1381736",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "MY51400013"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "191629115": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "74-2005",
+                "modification": "Система акустико-эмиссионная Малахит АС-12А исполнение МАЛАХИТ АС-12А\/8 (8 каналов)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"А3 ИНЖИНИРИНГ\"(ООО \"АЗ-И\")",
+            "signCipher": "ДДЭ",
+            "miOwner": "ПАО \"КРИОГЕНМАШ\" ИНН 5001000066",
+            "vrfDate": "07.10.2022",
+            "validDate": "06.10.2023",
+            "vriType": "2",
+            "docTitle": "МП раздел 8 АМ100.9805.00.000РЭ",
+            "applicable": {
+                "certNum": "С-ДДЭ\/07-10-2022\/191629115",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "С014138"
+                },
+                {
+                    "mitypeNumber": "48471-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359950",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "С047105"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "Номер свидетельства о поверке, оформленного в соответствии с приказом 2510 № 3942-П26\/22"
+        }
+    },
+    "186177299": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "42-2003",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "02.09.2022",
+            "validDate": "01.09.2023",
+            "vriType": "2",
+            "docTitle": "АМ100.9805.00.000РЭ раздел 8 '' Методика поверки ''",
+            "applicable": {
+                "certNum": "С-ДИЭ\/02-09-2022\/183347456",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "5421"
+                },
+                {
+                    "mitypeNumber": "28768-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335872",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "17917"
+                },
+                {
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "54219689"
+                }
+            ]
+        },
+        "info": {
+            "structure": "с акустико-эмиссионными преобразователями: ДР6И №№: 796, 798, 879, 880, 881, 882, 883, 884, 885, 886, 887, 795, 794, 595, 520, 524",
+            "briefIndicator": false
+        }
+    },
+    "183018419": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "63-2004",
+                "modification": "исполнение МАЛАХИТ АС-12А\/8"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "раздел 8  АМ100.9805.00.000 РЭ",
+            "applicable": {
+                "certNum": "С-А\/31-08-2022\/183018419",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32620.06.4Р.60396",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60396",
+                    "mitypeNumber": "32620-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341025",
+                    "mitypeTitle": "Генераторы сигналов сложной формы",
+                    "notation": "AFG3021, AFG3022, AFG3101, AFG3102, AFG3251, AFG3252",
+                    "modification": "AFG3022",
+                    "manufactureNum": "C020222",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "32618.06.2Р.00319109",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/319109",
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341022",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "TDS1001B, TDS1002B, TDS1012B, TDS2002B, TDS2004B, TDS2012B, TDS2014B, TDS2022B, TDS2024B",
+                    "modification": "TDS2012B",
+                    "manufactureNum": "С030140",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  от 30 декабря 2019 г. № 3463"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "79098-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1381736",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "MY51400013"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "182041676": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "190-2013",
+                "modification": "Система акустико-эмиссионная Малахит АС-12А исполнение МАЛАХИТ АС-12А\/8 (8 каналов)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"А3 ИНЖИНИРИНГ\"(ООО \"АЗ-И\")",
+            "signCipher": "ДДЭ",
+            "miOwner": "ЗАО «Динамика»ИНН 1661021756",
+            "vrfDate": "29.08.2022",
+            "validDate": "28.08.2023",
+            "vriType": "2",
+            "docTitle": "МП раздел 8 АМ100.9805.00.000РЭ",
+            "applicable": {
+                "certNum": "С-ДДЭ\/29-08-2022\/182041676",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "С014138"
+                },
+                {
+                    "mitypeNumber": "48471-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359950",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "С047105"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "Номер свидетельства о поверке, оформленного в соответствии с приказом 2510 № 1729-П26\/22"
+        }
+    },
+    "171280015": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "70-2005",
+                "manufactureYear": 2005,
+                "modification": "МАЛАХИТ АС-12А"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "15.07.2022",
+            "validDate": "14.07.2023",
+            "vriType": "2",
+            "docTitle": "АМ100.9805.00.000РЭ раздел 8 '' Методика поверки ''",
+            "applicable": {
+                "certNum": "С-НН\/15-07-2022\/171280015",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "53102.13.4Р.36591",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/36591",
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "AFG2021, AFG3011C, AFG3021C, AFG3022C, AFG3051C, AFG3052C, AFG3101C, AFG3102C, AFG3251C, AFG3252C",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "C012186",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "16500.97.4Р.00325150",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325150",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47002825",
+                    "manufactureYear": 2008,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "16500.97.3Р.00325151",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325151",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47002825",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 3457 от 30.12.2019"
+                },
+                {
+                    "regNumber": "16500.97.2Р.00325154",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325154",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47002825",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 2091 от 01.10.2018"
+                },
+                {
+                    "regNumber": "28768.05.2Р.00347364",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/347364",
+                    "mitypeNumber": "28768-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335872",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "TDS5104B, TDS5032B, TDS5034B, TDS5052B, TDS5054B, TDS5054BE",
+                    "modification": "TDS5052B",
+                    "manufactureNum": "B020189",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 3463 от 30.12.2019"
+                },
+                {
+                    "regNumber": "16500.97.2Р.00628751",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/628751",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47002825",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ 668 от 17.03.2022 «ГПС для средств изм. силы перем. эл. тока от 1·10^-8 до 100 А в диап. частот от 1·10^-1 до 1·10^6 Гц»"
+                },
+                {
+                    "regNumber": "16500.97.5Р.00628754",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/628754",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47002825",
+                    "manufactureYear": 2008,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018 Государственная поверочная схема для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "16500.97.3Р.00628758",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/628758",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47002825",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 1942 от 03.09.2021"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок системный МАЛАХИТ АС-12А\/16 70-2205,преобразователь акустический ДР3И №536,544,1281,1284,1285,преобразователь акустический ДР15И №959,961,1070,1071,1077,1081",
+            "briefIndicator": false
+        }
+    },
+    "162454590": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "46-2003",
+                "modification": "МАЛАХИТ АС-12А"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "08.06.2022",
+            "validDate": "07.06.2023",
+            "vriType": "2",
+            "docTitle": "АМ109.9805.00.000 РЭ \"Системы акустико-эмиссионные МАЛАХИТ АС-12А. Руководство по эксплуатации\", раздел 8 \"Поверка\"",
+            "applicable": {
+                "certNum": "С-БН\/08-06-2022\/162454590",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.2305.2016",
+                    "title": "Государственный эталон единицы времени в диапазоне значений от 2,5 нс до 1000 с и единицы частоты в диапазоне значений от 1 мГц до 6 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/493660"
+                },
+                {
+                    "number": "3.1.ZБН.2304.2016",
+                    "title": "Государственный эталон единицы импульсного электрического напряжения 2 разряда в диапазоне значений от 1 мВ до 400 В",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/493662"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "156080205": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "69-2005",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ООО \"РН-Ремонт НПО\"",
+            "vrfDate": "06.05.2022",
+            "validDate": "05.05.2023",
+            "vriType": "2",
+            "docTitle": "методикой поверки, приведенной в паспорте АМ100.9805.00.000.ПС и согласованной ВНИИМС.",
+            "applicable": {
+                "certNum": "С-АБ\/06-05-2022\/156080205",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31773.06.3Р.00154736",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/154736",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "TW00004078",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №3457 от 30.12.2019 ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "53102.13.4Р.00369641",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/369641",
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "AFG2021, AFG3011C, AFG3021C, AFG3022C, AFG3051C, AFG3052C, AFG3101C, AFG3102C, AFG3251C, AFG3252C",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "C020475",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказом № 1621 от 31 июля 2018 г. ГПС для средств измерений времени и частоты"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32488-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340841",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "number": "LCRY0101J26980"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "исполнение Малахит АС-12А\/8"
+        }
+    },
+    "159913648": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "53-2004",
+                "modification": "Малахит АС-12А\/4"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "ООО «ЦЕНТР ЭПБ»",
+            "vrfDate": "12.04.2022",
+            "validDate": "11.04.2023",
+            "vriType": "2",
+            "docTitle": "АМ100.9805.00.000РЭ раздел 8 '' Методика поверки ''",
+            "applicable": {
+                "certNum": "С-ДИЭ\/12-04-2022\/159913648",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "5421"
+                },
+                {
+                    "mitypeNumber": "28768-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335872",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "17917"
+                },
+                {
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "54219689"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "173479569": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "88",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "11.04.2022",
+            "validDate": "10.04.2023",
+            "vriType": "2",
+            "docTitle": "АМ100.9805.00.000РЭ раздел 8 '' Методика поверки ''",
+            "applicable": {
+                "certNum": "С-ДИЭ\/11-04-2022\/173479569",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "6701-78",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380918",
+                    "mitypeTitle": "Генераторы импульсов",
+                    "number": "87878"
+                },
+                {
+                    "mitypeNumber": "6181-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375240",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "number": "278"
+                },
+                {
+                    "mitypeNumber": "3711-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346595",
+                    "mitypeTitle": "Микровольтметры",
+                    "number": "144"
+                },
+                {
+                    "mitypeNumber": "3371-72",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342394",
+                    "mitypeTitle": "Осциллографы универсальные",
+                    "number": "22"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "143474512": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "61-2004",
+                "manufactureYear": 2004,
+                "modification": "АС-12А\/16"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "29.03.2022",
+            "validDate": "28.03.2023",
+            "vriType": "2",
+            "docTitle": "АМ100.9805.00.000 ПС (раздел 4)",
+            "applicable": {
+                "certNum": "С-ВЗ\/29-03-2022\/143474512",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52150.12.4Р.00156752",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/156752",
+                    "mitypeNumber": "52150-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364297",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "33250A, 33521A, 33522A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY40030230",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "47717.11.3Р.00189838",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/189838",
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359044",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34410А, 34411А",
+                    "modification": "34410А",
+                    "manufactureNum": "MY53000518",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ переменного электрического напряжения до 1000 В в диапазоне частот от 1∙10^-1 до 2∙10^9 Гц"
+                },
+                {
+                    "regNumber": "48469.11.2Р.00559349",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/559349",
+                    "mitypeNumber": "48469-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359947",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "DPO5034, DPO5054, DPO5104, DPO5204, MSO5034, MSO5054, MSO5104, MSO5204",
+                    "modification": "DPO5204",
+                    "manufactureNum": "C012049",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "\"ГПС для СИ импульсного электрического напряжения\" утв. приказом Росстандарта от 30.12.2019 № 3463"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "143205855": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "44-2003",
+                "manufactureYear": 2003,
+                "modification": "МАЛАХИТ АС-12А"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "Общество с ограниченной ответственностью Сибирский центр технической диагностики и экспертизы \"ДИАСИБ\"",
+            "vrfDate": "28.03.2022",
+            "validDate": "27.03.2023",
+            "vriType": "2",
+            "docTitle": "АМ100.9805.00.000РЭ раздел 8 '' Методика поверки ''",
+            "applicable": {
+                "certNum": "С-НН\/28-03-2022\/143205855",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "53102.13.4Р.36591",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/36591",
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "AFG2021, AFG3011C, AFG3021C, AFG3022C, AFG3051C, AFG3052C, AFG3101C, AFG3102C, AFG3251C, AFG3252C",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "C012186",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "16500.97.4Р.00325144",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325144",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "16500.97.3Р.00325145",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325145",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 1053 от 29.05.2018"
+                },
+                {
+                    "regNumber": "16500.97.3Р.00325146",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325146",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 3457 от 30.12.2019"
+                },
+                {
+                    "regNumber": "16500.97.2Р.00325147",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325147",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 2091 от 01.10.2018"
+                },
+                {
+                    "regNumber": "16500.97.2Р.00325148",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325148",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 575 от 14.05.2015"
+                },
+                {
+                    "regNumber": "28768.05.2Р.00347364",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/347364",
+                    "mitypeNumber": "28768-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335872",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "TDS5104B, TDS5032B, TDS5034B, TDS5052B, TDS5054B, TDS5054BE",
+                    "modification": "TDS5052B",
+                    "manufactureNum": "B020189",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 3463 от 30.12.2019"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок системный МАЛАХИТ АС-12А\/16 44-2003,преобразователь акустический ДР3И №123,125,126,127,128,129,130,131,530,537,556,558,559,560",
+            "briefIndicator": false
+        }
+    },
+    "141707281": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "77-2005",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ООО \"Нефтехимдиагностика\"",
+            "vrfDate": "18.03.2022",
+            "validDate": "17.03.2023",
+            "vriType": "2",
+            "docTitle": "методикой поверки, приведенной в паспорте АМ100.9805.00.000.ПС и согласованной ВНИИМС.",
+            "applicable": {
+                "certNum": "С-АБ\/18-03-2022\/141707281",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31773.06.3Р.00154736",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/154736",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "TW00004078",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №3457 от 30.12.2019 ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "53102.13.РЭ.00156179",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/156179",
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "AFG2021, AFG3011C, AFG3021C, AFG3022C, AFG3051C, AFG3052C, AFG3101C, AFG3102C, AFG3251C, AFG3252C",
+                    "modification": "AFG3101C",
+                    "manufactureNum": "C010529",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1621 от 31 июля 2018 г. ГПС для средств измерений времени и частоты"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32488-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340841",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "number": "LCRY0101J26980"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "140232456": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "85-2006",
+                "modification": "Система акустико-эмиссионная Малахит АС-12А исполнение МАЛАХИТ АС-12А\/16 (16 каналов)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"А3 ИНЖИНИРИНГ\"(ООО \"АЗ-И\")",
+            "signCipher": "ДДЭ",
+            "miOwner": "ЗАО НПЦ \"СИБНЕФТЕГАЗДИАГНОСТИКа\" ИНН 7202012280",
+            "vrfDate": "16.03.2022",
+            "validDate": "15.03.2023",
+            "vriType": "2",
+            "docTitle": "МП раздел 8 АМ100.9805.00.000РЭ",
+            "applicable": {
+                "certNum": "С-ДДЭ\/16-03-2022\/140232456",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "С014138"
+                },
+                {
+                    "mitypeNumber": "48471-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359950",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "С047105"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "Номер свидетельства о поверке, оформленного в соответствии с приказом 2510 № 991-П16\/22"
+        }
+    },
+    "139620058": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "82-2006\/78-2005",
+                "modification": "МАЛАХИТ АС-12А"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "15.03.2022",
+            "validDate": "14.03.2023",
+            "vriType": "2",
+            "docTitle": "АМ100.9805.00.000РЭ раздел 8 '' Методика поверки ''",
+            "applicable": {
+                "certNum": "С-НН\/15-03-2022\/139620058",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "53102.13.4Р.36591",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/36591",
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "AFG2021, AFG3011C, AFG3021C, AFG3022C, AFG3051C, AFG3052C, AFG3101C, AFG3102C, AFG3251C, AFG3252C",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "C012186",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "16500.97.4Р.00325144",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325144",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "16500.97.3Р.00325145",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325145",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 1053 от 29.05.2018"
+                },
+                {
+                    "regNumber": "16500.97.3Р.00325146",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325146",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 3457 от 30.12.2019"
+                },
+                {
+                    "regNumber": "16500.97.2Р.00325147",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325147",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 2091 от 01.10.2018"
+                },
+                {
+                    "regNumber": "16500.97.2Р.00325148",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325148",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 575 от 14.05.2015"
+                },
+                {
+                    "regNumber": "28768.05.2Р.00347364",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/347364",
+                    "mitypeNumber": "28768-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335872",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "TDS5104B, TDS5032B, TDS5034B, TDS5052B, TDS5054B, TDS5054BE",
+                    "modification": "TDS5052B",
+                    "manufactureNum": "B020189",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 3463 от 30.12.2019"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок системный Малахит АС-12А\/16 82-2006,блок системный Малахит АС-12А\/16 78-2005,преобразоатель акустический ДР3И №123,125,126,127,128,129,130,131,530,537,556,558,559,560",
+            "briefIndicator": false
+        }
+    },
+    "139620059": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "83-2006\/84-2006",
+                "modification": "МАЛАХИТ АС-12А"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "15.03.2022",
+            "validDate": "14.03.2023",
+            "vriType": "2",
+            "docTitle": "АМ100.9805.00.000РЭ раздел 8 '' Методика поверки ''",
+            "applicable": {
+                "certNum": "С-НН\/15-03-2022\/139620059",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "53102.13.4Р.36591",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/36591",
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "AFG2021, AFG3011C, AFG3021C, AFG3022C, AFG3051C, AFG3052C, AFG3101C, AFG3102C, AFG3251C, AFG3252C",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "C012186",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "16500.97.4Р.00325144",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325144",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "16500.97.3Р.00325145",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325145",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 1053 от 29.05.2018"
+                },
+                {
+                    "regNumber": "16500.97.3Р.00325146",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325146",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 3457 от 30.12.2019"
+                },
+                {
+                    "regNumber": "16500.97.2Р.00325147",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325147",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 2091 от 01.10.2018"
+                },
+                {
+                    "regNumber": "16500.97.2Р.00325148",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325148",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 575 от 14.05.2015"
+                },
+                {
+                    "regNumber": "28768.05.2Р.00347364",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/347364",
+                    "mitypeNumber": "28768-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335872",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "TDS5104B, TDS5032B, TDS5034B, TDS5052B, TDS5054B, TDS5054BE",
+                    "modification": "TDS5052B",
+                    "manufactureNum": "B020189",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 3463 от 30.12.2019"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок системный Малахит АС-12А\/16 83-2006,блок системный Малахит АС-12А\/16 84-2006,преобразователь акустический ДР3И №123,125,126,127,128,129,130,131,530,537,556,558,559,560",
+            "briefIndicator": false
+        }
+    },
+    "137830064": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "66-2005",
+                "modification": "Малахит АС-12А\/16"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "04.03.2022",
+            "validDate": "03.03.2023",
+            "vriType": "2",
+            "docTitle": "раздел 8  АМ100.9805.00.000 РЭ",
+            "applicable": {
+                "certNum": "С-А\/04-03-2022\/137830064",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32620.06.4Р.60396",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60396",
+                    "mitypeNumber": "32620-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341025",
+                    "mitypeTitle": "Генераторы сигналов сложной формы",
+                    "notation": "AFG3021, AFG3022, AFG3101, AFG3102, AFG3251, AFG3252",
+                    "modification": "AFG3022",
+                    "manufactureNum": "C020222",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "32618.06.2Р.00319109",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/319109",
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341022",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "TDS1001B, TDS1002B, TDS1012B, TDS2002B, TDS2004B, TDS2012B, TDS2014B, TDS2022B, TDS2024B",
+                    "modification": "TDS2012B",
+                    "manufactureNum": "С030140",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  от 30 декабря 2019 г. № 3463"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "79098-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1381736",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "MY51400013"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "135971740": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "52-2004",
+                "modification": "Система акустико-эмиссионная Малахит АС-12А исполнение МАЛАХИТ АС-12А\/8 (8 каналов)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"А3 ИНЖИНИРИНГ\"(ООО \"АЗ-И\")",
+            "signCipher": "ДДЭ",
+            "miOwner": "ПАО \"КРИОГЕНМАШ\" ИНН 5001000066",
+            "vrfDate": "01.03.2022",
+            "validDate": "28.02.2023",
+            "vriType": "2",
+            "docTitle": "МП раздел 8 АМ100.9805.00.000РЭ",
+            "applicable": {
+                "certNum": "С-ДДЭ\/01-03-2022\/135971740",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "С014138"
+                },
+                {
+                    "mitypeNumber": "48471-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359950",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "С047105"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "Номер свидетельства о поверке, оформленного в соответствии с приказом 2510 № 163-П16\/22"
+        }
+    },
+    "130045102": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "40-2003",
+                "manufactureYear": 2003,
+                "modification": "МАЛАХИТ АС-12А"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "Общество с ограниченной ответственностью Сибирский центр технической диагностики и экспертизы \"ДИАСИБ\"",
+            "vrfDate": "08.02.2022",
+            "validDate": "07.02.2023",
+            "vriType": "2",
+            "docTitle": "АМ100.9805.00.000РЭ раздел 8 '' Методика поверки ''",
+            "applicable": {
+                "certNum": "С-НН\/08-02-2022\/130045102",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "53102.13.4Р.36591",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/36591",
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "AFG2021, AFG3011C, AFG3021C, AFG3022C, AFG3051C, AFG3052C, AFG3101C, AFG3102C, AFG3251C, AFG3252C",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "C012186",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "16500.97.4Р.00325144",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325144",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "16500.97.3Р.00325145",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325145",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 1053 от 29.05.2018"
+                },
+                {
+                    "regNumber": "16500.97.3Р.00325146",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325146",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 3457 от 30.12.2019"
+                },
+                {
+                    "regNumber": "16500.97.2Р.00325147",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325147",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 2091 от 01.10.2018"
+                },
+                {
+                    "regNumber": "16500.97.2Р.00325148",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/325148",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY47003036",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 575 от 14.05.2015"
+                },
+                {
+                    "regNumber": "28768.05.2Р.00347364",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/347364",
+                    "mitypeNumber": "28768-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335872",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "TDS5104B, TDS5032B, TDS5034B, TDS5052B, TDS5054B, TDS5054BE",
+                    "modification": "TDS5052B",
+                    "manufactureNum": "B020189",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 3463 от 30.12.2019"
+                }
+            ]
+        },
+        "info": {
+            "structure": "блок системный МАЛАХИТ АС-12А\/16 40-2003,преобразователь акустический ДР3И №174,123,558,557,530,556,559,129,126,128,130,131,125,127",
+            "briefIndicator": false
+        }
+    },
+    "127465344": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "48-2003",
+                "modification": "Система акустико-эмиссионная Малахит АС-12А исполнение МАЛАХИТ АС-12А\/16 (16 каналов)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"А3 ИНЖИНИРИНГ\"(ООО \"АЗ-И\")",
+            "signCipher": "ДДЭ",
+            "miOwner": "НП «ТЦТД «ХИМОТЕСТ» ИНН 7017010480",
+            "vrfDate": "28.01.2022",
+            "validDate": "27.01.2023",
+            "vriType": "2",
+            "docTitle": "МП раздел 8 АМ100.9805.00.000РЭ",
+            "applicable": {
+                "certNum": "С-ДДЭ\/28-01-2022\/127465344",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "53102-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365385",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "С014138"
+                },
+                {
+                    "mitypeNumber": "48471-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359950",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "number": "С047105"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "Номер свидетельства о поверке, оформленного в соответствии с приказом 2510 № 1084-П05\/22"
+        }
+    },
+    "128008840": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18958-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320292",
+                "mitypeType": "МАЛАХИТ АС-12А",
+                "mitypeTitle": "Системы акустико-эмиссионные",
+                "manufactureNum": "122-2007",
+                "modification": "исполнение Малахит АС-12А\/8"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "27.01.2022",
+            "validDate": "26.01.2023",
+            "vriType": "2",
+            "docTitle": "МП раздел 8 РЭ АМ100.9805.00.000 РЭ",
+            "applicable": {
+                "certNum": "С-А\/27-01-2022\/128008840",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32620.06.4Р.60396",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/60396",
+                    "mitypeNumber": "32620-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341025",
+                    "mitypeTitle": "Генераторы сигналов сложной формы",
+                    "notation": "AFG3021, AFG3022, AFG3101, AFG3102, AFG3251, AFG3252",
+                    "modification": "AFG3022",
+                    "manufactureNum": "C020222",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "32618.06.2Р.00319109",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/319109",
+                    "mitypeNumber": "32618-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341022",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "TDS1001B, TDS1002B, TDS1012B, TDS2002B, TDS2004B, TDS2012B, TDS2014B, TDS2022B, TDS2024B",
+                    "modification": "TDS2012B",
+                    "manufactureNum": "С030140",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  от 30 декабря 2019 г. № 3463"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "79098-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1381736",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "MY51400013"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}
