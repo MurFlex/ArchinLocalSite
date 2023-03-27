@@ -1,0 +1,88 @@
+{
+    "146455202": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "66633-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380509",
+                "mitypeType": "TTR",
+                "mitypeTitle": "Измерители коэффициента трансформации",
+                "manufactureNum": "ХК-000404",
+                "modification": "мод. TTR100"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЦЕНТР МЕТРОЛОГИИ\"(ООО \"ЦМ\")",
+            "signCipher": "ГХС",
+            "miOwner": "АО \"Охотская ГГК\"",
+            "vrfDate": "06.04.2022",
+            "validDate": "05.04.2024",
+            "vriType": "2",
+            "docTitle": "МП 206.1-206-2016 «Измерители коэффициента трансформации серии TTR. МП», утверждена ФГУП «ВНИИМС» 14.11.2016 г.",
+            "applicable": {
+                "certNum": "С-ГХС\/06-04-2022\/146455202",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39854.08.2Р.00474",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/474",
+                    "mitypeNumber": "39854-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349893",
+                    "mitypeTitle": "Трансформаторы тока измерительные переносные",
+                    "notation": "ТТИП",
+                    "modification": "ТТИП-5000",
+                    "manufactureNum": "69",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений коэффициентов преобразования силы электрического тока"
+                }
+            ]
+        },
+        "info": {
+            "structure": "____________",
+            "briefIndicator": false
+        }
+    },
+    "135346148": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "66633-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380509",
+                "mitypeType": "TTR",
+                "mitypeTitle": "Измерители коэффициента трансформации",
+                "manufactureNum": "405520368",
+                "modification": "ВСКМ-90-15"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЕДИНЫЙ РЕСУРС\"(ООО \"ЕДИНЫЙ РЕСУРС\")",
+            "signCipher": "ДЕУ",
+            "miOwner": "ф\/л",
+            "vrfDate": "15.02.2022",
+            "validDate": "14.02.2028",
+            "vriType": "2",
+            "docTitle": "МИ 1592-2015",
+            "applicable": {
+                "certNum": "С-ДЕУ\/15-02-2022\/135346148",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт63-2019",
+                    "title": "ГПСЭ единиц массы и объема жидкости в потоке, массового и объёмного расходов жидкости",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1365156"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

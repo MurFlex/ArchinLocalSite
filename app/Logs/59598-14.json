@@ -1,0 +1,57 @@
+{
+    "189097286": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "59598.14.2Р.00470396",
+                "mitypeNumber": "59598-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372779",
+                "mitypeTitle": "Установка поверочная передвижная",
+                "mitypeType": "УП-ТМ",
+                "modification": "УП-ТМ",
+                "manufactureNum": "001",
+                "manufactureYear": 2015,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказом Росстандарта №256 от 07.02.18 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "-",
+            "vrfDate": "16.09.2022",
+            "validDate": "15.09.2023",
+            "vriType": "2",
+            "docTitle": "КОЭЗ.00.002 МП «Инструкция. ГСИ. Установки поверочные передвижные УП-ТМ. Методика поверки», утвержденному ГЦИ СИ ФГУП «ВНИИР»",
+            "applicable": {
+                "certNum": "С-ВЯ\/16-09-2022\/189097286",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "45711.16.ВЭ.00274489",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/274489",
+                    "mitypeNumber": "45711-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356724",
+                    "mitypeTitle": "Установки поверочные средств измерений объема и массы",
+                    "notation": "УПМ",
+                    "modification": "УПМ 2000",
+                    "manufactureNum": "137",
+                    "manufactureYear": 2018,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "Приказ Росстандарта №256 от 07.02.18 г."
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-189097286\/protocol",
+            "additional_info": "(id:4180798010073)"
+        }
+    }
+}

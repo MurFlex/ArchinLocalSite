@@ -1,0 +1,46 @@
+{
+    "189166936": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "32225.06.РЭ.00182094",
+                "mitypeNumber": "32225-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340495",
+                "mitypeTitle": "Рабочий эталон единицы длины волны для волоконно-оптических систем передачи информации",
+                "mitypeType": "Нет данных",
+                "modification": "",
+                "manufactureNum": "01",
+                "manufactureYear": 2006,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 05.12.2019 №2862"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "5407108720 НОВОСИБИРСКИЙ ЦСМ ФБУ",
+            "vrfDate": "27.09.2022",
+            "validDate": "26.09.2023",
+            "vriType": "2",
+            "docTitle": "МП Приложение к РЭ",
+            "applicable": {
+                "certNum": "С-А\/27-09-2022\/189166936",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт170-2011",
+                    "title": "ГПСЭ единиц длины и времени распространения сигнала в световоде, средней мощности, ослабления и длины волны оптического излучения для волоконно-оптических систем передачи информации",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397854"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-189166936\/protocol"
+        }
+    }
+}

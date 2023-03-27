@@ -1,0 +1,69 @@
+{
+    "181125312": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "36564.07.1Р.00662946",
+                "mitypeNumber": "36564-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345936",
+                "mitypeTitle": "Установка поверочная",
+                "mitypeType": "УПУ-1000",
+                "modification": "нет",
+                "manufactureNum": "01",
+                "manufactureYear": 2007,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приказ 2825 от 29.12.2018г. Государственная поверочная схема для средств измерений объемного и массового расходов газа"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РОСТТЕСТСЕРВИС\"(ООО \"РТС\")",
+            "signCipher": "ДЯЕ",
+            "miOwner": "ООО \"РТС\"",
+            "vrfDate": "23.08.2022",
+            "validDate": "22.08.2024",
+            "vriType": "2",
+            "docTitle": "Методика поверки поверочной установки УПУ-1000",
+            "applicable": {
+                "certNum": "С-ДЯЕ\/23-08-2022\/181125312",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт118-2017",
+                    "title": "ГПЭ единиц объёмного и массового расходов газа",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397814"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "33587.06.3Р.00615883",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/615883",
+                    "mitypeNumber": "33587-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342250",
+                    "mitypeTitle": "Преобразователи давления эталонные",
+                    "notation": "ПДЭ-010",
+                    "modification": "ПДЭ-010-ДА-030-А",
+                    "manufactureNum": "101647",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №2900 от 6 декабря 2019 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "number": "231-0125"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "218151093": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "23379-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327863",
+                "mitypeType": "СИДС DX200_R5",
+                "mitypeTitle": "Системы измерений длительности соединений",
+                "manufactureNum": "C76397",
+                "manufactureYear": 2002,
+                "modification": "DX200-R5"
+            }
+        },
+        "vriInfo": {
+            "organization": "Филиал в Ярославской и Костромской областях ПАО \"Ростелеком\"(Филиал в Ярославской и Костромской областях ПАО \"Ростелеком\")",
+            "signCipher": "АЮБ",
+            "miOwner": "ПАО \"Ростелеком\"",
+            "vrfDate": "12.01.2023",
+            "validDate": "11.01.2025",
+            "vriType": "2",
+            "docTitle": "5295-001-04856548-01 И2",
+            "applicable": {
+                "certNum": "С-АЮБ\/12-01-2023\/218151093",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "17058.98.5Р.00395863",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/395863",
+                    "mitypeNumber": "17058-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316756",
+                    "mitypeTitle": "Формирователи телефонных соединений",
+                    "notation": "ПРИЗМА-8",
+                    "modification": "нет модификации",
+                    "manufactureNum": "0104",
+                    "manufactureYear": 2004,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 №1621"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "220446394": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "23379-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327863",
+                "mitypeType": "СИДС DX200_R5",
+                "mitypeTitle": "Системы измерений длительности соединений",
+                "manufactureNum": "347R5",
+                "manufactureYear": 2001,
+                "modification": "DX 200 R.5"
+            }
+        },
+        "vriInfo": {
+            "organization": "Макрорегиональный филиал \"Северо-Запад\" ПАО \"Ростелеком\"(Макрорегиональный филиал \"Северо-Запад\" ПАО \"Ростелеком\")",
+            "signCipher": "АСК",
+            "miOwner": "ПАО \"Ростелеком\"",
+            "vrfDate": "14.12.2022",
+            "validDate": "13.12.2024",
+            "vriType": "2",
+            "docTitle": "Методика поверки. 5295-001-04856548-01И2",
+            "applicable": {
+                "certNum": "С-АСК\/14-12-2022\/220446394",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.АСК.0003.2013",
+                    "title": "Рабочий эталон времени в диапазоне значений от 1 до 10800 с",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/456583"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "347, СПб, Комендантский пр., 19 к. 2"
+        }
+    },
+    "220446402": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "23379-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327863",
+                "mitypeType": "СИДС DX200_R5",
+                "mitypeTitle": "Системы измерений длительности соединений",
+                "manufactureNum": "595R5",
+                "manufactureYear": 2001,
+                "modification": "DX 200 R.5"
+            }
+        },
+        "vriInfo": {
+            "organization": "Макрорегиональный филиал \"Северо-Запад\" ПАО \"Ростелеком\"(Макрорегиональный филиал \"Северо-Запад\" ПАО \"Ростелеком\")",
+            "signCipher": "АСК",
+            "miOwner": "ПАО \"Ростелеком\"",
+            "vrfDate": "25.11.2022",
+            "validDate": "24.11.2024",
+            "vriType": "2",
+            "docTitle": "Методика поверки. 5295-001-04856548-01И2",
+            "applicable": {
+                "certNum": "С-АСК\/25-11-2022\/220446402",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.АСК.0003.2013",
+                    "title": "Рабочий эталон времени в диапазоне значений от 1 до 10800 с",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/456583"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Спб., Наб.Реки Мойки.,д .65"
+        }
+    }
+}

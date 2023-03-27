@@ -1,0 +1,1251 @@
+{
+    "221376633": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "27589.11.2Р.00266572",
+                "mitypeNumber": "27589-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                "mitypeTitle": "Меры напряженности магнитного поля",
+                "mitypeType": "М-503",
+                "modification": "Нет модификации",
+                "manufactureNum": "08003",
+                "manufactureYear": 2009,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Нижегородской области\"",
+            "vrfDate": "03.02.2023",
+            "validDate": "02.02.2024",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422541.003 МП «ГСИ. Меры напряженности магнитного поля М-503. Методика поверки»",
+            "applicable": {
+                "certNum": "С-В\/03-02-2023\/221376633",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт12-2021",
+                    "title": "ГПЭ единиц магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390912"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-221376633\/protocol",
+            "additional_info": "1. Значение коэффициента преобразования (постоянной) меры в центре рабочего пространства для напряжённости постоянного магнитного поля составляет: Кн = 74756  м-1 .  2. Значение коэффициента преобразования (постоянной) меры в центре рабочего пространства для напряжённости переменного магнитного поля на резонансных частотах составляет: f рез.1 = 51,2 Гц\t\tКн = 74717 м-1;  f рез.2 = 131 Гц\t\tКн = 74460 м-1;  f рез.3 = 412 Гц\t\tКн = 74110 м-1.  3. Относительная погрешность определения коэффициента преобразования (постоянной) меры не превосходит 0,5 % на постоянном токе и 1,0 %  на переменном токе (резонансных частотах). 4. Неоднородность напряжённости магнитного поля в рабочем объёме в виде куба ребром 10 мм (центр которого совпадает с геометрическим центром пространства между полюсами магнитопровода)  не превышает 0,05 %.   #mid8e7a077f-d352-407e-9f67-ad134b1520c0"
+        }
+    },
+    "221376629": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "27589.11.1Р.00266571",
+                "mitypeNumber": "27589-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                "mitypeTitle": "Меры напряженности магнитного поля",
+                "mitypeType": "М-503",
+                "modification": "(измерительная катушка магнитной индукции М-503.10)",
+                "manufactureNum": "08003",
+                "manufactureYear": 2009,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Нижегородской области\"",
+            "vrfDate": "03.02.2023",
+            "validDate": "02.02.2024",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422541.003 МП «ГСИ. Меры напряженности магнитного поля М-503. Методика поверки»",
+            "applicable": {
+                "certNum": "С-В\/03-02-2023\/221376629",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт12-2021",
+                    "title": "ГПЭ единиц магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390912"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-221376629\/protocol",
+            "additional_info": "1 Коэффициент преобразования (постоянная  Кsw) измерительной катушки магнитной индукции М-503.10  (зав. № 08003)  рабочем диапазоне частот 0 - 1000 Гц  составляет: Кsw =  0,2099  Вб\/Тл. 2 Доверительная граница погрешности результата измерений при вероятности Р = 0,99 составляет 0,42 %. 3 Частотная зависимость постоянной измерительной катушки в рабочем диапазоне частот не превосходит  0,1 %.   #mid249fd73f-02fc-4ee3-91ca-ac935de59a0b"
+        }
+    },
+    "201409610": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "27589.11.2Р.00103147",
+                "mitypeNumber": "27589-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                "mitypeTitle": "Меры напряженности магнитного поля",
+                "mitypeType": "М-503",
+                "modification": "М-503",
+                "manufactureNum": "08004",
+                "manufactureYear": 2011,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ 8.030-2013"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "14.11.2022",
+            "validDate": "13.11.2023",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422541.003 МП \"ГСИ. Меры напряженности магнитного поля М-503. Методика поверки\", утв. ФГУ \"УРАЛТЕСТ\" 01.04.2011 г.",
+            "applicable": {
+                "certNum": "С-СЕ\/14-11-2022\/201409610",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "33921.07.3Р.23448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/23448",
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Agilent 34410A, Agilent 34411A",
+                    "modification": "Agilent 34410A",
+                    "manufactureNum": "MY45002117",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3457 от 30.12.2019"
+                },
+                {
+                    "regNumber": "1162.58.3Р.00133162",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/133162",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "138020",
+                    "manufactureYear": 1990,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "1162.58.3Р.00163828",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/163828",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "155304",
+                    "manufactureYear": 1988,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 146 от 15.02.2016"
+                },
+                {
+                    "regNumber": "1162.58.3Р.00163865",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/163865",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "145056",
+                    "manufactureYear": 1991,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "34165.07.3Р.00166789",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166789",
+                    "mitypeNumber": "34165-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342974",
+                    "mitypeTitle": "Меры сопротивления переменного тока",
+                    "notation": "МС-100\/1, МС10\/1, МС1\/1, МС-01\/1",
+                    "modification": "МС1\/1",
+                    "manufactureNum": "0021 11",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "34165.07.3Р.00231367",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/231367",
+                    "mitypeNumber": "34165-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342974",
+                    "mitypeTitle": "Меры сопротивления переменного тока",
+                    "notation": "МС-100\/1, МС10\/1, МС1\/1, МС-01\/1",
+                    "modification": "МС-01\/1",
+                    "manufactureNum": "0004 06",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "34165.07.3Р.00231373",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/231373",
+                    "mitypeNumber": "34165-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342974",
+                    "mitypeTitle": "Меры сопротивления переменного тока",
+                    "notation": "МС-100\/1, МС10\/1, МС1\/1, МС-01\/1",
+                    "modification": "МС10\/1",
+                    "manufactureNum": "0021 09",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "27589.11.1Р.00342950",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/342950",
+                    "mitypeNumber": "27589-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                    "mitypeTitle": "Меры напряженности магнитного поля",
+                    "notation": "М-503",
+                    "modification": "(измерительная катушка магнитной индукции М-503.10)",
+                    "manufactureNum": "06004",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+                },
+                {
+                    "regNumber": "9335.83.РЭ.00623201",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/623201",
+                    "mitypeNumber": "9335-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388147",
+                    "mitypeTitle": "Измерители магнитной индукции",
+                    "notation": "Ш1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2364\/2348",
+                    "manufactureYear": 1991,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "МКИЯ.422541.113 МП, МКИЯ.422541.303.1 МП,  МКИЯ.422541.003 МП, МП 4201-11-2008"
+                },
+                {
+                    "regNumber": "33921.07.3Р.00665346",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/665346",
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Agilent 34410A, Agilent 34411A",
+                    "modification": "Agilent 34410A",
+                    "manufactureNum": "MY45002117",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1942 от 03.09.2021"
+                },
+                {
+                    "regNumber": "33921.07.3Р.00665347",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/665347",
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Agilent 34410A, Agilent 34411A",
+                    "modification": "Agilent 34410A",
+                    "manufactureNum": "MY47006901",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1942 от 03.09.2021"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32993-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341530",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "MY44018870"
+                },
+                {
+                    "mitypeNumber": "28134-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335010",
+                    "mitypeTitle": "Миллитесламетры портативные универсальные",
+                    "number": "496"
+                },
+                {
+                    "mitypeNumber": "17804-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318166",
+                    "mitypeTitle": "Измерители напряженности магнитного поля",
+                    "number": "11001"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "021"
+                },
+                {
+                    "mitypeNumber": "59851-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373075",
+                    "mitypeTitle": "Измерители параметров электрического и магнитного полей трехкомпонентные",
+                    "number": "56418"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-201409610\/protocol",
+            "additional_info": "Поверяемый эталон прослеживается к гэт12-2021. коэффициент преобразования (постоянная) меры 74570 м⁻¹ (постоянное поле); 74508 м⁻¹ (переменное поле, частота 49,58 Гц); 74353 м⁻¹ (переменное поле, частота 117,7 Гц); 74222 м⁻¹ (переменное поле, частота 388,7 Гц)"
+        }
+    },
+    "199451065": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "27589.11.1Р.00708709",
+                "mitypeNumber": "27589-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                "mitypeTitle": "Меры напряженности магнитного поля",
+                "mitypeType": "М-503",
+                "modification": "(измерительная катушка магнитной индукции М-503.10)",
+                "manufactureNum": "22001",
+                "manufactureYear": 2022,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "02.11.2022",
+            "validDate": "01.11.2023",
+            "vriType": "1",
+            "docTitle": "МКИЯ.422541.003 МП «ГСИ. Меры напряженности магнитного поля М-503. Методика поверки»",
+            "applicable": {
+                "certNum": "С-В\/02-11-2022\/199451065",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт12-2021",
+                    "title": "ГПЭ единиц магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390912"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "в качестве измерительной катушки магнитной индукции",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-199451065\/protocol",
+            "additional_info": "#mid392e1cc3-5fb8-44e0-af25-e2baa9e0e762"
+        }
+    },
+    "190497379": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "27589.11.2Р.00684802",
+                "mitypeNumber": "27589-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                "mitypeTitle": "Меры напряженности магнитного поля",
+                "mitypeType": "М-503",
+                "modification": "М-503",
+                "manufactureNum": "22001",
+                "manufactureYear": 2022,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ 8.030-2013"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "03.10.2022",
+            "validDate": "02.10.2023",
+            "vriType": "1",
+            "docTitle": "МКИЯ.422541.003 МП \"ГСИ. Меры напряженности магнитного поля М-503. Методика поверки\", утв. ФГУ \"УРАЛТЕСТ\" 01.04.2011 г.",
+            "applicable": {
+                "certNum": "С-СЕ\/03-10-2022\/190497379",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "33921.07.3Р.23448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/23448",
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Agilent 34410A, Agilent 34411A",
+                    "modification": "Agilent 34410A",
+                    "manufactureNum": "MY45002117",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3457 от 30.12.2019"
+                },
+                {
+                    "regNumber": "39118.08.2Р.87150",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/87150",
+                    "mitypeNumber": "39118-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349029",
+                    "mitypeTitle": "Меры напряженности постоянного магнитного поля",
+                    "notation": "М-113",
+                    "modification": "М-113",
+                    "manufactureNum": "98374",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.030-2013"
+                },
+                {
+                    "regNumber": "1162.58.3Р.00133162",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/133162",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "138020",
+                    "manufactureYear": 1990,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "1162.58.3Р.00163828",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/163828",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "155304",
+                    "manufactureYear": 1988,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 146 от 15.02.2016"
+                },
+                {
+                    "regNumber": "1162.58.3Р.00163866",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/163866",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "155674",
+                    "manufactureYear": 1991,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "34165.07.3Р.00166789",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166789",
+                    "mitypeNumber": "34165-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342974",
+                    "mitypeTitle": "Меры сопротивления переменного тока",
+                    "notation": "МС-100\/1, МС10\/1, МС1\/1, МС-01\/1",
+                    "modification": "МС1\/1",
+                    "manufactureNum": "0021 11",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "34165.07.3Р.00231367",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/231367",
+                    "mitypeNumber": "34165-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342974",
+                    "mitypeTitle": "Меры сопротивления переменного тока",
+                    "notation": "МС-100\/1, МС10\/1, МС1\/1, МС-01\/1",
+                    "modification": "МС-01\/1",
+                    "manufactureNum": "0004 06",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "34165.07.3Р.00231373",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/231373",
+                    "mitypeNumber": "34165-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342974",
+                    "mitypeTitle": "Меры сопротивления переменного тока",
+                    "notation": "МС-100\/1, МС10\/1, МС1\/1, МС-01\/1",
+                    "modification": "МС10\/1",
+                    "manufactureNum": "0021 09",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "27589.11.1Р.00342950",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/342950",
+                    "mitypeNumber": "27589-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                    "mitypeTitle": "Меры напряженности магнитного поля",
+                    "notation": "М-503",
+                    "modification": "(измерительная катушка магнитной индукции М-503.10)",
+                    "manufactureNum": "06004",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+                },
+                {
+                    "regNumber": "33921.07.3Р.00483970",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/483970",
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Agilent 34410A, Agilent 34411A",
+                    "modification": "Agilent 34410A",
+                    "manufactureNum": "MY47005679",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1942 от 03.09.2021"
+                },
+                {
+                    "regNumber": "9335.83.РЭ.00623201",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/623201",
+                    "mitypeNumber": "9335-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388147",
+                    "mitypeTitle": "Измерители магнитной индукции",
+                    "notation": "Ш1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2364\/2348",
+                    "manufactureYear": 1991,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "МКИЯ.422541.113 МП, МКИЯ.422541.303.1 МП,  МКИЯ.422541.003 МП, МП 4201-11-2008"
+                },
+                {
+                    "regNumber": "33921.07.3Р.00665346",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/665346",
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Agilent 34410A, Agilent 34411A",
+                    "modification": "Agilent 34410A",
+                    "manufactureNum": "MY45002117",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1942 от 03.09.2021"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32993-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341530",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "MY44018870"
+                },
+                {
+                    "mitypeNumber": "28134-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335010",
+                    "mitypeTitle": "Миллитесламетры портативные универсальные",
+                    "number": "496"
+                },
+                {
+                    "mitypeNumber": "25610-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331325",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "number": "038510"
+                },
+                {
+                    "mitypeNumber": "17804-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318166",
+                    "mitypeTitle": "Измерители напряженности магнитного поля",
+                    "number": "11001"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "021"
+                },
+                {
+                    "mitypeNumber": "59851-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373075",
+                    "mitypeTitle": "Измерители параметров электрического и магнитного полей трехкомпонентные",
+                    "number": "56418"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "за исключением определения постоянной измерительной катушки магнитной индукции М-503.10",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-190497379\/protocol",
+            "additional_info": "Поверяемый эталон прослеживается к гэт12-2021. коэффициент преобразования (постоянная) меры 74409 м⁻¹ (постоянное поле); 74380 м⁻¹ (переменное поле, частота 50,0 Гц); 74222 м⁻¹ (переменное поле, частота 119,8 Гц); 74084 м⁻¹ (переменное поле, частота 406,3 Гц)"
+        }
+    },
+    "162795385": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "27589.11.1Р.00342950",
+                "mitypeNumber": "27589-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                "mitypeTitle": "Меры напряженности магнитного поля",
+                "mitypeType": "М-503",
+                "modification": "(измерительная катушка магнитной индукции М-503.10)",
+                "manufactureNum": "06004",
+                "manufactureYear": 2011,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ  \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ  МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"",
+            "vrfDate": "09.06.2022",
+            "validDate": "08.06.2023",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422541.003 МП «ГСИ. Меры напряженности магнитного поля М-503. Методика поверки»",
+            "applicable": {
+                "certNum": "С-В\/09-06-2022\/162795385",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт12-2021",
+                    "title": "ГПЭ единиц магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390912"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "в качестве измерительной катушки магнитной индукции",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-162795385\/protocol",
+            "additional_info": "#midbe742b42-36a6-4f00-ae45-283b40f2e7ce"
+        }
+    },
+    "158218134": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "27589.11.2Р.00483135",
+                "mitypeNumber": "27589-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                "mitypeTitle": "Меры напряженности магнитного поля",
+                "mitypeType": "М-503",
+                "modification": "М-503",
+                "manufactureNum": "06001",
+                "manufactureYear": 2012,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ 8.030-2013"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Самарской области\"",
+            "vrfDate": "23.05.2022",
+            "validDate": "22.05.2023",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422541.003 МП \"ГСИ. Меры напряженности магнитного поля М-503. Методика поверки\", утв. ФГУ \"УРАЛТЕСТ\" 01.04.2011 г.",
+            "applicable": {
+                "certNum": "С-СЕ\/23-05-2022\/158218134",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1162.58.3Р.00163801",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/163801",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "226914",
+                    "manufactureYear": 1974,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 146 от 15.02.2016"
+                },
+                {
+                    "regNumber": "1162.58.3Р.00163828",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/163828",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "155304",
+                    "manufactureYear": 1988,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 146 от 15.02.2016"
+                },
+                {
+                    "regNumber": "1162.58.3Р.00163865",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/163865",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "145056",
+                    "manufactureYear": 1991,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "33921.07.3Р.00166394",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/166394",
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Agilent 34410A, Agilent 34411A",
+                    "modification": "Agilent 34410A",
+                    "manufactureNum": "MY47005679",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.027-2001"
+                },
+                {
+                    "regNumber": "34165.07.3Р.00200659",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/200659",
+                    "mitypeNumber": "34165-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342974",
+                    "mitypeTitle": "Меры сопротивления переменного тока",
+                    "notation": "МС-100\/1, МС10\/1, МС1\/1, МС-01\/1",
+                    "modification": "МС-10\/1",
+                    "manufactureNum": "0004 06",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 146 от 15.02.2016"
+                },
+                {
+                    "regNumber": "34165.07.3Р.00231367",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/231367",
+                    "mitypeNumber": "34165-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342974",
+                    "mitypeTitle": "Меры сопротивления переменного тока",
+                    "notation": "МС-100\/1, МС10\/1, МС1\/1, МС-01\/1",
+                    "modification": "МС-01\/1",
+                    "manufactureNum": "0004 06",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "34165.07.3Р.00231374",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/231374",
+                    "mitypeNumber": "34165-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342974",
+                    "mitypeTitle": "Меры сопротивления переменного тока",
+                    "notation": "МС-100\/1, МС10\/1, МС1\/1, МС-01\/1",
+                    "modification": "МС1\/1",
+                    "manufactureNum": "0020 11",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "27589.11.1Р.00342950",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/342950",
+                    "mitypeNumber": "27589-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                    "mitypeTitle": "Меры напряженности магнитного поля",
+                    "notation": "М-503",
+                    "modification": "(измерительная катушка магнитной индукции М-503.10)",
+                    "manufactureNum": "06004",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+                },
+                {
+                    "regNumber": "9335.83.РЭ.00353709",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/353709",
+                    "mitypeNumber": "9335-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388147",
+                    "mitypeTitle": "Измерители магнитной индукции",
+                    "notation": "Ш1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2364\/2348",
+                    "manufactureYear": 1991,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "МКИЯ.422541.303.1 МП"
+                },
+                {
+                    "regNumber": "33921.07.3Р.00483970",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/483970",
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Agilent 34410A, Agilent 34411A",
+                    "modification": "Agilent 34410A",
+                    "manufactureNum": "MY47005679",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1942 от 03.09.2021"
+                },
+                {
+                    "regNumber": "33921.07.3Р.00510298",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/510298",
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Agilent 34410A, Agilent 34411A",
+                    "modification": "Agilent 34410A",
+                    "manufactureNum": "MY47010455",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1942 от 03.09.2021"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32993-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341530",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "MY44018870"
+                },
+                {
+                    "mitypeNumber": "17804-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318166",
+                    "mitypeTitle": "Измерители напряженности магнитного поля",
+                    "number": "11001"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "046"
+                },
+                {
+                    "mitypeNumber": "59851-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373075",
+                    "mitypeTitle": "Измерители параметров электрического и магнитного полей трехкомпонентные",
+                    "number": "56418"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-158218134\/protocol",
+            "additional_info": "Поверяемый эталон прослеживается к гэт12-2021. коэффициент преобразования (постоянная) меры 74553 м⁻¹ (постоянное поле); 74528 м⁻¹ (переменное поле, частота 49,61 Гц); 74371 м⁻¹ (переменное поле, частота 119,3 Гц); 74237 м⁻¹ (переменное поле, частота 398,7 Гц)"
+        }
+    },
+    "148045665": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "27589.11.2Р.12035",
+                "mitypeNumber": "27589-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                "mitypeTitle": "Меры напряженности магнитного поля",
+                "mitypeType": "М-503",
+                "modification": "М-503",
+                "manufactureNum": "16001",
+                "manufactureYear": 2016,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ 8.030-2013"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ  \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КЕМЕРОВСКОЙ ОБЛАСТИ - КУЗБАССЕ\"",
+            "vrfDate": "13.04.2022",
+            "validDate": "12.04.2023",
+            "vriType": "2",
+            "docTitle": "МКИЯ. 422541.003 МП \"Мера напряженности магнитного поля М-503. Методика поверки\", утв. ФГУ \"УРАЛТЕСТ\" 01.04.2011 г.",
+            "applicable": {
+                "certNum": "С-НН\/13-04-2022\/148045665",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZНН.1206.2022",
+                    "title": "Государственный рабочий эталон единицы магнитной индукции постоянного магнитного поля 1 разряда в диапазоне от 0,025 до 2 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1396469"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "27589.04.1Р.00539710",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/539710",
+                    "mitypeNumber": "27589-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334246",
+                    "mitypeTitle": "Меры напряженности магнитного поля",
+                    "notation": "М-503",
+                    "modification": "(измерительная катушка магнитной индукции М-503.10)",
+                    "manufactureNum": "08002",
+                    "manufactureYear": 2008,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-148045665\/protocol",
+            "additional_info": "К1 = 74379 1\/м, К2 = 74120 1\/м, К3 = 73895 1\/м, К4 = 73748 1\/м."
+        }
+    },
+    "139568520": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "27589.11.2Р.00172902",
+                "mitypeNumber": "27589-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                "mitypeTitle": "Меры напряженности магнитного поля",
+                "mitypeType": "М-503",
+                "modification": "М-503",
+                "manufactureNum": "06003",
+                "manufactureYear": 2011,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ 8.030-2013"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"",
+            "vrfDate": "14.03.2022",
+            "validDate": "13.03.2023",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422541.003 МП \"ГСИ. Меры напряженности магнитного поля М-503. Методика поверки\", утв. ФГУ \"УРАЛТЕСТ\" 01.04.2011 г.",
+            "applicable": {
+                "certNum": "С-СЕ\/14-03-2022\/139568520",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "33921.07.3Р.23448",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/23448",
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Agilent 34410A, Agilent 34411A",
+                    "modification": "Agilent 34410A",
+                    "manufactureNum": "MY45002117",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3457 от 30.12.2019"
+                },
+                {
+                    "regNumber": "1162.58.3Р.23563",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/23563",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "064166",
+                    "manufactureYear": 1965,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "28130.04.2Р.93910",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/93910",
+                    "mitypeNumber": "28130-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335005",
+                    "mitypeTitle": "Меры сопротивления переменного тока",
+                    "notation": "МС-100, МС-10, МС-1, МС-01",
+                    "modification": "МС-01",
+                    "manufactureNum": "000604",
+                    "manufactureYear": 2004,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "1162.58.3Р.00163827",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/163827",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "142689",
+                    "manufactureYear": 1968,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 146 от 15.02.2016"
+                },
+                {
+                    "regNumber": "1162.58.3Р.00163866",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/163866",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "155674",
+                    "manufactureYear": 1991,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "28130.04.3Р.00165917",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/165917",
+                    "mitypeNumber": "28130-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335005",
+                    "mitypeTitle": "Меры сопротивления переменного тока",
+                    "notation": "МС-100, МС-10, МС-1, МС-01",
+                    "modification": "МС-10",
+                    "manufactureNum": "0026 06",
+                    "manufactureYear": 2006,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 146 от 15.02.2016"
+                },
+                {
+                    "regNumber": "28130.04.3Р.00165918",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/165918",
+                    "mitypeNumber": "28130-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335005",
+                    "mitypeTitle": "Меры сопротивления переменного тока",
+                    "notation": "МС-100, МС-10, МС-1, МС-01",
+                    "modification": "МС-1",
+                    "manufactureNum": "0026 06",
+                    "manufactureYear": 2006,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 146 от 15.02.2016"
+                },
+                {
+                    "regNumber": "27589.11.1Р.00342950",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/342950",
+                    "mitypeNumber": "27589-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                    "mitypeTitle": "Меры напряженности магнитного поля",
+                    "notation": "М-503",
+                    "modification": "(измерительная катушка магнитной индукции М-503.10)",
+                    "manufactureNum": "06004",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+                },
+                {
+                    "regNumber": "9335.83.РЭ.00353709",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/353709",
+                    "mitypeNumber": "9335-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388147",
+                    "mitypeTitle": "Измерители магнитной индукции",
+                    "notation": "Ш1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2364\/2348",
+                    "manufactureYear": 1991,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "МКИЯ.422541.303.1 МП"
+                },
+                {
+                    "regNumber": "33921.07.3Р.00483970",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/483970",
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Agilent 34410A, Agilent 34411A",
+                    "modification": "Agilent 34410A",
+                    "manufactureNum": "MY47005679",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1942 от 03.09.2021"
+                },
+                {
+                    "regNumber": "33921.07.3Р.00510298",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/510298",
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Agilent 34410A, Agilent 34411A",
+                    "modification": "Agilent 34410A",
+                    "manufactureNum": "MY47010455",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1942 от 03.09.2021"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "59851-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373075",
+                    "mitypeTitle": "Измерители параметров электрического и магнитного полей трехкомпонентные",
+                    "number": "56418"
+                },
+                {
+                    "mitypeNumber": "32993-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341530",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "MY44018870"
+                },
+                {
+                    "mitypeNumber": "17804-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318166",
+                    "mitypeTitle": "Измерители напряженности магнитного поля",
+                    "number": "11001"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "021"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-139568520\/protocol",
+            "additional_info": "Поверяемый эталон прослеживается к гэт12-2021."
+        }
+    },
+    "128702165": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "27589.11.1Р.00266571",
+                "mitypeNumber": "27589-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                "mitypeTitle": "Меры напряженности магнитного поля",
+                "mitypeType": "М-503",
+                "modification": "(измерительная катушка магнитной индукции М-503.10)",
+                "manufactureNum": "08003",
+                "manufactureYear": 2009,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Нижегородской области\"",
+            "vrfDate": "02.02.2022",
+            "validDate": "01.02.2023",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422541.003 МП «ГСИ. Меры напряженности магнитного поля М-503. Методика поверки»",
+            "applicable": {
+                "certNum": "С-В\/02-02-2022\/128702165",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт12-2021",
+                    "title": "ГПЭ единиц магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390912"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "в качестве измерительной катушки магнитной индукции",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-128702165\/protocol",
+            "additional_info": "#mida1c40118-d469-4718-8d68-1f604bfe4bdf"
+        }
+    },
+    "128702172": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "27589.11.2Р.00266572",
+                "mitypeNumber": "27589-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                "mitypeTitle": "Меры напряженности магнитного поля",
+                "mitypeType": "М-503",
+                "modification": "Нет модификации",
+                "manufactureNum": "08003",
+                "manufactureYear": 2009,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Нижегородской области\"",
+            "vrfDate": "02.02.2022",
+            "validDate": "01.02.2023",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422541.003 МП «ГСИ. Меры напряженности магнитного поля М-503. Методика поверки»",
+            "applicable": {
+                "certNum": "С-В\/02-02-2022\/128702172",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт12-2021",
+                    "title": "ГПЭ единиц магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390912"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-128702172\/protocol",
+            "additional_info": "#mida02fd87c-7598-4ff7-83d0-df680add22c4"
+        }
+    }
+}

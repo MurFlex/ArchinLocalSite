@@ -1,0 +1,88 @@
+{
+    "219234263": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "58277-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371282",
+                "mitypeType": "ЭЛЕКОН",
+                "mitypeTitle": "Устройство контроля прямолинейности рельсов",
+                "manufactureNum": "02",
+                "modification": "ЭЛЕКОН"
+            }
+        },
+        "vriInfo": {
+            "organization": "Акционерное общество \"ЕВРАЗ Нижнетагильский металлургический комбинат\"(АО \"ЕВРАЗ НТМК\")",
+            "signCipher": "ВРЯ",
+            "miOwner": "АО \"Нижнетагильский металлургический комбинат\"",
+            "vrfDate": "27.01.2023",
+            "validDate": "26.01.2024",
+            "vriType": "2",
+            "docTitle": "МП-421000-001-1124193-2014",
+            "applicable": {
+                "certNum": "С-ВРЯ\/27-01-2023\/219234263",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "3617-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345480",
+                    "mitypeTitle": "Линейки поверочные",
+                    "number": "1283"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-219234263\/protocol"
+        }
+    },
+    "128410717": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "58277-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371282",
+                "mitypeType": "ЭЛЕКОН",
+                "mitypeTitle": "Устройство контроля прямолинейности рельсов",
+                "manufactureNum": "02",
+                "modification": "ЭЛЕКОН"
+            }
+        },
+        "vriInfo": {
+            "organization": "Акционерное общество \"ЕВРАЗ Нижнетагильский металлургический комбинат\"(АО \"ЕВРАЗ НТМК\")",
+            "signCipher": "ВРЯ",
+            "miOwner": "АО \"Нижнетагильский металлургический комбинат\"",
+            "vrfDate": "27.01.2022",
+            "validDate": "26.01.2023",
+            "vriType": "2",
+            "docTitle": "МП-421000-001-1124193-2014",
+            "applicable": {
+                "certNum": "С-ВРЯ\/27-01-2022\/128410717",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "6979-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383950",
+                    "mitypeTitle": "Осциллографы универсальные",
+                    "number": "ПО7625"
+                },
+                {
+                    "mitypeNumber": "3617-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345480",
+                    "mitypeTitle": "Линейки поверочные",
+                    "number": "1283"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-128410717\/protocol"
+        }
+    }
+}

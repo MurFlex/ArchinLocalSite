@@ -1,0 +1,476 @@
+{
+    "196792100": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42879-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389430",
+                "mitypeType": "AC008 (антенны); HL050 (облучатель)",
+                "mitypeTitle": "Антенны широкополосные зеркальные АС008 с облучателем HL050",
+                "manufactureNum": "100051 (антенна), 100735 (облучатель)",
+                "modification": "АС008 с облучателем HL050"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "филиал ФГУП \"ГРЧЦ\" в Сибирском федеральном округе",
+            "vrfDate": "25.10.2022",
+            "validDate": "24.10.2024",
+            "vriType": "2",
+            "docTitle": "\"Антенны широкополосные зеркальные АС008 с облучателем HL050 фирмы \"Rohde&Schwarz GmbH & Co. KG\", Германия. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-НН\/25-10-2022\/196792100",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "11474.88.РЭ.27334",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/27334",
+                    "mitypeNumber": "11474-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306120",
+                    "mitypeTitle": "Установки для поверки измерителей плотности потока",
+                    "notation": "П1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "008",
+                    "manufactureYear": 1988,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для средств измерений плотности потока энергии электромагнитного поля в диапазоне частот от 0,3 до 178,4 ГГц, ГОСТ Р8.574-20"
+                },
+                {
+                    "regNumber": "37653.08.РЭ.00268772",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/268772",
+                    "mitypeNumber": "37653-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347236",
+                    "mitypeTitle": "Установка поверочная",
+                    "notation": "П1-17",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "01",
+                    "manufactureYear": 2008,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "\"ГСИ. Государственная поверочная схема для средств измерений плотности потока энергии электромагнитного поля в диапазоне частот"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "68075-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382090",
+                    "mitypeTitle": "Анализаторы электрических цепей и сигналов комбинированные портативные",
+                    "number": "MY57201056"
+                }
+            ]
+        },
+        "info": {
+            "structure": "рефлектор AC008ZZ 100051,облучатель HL050 100735",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-196792100\/protocol"
+        }
+    },
+    "200282829": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42879-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389430",
+                "mitypeType": "AC008 (антенны); HL050 (облучатель)",
+                "mitypeTitle": "Антенны широкополосные зеркальные АС008 с облучателем HL050",
+                "manufactureNum": "1208765360",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СПЕЦГИДРОСЕРВИС\"(ООО \"СПЕЦГИДРОСЕРВИС\")",
+            "signCipher": "ДЕЛ",
+            "miOwner": "ФЛ",
+            "vrfDate": "27.09.2022",
+            "validDate": "26.09.2028",
+            "vriType": "2",
+            "docTitle": "МИ 1592-2015",
+            "applicable": {
+                "certNum": "С-ДЕЛ\/27-09-2022\/200282829",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "72850.18.3Р.00446625",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/446625",
+                    "mitypeNumber": "72850-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492471",
+                    "mitypeTitle": "Установки поверочные переносные",
+                    "notation": "УПСЖ 5П",
+                    "modification": "УПСЖ 5П",
+                    "manufactureNum": "1698",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ПРИКАЗ Федерального агентства по техническому регулированию и метрологии от 7 февраля 2018 года N 256"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "44154-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354976",
+                    "mitypeTitle": "Секундомеры электронные",
+                    "number": "№413366"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "№15638"
+                },
+                {
+                    "mitypeNumber": "64813-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378516",
+                    "mitypeTitle": "Термометры цифровые",
+                    "number": "№35834974"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "196054021": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42879-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389430",
+                "mitypeType": "AC008 (антенны); HL050 (облучатель)",
+                "mitypeTitle": "Антенны широкополосные зеркальные АС008 с облучателем HL050",
+                "manufactureNum": "100211 (антенна), 100252 (облучатель)",
+                "modification": "АС008 с облучателем HL050"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "филиал ФГУП \"ГРЧЦ\" в Сибирском федеральном округе",
+            "vrfDate": "26.09.2022",
+            "validDate": "25.09.2024",
+            "vriType": "2",
+            "docTitle": "\"Антенны широкополосные зеркальные АС008 с облучателем HL050 фирмы \"Rohde&Schwarz GmbH & Co. KG\", Германия. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-НН\/26-09-2022\/196054021",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "11474.88.РЭ.27334",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/27334",
+                    "mitypeNumber": "11474-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306120",
+                    "mitypeTitle": "Установки для поверки измерителей плотности потока",
+                    "notation": "П1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "008",
+                    "manufactureYear": 1988,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для средств измерений плотности потока энергии электромагнитного поля в диапазоне частот от 0,3 до 178,4 ГГц, ГОСТ Р8.574-20"
+                },
+                {
+                    "regNumber": "37653.08.РЭ.00268772",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/268772",
+                    "mitypeNumber": "37653-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347236",
+                    "mitypeTitle": "Установка поверочная",
+                    "notation": "П1-17",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "01",
+                    "manufactureYear": 2008,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "\"ГСИ. Государственная поверочная схема для средств измерений плотности потока энергии электромагнитного поля в диапазоне частот"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "68075-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382090",
+                    "mitypeTitle": "Анализаторы электрических цепей и сигналов комбинированные портативные",
+                    "number": "MY57201056"
+                }
+            ]
+        },
+        "info": {
+            "structure": "рефлектор AC008ZZ 100211,облучатель HL050 100252",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-196054021\/protocol"
+        }
+    },
+    "195441154": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42879-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389430",
+                "mitypeType": "AC008 (антенны); HL050 (облучатель)",
+                "mitypeTitle": "Антенны широкополосные зеркальные АС008 с облучателем HL050",
+                "manufactureNum": "100220 (антенна), 100350 (облучатель)",
+                "modification": "АС008 с облучателем HL050"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "филиал ФГУП \"ГРЧЦ\" в Сибирском федеральном округе",
+            "vrfDate": "26.09.2022",
+            "validDate": "25.09.2024",
+            "vriType": "2",
+            "docTitle": "\"Антенны широкополосные зеркальные АС008 с облучателем HL050 фирмы \"Rohde&Schwarz GmbH & Co. KG\", Германия. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-НН\/26-09-2022\/195441154",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "11474.88.РЭ.27334",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/27334",
+                    "mitypeNumber": "11474-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306120",
+                    "mitypeTitle": "Установки для поверки измерителей плотности потока",
+                    "notation": "П1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "008",
+                    "manufactureYear": 1988,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для средств измерений плотности потока энергии электромагнитного поля в диапазоне частот от 0,3 до 178,4 ГГц, ГОСТ Р8.574-20"
+                },
+                {
+                    "regNumber": "37653.08.РЭ.00268772",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/268772",
+                    "mitypeNumber": "37653-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347236",
+                    "mitypeTitle": "Установка поверочная",
+                    "notation": "П1-17",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "01",
+                    "manufactureYear": 2008,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "\"ГСИ. Государственная поверочная схема для средств измерений плотности потока энергии электромагнитного поля в диапазоне частот"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "68075-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382090",
+                    "mitypeTitle": "Анализаторы электрических цепей и сигналов комбинированные портативные",
+                    "number": "MY57201056"
+                }
+            ]
+        },
+        "info": {
+            "structure": "рефлектор AC008ZZ 100220,облучатель HL050 100350",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-195441154\/protocol"
+        }
+    },
+    "184466767": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42879-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389430",
+                "mitypeType": "AC008 (антенны); HL050 (облучатель)",
+                "mitypeTitle": "Антенны широкополосные зеркальные АС008 с облучателем HL050",
+                "manufactureNum": "100230",
+                "modification": "AC008 (антенна) HL050 (облучатель)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Филиал ФГУП \"ГРЧЦ\" в Приволжском федеральном округе (70983+71168)",
+            "vrfDate": "07.09.2022",
+            "validDate": "06.09.2024",
+            "vriType": "2",
+            "docTitle": "Методика поверки ГЦИ СИ \"Воентест\" 32 ГНИИИ МО РФ, 2009.",
+            "applicable": {
+                "certNum": "С-МА\/07-09-2022\/184466767",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "79452.20.РЭ.00213957",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/213957",
+                    "mitypeNumber": "79452-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1383593",
+                    "mitypeTitle": "Рабочие эталоны для поверки измерительных антенн",
+                    "notation": "П1-139\/1, П1-139\/2, П1-139\/3, П1-139\/4, П1-139\/5, П1-139\/6",
+                    "modification": "П1-139\/4",
+                    "manufactureNum": "150820484",
+                    "manufactureYear": 2020,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для средств измерений плотности потока энергии электромагнитного поля в диапазоне частот от 0,3 до 178,4 ГГц, ГОСТ Р8.574-20"
+                },
+                {
+                    "regNumber": "79452.20.РЭ.00213960",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/213960",
+                    "mitypeNumber": "79452-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1383593",
+                    "mitypeTitle": "Рабочие эталоны для поверки измерительных антенн",
+                    "notation": "П1-139\/1, П1-139\/2, П1-139\/3, П1-139\/4, П1-139\/5, П1-139\/6",
+                    "modification": "П1-139\/3",
+                    "manufactureNum": "150320284",
+                    "manufactureYear": 2020,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для средств измерений плотности потока энергии электромагнитного поля в диапазоне частот от 0,3 до 178,4 ГГц, ГОСТ Р8.574-20"
+                },
+                {
+                    "regNumber": "85313.22.РЭ.00610342",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/610342",
+                    "mitypeNumber": "85313-22",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1399023",
+                    "mitypeTitle": "Установка для поверки измерительных антенн",
+                    "notation": "П1-31",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "01",
+                    "manufactureYear": 2021,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ плотности потока энергии электромагнитного поля в диапазоне частот от 0,3 до 178,4ГГц"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "fb539f8c-fb83-4582-899f-292ee9444b05"
+        }
+    },
+    "169704444": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42879-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389430",
+                "mitypeType": "AC008 (антенны); HL050 (облучатель)",
+                "mitypeTitle": "Антенны широкополосные зеркальные АС008 с облучателем HL050",
+                "manufactureNum": "100050 (антенна), 100752 (облучатель)",
+                "modification": "АС008 с облучателем HL050"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "филиал ФГУП \"ГРЧЦ\" в Сибирском федеральном округе",
+            "vrfDate": "28.06.2022",
+            "validDate": "27.06.2024",
+            "vriType": "2",
+            "docTitle": "\"Антенны широкополосные зеркальные АС008 с облучателем HL050 фирмы \"Rohde&Schwarz GmbH & Co. KG\", Германия. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-НН\/28-06-2022\/169704444",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "11474.88.РЭ.27334",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/27334",
+                    "mitypeNumber": "11474-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306120",
+                    "mitypeTitle": "Установки для поверки измерителей плотности потока",
+                    "notation": "П1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "008",
+                    "manufactureYear": 1988,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для средств измерений плотности потока энергии электромагнитного поля в диапазоне частот от 0,3 до 178,4 ГГц, ГОСТ Р8.574-20"
+                },
+                {
+                    "regNumber": "37653.08.РЭ.00268772",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/268772",
+                    "mitypeNumber": "37653-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347236",
+                    "mitypeTitle": "Установка поверочная",
+                    "notation": "П1-17",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "01",
+                    "manufactureYear": 2008,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "\"ГСИ. Государственная поверочная схема для средств измерений плотности потока энергии электромагнитного поля в диапазоне частот"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "68075-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382090",
+                    "mitypeTitle": "Анализаторы электрических цепей и сигналов комбинированные портативные",
+                    "number": "MY57201056"
+                }
+            ]
+        },
+        "info": {
+            "structure": "рефлектор AC008ZZ 100050,облучатель HL050 100752,кабель sucoflex 104 314724\/4",
+            "briefIndicator": false
+        }
+    },
+    "153802131": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "42879-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389430",
+                "mitypeType": "AC008 (антенны); HL050 (облучатель)",
+                "mitypeTitle": "Антенны широкополосные зеркальные АС008 с облучателем HL050",
+                "manufactureNum": "0134213506",
+                "modification": "SENSUS"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РВЦ СТРОЙСЕРВИС\"(ООО \"РВЦ СТРОЙСЕРВИС\")",
+            "signCipher": "ВШЮ",
+            "miOwner": "Терехова О. А.",
+            "vrfDate": "07.04.2022",
+            "validDate": "07.04.2026",
+            "vriType": "2",
+            "docTitle": "МИ1592-99",
+            "applicable": {
+                "certNum": "С-ВШЮ\/07-04-2022\/153802131",
+                "stickerNum": "14384",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "40391.09.3Р.45484",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/45484",
+                    "mitypeNumber": "40391-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350522",
+                    "mitypeTitle": "Установки поверочные переносные",
+                    "notation": "УПСЖ 3ПМ",
+                    "modification": "",
+                    "manufactureNum": "131",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Поверочная схема, утверждённая приказом №256 от 07.02.2018г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

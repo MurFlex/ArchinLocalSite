@@ -1,0 +1,56 @@
+{
+    "170303841": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47861-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359236",
+                "mitypeType": "ATOMLAB 100+",
+                "mitypeTitle": "Дозкалибратор",
+                "manufactureNum": "09120063",
+                "manufactureYear": 2011,
+                "modification": "ATOMLAB 100+"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Государственное автономное учреждение здравоохранения «Челябинский областной клинический центр онкологии и ядерной медицины»",
+            "vrfDate": "12.07.2022",
+            "vriType": "2",
+            "docTitle": "\"Дозкалибратор ATOMLAB 100 +. Методика поверки 09120063 МП\", утверждённая ГЦИ СИ ФГУ \"Менделеевский ЦСМ\" в 2010 г.",
+            "inapplicable": {
+                "noticeNum": "И-СЕ\/12-07-2022\/170303841"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "60706.15.2Р.00308086",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/308086",
+                    "mitypeNumber": "60706-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374005",
+                    "mitypeTitle": "Радиометры активности радионуклидов",
+                    "notation": "РИС-А \"Дозкалибратор\"",
+                    "modification": "РИС-3А",
+                    "manufactureNum": "052",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утвержденная приказом Росстандарта № 2841 от 29.12.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39504899\/308"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ионизационная камера № 59920015; пульт № 09120063.",
+            "briefIndicator": false
+        }
+    }
+}

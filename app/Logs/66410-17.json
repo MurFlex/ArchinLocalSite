@@ -1,0 +1,50 @@
+{
+    "157722110": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "66410-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380264",
+                "mitypeType": "МС240",
+                "mitypeTitle": "Системы измерений длительности соединений",
+                "manufactureNum": "МС17000251",
+                "manufactureYear": 2018,
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "МАКРОРЕГИОНАЛЬНЫЙ ФИЛИАЛ \"ЦЕНТР\" ПАО \"РОСТЕЛЕКОМ\"(МАКРОРЕГИОНАЛЬНЫЙ ФИЛИАЛ \"ЦЕНТР\" ПАО \"РОСТЕЛЕКОМ\")",
+            "signCipher": "АЭМ",
+            "miOwner": "ООО \"Т2 Мобайл\"",
+            "vrfDate": "11.05.2022",
+            "validDate": "10.05.2024",
+            "vriType": "2",
+            "docTitle": "\"СИДС МС240.Методика поверки\" МП 425760-002-33433783-2016",
+            "applicable": {
+                "certNum": "С-АЭМ\/11-05-2022\/157722110",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "64922.16.5Р.00181959",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/181959",
+                    "mitypeNumber": "64922-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378632",
+                    "mitypeTitle": "Комплексы измерительные",
+                    "notation": "ВЕКТОР-СИДС-2016",
+                    "modification": "-",
+                    "manufactureNum": "0022",
+                    "manufactureYear": 2019,
+                    "rankCode": "5Р",
+                    "rankTitle": "Эталон 5-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений времени и частоты (ГЭТ 1-2018)."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

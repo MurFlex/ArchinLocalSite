@@ -1,0 +1,128 @@
+{
+    "205509317": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "27932-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334756",
+                "mitypeType": "ОСЦ4-М",
+                "mitypeTitle": "Осциллографы цифровые",
+                "manufactureNum": "1004040",
+                "manufactureYear": 2010,
+                "modification": "ОСЦ4-М"
+            }
+        },
+        "vriInfo": {
+            "organization": "Акционерное общество «Информационные спутниковые системы»\nимени академика М.Ф. Решетнёва(АО «ИСС»)",
+            "signCipher": "БГГ",
+            "miOwner": "АО \"ИСС\"",
+            "vrfDate": "02.12.2022",
+            "validDate": "01.12.2024",
+            "vriType": "2",
+            "docTitle": "раздел 5 РЭ \"Воентест\"",
+            "applicable": {
+                "certNum": "С-БГГ\/02-12-2022\/205509317",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "29282.05.2Р.00436376",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/436376",
+                    "mitypeNumber": "29282-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336545",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Fluke 5520A с модулями SC1100 и PQ",
+                    "modification": "FLUKE 5520A",
+                    "manufactureNum": "1454001",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "««Государственной поверочной схемой для средств измерений постоянного электрического напряжения и электродвижущей силы», утверж"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "7767-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390660",
+                    "mitypeTitle": "Генераторы импульсов точной амплитуды",
+                    "number": "Г5-75"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "176756017": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "27932-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334756",
+                "mitypeType": "ОСЦ4-М",
+                "mitypeTitle": "Осциллографы цифровые",
+                "manufactureNum": "0607012",
+                "manufactureYear": 2006,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"VXI-СИСТЕМЫ\"(ООО \"VXI-СИСТЕМЫ\")",
+            "signCipher": "ГЖН",
+            "miOwner": "АО «НИИ «Субмикрон»",
+            "vrfDate": "05.08.2022",
+            "validDate": "04.08.2023",
+            "vriType": "2",
+            "docTitle": "раздел 5 РЭ",
+            "applicable": {
+                "certNum": "С-ГЖН\/05-08-2022\/176756017",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25900.03.2Р.00169182",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/169182",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "2823А22277",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы.Приказ 3457"
+                },
+                {
+                    "regNumber": "31434.06.2Р.00575770",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/575770",
+                    "mitypeNumber": "31434-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389903",
+                    "mitypeTitle": "Установки измерительные",
+                    "notation": "К2С-62А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "79",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений импульсного электрического напряжения. Приказ 3463"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "7767-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390660",
+                    "mitypeTitle": "Генераторы импульсов точной амплитуды",
+                    "number": "18725\/14664"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

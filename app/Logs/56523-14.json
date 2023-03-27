@@ -1,0 +1,1315 @@
+{
+    "214834172": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "56523.14.3Р.00375944",
+                "mitypeNumber": "56523-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369245",
+                "mitypeTitle": "Мера электрического сопротивления постоянного тока многозначная",
+                "mitypeType": "Р3026-1",
+                "modification": "Нет модификации",
+                "manufactureNum": "0244",
+                "manufactureYear": 2015,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "ГПС электрического сопротивления постоянного и переменного тока, приказ 3456"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ООО \"VXI- Системы\"",
+            "vrfDate": "10.01.2023",
+            "validDate": "09.01.2024",
+            "vriType": "2",
+            "docTitle": "МИ 1695-87 «Методические указания. Меры электрического сопротивления многозначные, применяемые в цепях постоянного тока. Методик",
+            "applicable": {
+                "certNum": "С-Т\/10-01-2023\/214834172",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0290.2018",
+                    "title": "Государственный вторичный эталон единицы электрического сопротивления номинальных значений 0,1 Ом, 1 Ом, 10 Ом, 50 Ом, 100 Ом, 1 кОм, 10 кОм, 100 кОм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/603233"
+                },
+                {
+                    "number": "3.1.ZZT.0292.2018",
+                    "title": "Государственный рабочий эталон единиц постоянного электрического напряжения 2 разряда в диапазоне значений 10 нВ – 1000 В, переменного электрического напряжения 1 разряда в диапазоне значений 1 мВ – 1000 В в диапазоне частот 10 Гц – 1 МГц, силы постоянного электрического тока 1 разряда в диапазоне значений 1 нА – 20 А, силы переменного электрического тока 1 разряда в диапазоне значений 10 мкА – 20 А в диапазоне частот 10 Гц – 100 кГц, электрического сопротивления 2 разряда в диапазоне значений 1 мОм – 20 ГОм, частоты в диапазоне значений 10 Гц – 1 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/599619"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-214834172\/protocol",
+            "additional_info": "#mid79c2a085-fa93-4d99-874a-74a966031d4a"
+        }
+    },
+    "204552200": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "56523.14.4Р.00727820",
+                "mitypeNumber": "56523-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369245",
+                "mitypeTitle": "Мера электрического сопротивления постоянного тока многозначная",
+                "mitypeType": "Р3026-1",
+                "modification": "-",
+                "manufactureNum": "0156",
+                "manufactureYear": 2014,
+                "rankCode": "4Р",
+                "rankTitle": "Эталон 4-го разряда",
+                "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока (приказ № 3456 от 30.12.2019 г.)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ЗАБАЙКАЛЬСКОМ КРАЕ\"(ФБУ \"ЗАБАЙКАЛЬСКИЙ ЦСМ\")",
+            "signCipher": "ГВ",
+            "miOwner": "ФБУ \"ЗАБАЙКАЛЬСКИЙ ЦСМ\"",
+            "vrfDate": "29.11.2022",
+            "validDate": "28.11.2023",
+            "vriType": "2",
+            "docTitle": "Разделом 4 \"Указания по поверке\" 3.452.022 РЭ",
+            "applicable": {
+                "certNum": "С-ГВ\/29-11-2022\/204552200",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1162.58.2Р.00506065",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/506065",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "мод. Р310",
+                    "manufactureNum": "000360",
+                    "manufactureYear": 1959,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений электрического сопротивления постоянного и переменного тока» введённа в"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00506067",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/506067",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "мод. Р331",
+                    "manufactureNum": "195345",
+                    "manufactureYear": 1970,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений электрического сопротивления постоянного и переменного тока» введённа в"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00506069",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/506069",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "мод. Р331",
+                    "manufactureNum": "171800",
+                    "manufactureYear": 1970,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений электрического сопротивления постоянного и переменного тока» введённа в"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00506070",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/506070",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "мод. Р321",
+                    "manufactureNum": "001161",
+                    "manufactureYear": 1959,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений электрического сопротивления постоянного и переменного тока» введённа в"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00511575",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/511575",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р331",
+                    "manufactureNum": "001862",
+                    "manufactureYear": 1965,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта  3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00511576",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/511576",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "011366",
+                    "manufactureYear": 1967,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта  3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "1162.58.2Р.00511577",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/511577",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "009582",
+                    "manufactureYear": 1967,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Росстандарта  3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "40239.08.1Р.00603287",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/603287",
+                    "mitypeNumber": "40239-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350360",
+                    "mitypeTitle": "Компараторы-калибраторы универсальные",
+                    "notation": "КМ300",
+                    "modification": "КМ300КНТ",
+                    "manufactureNum": "010",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ № 575 от 14 мая 2015 г."
+                },
+                {
+                    "regNumber": "40239.08.3Р.00603291",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/603291",
+                    "mitypeNumber": "40239-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350360",
+                    "mitypeTitle": "Компараторы-калибраторы универсальные",
+                    "notation": "КМ300",
+                    "modification": "КМ300КНТ",
+                    "manufactureNum": "010",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 3457 от 30 декабря 2019 г."
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-204552200\/protocol"
+        }
+    },
+    "190212080": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "56523.14.4Р.00684126",
+                "mitypeNumber": "56523-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369245",
+                "mitypeTitle": "Мера электрического сопротивления постоянного тока многозначная",
+                "mitypeType": "Р3026-1",
+                "modification": "Р3026-1",
+                "manufactureNum": "0005",
+                "manufactureYear": 2014,
+                "rankCode": "4Р",
+                "rankTitle": "Эталон 4-го разряда",
+                "schemaTitle": "Приказу ФАТРМ №3456 от 30.12.2019 «Об утверждении ГПС для средств измерений электрического сопротивления»"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КАЛУЖСКОЙ ОБЛАСТИ\"(ФБУ \"КАЛУЖСКИЙ ЦСМ\")",
+            "signCipher": "БУ",
+            "miOwner": "Акционерное общество \"КАЛУЖСКИЙ ЗАВОД ЭЛЕКТРОННЫХ ИЗДЕЛИЙ\"",
+            "vrfDate": "26.09.2022",
+            "validDate": "25.09.2023",
+            "vriType": "2",
+            "docTitle": "Раздел 4 \"Указания по поверке\" руководства по эксплуатации 3.452.022 РЭ",
+            "applicable": {
+                "certNum": "С-БУ\/26-09-2022\/190212080",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1162.58.2Р.00198694",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198694",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Катушка электрического сопротивления Р310",
+                    "manufactureNum": "051320",
+                    "manufactureYear": 1981,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00198696",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198696",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Катушка электрического сопротивления Р321",
+                    "manufactureNum": "139616",
+                    "manufactureYear": 1968,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00198697",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198697",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Катушка электрического сопротивления Р321",
+                    "manufactureNum": "059274",
+                    "manufactureYear": 1981,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00198699",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198699",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Катушка электрического сопротивления Р321",
+                    "manufactureNum": "019442",
+                    "manufactureYear": 1979,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00198703",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198703",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Катушка электрического сопротивления Р331",
+                    "manufactureNum": "022515",
+                    "manufactureYear": 1979,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00198704",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198704",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Катушка электрического сопротивления Р331",
+                    "manufactureNum": "025107",
+                    "manufactureYear": 1979,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00198706",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198706",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Катушка электрического сопротивления Р331",
+                    "manufactureNum": "028629",
+                    "manufactureYear": 1979,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "48841.12.2Р.00214183",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/214183",
+                    "mitypeNumber": "48841-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360379",
+                    "mitypeTitle": "Калибраторы постоянных напряжений и токов",
+                    "notation": "КМ300С-1, КМ300С-2",
+                    "modification": "КМ300С-1",
+                    "manufactureNum": "022",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ ФАТРМ №2091 от 01.10.2018. \"Об утверждении государственной поверочной схемы для средств измерений силы постоянного электр"
+                },
+                {
+                    "regNumber": "48841.12.3Р.00214193",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/214193",
+                    "mitypeNumber": "48841-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360379",
+                    "mitypeTitle": "Калибраторы постоянных напряжений и токов",
+                    "notation": "КМ300С-1, КМ300С-2",
+                    "modification": "КМ300С-1",
+                    "manufactureNum": "022",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ ФАТРМ №3457 от 30.12.2019. \"Об утверждении государственной поверочной схемы для средств измерений постоянного электрическ"
+                },
+                {
+                    "regNumber": "54727.13.2Р.00346637",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/346637",
+                    "mitypeNumber": "54727-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367204",
+                    "mitypeTitle": "Компараторы-калибраторы универсальные",
+                    "notation": "КМ300",
+                    "modification": "КМ300P",
+                    "manufactureNum": "012",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3457 от 30.12.2019 г"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-190212080\/protocol"
+        }
+    },
+    "191604649": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "56523-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369245",
+                "mitypeType": "Р3026-1",
+                "mitypeTitle": "Мера электрического сопротивления постоянного тока многозначная",
+                "manufactureNum": "0244",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ООО \"VXI- Системы\"",
+            "vrfDate": "19.09.2022",
+            "vriType": "2",
+            "docTitle": "МИ 1695-87 «Методические указания. Меры электрического сопротивления многозначные, применяемые в цепях постоянного тока. Методик",
+            "inapplicable": {
+                "noticeNum": "И-Т\/19-09-2022\/191604649"
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0290.2018",
+                    "title": "Государственный вторичный эталон единицы электрического сопротивления номинальных значений 0,1 Ом, 1 Ом, 10 Ом, 50 Ом, 100 Ом, 1 кОм, 10 кОм, 100 кОм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/603233"
+                },
+                {
+                    "number": "3.1.ZZT.0292.2018",
+                    "title": "Государственный рабочий эталон единиц постоянного электрического напряжения 2 разряда в диапазоне значений 10 нВ – 1000 В, переменного электрического напряжения 1 разряда в диапазоне значений 1 мВ – 1000 В в диапазоне частот 10 Гц – 1 МГц, силы постоянного электрического тока 1 разряда в диапазоне значений 1 нА – 20 А, силы переменного электрического тока 1 разряда в диапазоне значений 10 мкА – 20 А в диапазоне частот 10 Гц – 100 кГц, электрического сопротивления 2 разряда в диапазоне значений 1 мОм – 20 ГОм, частоты в диапазоне значений 10 Гц – 1 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/599619"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#midd2dd64b8-8a03-4c19-9072-631bc3cfcf84"
+        }
+    },
+    "177552965": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "56523.14.4Р.00655149",
+                "mitypeNumber": "56523-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369245",
+                "mitypeTitle": "Мера электрического сопротивления постоянного тока многозначная",
+                "mitypeType": "Р3026-1",
+                "modification": "Р3026-1",
+                "manufactureNum": "030",
+                "manufactureYear": 2015,
+                "rankCode": "4Р",
+                "rankTitle": "Эталон 4-го разряда",
+                "schemaTitle": "Приказу ФАТРМ №3456 от 30.12.2019 «Об утверждении ГПС для средств измерений электрического сопротивления»"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КАЛУЖСКОЙ ОБЛАСТИ\"(ФБУ \"КАЛУЖСКИЙ ЦСМ\")",
+            "signCipher": "БУ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "09.08.2022",
+            "validDate": "08.08.2023",
+            "vriType": "2",
+            "docTitle": "Раздел 4 \"Указания по поверке\" руководства по эксплуатации 3.452.022 РЭ",
+            "applicable": {
+                "certNum": "С-БУ\/09-08-2022\/177552965",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1162.58.2Р.00198694",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198694",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Катушка электрического сопротивления Р310",
+                    "manufactureNum": "051320",
+                    "manufactureYear": 1981,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00198696",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198696",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Катушка электрического сопротивления Р321",
+                    "manufactureNum": "139616",
+                    "manufactureYear": 1968,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00198697",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198697",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Катушка электрического сопротивления Р321",
+                    "manufactureNum": "059274",
+                    "manufactureYear": 1981,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00198699",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198699",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Катушка электрического сопротивления Р321",
+                    "manufactureNum": "019442",
+                    "manufactureYear": 1979,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00198703",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198703",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Катушка электрического сопротивления Р331",
+                    "manufactureNum": "022515",
+                    "manufactureYear": 1979,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00198704",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198704",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Катушка электрического сопротивления Р331",
+                    "manufactureNum": "025107",
+                    "manufactureYear": 1979,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00198706",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/198706",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Катушка электрического сопротивления Р331",
+                    "manufactureNum": "028629",
+                    "manufactureYear": 1979,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "48841.12.2Р.00214183",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/214183",
+                    "mitypeNumber": "48841-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360379",
+                    "mitypeTitle": "Калибраторы постоянных напряжений и токов",
+                    "notation": "КМ300С-1, КМ300С-2",
+                    "modification": "КМ300С-1",
+                    "manufactureNum": "022",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ ФАТРМ №2091 от 01.10.2018. \"Об утверждении государственной поверочной схемы для средств измерений силы постоянного электр"
+                },
+                {
+                    "regNumber": "48841.12.3Р.00214193",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/214193",
+                    "mitypeNumber": "48841-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360379",
+                    "mitypeTitle": "Калибраторы постоянных напряжений и токов",
+                    "notation": "КМ300С-1, КМ300С-2",
+                    "modification": "КМ300С-1",
+                    "manufactureNum": "022",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ ФАТРМ №3457 от 30.12.2019. \"Об утверждении государственной поверочной схемы для средств измерений постоянного электрическ"
+                },
+                {
+                    "regNumber": "54727.13.2Р.00346637",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/346637",
+                    "mitypeNumber": "54727-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367204",
+                    "mitypeTitle": "Компараторы-калибраторы универсальные",
+                    "notation": "КМ300",
+                    "modification": "КМ300P",
+                    "manufactureNum": "012",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3457 от 30.12.2019 г"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "1978"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "0181с"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-177552965\/protocol"
+        }
+    },
+    "172183414": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "56523.14.3Р.00645375",
+                "mitypeNumber": "56523-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369245",
+                "mitypeTitle": "Мера электрического сопротивления постоянного тока многозначная",
+                "mitypeType": "Р3026-1",
+                "modification": "Р3026",
+                "manufactureNum": "0015",
+                "manufactureYear": 2015,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ № 3456 от 30 декабря 2019  « Об утверждении государственной поверочной схемы для средств измерений постоянного электричес"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОРОНЕЖСКОЙ ОБЛАСТИ\"(ФБУ \"ВОРОНЕЖСКИЙ ЦСМ\")",
+            "signCipher": "БМ",
+            "miOwner": "Калачеевское линейное производственное управление магистральных газопроводов ООО \"Газпром трансгаз Волгоград\"",
+            "vrfDate": "21.07.2022",
+            "validDate": "20.07.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1695-87",
+            "applicable": {
+                "certNum": "С-БМ\/21-07-2022\/172183414",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "42649.09.1Р.00169624",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/169624",
+                    "mitypeNumber": "42649-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353207",
+                    "mitypeTitle": "Наборы однозначных мер электрического сопротивления термостатированные",
+                    "notation": "МС 3050Т",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "057",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г. \"Об утверждении Государственной поверочной схемы для средств измерений электрич"
+                },
+                {
+                    "regNumber": "42649.09.1Р.00169625",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/169625",
+                    "mitypeNumber": "42649-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353207",
+                    "mitypeTitle": "Наборы однозначных мер электрического сопротивления термостатированные",
+                    "notation": "МС 3050Т",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "048",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г. \"Об утверждении Государственной поверочной схемы для средств измерений электрич"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00197776",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/197776",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "000099",
+                    "manufactureYear": 1977,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ Федерального агентства по техническому регулированию и метрологии от 30.12.2019 №3456"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-172183414\/protocol"
+        }
+    },
+    "168202910": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "56523.14.4Р.00353271",
+                "mitypeNumber": "56523-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369245",
+                "mitypeTitle": "Мера электрического сопротивления постоянного тока многозначная",
+                "mitypeType": "Р3026-1",
+                "modification": "типа Р3026-1",
+                "manufactureNum": "0020",
+                "manufactureYear": 2011,
+                "rankCode": "4Р",
+                "rankTitle": "Эталон 4-го разряда",
+                "schemaTitle": "Приказ от 30.12.2019 № 3456"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Общество с ограниченной ответственностью \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"КИРИШИНЕФТЕОРГСИНТЕЗ\"",
+            "vrfDate": "01.07.2022",
+            "validDate": "30.06.2023",
+            "vriType": "2",
+            "docTitle": "3.452.022 РЭ, раздел 4; Раздел эксплуатационной документации",
+            "applicable": {
+                "certNum": "С-СП\/01-07-2022\/168202910",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "54727.13.2Р.00334531",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/334531",
+                    "mitypeNumber": "54727-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367204",
+                    "mitypeTitle": "Компараторы-калибраторы универсальные",
+                    "notation": "КМ300",
+                    "modification": "КМ300Р",
+                    "manufactureNum": "083",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "42649.09.1Р.00441184",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/441184",
+                    "mitypeNumber": "42649-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353207",
+                    "mitypeTitle": "Наборы однозначных мер электрического сопротивления термостатированные",
+                    "notation": "МС 3050Т",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "038",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "42649.09.1Р.00441185",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/441185",
+                    "mitypeNumber": "42649-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353207",
+                    "mitypeTitle": "Наборы однозначных мер электрического сопротивления термостатированные",
+                    "notation": "МС 3050Т",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "037",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "48841.18.2Р.00455390",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/455390",
+                    "mitypeNumber": "48841-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360380",
+                    "mitypeTitle": "Калибраторы постоянных напряжений и токов",
+                    "notation": "КМ300С-1",
+                    "modification": "КМ300С-1",
+                    "manufactureNum": "075",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 01.10.2018 № 2091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-168202910\/protocol"
+        }
+    },
+    "168202914": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "56523.14.3Р.00353272",
+                "mitypeNumber": "56523-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369245",
+                "mitypeTitle": "Мера электрического сопротивления постоянного тока многозначная",
+                "mitypeType": "Р3026-1",
+                "modification": "типа Р3026-1",
+                "manufactureNum": "0020",
+                "manufactureYear": 2011,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ от 30.12.2019 № 3456"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Общество с ограниченной ответственностью \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"КИРИШИНЕФТЕОРГСИНТЕЗ\"",
+            "vrfDate": "01.07.2022",
+            "validDate": "30.06.2023",
+            "vriType": "2",
+            "docTitle": "3.452.022 РЭ, раздел 4; Раздел эксплуатационной документации",
+            "applicable": {
+                "certNum": "С-СП\/01-07-2022\/168202914",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "54727.13.2Р.00334531",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/334531",
+                    "mitypeNumber": "54727-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367204",
+                    "mitypeTitle": "Компараторы-калибраторы универсальные",
+                    "notation": "КМ300",
+                    "modification": "КМ300Р",
+                    "manufactureNum": "083",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "42649.09.1Р.00441184",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/441184",
+                    "mitypeNumber": "42649-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353207",
+                    "mitypeTitle": "Наборы однозначных мер электрического сопротивления термостатированные",
+                    "notation": "МС 3050Т",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "038",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "42649.09.1Р.00441185",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/441185",
+                    "mitypeNumber": "42649-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353207",
+                    "mitypeTitle": "Наборы однозначных мер электрического сопротивления термостатированные",
+                    "notation": "МС 3050Т",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "037",
+                    "manufactureYear": 2013,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "48841.18.2Р.00455390",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/455390",
+                    "mitypeNumber": "48841-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360380",
+                    "mitypeTitle": "Калибраторы постоянных напряжений и токов",
+                    "notation": "КМ300С-1",
+                    "modification": "КМ300С-1",
+                    "manufactureNum": "075",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 01.10.2018 № 2091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-168202914\/protocol"
+        }
+    },
+    "149146584": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "56523.14.4Р.00271137",
+                "mitypeNumber": "56523-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369245",
+                "mitypeTitle": "Мера электрического сопротивления постоянного тока многозначная",
+                "mitypeType": "Р3026-1",
+                "modification": "Нет модификации",
+                "manufactureNum": "0319",
+                "manufactureYear": 2018,
+                "rankCode": "4Р",
+                "rankTitle": "Эталон 4-го разряда",
+                "schemaTitle": "Приказ №3456 от 30.12.2019 ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "Юр.лицо",
+            "vrfDate": "15.04.2022",
+            "validDate": "14.04.2023",
+            "vriType": "2",
+            "docTitle": "3.452.022 РЭ (Раздел 4) \"Указания по поверке\", утвержденному ГЦИ СИ ФБУ \"Краснодарский ЦСМ\" в октябре 2013 г.",
+            "applicable": {
+                "certNum": "С-АБ\/15-04-2022\/149146584",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1162.58.1Р.07852",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7852",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "178407",
+                    "manufactureYear": 1991,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "1162.58.1Р.07853",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7853",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "138124",
+                    "manufactureYear": 1991,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "1162.58.1Р.07854",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7854",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "157260",
+                    "manufactureYear": 1990,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "1162.58.1Р.07855",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7855",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р321",
+                    "manufactureNum": "164890",
+                    "manufactureYear": 1991,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "1162.58.1Р.07856",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7856",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р331",
+                    "manufactureNum": "154299",
+                    "manufactureYear": 1991,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "1162.58.1Р.07857",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7857",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р331",
+                    "manufactureNum": "169463",
+                    "manufactureYear": 1990,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "1162.58.1Р.07858",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/7858",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р331",
+                    "manufactureNum": "093765",
+                    "manufactureYear": 1990,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-149146584\/protocol"
+        }
+    },
+    "163090287": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "56523.14.3Р.00313276",
+                "mitypeNumber": "56523-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369245",
+                "mitypeTitle": "Мера электрического сопротивления постоянного тока многозначная",
+                "mitypeType": "Р3026-1",
+                "modification": "модификации нет",
+                "manufactureNum": "0008",
+                "manufactureYear": 1977,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ Росстандарта №3456 от 30.12.2019 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОРОНЕЖСКОЙ ОБЛАСТИ\"(ФБУ \"ВОРОНЕЖСКИЙ ЦСМ\")",
+            "signCipher": "БМ",
+            "miOwner": "Акционерное общество \"Российский концерн по производству электрической и тепловой энергии на атомных станциях\" (Филиал \"Нововоронежская атомная станция\")",
+            "vrfDate": "11.04.2022",
+            "validDate": "10.04.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1695-87",
+            "applicable": {
+                "certNum": "С-БМ\/11-04-2022\/163090287",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "42649.09.1Р.00169624",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/169624",
+                    "mitypeNumber": "42649-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353207",
+                    "mitypeTitle": "Наборы однозначных мер электрического сопротивления термостатированные",
+                    "notation": "МС 3050Т",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "057",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г. \"Об утверждении Государственной поверочной схемы для средств измерений электрич"
+                },
+                {
+                    "regNumber": "42649.09.1Р.00169625",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/169625",
+                    "mitypeNumber": "42649-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353207",
+                    "mitypeTitle": "Наборы однозначных мер электрического сопротивления термостатированные",
+                    "notation": "МС 3050Т",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "048",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г. \"Об утверждении Государственной поверочной схемы для средств измерений электрич"
+                },
+                {
+                    "regNumber": "1162.58.1Р.00358378",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358378",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "058398",
+                    "manufactureYear": 1968,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-163090287\/protocol"
+        }
+    },
+    "163090264": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "56523.14.3Р.00313277",
+                "mitypeNumber": "56523-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369245",
+                "mitypeTitle": "Мера электрического сопротивления постоянного тока многозначная",
+                "mitypeType": "Р3026-1",
+                "modification": "модификации нет",
+                "manufactureNum": "0064",
+                "manufactureYear": 1992,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ Росстандарта №3456 от 30.12.2019 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОРОНЕЖСКОЙ ОБЛАСТИ\"(ФБУ \"ВОРОНЕЖСКИЙ ЦСМ\")",
+            "signCipher": "БМ",
+            "miOwner": "Акционерное общество \"Российский концерн по производству электрической и тепловой энергии на атомных станциях\" (Филиал \"Нововоронежская атомная станция\")",
+            "vrfDate": "11.04.2022",
+            "validDate": "10.04.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1695-87",
+            "applicable": {
+                "certNum": "С-БМ\/11-04-2022\/163090264",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "42649.09.1Р.00169624",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/169624",
+                    "mitypeNumber": "42649-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353207",
+                    "mitypeTitle": "Наборы однозначных мер электрического сопротивления термостатированные",
+                    "notation": "МС 3050Т",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "057",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г. \"Об утверждении Государственной поверочной схемы для средств измерений электрич"
+                },
+                {
+                    "regNumber": "42649.09.1Р.00169625",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/169625",
+                    "mitypeNumber": "42649-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353207",
+                    "mitypeTitle": "Наборы однозначных мер электрического сопротивления термостатированные",
+                    "notation": "МС 3050Т",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "048",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г. \"Об утверждении Государственной поверочной схемы для средств измерений электрич"
+                },
+                {
+                    "regNumber": "1162.58.1Р.00358378",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358378",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "058398",
+                    "manufactureYear": 1968,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30 декабря 2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-163090264\/protocol"
+        }
+    },
+    "143126934": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "56523-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369245",
+                "mitypeType": "Р3026-1",
+                "mitypeTitle": "Мера электрического сопротивления постоянного тока многозначная",
+                "manufactureNum": "0531",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "23.03.2022",
+            "validDate": "22.03.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1695-87",
+            "applicable": {
+                "certNum": "С-ДИЭ\/23-03-2022\/143126934",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "40239-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350360",
+                    "mitypeTitle": "Компараторы-калибраторы универсальные",
+                    "number": "0486"
+                },
+                {
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331750",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "274"
+                },
+                {
+                    "mitypeNumber": "8478-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386918",
+                    "mitypeTitle": "Меры электрического сопротивления постоянного тока многозначные",
+                    "number": "45"
+                },
+                {
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "number": "8678"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "143126935": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "56523-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369245",
+                "mitypeType": "Р3026-1",
+                "mitypeTitle": "Мера электрического сопротивления постоянного тока многозначная",
+                "manufactureNum": "0529",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "23.03.2022",
+            "validDate": "22.03.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1695-87",
+            "applicable": {
+                "certNum": "С-ДИЭ\/23-03-2022\/143126935",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "40239-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350360",
+                    "mitypeTitle": "Компараторы-калибраторы универсальные",
+                    "number": "0486"
+                },
+                {
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331750",
+                    "mitypeTitle": "Мультиметры",
+                    "number": "274"
+                },
+                {
+                    "mitypeNumber": "8478-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386918",
+                    "mitypeTitle": "Меры электрического сопротивления постоянного тока многозначные",
+                    "number": "45"
+                },
+                {
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "number": "8678"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

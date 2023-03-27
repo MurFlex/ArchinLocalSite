@@ -1,0 +1,930 @@
+{
+    "209619672": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62150-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375626",
+                "mitypeType": "GDM, SGM",
+                "mitypeTitle": "Преобразователи плотности газа",
+                "manufactureNum": "15025002",
+                "manufactureYear": 2018,
+                "modification": "модификация SGM"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭНЕРГЕТИЧЕСКАЯ МЕТРОЛОГИЧЕСКАЯ КОМПАНИЯ\"(ООО \"ЭНЕРГОМЕТРИКА\")",
+            "signCipher": "ГЖК",
+            "miOwner": "Астраханский ЛПУМГ ООО \"Газпром трансгаз Ставрополь\"",
+            "vrfDate": "20.12.2022",
+            "validDate": "19.12.2023",
+            "vriType": "1",
+            "docTitle": "МП 28-221-2014",
+            "applicable": {
+                "certNum": "С-ГЖК\/20-12-2022\/209619672",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00415289",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/415289",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "модификация Ч3-85\/4",
+                    "manufactureNum": "69508011",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказу Росстандарта № 1621 от 31 июля 2018 г. «Об утверждении государственной поверочной схемы для средств измерений времени и"
+                },
+                {
+                    "regNumber": "77090.19.1Р.00523059",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/523059",
+                    "mitypeNumber": "77090-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1010897",
+                    "mitypeTitle": "Преобразователи давления эталонные",
+                    "notation": "ЭЛМЕТРО-Паскаль-04, Паскаль-04",
+                    "modification": "ЭЛМЕТРО-Паскаль-04",
+                    "manufactureNum": "3133",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1339 от 29.06.2018 ГПС для СИ избыточного давления до 4000 МПа"
+                },
+                {
+                    "regNumber": "69551.17.3Р.00702376",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/702376",
+                    "mitypeNumber": "69551-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383685",
+                    "mitypeTitle": "Термометры лабораторные электронные",
+                    "notation": "LTA",
+                    "modification": "модификация LTA\/Б-Э",
+                    "manufactureNum": "870344",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009. Государственная система обеспечения единства измерений. Государственная поверочная схема для средств измерений"
+                },
+                {
+                    "regNumber": "69551.17.3Р.00702378",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/702378",
+                    "mitypeNumber": "69551-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383685",
+                    "mitypeTitle": "Термометры лабораторные электронные",
+                    "notation": "LTA",
+                    "modification": "модификация LTA\/Б-Э",
+                    "manufactureNum": "870344",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009. Государственная система обеспечения единства измерений. Государственная поверочная схема для средств измерений"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "15500-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313586",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "43410"
+                }
+            ],
+            "reagent": [
+                {
+                    "number": "РКТ.211",
+                    "type": "Реактив",
+                    "title": "Аргон газообразный"
+                },
+                {
+                    "number": "РКТ.187",
+                    "type": "Реактив",
+                    "title": "Гелий газообразный"
+                },
+                {
+                    "number": "ДРГ.22",
+                    "type": "Другое",
+                    "title": "Азот газообразный"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "201632617": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62150-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375626",
+                "mitypeType": "GDM, SGM",
+                "mitypeTitle": "Преобразователи плотности газа",
+                "manufactureNum": "15103774",
+                "manufactureYear": 2021,
+                "modification": "модификация GDM"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭНЕРГЕТИЧЕСКАЯ МЕТРОЛОГИЧЕСКАЯ КОМПАНИЯ\"(ООО \"ЭНЕРГОМЕТРИКА\")",
+            "signCipher": "ГЖК",
+            "miOwner": "ООО \"ЛУКОЙЛ-Нижневолжскнефть\"",
+            "vrfDate": "02.11.2022",
+            "validDate": "01.11.2023",
+            "vriType": "2",
+            "docTitle": "МП 28-221-2014",
+            "applicable": {
+                "certNum": "С-ГЖК\/02-11-2022\/201632617",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58668.14.1Р.00477143",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/477143",
+                    "mitypeNumber": "58668-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371741",
+                    "mitypeTitle": "Преобразователи давления эталонные",
+                    "notation": "ПДЭ-020, ПДЭ-020И",
+                    "modification": "ПДЭ-020И",
+                    "manufactureNum": "2135606",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1339 от 29.06.2018 ГПС для СИ избыточного давления до 4000 МПа"
+                },
+                {
+                    "regNumber": "32777.06.2Р.00494844",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/494844",
+                    "mitypeNumber": "32777-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341242",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ",
+                    "modification": "ПТСВ-1-2",
+                    "manufactureNum": "831",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "33587.12.1Р.00508269",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/508269",
+                    "mitypeNumber": "33587-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342251",
+                    "mitypeTitle": "Преобразователи давления эталонные",
+                    "notation": "ПДЭ-010, ПДЭ-010И",
+                    "modification": "ПДЭ-010И",
+                    "manufactureNum": "2133694",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1339 от 29.06.2018 ГПС для СИ избыточного давления до 4000 МПа"
+                },
+                {
+                    "regNumber": "19736.11.3Р.00538824",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/538824",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "МИТ 8.10",
+                    "manufactureNum": "900",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 3457 от 30 декабря 2019 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "478"
+                },
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "482"
+                },
+                {
+                    "mitypeNumber": "15500-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313586",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "43410"
+                }
+            ],
+            "reagent": [
+                {
+                    "number": "РКТ.211",
+                    "type": "Реактив",
+                    "title": "Аргон газообразный"
+                },
+                {
+                    "number": "ДРГ.22",
+                    "type": "Другое",
+                    "title": "Азот газообразный"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "198664020": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62150-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375626",
+                "mitypeType": "GDM, SGM",
+                "mitypeTitle": "Преобразователи плотности газа",
+                "manufactureNum": "15076441",
+                "manufactureYear": 2020,
+                "modification": "модификация GDM"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭНЕРГЕТИЧЕСКАЯ МЕТРОЛОГИЧЕСКАЯ КОМПАНИЯ\"(ООО \"ЭНЕРГОМЕТРИКА\")",
+            "signCipher": "ГЖК",
+            "miOwner": "ООО \"ЛУКОЙЛ-Волгограднефтепереработка\"",
+            "vrfDate": "31.10.2022",
+            "validDate": "30.10.2023",
+            "vriType": "1",
+            "docTitle": "МП 28-221-2014",
+            "applicable": {
+                "certNum": "С-ГЖК\/31-10-2022\/198664020",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58668.14.1Р.00477143",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/477143",
+                    "mitypeNumber": "58668-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371741",
+                    "mitypeTitle": "Преобразователи давления эталонные",
+                    "notation": "ПДЭ-020, ПДЭ-020И",
+                    "modification": "ПДЭ-020И",
+                    "manufactureNum": "2135606",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1339 от 29.06.2018 ГПС для СИ избыточного давления до 4000 МПа"
+                },
+                {
+                    "regNumber": "32777.06.2Р.00494844",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/494844",
+                    "mitypeNumber": "32777-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341242",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ",
+                    "modification": "ПТСВ-1-2",
+                    "manufactureNum": "831",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "33587.12.1Р.00508269",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/508269",
+                    "mitypeNumber": "33587-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342251",
+                    "mitypeTitle": "Преобразователи давления эталонные",
+                    "notation": "ПДЭ-010, ПДЭ-010И",
+                    "modification": "ПДЭ-010И",
+                    "manufactureNum": "2133694",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1339 от 29.06.2018 ГПС для СИ избыточного давления до 4000 МПа"
+                },
+                {
+                    "regNumber": "19736.11.3Р.00538824",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/538824",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "МИТ 8.10",
+                    "manufactureNum": "900",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 3457 от 30 декабря 2019 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "478"
+                },
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "482"
+                },
+                {
+                    "mitypeNumber": "15500-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313586",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "43410"
+                }
+            ],
+            "reagent": [
+                {
+                    "number": "РКТ.211",
+                    "type": "Реактив",
+                    "title": "Аргон газообразный"
+                },
+                {
+                    "number": "ДРГ.22",
+                    "type": "Другое",
+                    "title": "Азот газообразный"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "194634963": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62150-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375626",
+                "mitypeType": "GDM, SGM",
+                "mitypeTitle": "Преобразователи плотности газа",
+                "manufactureNum": "8001638",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Филиал ООО \"РУСИНВЕСТ\" - \"ТНПЗ\"",
+            "vrfDate": "14.10.2022",
+            "validDate": "13.10.2023",
+            "vriType": "2",
+            "docTitle": "МП 28-221-2014 «ГСИ. Преобразователи плотности газа GDM, SGM. Методика поверки», утвержденному ФГУП «УНИИМ» «03» августа 2015 г.",
+            "applicable": {
+                "certNum": "С-В\/14-10-2022\/194634963",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39787.08.РЭ.00378706",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/378706",
+                    "mitypeNumber": "39787-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349808",
+                    "mitypeTitle": "Анализаторы плотности жидкостей",
+                    "notation": "DMA",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "82621018",
+                    "manufactureYear": 2018,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ плотности, приказ Росстандарта от 01.11.2019 № 2603"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "9Е78"
+                },
+                {
+                    "mitypeNumber": "39787-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349808",
+                    "mitypeTitle": "Анализаторы плотности жидкостей",
+                    "number": "81352272"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mide3a1b890-7047-46c6-b2b4-366f150b227b"
+        }
+    },
+    "189679016": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62150-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375626",
+                "mitypeType": "GDM, SGM",
+                "mitypeTitle": "Преобразователи плотности газа",
+                "manufactureNum": "15065547",
+                "manufactureYear": 2017,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "26.09.2022",
+            "validDate": "25.09.2023",
+            "vriType": "2",
+            "docTitle": "МП 28-221-2014 «ГСИ. Преобразователи плотности газа GDM, SGM. Методика поверки», утвержденному ФГУП «УНИИМ» «03» августа 2015 г.",
+            "applicable": {
+                "certNum": "С-В\/26-09-2022\/189679016",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "9Е78"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mide134b505-65c1-41a1-bd2f-6c4b68c71d44"
+        }
+    },
+    "170803581": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62150-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375626",
+                "mitypeType": "GDM, SGM",
+                "mitypeTitle": "Преобразователи плотности газа",
+                "manufactureNum": "15013787",
+                "manufactureYear": 2017,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "Всероссийский научно-исследовательский институт расходометрии — филиал Федерального государственного унитарного предприятия «Всероссийский научно- исследовательский институт метрологии им. Д.И.Менделеева»(ВНИИР – филиал ФГУП «ВНИИМ им. Д.И.Менделеева»)",
+            "signCipher": "З",
+            "miOwner": "ООО \"Газпромнефть-Оренбург\", ИНН 5610218014",
+            "vrfDate": "07.07.2022",
+            "vriType": "2",
+            "docTitle": "МП 28-221-2014 «ГСИ. Преобразователи плотности газа GDM, SGM. Методика поверки», утвержденная ФГУП «УНИИМ» «03» августа 2015 г.",
+            "inapplicable": {
+                "noticeNum": "И-З\/07-07-2022\/170803581"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "69551.17.3Р.00407804",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/407804",
+                    "mitypeNumber": "69551-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383685",
+                    "mitypeTitle": "Термометры лабораторные электронные",
+                    "notation": "LTA",
+                    "modification": "LTA-Э",
+                    "manufactureNum": "870232",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "58668-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371741",
+                    "mitypeTitle": "Преобразователи давления эталонные",
+                    "number": "2135798"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39519727\/903"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": true,
+            "briefCharacteristics": "в диапазоне плотности от 9 кг\/м³ до 90 кг\/м³;",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-170803581\/protocol",
+            "additional_info": "Азот газообразный марки \"Особой чистоты 1-й сорт\", ГОСТ 9293-74, объемная доля азота, %, не менее - 99,999; Термостат Huber K12+CC, зав. № 77498\/08 \/ 74560"
+        }
+    },
+    "170210854": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62150-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375626",
+                "mitypeType": "GDM, SGM",
+                "mitypeTitle": "Преобразователи плотности газа",
+                "manufactureNum": "15033524",
+                "manufactureYear": 2018,
+                "modification": "модификация GDM"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭНЕРГЕТИЧЕСКАЯ МЕТРОЛОГИЧЕСКАЯ КОМПАНИЯ\"(ООО \"ЭНЕРГОМЕТРИКА\")",
+            "signCipher": "ГЖК",
+            "miOwner": "ООО \"ЛУКОЙЛ-НИЖНЕВОЛЖСКНЕФТЬ-КАЛМЫКИЯ\"",
+            "vrfDate": "20.06.2022",
+            "validDate": "19.06.2023",
+            "vriType": "2",
+            "docTitle": "МП 28-221-2014",
+            "applicable": {
+                "certNum": "С-ГЖК\/20-06-2022\/170210854",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58668.14.1Р.00477143",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/477143",
+                    "mitypeNumber": "58668-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371741",
+                    "mitypeTitle": "Преобразователи давления эталонные",
+                    "notation": "ПДЭ-020, ПДЭ-020И",
+                    "modification": "ПДЭ-020И",
+                    "manufactureNum": "2135606",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1339 от 29.06.2018 ГПС для СИ избыточного давления до 4000 МПа"
+                },
+                {
+                    "regNumber": "32777.06.2Р.00494844",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/494844",
+                    "mitypeNumber": "32777-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341242",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ",
+                    "modification": "ПТСВ-1-2",
+                    "manufactureNum": "831",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "33587.12.1Р.00508269",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/508269",
+                    "mitypeNumber": "33587-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342251",
+                    "mitypeTitle": "Преобразователи давления эталонные",
+                    "notation": "ПДЭ-010, ПДЭ-010И",
+                    "modification": "ПДЭ-010И",
+                    "manufactureNum": "2133694",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1339 от 29.06.2018 ГПС для СИ избыточного давления до 4000 МПа"
+                },
+                {
+                    "regNumber": "19736.11.3Р.00538824",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/538824",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "МИТ 8.10",
+                    "manufactureNum": "900",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 3457 от 30 декабря 2019 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "15500-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313585",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "43410"
+                },
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "478"
+                },
+                {
+                    "mitypeNumber": "33744-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342426",
+                    "mitypeTitle": "Термостаты переливные прецизионные",
+                    "number": "482"
+                }
+            ],
+            "reagent": [
+                {
+                    "number": "РКТ.211",
+                    "type": "Реактив",
+                    "title": "Аргон газообразный"
+                },
+                {
+                    "number": "ДРГ.22",
+                    "type": "Другое",
+                    "title": "Азот газообразный"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "К0= -111,0514; К1= -0,003540753; К2= 0,0004413039; К3= 1580; К4= 402,0494; К18= -0,00001823412; К19= 0,0003153099."
+        }
+    },
+    "161680725": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62150-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375626",
+                "mitypeType": "GDM, SGM",
+                "mitypeTitle": "Преобразователи плотности газа",
+                "manufactureNum": "15010212",
+                "modification": "SGM"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СИСТЕМЫ НЕФТЬ И ГАЗ\"(ООО \"СНГ\")",
+            "signCipher": "ДЛО",
+            "miOwner": "АО \"Газпромнефть-ННГ\"",
+            "vrfDate": "12.05.2022",
+            "validDate": "11.05.2023",
+            "vriType": "2",
+            "docTitle": "МП 28-221-2014 \"ГСИ. Преобразователи плотности газа GDM, SGM. Методика поверки\", утвержденна ФГУП \"УНИИМ\" 03 августа 2015г.",
+            "applicable": {
+                "certNum": "С-ДЛО\/12-05-2022\/161680725",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39152.12.1Р.00489631",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/489631",
+                    "mitypeNumber": "39152-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/667101",
+                    "mitypeTitle": "Модули давления эталонные",
+                    "notation": "Метран-518",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1573",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ №1339 от 29.06.2018 ГПС для средств измерений избыточного давления до 4000 МПа"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "39151-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349069",
+                    "mitypeTitle": "Калибраторы давления портативные",
+                    "number": "293"
+                },
+                {
+                    "mitypeNumber": "15500-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313585",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "53312"
+                },
+                {
+                    "mitypeNumber": "11804-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306578",
+                    "mitypeTitle": "Термометры сопротивления платиновые эталонные",
+                    "number": "2778"
+                },
+                {
+                    "mitypeNumber": "11804-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306578",
+                    "mitypeTitle": "Термометры сопротивления платиновые эталонные",
+                    "number": "2783"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Пределы допускаемой СКО случайной составляющей относительной погрешности, % 0,02. Пределы допускаемой основной относительной погрешности, % ±0,1. Пределы допускаемой  абсолютной погрешности измерения температуры газа в плотномере (t), ⁰C ±(0,15+0,002•t). Гелий газообразный повышенной чистоты, ТУ 0271-006-72689906-2014, паспорт №38, действителен по 18.05.2023 г., баллон №81247, % не менее 99,999. Азот газообразный марки \"5.6\", ТУ 2114-007-53373468-2008, паспорт №2747, действителен по 10.09.2022 г., баллон №32078, % не менее 99,9996."
+        }
+    },
+    "164532228": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62150-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375626",
+                "mitypeType": "GDM, SGM",
+                "mitypeTitle": "Преобразователи плотности газа",
+                "manufactureNum": "15015239",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "29.03.2022",
+            "validDate": "28.03.2023",
+            "vriType": "2",
+            "docTitle": "МП 28-221-2014 «ГСИ. Преобразователи плотности газа GDM, SGM. Методика поверки», утвержденному ФГУП «УНИИМ» «03» августа 2015 г.",
+            "applicable": {
+                "certNum": "С-В\/29-03-2022\/146977153",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "19916.10.3Р.00249213",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/249213",
+                    "mitypeNumber": "19916-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321944",
+                    "mitypeTitle": "Термометры сопротивления эталонные",
+                    "notation": "ЭТС-100",
+                    "modification": "исполнение ЭТС 100\/1",
+                    "manufactureNum": "15-48",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                },
+                {
+                    "regNumber": "39787.08.РЭ.00378706",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/378706",
+                    "mitypeNumber": "39787-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349808",
+                    "mitypeTitle": "Анализаторы плотности жидкостей",
+                    "notation": "DMA",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "82621018",
+                    "manufactureYear": 2018,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ плотности, приказ Росстандарта от 01.11.2019 № 2603"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "9Е78"
+                },
+                {
+                    "mitypeNumber": "39787-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349808",
+                    "mitypeTitle": "Анализаторы плотности жидкостей",
+                    "number": "81352272"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#midd8e5124c-7d87-4261-94f6-288f3fe9558c"
+        }
+    },
+    "142687651": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62150-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375626",
+                "mitypeType": "GDM, SGM",
+                "mitypeTitle": "Преобразователи плотности газа",
+                "manufactureNum": "15016967",
+                "manufactureYear": 2017,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "Всероссийский научно-исследовательский институт расходометрии — филиал Федерального государственного унитарного предприятия «Всероссийский научно- исследовательский институт метрологии им. Д.И.Менделеева»(ВНИИР – филиал ФГУП «ВНИИМ им. Д.И.Менделеева»)",
+            "signCipher": "З",
+            "miOwner": "ООО «Лукойл-Нижневолжснефть», ИНН 3444070534",
+            "vrfDate": "17.03.2022",
+            "validDate": "16.03.2023",
+            "vriType": "1",
+            "docTitle": "МП 28-221-2014 «ГСИ. Преобразователи плотности газа GDM, SGM. Методика поверки», утвержденная ФГУП «УНИИМ» «03» августа 2015 г.",
+            "applicable": {
+                "certNum": "С-З\/17-03-2022\/142687651",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "69551.17.3Р.00407804",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/407804",
+                    "mitypeNumber": "69551-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383685",
+                    "mitypeTitle": "Термометры лабораторные электронные",
+                    "notation": "LTA",
+                    "modification": "LTA-Э",
+                    "manufactureNum": "870232",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "58668-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371741",
+                    "mitypeTitle": "Преобразователи давления эталонные",
+                    "number": "2135798"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39519727\/903"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": true,
+            "briefCharacteristics": "в диапазоне плотности от 40 кг\/м³ до 350 кг\/м³",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-142687651\/protocol",
+            "additional_info": "Аргон газообразный ВЧ 5.0, ТУ 20.11.11-006-45905715-2017, объемная доля аргона, %, не менее - 99,999; Термостат Huber K12+CC, зав. № 77498\/08 \/ 74560"
+        }
+    },
+    "134913102": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62150-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375626",
+                "mitypeType": "GDM, SGM",
+                "mitypeTitle": "Преобразователи плотности газа",
+                "manufactureNum": "15016967",
+                "manufactureYear": 2017,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "Всероссийский научно-исследовательский институт расходометрии — филиал Федерального государственного унитарного предприятия «Всероссийский научно- исследовательский институт метрологии им. Д.И.Менделеева»(ВНИИР – филиал ФГУП «ВНИИМ им. Д.И.Менделеева»)",
+            "signCipher": "З",
+            "miOwner": "АО ПГ «Метран», ИНН 7448024720",
+            "vrfDate": "10.02.2022",
+            "vriType": "1",
+            "docTitle": "МП 28-221-2014 «ГСИ. Преобразователи плотности газа GDM, SGM. Методика поверки», утвержденная ФГУП «УНИИМ» «03» августа 2015 г.",
+            "inapplicable": {
+                "noticeNum": "И-З\/10-02-2022\/134913102"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "69551.17.3Р.00407804",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/407804",
+                    "mitypeNumber": "69551-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383685",
+                    "mitypeTitle": "Термометры лабораторные электронные",
+                    "notation": "LTA",
+                    "modification": "LTA-Э",
+                    "manufactureNum": "870232",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "58668-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371741",
+                    "mitypeTitle": "Преобразователи давления эталонные",
+                    "number": "2135798"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39519727\/903"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": true,
+            "briefCharacteristics": "в диапазоне плотности от 40 кг\/м³ до 400 кг\/м³; в диапазоне температур от 20 до 70 °С",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-134913102\/protocol",
+            "additional_info": "Аргон газообразный ВЧ 5.5, ТУ 2114-001-16652408-2016, объемная доля аргона, %, не менее - 99,9995; Термостат Huber K12+CC, зав. № 77498\/08 \/ 74560"
+        }
+    }
+}

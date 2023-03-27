@@ -1,0 +1,116 @@
+{
+    "201395740": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "16389-97",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315376",
+                "mitypeType": "DA-300M, DA-310M",
+                "mitypeTitle": "Плотномеры",
+                "manufactureNum": "NID17860",
+                "manufactureYear": 1997,
+                "modification": "DA-300M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПЕРМСКОМ КРАЕ\"(ФБУ \"ПЕРМСКИЙ ЦСМ\")",
+            "signCipher": "ВН",
+            "miOwner": "ООО \"ЛУКОЙЛ-Пермнефтеоргсинтез\"",
+            "vrfDate": "11.11.2022",
+            "validDate": "10.11.2023",
+            "vriType": "2",
+            "docTitle": "Инструкция по поверке плотномеров типа DA-100M, DA-110M, DA-300M, DA-310M",
+            "applicable": {
+                "certNum": "С-ВН\/11-11-2022\/201395740",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 9350-2009",
+                    "title": "СО ПЛОТНОСТИ ЖИДКОСТИ (ПЛ-1000-НС)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/390835",
+                    "manufactureYear": 2019
+                },
+                {
+                    "number": "ГСО 9348-2009",
+                    "title": "СО ПЛОТНОСТИ ЖИДКОСТИ (ПЛ-870-НС)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/390837",
+                    "manufactureYear": 2021
+                },
+                {
+                    "number": "ГСО 9345-2009",
+                    "title": "СО ПЛОТНОСТИ ЖИДКОСТИ (ПЛ-780-НС)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/390840",
+                    "manufactureYear": 2021
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "146901184": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "16389-97",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315376",
+                "mitypeType": "DA-300M, DA-310M",
+                "mitypeTitle": "Плотномеры",
+                "manufactureNum": "NID 28468",
+                "modification": "DA 300M"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ИМ. Б.А. ДУБОВИКОВА В САРАТОВСКОЙ ОБЛАСТИ\"(ФБУ \"САРАТОВСКИЙ ЦСМ ИМ. Б.А. ДУБОВИКОВА\")",
+            "signCipher": "ВУ",
+            "miOwner": "ПАО \"Саратовский НПЗ\"",
+            "vrfDate": "06.04.2022",
+            "validDate": "05.04.2023",
+            "vriType": "2",
+            "docTitle": "МП Ростест-Москва",
+            "applicable": {
+                "certNum": "С-ВУ\/06-04-2022\/146901184",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 8583-2004",
+                    "title": "СО ПЛОТНОСТИ ЖИДКОСТИ (РЭП-5)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/391601",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "014",
+                    "metroChars": "Диапазон измерений: Плотность 998,2 кг\/м³, погрешность и (или) неопределенность (класс, разряд): Δ = ± 0,05 кг\/м³; Uр = 0,05 кг\/м³"
+                },
+                {
+                    "number": "ГСО 8579-2004",
+                    "title": "СО ПЛОТНОСТИ ЖИДКОСТИ (РЭП-1)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/391605",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "021"
+                },
+                {
+                    "number": "ГСО 8581-2004",
+                    "title": "СО ПЛОТНОСТИ ЖИДКОСТИ (РЭП-3)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/391603",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "010"
+                },
+                {
+                    "number": "ГСО 8585-2004",
+                    "title": "СО ПЛОТНОСТИ ЖИДКОСТИ (РЭП-7)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/391599",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "085"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

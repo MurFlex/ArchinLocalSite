@@ -1,0 +1,50 @@
+{
+    "180670019": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24048-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328899",
+                "mitypeType": "СКАПО",
+                "mitypeTitle": "Системы контроля атмосферы промышленных объектов",
+                "manufactureNum": "19",
+                "modification": "СКАПО"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОЛГОГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ВОЛГОГРАДСКИЙ ЦСМ\")",
+            "signCipher": "БИ",
+            "miOwner": "Общество с ограниченной ответственностью \"Энерго Промышленный Альянс\"",
+            "vrfDate": "23.08.2022",
+            "validDate": "22.08.2023",
+            "vriType": "2",
+            "docTitle": "ИБЯЛ.424355.002 РЭ",
+            "applicable": {
+                "certNum": "С-БИ\/23-08-2022\/180670019",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "53468.13.2Р.00479637",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/479637",
+                    "mitypeNumber": "53468-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365798",
+                    "mitypeTitle": "Калибраторы электрических сигналов",
+                    "notation": "СА11Е, СА12Е, СА51, СА71, СА150, СА450",
+                    "modification": "СА71",
+                    "manufactureNum": "HKV5EA033",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 ГПС для СИ силы постоянного электрического тока в диапазоне 1×10⁻¹⁶ ÷ 100 А"
+                }
+            ]
+        },
+        "info": {
+            "structure": "БРС-1 № 108 ,БРС-2 № 109",
+            "briefIndicator": false
+        }
+    }
+}

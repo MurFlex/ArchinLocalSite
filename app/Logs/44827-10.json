@@ -1,0 +1,476 @@
+{
+    "184692252": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44827.10.1Р.00669949",
+                "mitypeNumber": "44827-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355736",
+                "mitypeTitle": "Установки измерительные эталонные для воспроизведения фазового дрожания",
+                "mitypeType": "ЭД-01",
+                "modification": "Без модификации",
+                "manufactureNum": "06",
+                "manufactureYear": 2010,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приказ №233 от 01.02.2022 г"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "07.09.2022",
+            "validDate": "06.09.2023",
+            "vriType": "2",
+            "docTitle": "РПИС.411734.004 МП Установка измерительная эталонная для воспроизведения фазового дрожания ЭД-01. Методика поверки.",
+            "applicable": {
+                "certNum": "С-БН\/07-09-2022\/184692252",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "34596.07.0Р.54266",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/54266",
+                    "mitypeNumber": "34596-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343487",
+                    "mitypeTitle": "Установки поверочные для средств измерений девиации частоты",
+                    "notation": "РЭЕДЧ-1",
+                    "modification": "РЭЕДЧ-1",
+                    "manufactureNum": "002",
+                    "manufactureYear": 2008,
+                    "rankCode": "0Р",
+                    "rankTitle": "Эталон 0-го разряда",
+                    "schemaTitle": "ГПС для средств измерений девиации частоты"
+                },
+                {
+                    "regNumber": "32488.06.2Р.00183694",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/183694",
+                    "mitypeNumber": "32488-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340841",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "notation": "WaveJet 312, WaveJet 314, WaveJet 322, WaveJet 324, WaveJet 332, WaveJet 334, WaveJet 352, WaveJet 354",
+                    "modification": "WaveJet 332",
+                    "manufactureNum": "LCRY0101j27215",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 г. \"Об утверждении государственной поверочной схемы для средств измерений импульсного э"
+                },
+                {
+                    "regNumber": "9273.83.4Р.00193560",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/193560",
+                    "mitypeNumber": "9273-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388034",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-66",
+                    "modification": "Ч3-66",
+                    "manufactureNum": "8604004",
+                    "manufactureYear": 1986,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ росстандарта №1621 от 31.07.18"
+                },
+                {
+                    "regNumber": "9331.83.1Р.00194282",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/194282",
+                    "mitypeNumber": "9331-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388140",
+                    "mitypeTitle": "Измерители модуляции вычислительные",
+                    "notation": "СК3-45",
+                    "modification": "СК3-45 с блоком Я4С-104",
+                    "manufactureNum": "9820",
+                    "manufactureYear": 1990,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.607-2004"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "9415-84",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388261",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "number": "8806033"
+                },
+                {
+                    "mitypeNumber": "7441-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385510",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "number": "8605007"
+                },
+                {
+                    "mitypeNumber": "6494-78",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378651",
+                    "mitypeTitle": "Милливольтметры",
+                    "number": "7496"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-184692252\/protocol"
+        }
+    },
+    "178620191": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44827.10.1Р.00657383",
+                "mitypeNumber": "44827-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355736",
+                "mitypeTitle": "Установки измерительные эталонные для воспроизведения фазового дрожания",
+                "mitypeType": "ЭД-01",
+                "modification": "Без модификации",
+                "manufactureNum": "008",
+                "manufactureYear": 2012,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приказ №233 от 01.02.2022 г"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ФБУ \"Костромской ЦСМ\"",
+            "vrfDate": "15.08.2022",
+            "validDate": "14.08.2023",
+            "vriType": "2",
+            "docTitle": "РПИС.411734.004 МП Установка измерительная эталонная для воспроизведения фазового дрожания ЭД-01. Методика поверки.",
+            "applicable": {
+                "certNum": "С-БН\/15-08-2022\/178620191",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "34596.07.0Р.54266",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/54266",
+                    "mitypeNumber": "34596-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343487",
+                    "mitypeTitle": "Установки поверочные для средств измерений девиации частоты",
+                    "notation": "РЭЕДЧ-1",
+                    "modification": "РЭЕДЧ-1",
+                    "manufactureNum": "002",
+                    "manufactureYear": 2008,
+                    "rankCode": "0Р",
+                    "rankTitle": "Эталон 0-го разряда",
+                    "schemaTitle": "ГПС для средств измерений девиации частоты"
+                },
+                {
+                    "regNumber": "9331.83.1Р.00183663",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/183663",
+                    "mitypeNumber": "9331-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388140",
+                    "mitypeTitle": "Измерители модуляции вычислительные",
+                    "notation": "СК3-45",
+                    "modification": "СК3-45",
+                    "manufactureNum": "11869",
+                    "manufactureYear": 1989,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.717-2010 \"ГСИ. Государственная поверочная схема для средств измерений коэффициента амплитудной модуляции высокочастотн"
+                },
+                {
+                    "regNumber": "32488.06.2Р.00183694",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/183694",
+                    "mitypeNumber": "32488-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340841",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "notation": "WaveJet 312, WaveJet 314, WaveJet 322, WaveJet 324, WaveJet 332, WaveJet 334, WaveJet 352, WaveJet 354",
+                    "modification": "WaveJet 332",
+                    "manufactureNum": "LCRY0101j27215",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 г. \"Об утверждении государственной поверочной схемы для средств измерений импульсного э"
+                },
+                {
+                    "regNumber": "9273.83.4Р.00193560",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/193560",
+                    "mitypeNumber": "9273-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388034",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-66",
+                    "modification": "Ч3-66",
+                    "manufactureNum": "8604004",
+                    "manufactureYear": 1986,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ росстандарта №1621 от 31.07.18"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "9415-84",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388261",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "number": "8806033"
+                },
+                {
+                    "mitypeNumber": "7441-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385510",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "number": "8605007"
+                },
+                {
+                    "mitypeNumber": "6494-78",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378651",
+                    "mitypeTitle": "Милливольтметры",
+                    "number": "7496"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-178620191\/protocol"
+        }
+    },
+    "174797482": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44827.10.1Р.00650151",
+                "mitypeNumber": "44827-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355736",
+                "mitypeTitle": "Установки измерительные эталонные для воспроизведения фазового дрожания",
+                "mitypeType": "ЭД-01",
+                "modification": "Без модификации",
+                "manufactureNum": "010",
+                "manufactureYear": 2013,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приказ №233 от 01.02.2022 г"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "01.08.2022",
+            "validDate": "31.07.2023",
+            "vriType": "2",
+            "docTitle": "РПИС.411734.004 МП Установка измерительная эталонная для воспроизведения фазового дрожания ЭД-01. Методика поверки.",
+            "applicable": {
+                "certNum": "С-БН\/01-08-2022\/174797482",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "34596.07.0Р.54266",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/54266",
+                    "mitypeNumber": "34596-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343487",
+                    "mitypeTitle": "Установки поверочные для средств измерений девиации частоты",
+                    "notation": "РЭЕДЧ-1",
+                    "modification": "РЭЕДЧ-1",
+                    "manufactureNum": "002",
+                    "manufactureYear": 2008,
+                    "rankCode": "0Р",
+                    "rankTitle": "Эталон 0-го разряда",
+                    "schemaTitle": "ГПС для средств измерений девиации частоты"
+                },
+                {
+                    "regNumber": "9331.83.1Р.00183663",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/183663",
+                    "mitypeNumber": "9331-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388140",
+                    "mitypeTitle": "Измерители модуляции вычислительные",
+                    "notation": "СК3-45",
+                    "modification": "СК3-45",
+                    "manufactureNum": "11869",
+                    "manufactureYear": 1989,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.717-2010 \"ГСИ. Государственная поверочная схема для средств измерений коэффициента амплитудной модуляции высокочастотн"
+                },
+                {
+                    "regNumber": "32488.06.2Р.00183694",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/183694",
+                    "mitypeNumber": "32488-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340841",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "notation": "WaveJet 312, WaveJet 314, WaveJet 322, WaveJet 324, WaveJet 332, WaveJet 334, WaveJet 352, WaveJet 354",
+                    "modification": "WaveJet 332",
+                    "manufactureNum": "LCRY0101j27215",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 г. \"Об утверждении государственной поверочной схемы для средств измерений импульсного э"
+                },
+                {
+                    "regNumber": "9273.83.4Р.00193560",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/193560",
+                    "mitypeNumber": "9273-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388034",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-66",
+                    "modification": "Ч3-66",
+                    "manufactureNum": "8604004",
+                    "manufactureYear": 1986,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ росстандарта №1621 от 31.07.18"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "9415-84",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388261",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "number": "8806033"
+                },
+                {
+                    "mitypeNumber": "7441-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385510",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "number": "8605007"
+                },
+                {
+                    "mitypeNumber": "6494-78",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378651",
+                    "mitypeTitle": "Милливольтметры",
+                    "number": "7496"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-174797482\/protocol"
+        }
+    },
+    "148731229": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44827.10.1Р.00277586",
+                "mitypeNumber": "44827-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355736",
+                "mitypeTitle": "Установки измерительные эталонные для воспроизведения фазового дрожания",
+                "mitypeType": "ЭД-01",
+                "modification": "ЭД-01",
+                "manufactureNum": "009",
+                "manufactureYear": 2012,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ Р 8.607-2004"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ФБУ \"Ярославский ЦСМ\"",
+            "vrfDate": "15.04.2022",
+            "validDate": "14.04.2023",
+            "vriType": "2",
+            "docTitle": "РПИС.411734.004 МП Установка измерительная эталонная для воспроизведения фазового дрожания ЭД-01. Методика поверки.",
+            "applicable": {
+                "certNum": "С-БН\/15-04-2022\/148731229",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "34596.07.0Р.54266",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/54266",
+                    "mitypeNumber": "34596-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343487",
+                    "mitypeTitle": "Установки поверочные для средств измерений девиации частоты",
+                    "notation": "РЭЕДЧ-1",
+                    "modification": "РЭЕДЧ-1",
+                    "manufactureNum": "002",
+                    "manufactureYear": 2008,
+                    "rankCode": "0Р",
+                    "rankTitle": "Эталон 0-го разряда",
+                    "schemaTitle": "ГПС для средств измерений девиации частоты"
+                },
+                {
+                    "regNumber": "32488.06.2Р.00183694",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/183694",
+                    "mitypeNumber": "32488-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340841",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "notation": "WaveJet 312, WaveJet 314, WaveJet 322, WaveJet 324, WaveJet 332, WaveJet 334, WaveJet 352, WaveJet 354",
+                    "modification": "WaveJet 332",
+                    "manufactureNum": "LCRY0101j27215",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463 от 30.12.2019 г. \"Об утверждении государственной поверочной схемы для средств измерений импульсного э"
+                },
+                {
+                    "regNumber": "9273.83.4Р.00193560",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/193560",
+                    "mitypeNumber": "9273-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388034",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-66",
+                    "modification": "Ч3-66",
+                    "manufactureNum": "8604004",
+                    "manufactureYear": 1986,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ росстандарта №1621 от 31.07.18"
+                },
+                {
+                    "regNumber": "9331.83.1Р.00194282",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/194282",
+                    "mitypeNumber": "9331-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388140",
+                    "mitypeTitle": "Измерители модуляции вычислительные",
+                    "notation": "СК3-45",
+                    "modification": "СК3-45 с блоком Я4С-104",
+                    "manufactureNum": "9820",
+                    "manufactureYear": 1990,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.607-2004"
+                },
+                {
+                    "regNumber": "29282.05.2Р.00526638",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/526638",
+                    "mitypeNumber": "29282-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336545",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Fluke 5520A с модулями SC1100 и PQ",
+                    "modification": "Без модификации",
+                    "manufactureNum": "9195009",
+                    "manufactureYear": 2007,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "в режиме воспроизведения по Приказу Росстандарта от 03.09.2021 № 1942"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "11207-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305764",
+                    "mitypeTitle": "Генераторы сигналов высокочастотные",
+                    "number": "4072"
+                },
+                {
+                    "mitypeNumber": "9415-84",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388261",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "number": "8806033"
+                },
+                {
+                    "mitypeNumber": "7441-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385510",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "number": "8605007"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-148731229\/protocol"
+        }
+    }
+}

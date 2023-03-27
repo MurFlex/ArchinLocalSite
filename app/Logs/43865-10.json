@@ -1,0 +1,69 @@
+{
+    "129185890": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "43865-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354634",
+                "mitypeType": "VC3300",
+                "mitypeTitle": "Радиотестеры",
+                "manufactureNum": "91F616414",
+                "modification": "VC3300"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КООРДИНАЦИОННО-ИНФОРМАЦИОННОЕ АГЕНТСТВО\"(ООО \"КИА\")",
+            "signCipher": "ГДИ",
+            "miOwner": "АО «ИЦС»",
+            "vrfDate": "03.02.2022",
+            "validDate": "02.02.2023",
+            "vriType": "2",
+            "docTitle": "Радиотестер VC3300.Методика поверки»",
+            "applicable": {
+                "certNum": "С-ГДИ\/03-02-2022\/129185890",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "51871.12.3Р.00249309",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/249309",
+                    "mitypeNumber": "51871-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363962",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "Ч1-2010",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0028",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения времени и частоты"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53063-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365347",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "MY53050638"
+                },
+                {
+                    "mitypeNumber": "26744-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333066",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "number": "100343"
+                },
+                {
+                    "mitypeNumber": "9273-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388035",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "8802176"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

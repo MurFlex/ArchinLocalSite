@@ -1,0 +1,78 @@
+{
+    "208135013": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "66424-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1396574",
+                "mitypeType": "СИГР-3",
+                "mitypeTitle": "Система измерительная для стендовых испытаний главных редукторов вертолетов ",
+                "manufactureNum": "01",
+                "manufactureYear": 2017,
+                "modification": "модификаций нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПЕРМСКОМ КРАЕ\"(ФБУ \"ПЕРМСКИЙ ЦСМ\")",
+            "signCipher": "ВН",
+            "miOwner": "АО \"Редуктор - ПМ\"",
+            "vrfDate": "01.12.2022",
+            "validDate": "30.11.2023",
+            "vriType": "2",
+            "docTitle": "СТ11-016.01 МП",
+            "applicable": {
+                "certNum": "С-ВН\/01-12-2022\/208135013",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "53064.13.4Р.00134144",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/134144",
+                    "mitypeNumber": "53064-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365348",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "АКИП-3409\/1, АКИП-3409\/2, АКИП-3409\/3, АКИП-3409\/4, АКИП-3409\/5",
+                    "modification": "АКИП-3409\/1",
+                    "manufactureNum": "NDG10GAD1R0924",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "57747.14.1Р.00209231",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/209231",
+                    "mitypeNumber": "57747-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370659",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "3010R, 3041R, 3041TR, 3050R, 3050TR, 1000R, 1000TR",
+                    "modification": "3041TR",
+                    "manufactureNum": "R1274F18",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказ №2091"
+                },
+                {
+                    "regNumber": "6332.77.4Р.00716521",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/716521",
+                    "mitypeNumber": "6332-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376916",
+                    "mitypeTitle": "Магазины сопротивления",
+                    "notation": "Р4831",
+                    "modification": "Р4831",
+                    "manufactureNum": "10908",
+                    "manufactureYear": 1987,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 3456 от 30.12.2019"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

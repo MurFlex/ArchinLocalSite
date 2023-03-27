@@ -1,0 +1,4037 @@
+{
+    "208156958": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "04K0018C",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОЛОГОДСКОЙ ОБЛАСТИ\"(ФБУ \"ВОЛОГОДСКИЙ ЦСМ\")",
+            "signCipher": "БЛ",
+            "miOwner": "Шекснинское линейное производственное управление магистральных газопроводов",
+            "vrfDate": "11.11.2022",
+            "validDate": "10.11.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009 \"ГСИ. Виброметры с пьезоэлектрическими, индукционными и вихретоковыми вибропреобразователями. Методика поверки",
+            "applicable": {
+                "certNum": "С-БЛ\/11-11-2022\/208156958",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52147.12.2Р.00316276",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/316276",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/3",
+                    "manufactureNum": "TW00030799",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №2091 от 1 октября 208 г."
+                },
+                {
+                    "regNumber": "52147.12.4Р.00317960",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/317960",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/3",
+                    "manufactureNum": "TW00030799",
+                    "manufactureYear": 2019,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3456 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "52147.12.3Р.00317961",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/317961",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/3",
+                    "manufactureNum": "TW00030799",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3457 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "52147.12.4Р.00330815",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/330815",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/3",
+                    "manufactureNum": "TW00030799",
+                    "manufactureYear": 2019,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №1053 от 29 мая 2018 г."
+                },
+                {
+                    "regNumber": "42927.09.2Р.00451425",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/451425",
+                    "mitypeNumber": "42927-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353524",
+                    "mitypeTitle": "Виброустановки калибровочные",
+                    "notation": "DVC-500",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1318",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                },
+                {
+                    "regNumber": "52147.12.3Р.00668976",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/668976",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "manufactureNum": "TW00030799",
+                    "manufactureYear": 2017,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 17.03.2022г. №668 «Об утверждении Государственной поверочной схемы для средств измерений силы переменного"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Модульный блок BN-3500 зав. №04K0018C, датчик BN-3300XL зав. №09B012G0, проксиметр Bently Nevada 330180-91-05 зав. №09B012G0, датчик BN-3300XL зав. №09B012G1, проксиметр Bently Nevada 330180-91-05 зав. №09B012G1, ,датчик BN-3300XL зав. №09B012G2, проксиметр Bently Nevada 330180-91-05 зав. №09B012G2, датчик BN-3300XL зав. №09B012G3, проксиметр Bently Nevada 330180-91-05 зав. №09B012G3, ,датчик BN-3300XL зав. №09B012EZ, проксиметр Bently Nevada 330180-91-05 зав. №09B012EZ, датчик BN-3300XL зав. №09B012EY, проксиметр Bently Nevada 330180-91-05 зав. №09B012EY,",
+            "briefIndicator": false
+        }
+    },
+    "201678663": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "02C015U6",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"КИРИШИНЕФТЕОРГСИНТЕЗ\"(ООО\"КИНЕФ\")",
+            "signCipher": "АЕГ",
+            "miOwner": "ООО \"КИНЕФ\"",
+            "vrfDate": "07.11.2022",
+            "validDate": "06.11.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-АЕГ\/07-11-2022\/201678663",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25984.08.2Р.00574454",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/574454",
+                    "mitypeNumber": "25984-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331872",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A, 8508A\/01",
+                    "modification": "Fluke 8508A",
+                    "manufactureNum": "871848792",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "201678662": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "16K017LP",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"КИРИШИНЕФТЕОРГСИНТЕЗ\"(ООО\"КИНЕФ\")",
+            "signCipher": "АЕГ",
+            "miOwner": "ООО \"КИНЕФ\"",
+            "vrfDate": "07.11.2022",
+            "validDate": "06.11.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-АЕГ\/07-11-2022\/201678662",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25984.08.2Р.00574454",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/574454",
+                    "mitypeNumber": "25984-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331872",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A, 8508A\/01",
+                    "modification": "Fluke 8508A",
+                    "manufactureNum": "871848792",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "191444903": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03A01591",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ТРАНСГАЗ СТАВРОПОЛЬ\"(ООО \"ГАЗПРОМ ТРАНСГАЗ СТАВРОПОЛЬ\")",
+            "signCipher": "ГГР",
+            "miOwner": "Изобильненское ЛПУМГ",
+            "vrfDate": "30.09.2022",
+            "validDate": "29.09.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-ГГР\/30-09-2022\/191444903",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "59691.15.2Р.00642228",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/642228",
+                    "mitypeNumber": "59691-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372888",
+                    "mitypeTitle": "Установка вибрационная поверочная",
+                    "notation": "Нет данных",
+                    "modification": "4808",
+                    "manufactureNum": "2778483",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "по приказу Росстандарта №2772 от 27.12.2018 г."
+                },
+                {
+                    "regNumber": "7422.91.4Р.00648907",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/648907",
+                    "mitypeNumber": "7422-91",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385480",
+                    "mitypeTitle": "Головки микрометрические с ценой деления 0,01 мм",
+                    "notation": "210121",
+                    "modification": "210121",
+                    "manufactureNum": "558",
+                    "manufactureYear": 1992,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«Приказ № 2840 от 29.12.2018 г. «Об утв. ГПС для СИ длины в диапазоне от 1х10(-9) до 100 м и длин волн в от 0,2 до 50 мкм»»"
+                }
+            ]
+        },
+        "info": {
+            "structure": "\"BN-3300\" №02F00AAC, \"BN-3300\" №02F00LD4, \"BN-3300\" №02F00AAC, \"BN-3300\" № 02E01911, \"BN-3300\" №02E01AZZ, \"BN-3300\" №02E01B02,",
+            "briefIndicator": false
+        }
+    },
+    "191444634": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03A0158S",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ТРАНСГАЗ СТАВРОПОЛЬ\"(ООО \"ГАЗПРОМ ТРАНСГАЗ СТАВРОПОЛЬ\")",
+            "signCipher": "ГГР",
+            "miOwner": "Изобильненское ЛПУМГ",
+            "vrfDate": "30.09.2022",
+            "validDate": "29.09.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-ГГР\/30-09-2022\/191444634",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "59691.15.2Р.00642228",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/642228",
+                    "mitypeNumber": "59691-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372888",
+                    "mitypeTitle": "Установка вибрационная поверочная",
+                    "notation": "Нет данных",
+                    "modification": "4808",
+                    "manufactureNum": "2778483",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "по приказу Росстандарта №2772 от 27.12.2018 г."
+                },
+                {
+                    "regNumber": "7422.91.4Р.00648907",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/648907",
+                    "mitypeNumber": "7422-91",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385480",
+                    "mitypeTitle": "Головки микрометрические с ценой деления 0,01 мм",
+                    "notation": "210121",
+                    "modification": "210121",
+                    "manufactureNum": "558",
+                    "manufactureYear": 1992,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«Приказ № 2840 от 29.12.2018 г. «Об утв. ГПС для СИ длины в диапазоне от 1х10(-9) до 100 м и длин волн в от 0,2 до 50 мкм»»"
+                }
+            ]
+        },
+        "info": {
+            "structure": "\"BN-3300\" №02F00LD9, \"BN-3300\" №02F00LCX, \"BN-3300\" №02E01912, \"BN-3300\" №02E01AZL, \"BN-3300\" №02E01AZX, \"BN-3300\" №02F00AA8",
+            "briefIndicator": false
+        }
+    },
+    "191446701": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03A015NC",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ТРАНСГАЗ СТАВРОПОЛЬ\"(ООО \"ГАЗПРОМ ТРАНСГАЗ СТАВРОПОЛЬ\")",
+            "signCipher": "ГГР",
+            "miOwner": "Изобильненское ЛПУМГ",
+            "vrfDate": "30.09.2022",
+            "validDate": "29.09.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-ГГР\/20-09-2021\/103072837",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "59691.15.2Р.00642228",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/642228",
+                    "mitypeNumber": "59691-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372888",
+                    "mitypeTitle": "Установка вибрационная поверочная",
+                    "notation": "Нет данных",
+                    "modification": "4808",
+                    "manufactureNum": "2778483",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "по приказу Росстандарта №2772 от 27.12.2018 г."
+                },
+                {
+                    "regNumber": "7422.91.4Р.00648907",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/648907",
+                    "mitypeNumber": "7422-91",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385480",
+                    "mitypeTitle": "Головки микрометрические с ценой деления 0,01 мм",
+                    "notation": "210121",
+                    "modification": "210121",
+                    "manufactureNum": "558",
+                    "manufactureYear": 1992,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«Приказ № 2840 от 29.12.2018 г. «Об утв. ГПС для СИ длины в диапазоне от 1х10(-9) до 100 м и длин волн в от 0,2 до 50 мкм»»"
+                }
+            ]
+        },
+        "info": {
+            "structure": "\"BN-3300\" №02F00LD9, \"BN-3300\" №02F00LCX, \"BN-3300\" №02E01912, \"BN-3300\" №02E01AZL, \"BN-3300\" №02E01AZX, \"BN-3300\" №02F00AA8",
+            "briefIndicator": false
+        }
+    },
+    "191448798": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03A015AD",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ТРАНСГАЗ СТАВРОПОЛЬ\"(ООО \"ГАЗПРОМ ТРАНСГАЗ СТАВРОПОЛЬ\")",
+            "signCipher": "ГГР",
+            "miOwner": "Изобильненское ЛПУМГ",
+            "vrfDate": "30.09.2022",
+            "validDate": "29.09.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-ГГР\/30-09-2022\/191448798",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "59691.15.2Р.00642228",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/642228",
+                    "mitypeNumber": "59691-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372888",
+                    "mitypeTitle": "Установка вибрационная поверочная",
+                    "notation": "Нет данных",
+                    "modification": "4808",
+                    "manufactureNum": "2778483",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "по приказу Росстандарта №2772 от 27.12.2018 г."
+                },
+                {
+                    "regNumber": "7422.91.4Р.00648907",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/648907",
+                    "mitypeNumber": "7422-91",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385480",
+                    "mitypeTitle": "Головки микрометрические с ценой деления 0,01 мм",
+                    "notation": "210121",
+                    "modification": "210121",
+                    "manufactureNum": "558",
+                    "manufactureYear": 1992,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«Приказ № 2840 от 29.12.2018 г. «Об утв. ГПС для СИ длины в диапазоне от 1х10(-9) до 100 м и длин волн в от 0,2 до 50 мкм»»"
+                }
+            ]
+        },
+        "info": {
+            "structure": "\"BN-3300\" №02F00LD7, \"BN-3300\" №02F00LCW, \"BN-3300\" №02E01AZP, \"BN-3300\" №05K01LE4, \"BN-3300\" №02E01AZM, \"BN-3300\" №02E01AZK",
+            "briefIndicator": false
+        }
+    },
+    "191448330": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03A015NE",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ ТРАНСГАЗ СТАВРОПОЛЬ\"(ООО \"ГАЗПРОМ ТРАНСГАЗ СТАВРОПОЛЬ\")",
+            "signCipher": "ГГР",
+            "miOwner": "Изобильненское ЛПУМГ",
+            "vrfDate": "30.09.2022",
+            "validDate": "29.09.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-ГГР\/30-09-2022\/191448330",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "59691.15.2Р.00642228",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/642228",
+                    "mitypeNumber": "59691-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372888",
+                    "mitypeTitle": "Установка вибрационная поверочная",
+                    "notation": "Нет данных",
+                    "modification": "4808",
+                    "manufactureNum": "2778483",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "по приказу Росстандарта №2772 от 27.12.2018 г."
+                },
+                {
+                    "regNumber": "7422.91.4Р.00648907",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/648907",
+                    "mitypeNumber": "7422-91",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385480",
+                    "mitypeTitle": "Головки микрометрические с ценой деления 0,01 мм",
+                    "notation": "210121",
+                    "modification": "210121",
+                    "manufactureNum": "558",
+                    "manufactureYear": 1992,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«Приказ № 2840 от 29.12.2018 г. «Об утв. ГПС для СИ длины в диапазоне от 1х10(-9) до 100 м и длин волн в от 0,2 до 50 мкм»»"
+                }
+            ]
+        },
+        "info": {
+            "structure": "\"BN-3300\" №04C0192P, \"BN-3300\" №02F00LCM, \"BN-3300\" №02E0190W, \"BN-3300\" №02E0190U, \"BN-3300\" №02E01918, \"BN-3300\" №02E0190Y",
+            "briefIndicator": false
+        }
+    },
+    "189302126": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "NA600873",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"КИРИШИНЕФТЕОРГСИНТЕЗ\"(ООО\"КИНЕФ\")",
+            "signCipher": "АЕГ",
+            "miOwner": "ООО \"КИНЕФ\"",
+            "vrfDate": "21.09.2022",
+            "validDate": "20.09.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-АЕГ\/21-09-2022\/189302126",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25984.08.2Р.00574454",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/574454",
+                    "mitypeNumber": "25984-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331872",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A, 8508A\/01",
+                    "modification": "Fluke 8508A",
+                    "manufactureNum": "871848792",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "192045249": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "04C002J7",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОЛГОГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ВОЛГОГРАДСКИЙ ЦСМ\")",
+            "signCipher": "БИ",
+            "miOwner": "ООО \"ЛУКОЙЛ-Волгограднефтепереработка\"",
+            "vrfDate": "21.09.2022",
+            "validDate": "20.09.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-БИ\/21-09-2022\/192045249",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31773.06.3Р.66137",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/66137",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00001230",
+                    "manufactureYear": 2006,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.2019 ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "33896"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "192045248": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "04C0030S",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОЛГОГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ВОЛГОГРАДСКИЙ ЦСМ\")",
+            "signCipher": "БИ",
+            "miOwner": "ООО \"ЛУКОЙЛ-Волгограднефтепереработка\"",
+            "vrfDate": "21.09.2022",
+            "validDate": "20.09.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-БИ\/21-09-2022\/192045248",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31773.06.3Р.66137",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/66137",
+                    "mitypeNumber": "31773-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339872",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00001230",
+                    "manufactureYear": 2006,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.2019 ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "number": "33896"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "189302128": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "06F01RY1",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"КИРИШИНЕФТЕОРГСИНТЕЗ\"(ООО\"КИНЕФ\")",
+            "signCipher": "АЕГ",
+            "miOwner": "ООО \"КИНЕФ\"",
+            "vrfDate": "19.09.2022",
+            "validDate": "18.09.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-АЕГ\/19-09-2022\/189302128",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25984.08.2Р.00574454",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/574454",
+                    "mitypeNumber": "25984-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331872",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A, 8508A\/01",
+                    "modification": "Fluke 8508A",
+                    "manufactureNum": "871848792",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "189302129": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "06F01RSU",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"КИРИШИНЕФТЕОРГСИНТЕЗ\"(ООО\"КИНЕФ\")",
+            "signCipher": "АЕГ",
+            "miOwner": "ООО \"КИНЕФ\"",
+            "vrfDate": "19.09.2022",
+            "validDate": "18.09.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-АЕГ\/19-09-2022\/189302129",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25984.08.2Р.00574454",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/574454",
+                    "mitypeNumber": "25984-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331872",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A, 8508A\/01",
+                    "modification": "Fluke 8508A",
+                    "manufactureNum": "871848792",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "189302127": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "06F01RYO",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"КИРИШИНЕФТЕОРГСИНТЕЗ\"(ООО\"КИНЕФ\")",
+            "signCipher": "АЕГ",
+            "miOwner": "ООО \"КИНЕФ\"",
+            "vrfDate": "19.09.2022",
+            "validDate": "18.09.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-АЕГ\/19-09-2022\/189302127",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25984.08.2Р.00574454",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/574454",
+                    "mitypeNumber": "25984-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331872",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A, 8508A\/01",
+                    "modification": "Fluke 8508A",
+                    "manufactureNum": "871848792",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "186250280": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "06F01MWJ",
+                "modification": "Без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ИМ. Б.А. ДУБОВИКОВА В САРАТОВСКОЙ ОБЛАСТИ\"(ФБУ \"САРАТОВСКИЙ ЦСМ ИМ. Б.А. ДУБОВИКОВА\")",
+            "signCipher": "ВУ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "15.09.2022",
+            "validDate": "14.09.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-ВУ\/15-09-2022\/186250280",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "50247.12.2Р.00180126",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180126",
+                    "mitypeNumber": "50247-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362044",
+                    "mitypeTitle": "Виброустановки калибровочные портативные",
+                    "notation": "9100D и 9110D",
+                    "modification": "9110D",
+                    "manufactureNum": "10626",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 2772"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Преобразователь перемещения BN-3300 XL №20E000TU; Проксиметор 3300 №20E0036M",
+            "briefIndicator": false
+        }
+    },
+    "183816901": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00NDP",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816901",
+                "stickerNum": "21019029650",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816900": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00NDD",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816900",
+                "stickerNum": "21019029645",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816897": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "05L01AXK",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816897",
+                "stickerNum": "21019029629",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816896": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "A03G022R",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816896",
+                "stickerNum": "21019029662",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816899": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "G05L00NC",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816899",
+                "stickerNum": "21019029627",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816898": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "A04A01EJ",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816898",
+                "stickerNum": "21019029640",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816893": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "04G00NXN",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816893",
+                "stickerNum": "21019029636",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816892": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "04G00TGM",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816892",
+                "stickerNum": "21019029642",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816895": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00TCE",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816895",
+                "stickerNum": "21019029643",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816894": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00NDT",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816894",
+                "stickerNum": "21019029658",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816891": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00WT5",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816891",
+                "stickerNum": "21019029653",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816890": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "05L01AXN",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816890",
+                "stickerNum": "21019029631",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816889": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "05L01AXL",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816889",
+                "stickerNum": "21019029630",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816886": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00TCG",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816886",
+                "stickerNum": "21019029644",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816885": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00NDJ",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816885",
+                "stickerNum": "21019029651",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816888": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00WT4",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816888",
+                "stickerNum": "21019029646",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816887": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "05L01GMO",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816887",
+                "stickerNum": "21019029657",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816882": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00NDL",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816882",
+                "stickerNum": "21019029638",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816881": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00WSM",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816881",
+                "stickerNum": "21019029667",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816884": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00NDR",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816884",
+                "stickerNum": "21019029652",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816883": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "A03I01HZ",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816883",
+                "stickerNum": "21019029641",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816880": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00NDX",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816880",
+                "stickerNum": "21019029656",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816879": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00KJJ",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816879",
+                "stickerNum": "21019029665",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816878": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "05K01PDY",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816878",
+                "stickerNum": "21019029632",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816875": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00WSK",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816875",
+                "stickerNum": "21019029660",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816874": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00ZHG",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816874",
+                "stickerNum": "21019029649",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816877": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00KJK",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816877",
+                "stickerNum": "21019029666",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816876": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "A04F01BN",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816876",
+                "stickerNum": "21019029647",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816871": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00ZHH",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816871",
+                "stickerNum": "21019029659",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816870": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00NGC",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816870",
+                "stickerNum": "21019029663",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816873": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "05L01AXJ",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816873",
+                "stickerNum": "21019029635",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816872": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "04G00NZP",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816872",
+                "stickerNum": "21019029637",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816868": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "A03I001N",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816868",
+                "stickerNum": "21019029655",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816867": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "A03I01J1",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816867",
+                "stickerNum": "21019029661",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816869": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "05K01PDZ",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816869",
+                "stickerNum": "21019029639",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816864": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "G05L00NJ",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816864",
+                "stickerNum": "21019029626",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816863": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "G05L00NK",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816863",
+                "stickerNum": "21019029634",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816866": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "FEBN371832",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816866",
+                "stickerNum": "21019029633",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816865": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "FEBN371835",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816865",
+                "stickerNum": "21019029648",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816860": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "A03I001L",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816860",
+                "stickerNum": "21019029654",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816862": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "04G00NZK",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816862",
+                "stickerNum": "21019029664",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "183816861": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "05L01AXM",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ КОМИ\"(ФБУ \"КОМИ ЦСМ\")",
+            "signCipher": "АЕ",
+            "miOwner": "Филиал ООО \"Газпром трансгаз Ухта\"- Приводинское ЛПУМГ",
+            "vrfDate": "31.08.2022",
+            "validDate": "30.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 \"Виброметры с пьезоэлектрическими и индукционными преобразователями\"",
+            "applicable": {
+                "certNum": "С-АЕ\/31-08-2022\/183816861",
+                "stickerNum": "21019029628",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00114746",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/114746",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "нет",
+                    "manufactureNum": "1208",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "174854787": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "05B013Y5",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОРОНЕЖСКОЙ ОБЛАСТИ\"(ФБУ \"ВОРОНЕЖСКИЙ ЦСМ\")",
+            "signCipher": "БМ",
+            "miOwner": "Филиал \"Воронежское управление  публичного акционерного общества \"Трансаммиак\"",
+            "vrfDate": "28.07.2022",
+            "validDate": "27.07.2023",
+            "vriType": "2",
+            "docTitle": "МИ 2539-99",
+            "applicable": {
+                "certNum": "С-БМ\/28-07-2022\/174854787",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52489.13.3Р.00644253",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/644253",
+                    "mitypeNumber": "52489-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364689",
+                    "mitypeTitle": "Калибраторы многофункциональные и коммуникаторы",
+                    "notation": "ВЕАМЕХ MC6 (-R)",
+                    "modification": "ВЕАМЕХ MC6 (-R)",
+                    "manufactureNum": "607364",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 3457 от 30 декабря 2019  « Об утверждении государственной поверочной схемы для средств измерений постоянного электричес"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "176061943": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "07A01ELT",
+                "manufactureYear": 2006,
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ИРКУТСКОЙ ОБЛАСТИ\"(ФБУ \"ИРКУТСКИЙ ЦСМ\")",
+            "signCipher": "БП",
+            "miOwner": "Акционерное общество \"АНГАРСКИЙ ЗАВОД ПОЛИМЕРОВ\"",
+            "vrfDate": "22.07.2022",
+            "validDate": "21.07.2023",
+            "vriType": "2",
+            "docTitle": "\"ГСИ. Виброметры с пьезоэлектрическими и индукционными вибропреобразователями. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-БП\/22-07-2022\/176061943",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00425636",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/425636",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1987",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ 2772 от 27.12.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "52150-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364297",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "MY52812364"
+                }
+            ]
+        },
+        "info": {
+            "structure": "см. приложение.",
+            "briefIndicator": false
+        }
+    },
+    "172013168": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "04G00S5X",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОЛОГОДСКОЙ ОБЛАСТИ\"(ФБУ \"ВОЛОГОДСКИЙ ЦСМ\")",
+            "signCipher": "БК",
+            "miOwner": "Грязовецкое линейное производственное управление магистральных газопроводов",
+            "vrfDate": "18.07.2022",
+            "validDate": "17.07.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-БК\/18-07-2022\/172013168",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "47483.11.2Р.00590367",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/590367",
+                    "mitypeNumber": "47483-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358756",
+                    "mitypeTitle": "Установки вибрационные поверочные",
+                    "notation": "ВМВП",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "12301",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "number": "232-0728"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Модульный блок Bently Nevada 3500\/05-02-04-00-00-00 MOD № 04G00S5X ,Датчик Bently Nevada 3300 XL 8MM 330105-02-12-10-02-05 № 04G00UOT ,Датчики Bently Nevada 3300 XL 8MM 135834-40-64-92-22-10 № 04G00P02, 04G00NZU, 04G00NZR, 04G00NZX ,Проксиметр Bently Nevada Proximitor 330180-51-05 № 04G00RZ5 ,Проксиметры Bently Nevada Proximitor 330180-91-05 № 04G00RHZ, 04G00RJN, 04G00RJ0, 04G00RJ7.",
+            "briefIndicator": false
+        }
+    },
+    "172013167": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03J00YDC",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОЛОГОДСКОЙ ОБЛАСТИ\"(ФБУ \"ВОЛОГОДСКИЙ ЦСМ\")",
+            "signCipher": "БК",
+            "miOwner": "Грязовецкое линейное производственное управление магистральных газопроводов",
+            "vrfDate": "18.07.2022",
+            "validDate": "17.07.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-БК\/18-07-2022\/172013167",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "47483.11.2Р.00590367",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/590367",
+                    "mitypeNumber": "47483-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358756",
+                    "mitypeTitle": "Установки вибрационные поверочные",
+                    "notation": "ВМВП",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "12301",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "number": "232-0728"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Модульный блок Bently Nevada 3500\/05-02-04-00-00-00 MOD № 03J00YDC ,Датчик Bently Nevada 3300 XL 8MM 330105-02-12-10-02-05 № 03J00XPT ,Датчики Bently Nevada 3300 XL 8MM 135834-40-64-92-22-10 № 03J00ZJ4, 03J00ZJ7, 04G00NZS, 03J00ZJ1 ,Проксиметр Bently Nevada Proximitor 330180-51-05 № 03J00UZ2 ,Проксиметры Bently Nevada Proximitor 330180-91-05 № 03J00W36, 03J00W33, 03J00W37, 03J00W35.",
+            "briefIndicator": false
+        }
+    },
+    "172013169": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "04G00SBO",
+                "modification": "BN3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОЛОГОДСКОЙ ОБЛАСТИ\"(ФБУ \"ВОЛОГОДСКИЙ ЦСМ\")",
+            "signCipher": "БК",
+            "miOwner": "Грязовецкое линейное производственное управление магистральных газопроводов",
+            "vrfDate": "18.07.2022",
+            "validDate": "17.07.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-БК\/18-07-2022\/172013169",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "47483.11.2Р.00590367",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/590367",
+                    "mitypeNumber": "47483-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358756",
+                    "mitypeTitle": "Установки вибрационные поверочные",
+                    "notation": "ВМВП",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "12301",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "number": "232-0728"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Модульный блок Bently Nevada 3500\/05-02-04-00-00-00 MOD № 04G00SB0 ,Датчик Bently Nevada 3300 XL 8MM 330105-02-12-10-02-05 № 03J00NDN ,Датчики Bently Nevada 3300 XL 8MM 135834-40-64-92-22-10 № 04G00NZW, 04G00P01, 04G00NZM, 04G00UNT ,Проксиметр Bently Nevada Proximitor 330180-51-05 № 04G00RJ4 ,Проксиметры Bently Nevada Proximitor 330180-91-05 № 04G00RJB,  04G00RHX, 04G00RHW, 04G00RZA.",
+            "briefIndicator": false
+        }
+    },
+    "172013173": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "04G00S60",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОЛОГОДСКОЙ ОБЛАСТИ\"(ФБУ \"ВОЛОГОДСКИЙ ЦСМ\")",
+            "signCipher": "БК",
+            "miOwner": "Грязовецкое линейное производственное управление магистральных газопроводов",
+            "vrfDate": "15.07.2022",
+            "validDate": "14.07.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-БК\/15-07-2022\/172013173",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "47483.11.2Р.00590367",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/590367",
+                    "mitypeNumber": "47483-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358756",
+                    "mitypeTitle": "Установки вибрационные поверочные",
+                    "notation": "ВМВП",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "12301",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "number": "232-0728"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Модульный блок Bently Nevada 3500\/05-02-04-00-00-00 MOD  04G00S60,Датчик Bently Nevada 3300 XL 8MM 330105-02-12-10-02-05  04G00RYW,Датчики Bently Nevada 3300 XL 8MM 135834-40-64-92-22-10 № 04G00NZY, 03J00ZJ3, 03J00ZHE, 04G00P00 ,Проксиметр Bently Nevada Proximitor 330180-51-05  04G00RYW,Проксиметры Bently Nevada Proximitor 330180-91-05 № 04G00RJ2, 04G00RJH, 03J00W32, 03J00W34.",
+            "briefIndicator": false
+        }
+    },
+    "172013172": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "03O00H74",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОЛОГОДСКОЙ ОБЛАСТИ\"(ФБУ \"ВОЛОГОДСКИЙ ЦСМ\")",
+            "signCipher": "БК",
+            "miOwner": "Грязовецкое линейное производственное управление магистральных газопроводов",
+            "vrfDate": "15.07.2022",
+            "validDate": "14.07.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-БК\/15-07-2022\/172013172",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "47483.11.2Р.00590367",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/590367",
+                    "mitypeNumber": "47483-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358756",
+                    "mitypeTitle": "Установки вибрационные поверочные",
+                    "notation": "ВМВП",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "12301",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "number": "232-0728"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Модульный блок Bently Nevada 3500\/05-02-04-00-00-00 MOD  03O00H74,Датчик Bently Nevada 3300 XL 8MM 330105-02-12-10-02-05  03J00TCC,Датчики Bently Nevada 3300 XL 8MM 135834-40-64-92-22-10 № 03J00ZJ5, 03J00ZJ0, 03J00ZJ2, 03J00XPU ,Проксиметр Bently Nevada Proximitor 330180-51-05  03J00W31,Проксиметры Bently Nevada Proximitor 330180-91-05 № 04G00RJJ, 03J00UZ23, 03J00UZ4, 03L00XKY.",
+            "briefIndicator": false
+        }
+    },
+    "165106878": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "07C022H4",
+                "modification": "BN-3500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ИМ. Б.А. ДУБОВИКОВА В САРАТОВСКОЙ ОБЛАСТИ\"(ФБУ \"САРАТОВСКИЙ ЦСМ ИМ. Б.А. ДУБОВИКОВА\")",
+            "signCipher": "ВУ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "22.06.2022",
+            "validDate": "21.06.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-ВУ\/22-06-2022\/165106878",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "50247.12.2Р.00180126",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180126",
+                    "mitypeNumber": "50247-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362044",
+                    "mitypeTitle": "Виброустановки калибровочные портативные",
+                    "notation": "9100D и 9110D",
+                    "modification": "9110D",
+                    "manufactureNum": "10626",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649220": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "07F00KET\/MAYR114177",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649220",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649221": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "07F00KG0\/MAYR114168",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649221",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649210": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "MAYR114175",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649210",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649211": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "07F00KEY\/MAYR114555",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649211",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649212": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "MAYR114178",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649212",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649213": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "JUNR480531\/MAYR114180",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649213",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649214": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "JUNR480528\/MAYR114560",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649214",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649215": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "SEPY482705\/MAYR114562",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649215",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649216": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "07E0046B\/MAYR114556",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649216",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649217": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "SEPY482701\/MAYR114169",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649217",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649218": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "JUNR480501\/MAYR114179",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649218",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649219": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "JUNR480503\/MAYR114550",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649219",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649207": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "07F0046A\/MAYR114551",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649207",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649208": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "07F00466\/MAYR114176",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649208",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "138649209": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15540-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313659",
+                "mitypeType": "BN-1701, BN-1900, BN-3300, BN-3500, BN-TK77, BN-TK81, BN-TK83, BN-TK84, BN-TK85",
+                "mitypeTitle": "Аппаратура виброизмерительная",
+                "manufactureNum": "JUNR480525\/MAYR114170",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ПАО АНК \"Башнефть\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-2009",
+            "applicable": {
+                "certNum": "С-АБ\/10-02-2022\/138649209",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25732.03.2Р.00266074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/266074",
+                    "mitypeNumber": "25732-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331505",
+                    "mitypeTitle": "Калибраторы",
+                    "notation": "8003",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "42200021",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №2772 от 27.12.2018. ГПС для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

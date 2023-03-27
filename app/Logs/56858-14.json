@@ -1,0 +1,50 @@
+{
+    "127663034": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "56858-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369635",
+                "mitypeType": "ГКВ-01",
+                "mitypeTitle": "Аппаратура контроля и измерения виброскорости",
+                "manufactureNum": "06АПЕКС",
+                "modification": "Armed"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В УДМУРТСКОЙ РЕСПУБЛИКЕ\"(ФБУ \"УДМУРТСКИЙ ЦСМ\")",
+            "signCipher": "АО",
+            "miOwner": "ООО \"ЦПС \"АПЕКС\"",
+            "vrfDate": "31.01.2022",
+            "validDate": "30.01.2024",
+            "vriType": "2",
+            "docTitle": "Р 1323565.2.001-2018 \"ГСИ. Измерители артериального давления неинвазивные. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-АО\/31-01-2022\/127663034",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "44539.10.РЭ.00351707",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/351707",
+                    "mitypeNumber": "44539-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355394",
+                    "mitypeTitle": "Установки для поверки каналов измерения давления и частоты пульса",
+                    "notation": "УПКД-2",
+                    "modification": "-",
+                    "manufactureNum": "031",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3464 от 30.12.2019 г. \"Об утверждении ГПС для электродиагностических СИ медицинского назначения\""
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "0-705\/1-01"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "172928931": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4157-74",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351923",
+                "mitypeType": "ТСП-723",
+                "mitypeTitle": "Термометры сопротивления",
+                "manufactureNum": "388-6",
+                "modification": "ТСП-753"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СОЛИКАМСКИЙ ЗАВОД \"УРАЛ\"(АО\"СОЛИКАМСКИЙ ЗАВОД \"УРАЛ\")",
+            "signCipher": "БОЧ",
+            "miOwner": "АО \"Соликамский завод\"Урал\"",
+            "vrfDate": "07.04.2022",
+            "validDate": "06.04.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.461-82",
+            "applicable": {
+                "certNum": "С-БОЧ\/07-04-2022\/172928931",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "70903.18.2Р.00188148",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/188148",
+                    "mitypeNumber": "70903-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395883",
+                    "mitypeTitle": "Термометры сопротивления эталонные",
+                    "notation": "ЭТС-100М",
+                    "modification": "исполнение ЭТС-100М2",
+                    "manufactureNum": "237",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009 \"ГСИ. Государственная поверочная схема для средств измерений температуры\""
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

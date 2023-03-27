@@ -1,0 +1,50 @@
+{
+    "164861603": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "57781-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370701",
+                "mitypeType": "OT248",
+                "mitypeTitle": "Вольтметр переменного тока",
+                "manufactureNum": "174795",
+                "modification": "OT248"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "17.05.2022",
+            "validDate": "16.05.2024",
+            "vriType": "2",
+            "docTitle": "МП 57781-14 \"Вольтметр переменного тока OT248. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-М\/17-05-2022\/164861603",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25985.09.3Р.00480083",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/480083",
+                    "mitypeNumber": "25985-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331875",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "9100, 9100E",
+                    "modification": "9100",
+                    "manufactureNum": "133561055",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Метрологические характеристики соответствуют паспортным данным"
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "166786435": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14236-94",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/310798",
+                "mitypeType": "Тепло-1",
+                "mitypeTitle": "Системы теплоизмерительные",
+                "manufactureNum": "110184",
+                "manufactureYear": 2004,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОЯРСКОМ КРАЕ, РЕСПУБЛИКЕ ХАКАСИЯ И РЕСПУБЛИКЕ ТЫВА\"(ФБУ \"КРАСНОЯРСКИЙ ЦСМ\")",
+            "signCipher": "АШ",
+            "miOwner": "ЮЛ",
+            "vrfDate": "28.06.2022",
+            "validDate": "27.06.2023",
+            "vriType": "2",
+            "docTitle": "1718-001-02068953-94 МИ",
+            "applicable": {
+                "certNum": "С-АШ\/28-06-2022\/166786435",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "24630.03.1Р.01906",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/1906",
+                    "mitypeNumber": "24630-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/329827",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "УПСЖ 150",
+                    "modification": "УПСЖ150\/В",
+                    "manufactureNum": "035",
+                    "manufactureYear": 2005,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ФАТР № 256 от 07.02.2018."
+                },
+                {
+                    "regNumber": "36814.08.4Р.00366884",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/366884",
+                    "mitypeNumber": "36814-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346235",
+                    "mitypeTitle": "Калибраторы промышленных процессов универсальные",
+                    "notation": "АКИП-7301",
+                    "modification": "АКИП-7301",
+                    "manufactureNum": "995699746",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приложение к приказу Росстандарта №3456 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "36814.08.3Р.00366885",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/366885",
+                    "mitypeNumber": "36814-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346235",
+                    "mitypeTitle": "Калибраторы промышленных процессов универсальные",
+                    "notation": "АКИП-7301",
+                    "modification": "АКИП-7301",
+                    "manufactureNum": "995699746",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приложение к приказу Росстандарта №3457 от 30 декабря 2019 г."
+                },
+                {
+                    "regNumber": "36814.08.2Р.00366886",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/366886",
+                    "mitypeNumber": "36814-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346235",
+                    "mitypeTitle": "Калибраторы промышленных процессов универсальные",
+                    "notation": "АКИП-7301",
+                    "modification": "АКИП-7301",
+                    "manufactureNum": "995699746",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приложение к приказу Росстандарта №2091 от 01октября2018 г."
+                }
+            ]
+        },
+        "info": {
+            "structure": "Электронный блок \"Тепло-1\" №110184; Первичный преобразователь расхода типа РОСТ-1 ФМ Ду-25 №0077; Первичный преобразователь расхода типа РОСТ-1 ФМ Ду-100 №0026.",
+            "briefIndicator": false
+        }
+    }
+}

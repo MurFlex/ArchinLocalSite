@@ -1,0 +1,72 @@
+{
+    "133763968": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "27937-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334762",
+                "mitypeType": "ИПС",
+                "mitypeTitle": "Потенциостаты-гальваностаты",
+                "manufactureNum": "0213",
+                "manufactureYear": 2013,
+                "modification": "\"ИПС\""
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО «Екатеринбургский завод по обработке цветных металлов»",
+            "vrfDate": "16.02.2022",
+            "validDate": "15.02.2023",
+            "vriType": "2",
+            "docTitle": "МП 203-0095-2009 \"Потенциостат-гальваностат \"ИПС\"",
+            "applicable": {
+                "certNum": "С-СП\/16-02-2022\/133763968",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25984.03.2Р.00334512",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/334512",
+                    "mitypeNumber": "25984-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331871",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A",
+                    "modification": "8508A",
+                    "manufactureNum": "967456572",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "25984.03.1Р.00334530",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/334530",
+                    "mitypeNumber": "25984-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331871",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "8508A",
+                    "modification": "8508A",
+                    "manufactureNum": "967456572",
+                    "manufactureYear": 2008,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ от 01.10.2018 № 2091"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "11519-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306186",
+                    "mitypeTitle": "Секундомеры механические",
+                    "number": "1930"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

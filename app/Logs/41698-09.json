@@ -1,0 +1,65 @@
+{
+    "142885179": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "41698-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/352067",
+                "mitypeType": "Поток-С, Поток-М, Поток-Д",
+                "mitypeTitle": "Комплексы аппаратно-программные",
+                "manufactureNum": "5289",
+                "modification": "ПОТОК-Д"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "ГАЗПРОМ ТРАНСГАЗ СУРГУТ ООО",
+            "vrfDate": "02.03.2022",
+            "validDate": "01.03.2023",
+            "vriType": "2",
+            "docTitle": "в соответствии с методикой поверки, утвержденной ГЦИ СИ ФГУП «РОСТЕСТ - МОСКВА» в октябре 2009 г. и входящей в состав Руководств",
+            "applicable": {
+                "certNum": "С-ВЯ\/02-03-2022\/142885179",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "40725.09.РЭ.00180169",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180169",
+                    "mitypeNumber": "40725-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350928",
+                    "mitypeTitle": "Имитаторы скорости движения",
+                    "notation": "ИС-24\/2",
+                    "modification": "ИС-24\/2",
+                    "manufactureNum": "048",
+                    "manufactureYear": 2014,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ЛПС ФБУ «Тюменский ЦСМ» средств измерения условной линейной скорости"
+                },
+                {
+                    "regNumber": "70888.18.4Р.00300422",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300422",
+                    "mitypeNumber": "70888-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395868",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90",
+                    "modification": "CNT-90XL",
+                    "manufactureNum": "524109",
+                    "manufactureYear": 2021,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false,
+            "additional_info": "(id:3878654010073)"
+        }
+    }
+}

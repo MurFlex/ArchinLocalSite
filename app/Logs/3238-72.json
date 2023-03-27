@@ -1,0 +1,49 @@
+{
+    "202406975": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3238-72",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340694",
+                "mitypeType": "Р385",
+                "mitypeTitle": "Вольтфарадоомметры цифровые",
+                "manufactureNum": "0514",
+                "modification": "Р385"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЦЕНТРАЛЬНОЕ КОНСТРУКТОРСКОЕ БЮРО АВТОМАТИКИ\"(АО \"ЦКБА\")",
+            "signCipher": "ВАЦ",
+            "miOwner": "-",
+            "vrfDate": "14.10.2022",
+            "validDate": "13.10.2023",
+            "vriType": "2",
+            "docTitle": "руководство по эксплуатации, раздел  \"Методика поверки\"",
+            "applicable": {
+                "certNum": "С-ВАЦ\/14-10-2022\/202406975",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "50281.12.4Р.00277965",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/277965",
+                    "mitypeNumber": "50281-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362094",
+                    "mitypeTitle": "Меры электрического сопротивления постоянного тока многозначные",
+                    "notation": "МС 3070",
+                    "modification": "МС 3070-1",
+                    "manufactureNum": "044",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для СИ электрического сопротивления постоянного и переменного тока"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

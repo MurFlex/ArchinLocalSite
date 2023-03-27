@@ -1,0 +1,118 @@
+{
+    "167524306": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "65954-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379775",
+                "mitypeType": "ЕТ 91, ЕТ 92",
+                "mitypeTitle": "Комплексы измерительные ВЧ-связи",
+                "manufactureNum": "41СО624",
+                "modification": "ЕТ 91"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТУЛЬСКОЙ И ОРЛОВСКОЙ ОБЛАСТЯХ\"(ФБУ \"ТУЛЬСКИЙ ЦСМ\")",
+            "signCipher": "ВИ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "01.07.2022",
+            "validDate": "30.06.2024",
+            "vriType": "2",
+            "docTitle": "МП 65954-16",
+            "applicable": {
+                "certNum": "С-ВИ\/01-07-2022\/167524306",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "9084.83.4Р.00445609",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/445609",
+                    "mitypeNumber": "9084-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387755",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-63",
+                    "modification": "Ч3-63",
+                    "manufactureNum": "8908155",
+                    "manufactureYear": 1989,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«приказ Росстандарта №1621  от 31.07.2018 г »"
+                },
+                {
+                    "regNumber": "5477.76.1Р.00628368",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/628368",
+                    "mitypeNumber": "5477-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367253",
+                    "mitypeTitle": "Вольтметры переменного тока диодные компенсационные",
+                    "notation": "В3-49",
+                    "modification": "В3-49",
+                    "manufactureNum": "3239",
+                    "manufactureYear": 1991,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказа Росстандарта №1942 от 03.09.2021 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "131602480": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "65954-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379775",
+                "mitypeType": "ЕТ 91, ЕТ 92",
+                "mitypeTitle": "Комплексы измерительные ВЧ-связи",
+                "manufactureNum": "11K8099",
+                "modification": "ЕТ 92"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КООРДИНАЦИОННО-ИНФОРМАЦИОННОЕ АГЕНТСТВО\"(ООО \"КИА\")",
+            "signCipher": "ГДИ",
+            "miOwner": "ООО «АртКар»",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2024",
+            "vriType": "1",
+            "docTitle": "МП 65954-16",
+            "applicable": {
+                "certNum": "С-ГДИ\/10-02-2022\/131602480",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "5477.76.1Р.00279927",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279927",
+                    "mitypeNumber": "5477-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367253",
+                    "mitypeTitle": "Вольтметры переменного тока диодные компенсационные",
+                    "notation": "В3-49",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0684",
+                    "manufactureYear": 1989,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В. Приказ 1053"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "9084-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387755",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "8804429"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

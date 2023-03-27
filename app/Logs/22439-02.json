@@ -1,0 +1,91 @@
+{
+    "218051885": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "22439-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326284",
+                "mitypeType": "ТА-103",
+                "mitypeTitle": "Токосъемники",
+                "manufactureNum": "4",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЙ ИНСТИТУТ МОЩНОГО РАДИОСТРОЕНИЯ\"(АО \"РИМР\")",
+            "signCipher": "БЗР",
+            "miOwner": "ООО \"НИЦ\"",
+            "vrfDate": "25.01.2023",
+            "validDate": "24.01.2024",
+            "vriType": "2",
+            "docTitle": "раздел 6 3д4.833.003 РЭ",
+            "applicable": {
+                "certNum": "С-БЗР\/25-01-2023\/218051885",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25984.14.2Р.00426795",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/426795",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Fluke 8508A",
+                    "manufactureNum": "340670770",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "25984.14.1Р.00426798",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/426798",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Fluke 8508A",
+                    "manufactureNum": "340670770",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "69958.17.2Р.00538790",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/538790",
+                    "mitypeNumber": "69958-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384139",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP18T, NRP18TN, NRP33T, NRP33TN NRP40T, NRP40TN, NRP50T, NRP50TN, NRP67T, NRP67TN, NRP110T",
+                    "modification": "NRP18T",
+                    "manufactureNum": "102042",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 3461 от 30.12.2019"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "54004-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366407",
+                    "mitypeTitle": "Анализаторы спектра портативные",
+                    "number": "41690076"
+                },
+                {
+                    "mitypeNumber": "40102-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350202",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "TW00012152"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

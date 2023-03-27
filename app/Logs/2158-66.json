@@ -1,0 +1,64 @@
+{
+    "156078224": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "2158-66",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/324824",
+                "mitypeType": "ПО-5122",
+                "mitypeTitle": "Полярографы осциллографические",
+                "manufactureNum": "539",
+                "manufactureYear": 1967,
+                "modification": "ПО-5122"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "13.05.2022",
+            "validDate": "12.05.2023",
+            "vriType": "2",
+            "docTitle": "документом РД 50-267-81 МУ \"Методические указания по поверке полярографов\"",
+            "applicable": {
+                "certNum": "С-СЕ\/13-05-2022\/156078224",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 7255-96",
+                    "title": "СО СОСТАВА РАСТВОРА ИОНОВ МЕДИ (II)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/392559",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "1",
+                    "metroChars": "Диапазон измерений: Массовая концентрация ионов меди 1,02 мг\/см³, погрешность и (или) неопределенность (класс, разряд): δ = ± 1,0 %"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "51021-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362978",
+                    "mitypeTitle": "Приборы щитовые цифровые электроизмерительные",
+                    "number": "20392"
+                },
+                {
+                    "mitypeNumber": "20048-00",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322202",
+                    "mitypeTitle": "Линейки измерительные металлические с пределом измерения 150, 300, 500, 1000 мм",
+                    "number": "563-21"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39511475\/608"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "164461677": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62421-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375929",
+                "mitypeType": "Автопатруль Стоянка",
+                "mitypeTitle": "Системы видеофиксации нарушений правил парковки",
+                "manufactureNum": "00.00-06 16-133839",
+                "modification": "Автопатруль Стоянка"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СТАВРОПОЛЬСКОМ КРАЕ, РЕСПУБЛИКЕ ИНГУШЕТИЯ И КАРАЧАЕВО-ЧЕРКЕССКОЙ РЕСПУБЛИКЕ\"(ФБУ \"СЕВЕРО-КАВКАЗСКИЙ ЦСМ\")",
+            "signCipher": "АЬ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "17.06.2022",
+            "validDate": "16.06.2024",
+            "vriType": "1",
+            "docTitle": "ИБЯЛ.413411.053",
+            "applicable": {
+                "certNum": "С-АЬ\/17-06-2022\/164461677",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "44097.10.РЭ.15090",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/15090",
+                    "mitypeNumber": "44097-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354908",
+                    "mitypeTitle": "Модули коррекции времени",
+                    "notation": "МКВ-02Ц",
+                    "modification": "МКВ-02Ц",
+                    "manufactureNum": "77",
+                    "manufactureYear": 2018,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "СТВФ.424252.025МП; ГДЯК 468784.025 МП"
+                },
+                {
+                    "regNumber": "52614.13.РЭ.00381407",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/381407",
+                    "mitypeNumber": "52614-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364830",
+                    "mitypeTitle": "Аппаратура навигационно-временная потребителей глобальных навигационных спутниковых систем ГЛОНАСС\/GPS\/GALILEO\/SBAS",
+                    "notation": "NV08C-MCM, NV08C-CSM и NV08C-CSM-DR",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1145301",
+                    "manufactureYear": 2019,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "МП 52614-13 \"Инструкция.Аппаратура навигационно-временная потребителей глобальных навигационных спутниковых систем ГЛОНАСС\/GPS\/G"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "40908-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351138",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "number": "LCRY0102J20238"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

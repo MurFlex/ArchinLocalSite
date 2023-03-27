@@ -1,0 +1,270 @@
+{
+    "208808999": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "45462.10.2Р.00513773",
+                "mitypeNumber": "45462-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356453",
+                "mitypeTitle": "Установки для калибровки акселерометров ударом",
+                "mitypeType": "K9525C",
+                "modification": "K9525C",
+                "manufactureNum": "183",
+                "manufactureYear": 2017,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ 8.137-84"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "ФГУП \"ВНИИФТРИ\"",
+            "vrfDate": "15.12.2022",
+            "validDate": "14.12.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1826-88",
+            "applicable": {
+                "certNum": "С-М\/15-12-2022\/208808999",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "50255.12.1Р.50782",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/50782",
+                    "mitypeNumber": "50255-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362064",
+                    "mitypeTitle": "Акселерометры пьезоэлектрические",
+                    "notation": "301А12, 301М26 и 353В17",
+                    "modification": "301А12",
+                    "manufactureNum": "2985",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.137-84"
+                },
+                {
+                    "regNumber": "68875.17.1Р.00303730",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/303730",
+                    "mitypeNumber": "68875-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382972",
+                    "mitypeTitle": "Установки для поверки и калибровки виброизмерительных преобразователей",
+                    "notation": "9155",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "199",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГСИ. Государственный специальный эталон и государственная поверочная схема для средств измерений ускорения при ударном движении"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Возбудитель ударных нагрузок и система управления зав. № 183, эталонный преобразователь типа 301А12 № 3382, акселерометр 350А13 № 65032",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-208808999\/protocol"
+        }
+    },
+    "206198766": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "45462.10.1Р.00116072",
+                "mitypeNumber": "45462-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356453",
+                "mitypeTitle": "Установки для калибровки акселерометров ударом",
+                "mitypeType": "K9525C",
+                "modification": "K9525C",
+                "manufactureNum": "1D5D6F9",
+                "manufactureYear": 2018,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.137-84"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО «Альфатех», ООО «ПМЦ».",
+            "vrfDate": "05.12.2022",
+            "validDate": "04.12.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1826-88, ГОСТ ISO 16063-21-2013",
+            "applicable": {
+                "certNum": "С-СП\/05-12-2022\/206198766",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZСП.1206.2015",
+                    "title": "Государственный вторичный эталон единиц длины в диапазоне значений от 1·10[^-8] до 7,5·10[^-2] м, скорости в диапазоне значенийот 1·10[^-4] до 1·10[^-1] м\/с и ускорения в диапазоне значений от 3·10[^-2] до 4·10[^2] м\/с[^2] при колебательном движении твердого тела в диапазоне частот от 0,1 до 2·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/407476"
+                },
+                {
+                    "number": "2.1.ZСП.0731.2015",
+                    "title": "Государственный вторичный эталон (ВЭТ 57-02-03) единицы ускорения при ударном движении в диапазоне значений от 1·10[^2]до 1·10[^6] м\/с[^2] при длительностях фронта ударного импульса от 5 мс до 25 мкс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/445808"
+                }
+            ]
+        },
+        "info": {
+            "structure": "301А12, зав. № 3189; 350А13, зав. № 60114",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-206198766\/protocol"
+        }
+    },
+    "164557408": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "45462.10.1Р.00275102",
+                "mitypeNumber": "45462-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356453",
+                "mitypeTitle": "Установки для калибровки акселерометров ударом",
+                "mitypeType": "K9525C",
+                "modification": "K9525C",
+                "manufactureNum": "01DD6A0A",
+                "manufactureYear": 2020,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.137-84"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ФБУ \"Омский ЦСМ\"",
+            "vrfDate": "20.06.2022",
+            "validDate": "19.06.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1826-88; ГСИ. Акселерометры ударные. Методика поверки",
+            "applicable": {
+                "certNum": "С-СП\/20-06-2022\/164557408",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZСП.1206.2015",
+                    "title": "Государственный вторичный эталон единиц длины в диапазоне значений от 1·10[^-8] до 7,5·10[^-2] м, скорости в диапазоне значенийот 1·10[^-4] до 1·10[^-1] м\/с и ускорения в диапазоне значений от 3·10[^-2] до 4·10[^2] м\/с[^2] при колебательном движении твердого тела в диапазоне частот от 0,1 до 2·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/407476"
+                },
+                {
+                    "number": "2.1.ZСП.0731.2015",
+                    "title": "Государственный вторичный эталон (ВЭТ 57-02-03) единицы ускорения при ударном движении в диапазоне значений от 1·10[^2]до 1·10[^6] м\/с[^2] при длительностях фронта ударного импульса от 5 мс до 25 мкс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/445808"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-164557408\/protocol"
+        }
+    },
+    "164299672": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "45462.10.1Р.00352166",
+                "mitypeNumber": "45462-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356453",
+                "mitypeTitle": "Установки для калибровки акселерометров ударом",
+                "mitypeType": "K9525C",
+                "modification": "K9525C",
+                "manufactureNum": "19A1ED7",
+                "manufactureYear": 2014,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.137-84"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ФБУ \"РОСТЕСТ-МОСКВА\"",
+            "vrfDate": "17.06.2022",
+            "validDate": "16.06.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1826-88",
+            "applicable": {
+                "certNum": "С-СП\/17-06-2022\/164299672",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZСП.1206.2015",
+                    "title": "Государственный вторичный эталон единиц длины в диапазоне значений от 1·10[^-8] до 7,5·10[^-2] м, скорости в диапазоне значенийот 1·10[^-4] до 1·10[^-1] м\/с и ускорения в диапазоне значений от 3·10[^-2] до 4·10[^2] м\/с[^2] при колебательном движении твердого тела в диапазоне частот от 0,1 до 2·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/407476"
+                },
+                {
+                    "number": "2.1.ZСП.0731.2015",
+                    "title": "Государственный вторичный эталон (ВЭТ 57-02-03) единицы ускорения при ударном движении в диапазоне значений от 1·10[^2]до 1·10[^6] м\/с[^2] при длительностях фронта ударного импульса от 5 мс до 25 мкс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/445808"
+                }
+            ]
+        },
+        "info": {
+            "structure": "301A12 № 2574",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-164299672\/protocol"
+        }
+    },
+    "151310258": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "45462.10.1Р.00307989",
+                "mitypeNumber": "45462-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356453",
+                "mitypeTitle": "Установки для калибровки акселерометров ударом",
+                "mitypeType": "K9525C",
+                "modification": "K9525C",
+                "manufactureNum": "128",
+                "manufactureYear": 2011,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГОСТ 8.137-84"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ФБУ \"Тест-С.-Петербург\"",
+            "vrfDate": "25.04.2022",
+            "validDate": "24.04.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1826-88",
+            "applicable": {
+                "certNum": "С-СП\/25-04-2022\/151310258",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZСП.1206.2015",
+                    "title": "Государственный вторичный эталон единиц длины в диапазоне значений от 1·10[^-8] до 7,5·10[^-2] м, скорости в диапазоне значенийот 1·10[^-4] до 1·10[^-1] м\/с и ускорения в диапазоне значений от 3·10[^-2] до 4·10[^2] м\/с[^2] при колебательном движении твердого тела в диапазоне частот от 0,1 до 2·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/407476"
+                },
+                {
+                    "number": "2.1.ZСП.0731.2015",
+                    "title": "Государственный вторичный эталон (ВЭТ 57-02-03) единицы ускорения при ударном движении в диапазоне значений от 1·10[^2]до 1·10[^6] м\/с[^2] при длительностях фронта ударного импульса от 5 мс до 25 мкс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/445808"
+                }
+            ]
+        },
+        "info": {
+            "structure": "301A12 № 2276, 350A13 № 36473",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-151310258\/protocol",
+            "additional_info": "(196-98000) м\/с^2"
+        }
+    }
+}

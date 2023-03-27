@@ -1,0 +1,92 @@
+{
+    "205505921": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "13443-92",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/308993",
+                "mitypeType": "Ч1-82",
+                "mitypeTitle": "Стандарты частоты",
+                "manufactureNum": "005",
+                "manufactureYear": 1995,
+                "modification": "Ч1-82\/3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОЯРСКОМ КРАЕ, РЕСПУБЛИКЕ ХАКАСИЯ И РЕСПУБЛИКЕ ТЫВА\"(ФБУ \"КРАСНОЯРСКИЙ ЦСМ\")",
+            "signCipher": "АШ",
+            "miOwner": "ООО \"Аэропорт Емельяново\"",
+            "vrfDate": "01.12.2022",
+            "validDate": "30.11.2023",
+            "vriType": "2",
+            "docTitle": "\"Методика поверки\" ТО и РЭ",
+            "applicable": {
+                "certNum": "С-АШ\/01-12-2022\/205505921",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "49918.12.2Р.12853",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/12853",
+                    "mitypeNumber": "49918-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361647",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "ADS",
+                    "modification": "ADS-2221M",
+                    "manufactureNum": "1415201",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ № 3463 от «30» декабря 2019 г."
+                },
+                {
+                    "regNumber": "5480.76.4Р.00197716",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/197716",
+                    "mitypeNumber": "5480-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367290",
+                    "mitypeTitle": "Частотомеры электронно-счетные с преобразователями",
+                    "notation": "Ч3-54, Я3Ч-72, Я3Ч-87, Я3Ч-88",
+                    "modification": "Ч3-54",
+                    "manufactureNum": "409378",
+                    "manufactureYear": 1985,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ №1621 от 31.07.2018г."
+                },
+                {
+                    "regNumber": "40466.09.2Р.00679157",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/679157",
+                    "mitypeNumber": "40466-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389508",
+                    "mitypeTitle": "Стандарты частоты и времени водородные",
+                    "notation": "Ч1-1007",
+                    "modification": "нет",
+                    "manufactureNum": "059 13",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС\"Для средств измерений времени и частоты\" по приказу Росстандарта от 31.07.18 №1621"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "40727-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350930",
+                    "mitypeTitle": "Компараторы частотные",
+                    "number": "0719393"
+                },
+                {
+                    "mitypeNumber": "6882-87",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382910",
+                    "mitypeTitle": "Милливольтметры",
+                    "number": "4296"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

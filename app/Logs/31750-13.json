@@ -1,0 +1,751 @@
+{
+    "202653072": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "31750-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339848",
+                "mitypeType": "М2",
+                "mitypeTitle": "Вольтамперфазометры",
+                "manufactureNum": "499",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "18.11.2022",
+            "validDate": "17.11.2023",
+            "vriType": "2",
+            "docTitle": "МРБ МП. 1498-2005 «Вольтамперфазометр М2. Методика поверки»",
+            "applicable": {
+                "certNum": "С-ВЗ\/18-11-2022\/202653072",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "16688.97.СИ.00201807",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201807",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы переменного электрического тока от 1·10^-8 до 100 А в диапазоне частот от 1·10^-1 до 1·10^6 Гц (с изменениями"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00201808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201808",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ переменного электрического напряжения до 1000 В в диапазоне частот от 1∙10^-1 до 2∙10^9 Гц"
+                },
+                {
+                    "regNumber": "16688.97.СИ.00201987",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201987",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы постоянного электрического тока в диапазоне от  1∙10^-16 до 100 А"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00202452",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/202452",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "5929.77.2Р.00358075",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358075",
+                    "mitypeNumber": "5929-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372429",
+                    "mitypeTitle": "Установки поверочные полуавтоматические",
+                    "notation": "УППУ-1",
+                    "modification": "УППУ-1М",
+                    "manufactureNum": "067",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 1·10[^-1] до 2·10[^9] Гц"
+                },
+                {
+                    "regNumber": "5929.77.2Р.00358076",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358076",
+                    "mitypeNumber": "5929-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372429",
+                    "mitypeTitle": "Установки поверочные полуавтоматические",
+                    "notation": "УППУ-1",
+                    "modification": "УППУ-1М",
+                    "manufactureNum": "067",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений силы переменного электрического тока  от 1•10˄-8 до 100 А в диапазоне"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "57346-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370191",
+                    "mitypeTitle": "Установки поверочные универсальные",
+                    "number": "807"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "201404633": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "31750-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339848",
+                "mitypeType": "М2",
+                "mitypeTitle": "Вольтамперфазометры",
+                "manufactureNum": "501",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "15.11.2022",
+            "validDate": "14.11.2023",
+            "vriType": "2",
+            "docTitle": "МРБ МП. 1498-2005 «Вольтамперфазометр М2. Методика поверки»",
+            "applicable": {
+                "certNum": "С-ВЗ\/15-11-2022\/201404633",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "16688.97.СИ.00201807",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201807",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы переменного электрического тока от 1·10^-8 до 100 А в диапазоне частот от 1·10^-1 до 1·10^6 Гц (с изменениями"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00201808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201808",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ переменного электрического напряжения до 1000 В в диапазоне частот от 1∙10^-1 до 2∙10^9 Гц"
+                },
+                {
+                    "regNumber": "16688.97.СИ.00201987",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201987",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы постоянного электрического тока в диапазоне от  1∙10^-16 до 100 А"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00202452",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/202452",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "5929.77.2Р.00358075",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358075",
+                    "mitypeNumber": "5929-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372429",
+                    "mitypeTitle": "Установки поверочные полуавтоматические",
+                    "notation": "УППУ-1",
+                    "modification": "УППУ-1М",
+                    "manufactureNum": "067",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 1·10[^-1] до 2·10[^9] Гц"
+                },
+                {
+                    "regNumber": "5929.77.2Р.00358076",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358076",
+                    "mitypeNumber": "5929-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372429",
+                    "mitypeTitle": "Установки поверочные полуавтоматические",
+                    "notation": "УППУ-1",
+                    "modification": "УППУ-1М",
+                    "manufactureNum": "067",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений силы переменного электрического тока  от 1•10˄-8 до 100 А в диапазоне"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "57346-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370191",
+                    "mitypeTitle": "Установки поверочные универсальные",
+                    "number": "807"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "201404635": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "31750-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339848",
+                "mitypeType": "М2",
+                "mitypeTitle": "Вольтамперфазометры",
+                "manufactureNum": "500",
+                "manufactureYear": 2014,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "15.11.2022",
+            "validDate": "14.11.2023",
+            "vriType": "2",
+            "docTitle": "МРБ МП. 1498-2005 «Вольтамперфазометр М2. Методика поверки»",
+            "applicable": {
+                "certNum": "С-ВЗ\/15-11-2022\/201404635",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "16688.97.СИ.00201807",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201807",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы переменного электрического тока от 1·10^-8 до 100 А в диапазоне частот от 1·10^-1 до 1·10^6 Гц (с изменениями"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00201808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201808",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ переменного электрического напряжения до 1000 В в диапазоне частот от 1∙10^-1 до 2∙10^9 Гц"
+                },
+                {
+                    "regNumber": "16688.97.СИ.00201987",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201987",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы постоянного электрического тока в диапазоне от  1∙10^-16 до 100 А"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00202452",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/202452",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "5929.77.2Р.00358075",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358075",
+                    "mitypeNumber": "5929-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372429",
+                    "mitypeTitle": "Установки поверочные полуавтоматические",
+                    "notation": "УППУ-1",
+                    "modification": "УППУ-1М",
+                    "manufactureNum": "067",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 1·10[^-1] до 2·10[^9] Гц"
+                },
+                {
+                    "regNumber": "5929.77.2Р.00358076",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358076",
+                    "mitypeNumber": "5929-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372429",
+                    "mitypeTitle": "Установки поверочные полуавтоматические",
+                    "notation": "УППУ-1",
+                    "modification": "УППУ-1М",
+                    "manufactureNum": "067",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений силы переменного электрического тока  от 1•10˄-8 до 100 А в диапазоне"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "57346-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370191",
+                    "mitypeTitle": "Установки поверочные универсальные",
+                    "number": "807"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "201404634": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "31750-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339848",
+                "mitypeType": "М2",
+                "mitypeTitle": "Вольтамперфазометры",
+                "manufactureNum": "502",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "15.11.2022",
+            "vriType": "2",
+            "docTitle": "МРБ МП. 1498-2005 «Вольтамперфазометр М2. Методика поверки»",
+            "inapplicable": {
+                "noticeNum": "И-ВЗ\/15-11-2022\/201404634"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "16688.97.СИ.00201807",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201807",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы переменного электрического тока от 1·10^-8 до 100 А в диапазоне частот от 1·10^-1 до 1·10^6 Гц (с изменениями"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00201808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201808",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ переменного электрического напряжения до 1000 В в диапазоне частот от 1∙10^-1 до 2∙10^9 Гц"
+                },
+                {
+                    "regNumber": "16688.97.СИ.00201987",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201987",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы постоянного электрического тока в диапазоне от  1∙10^-16 до 100 А"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00202452",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/202452",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "5929.77.2Р.00358075",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358075",
+                    "mitypeNumber": "5929-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372429",
+                    "mitypeTitle": "Установки поверочные полуавтоматические",
+                    "notation": "УППУ-1",
+                    "modification": "УППУ-1М",
+                    "manufactureNum": "067",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 1·10[^-1] до 2·10[^9] Гц"
+                },
+                {
+                    "regNumber": "5929.77.2Р.00358076",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358076",
+                    "mitypeNumber": "5929-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372429",
+                    "mitypeTitle": "Установки поверочные полуавтоматические",
+                    "notation": "УППУ-1",
+                    "modification": "УППУ-1М",
+                    "manufactureNum": "067",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений силы переменного электрического тока  от 1•10˄-8 до 100 А в диапазоне"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "57346-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370191",
+                    "mitypeTitle": "Установки поверочные универсальные",
+                    "number": "807"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "173109067": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "31750-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339848",
+                "mitypeType": "М2",
+                "mitypeTitle": "Вольтамперфазометры",
+                "manufactureNum": "279",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "25.07.2022",
+            "validDate": "24.07.2023",
+            "vriType": "2",
+            "docTitle": "МРБ МП. 1498-2005 «Вольтамперфазометр М2. Методика поверки»",
+            "applicable": {
+                "certNum": "С-ВЗ\/25-07-2022\/173109067",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "16688.97.СИ.00201807",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201807",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы переменного электрического тока от 1·10^-8 до 100 А в диапазоне частот от 1·10^-1 до 1·10^6 Гц (с изменениями"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00201808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201808",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ переменного электрического напряжения до 1000 В в диапазоне частот от 1∙10^-1 до 2∙10^9 Гц"
+                },
+                {
+                    "regNumber": "16688.97.СИ.00201987",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201987",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы постоянного электрического тока в диапазоне от  1∙10^-16 до 100 А"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00202452",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/202452",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "5929.77.2Р.00358075",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358075",
+                    "mitypeNumber": "5929-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372429",
+                    "mitypeTitle": "Установки поверочные полуавтоматические",
+                    "notation": "УППУ-1",
+                    "modification": "УППУ-1М",
+                    "manufactureNum": "067",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 1·10[^-1] до 2·10[^9] Гц"
+                },
+                {
+                    "regNumber": "5929.77.2Р.00358076",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358076",
+                    "mitypeNumber": "5929-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372429",
+                    "mitypeTitle": "Установки поверочные полуавтоматические",
+                    "notation": "УППУ-1",
+                    "modification": "УППУ-1М",
+                    "manufactureNum": "067",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений силы переменного электрического тока  от 1•10˄-8 до 100 А в диапазоне"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "57346-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370191",
+                    "mitypeTitle": "Установки поверочные универсальные",
+                    "number": "807"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "173109066": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "31750-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339848",
+                "mitypeType": "М2",
+                "mitypeTitle": "Вольтамперфазометры",
+                "manufactureNum": "278",
+                "manufactureYear": 2014,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "25.07.2022",
+            "validDate": "24.07.2023",
+            "vriType": "2",
+            "docTitle": "МРБ МП. 1498-2005 «Вольтамперфазометр М2. Методика поверки»",
+            "applicable": {
+                "certNum": "С-ВЗ\/25-07-2022\/173109066",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "16688.97.СИ.00201807",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201807",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы переменного электрического тока от 1·10^-8 до 100 А в диапазоне частот от 1·10^-1 до 1·10^6 Гц (с изменениями"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00201808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201808",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ переменного электрического напряжения до 1000 В в диапазоне частот от 1∙10^-1 до 2∙10^9 Гц"
+                },
+                {
+                    "regNumber": "16688.97.СИ.00201987",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/201987",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы постоянного электрического тока в диапазоне от  1∙10^-16 до 100 А"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00202452",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/202452",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "021704",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "5929.77.2Р.00358075",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358075",
+                    "mitypeNumber": "5929-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372429",
+                    "mitypeTitle": "Установки поверочные полуавтоматические",
+                    "notation": "УППУ-1",
+                    "modification": "УППУ-1М",
+                    "manufactureNum": "067",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 1·10[^-1] до 2·10[^9] Гц"
+                },
+                {
+                    "regNumber": "5929.77.2Р.00358076",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358076",
+                    "mitypeNumber": "5929-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372429",
+                    "mitypeTitle": "Установки поверочные полуавтоматические",
+                    "notation": "УППУ-1",
+                    "modification": "УППУ-1М",
+                    "manufactureNum": "067",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений силы переменного электрического тока  от 1•10˄-8 до 100 А в диапазоне"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "57346-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370191",
+                    "mitypeTitle": "Установки поверочные универсальные",
+                    "number": "807"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

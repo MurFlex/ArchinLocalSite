@@ -1,0 +1,83 @@
+{
+    "220375433": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "55075.13.3Р.00417863",
+                "mitypeNumber": "55075-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367600",
+                "mitypeTitle": "Меры массы 60 кг специальные",
+                "mitypeType": "WS60F-1, WS60F-2",
+                "modification": "WS60F-2",
+                "manufactureNum": "32325533\/ABB",
+                "manufactureYear": 2014,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Государственная поверочная схема для средств измерений массы"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"САРТОГОСМ\"(ООО \"САРТОГОСМ\")",
+            "signCipher": "ВДВ",
+            "miOwner": "ФБУ \"ЦСМ им.А.М.Муратшина в Республике Башкортостан\"",
+            "vrfDate": "06.02.2023",
+            "validDate": "05.02.2026",
+            "vriType": "2",
+            "docTitle": "МП 2301-0140-2013",
+            "applicable": {
+                "certNum": "С-ВДВ\/06-02-2023\/220349455",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "23653.02.2Р.00940",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/940",
+                    "mitypeNumber": "23653-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328331",
+                    "mitypeTitle": "Гири классов точности E1, E2, F1 и F2",
+                    "notation": "Нет данных",
+                    "modification": "Гиря 20 kg F1",
+                    "manufactureNum": "18725004",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений массы"
+                },
+                {
+                    "regNumber": "23653.02.2Р.00961",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/961",
+                    "mitypeNumber": "23653-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328331",
+                    "mitypeTitle": "Гири классов точности E1, E2, F1 и F2",
+                    "notation": "Нет данных",
+                    "modification": "Гиря 20 kg F1",
+                    "manufactureNum": "18725003",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений массы"
+                },
+                {
+                    "regNumber": "52768.13.1Р.00679295",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/679295",
+                    "mitypeNumber": "52768-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365001",
+                    "mitypeTitle": "Гири от 1 мг до 20 кг классов точности Е1, Е2, F1, F2, М1",
+                    "notation": "Нет данных",
+                    "modification": "Гиря 20 кг Е2",
+                    "manufactureNum": "36825613",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений массы, приказ Росстандарт  от 4 июля 2022 года N 1622"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-220375433\/protocol"
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "211457940": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "44025-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354822",
+                "mitypeType": "8000 и 8001",
+                "mitypeTitle": "Преобразователи механического импеданса",
+                "manufactureNum": "30117",
+                "modification": "8001"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "19.12.2022",
+            "validDate": "18.12.2023",
+            "vriType": "2",
+            "docTitle": "МП 44025-10",
+            "applicable": {
+                "certNum": "С-М\/19-12-2022\/211457940",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "45344.10.4Р.00261311",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/261311",
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "notation": "DS360",
+                    "modification": "DS360",
+                    "manufactureNum": "61898",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 № 1621"
+                },
+                {
+                    "regNumber": "68875.17.ВЭ.00303731",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/303731",
+                    "mitypeNumber": "68875-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382972",
+                    "mitypeTitle": "Установки для поверки и калибровки виброизмерительных преобразователей",
+                    "notation": "9155",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1СВ15АВ",
+                    "manufactureYear": 2019,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                },
+                {
+                    "regNumber": "33921.07.3Р.00652867",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/652867",
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "Agilent 34410A, Agilent 34411A",
+                    "modification": "Agilent 34411A",
+                    "manufactureNum": "MY48000410",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.05.2018 г. № 1053"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "158672718": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44025.10.РЭ.00340184",
+                "mitypeNumber": "44025-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354822",
+                "mitypeTitle": "Преобразователи механического импеданса",
+                "mitypeType": "8000 и 8001",
+                "modification": "8000",
+                "manufactureNum": "449941",
+                "manufactureYear": 1973,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ЛПС СИ переменной силы ФБУ \"Тест-С.-Петербург\" (ЛПС 433\/8)"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\"",
+            "vrfDate": "19.05.2022",
+            "validDate": "18.05.2023",
+            "vriType": "2",
+            "docTitle": "Преобразователи механического импеданса типа 8000 и 8001 фирмы \"Bruel&Kjaer\", Дания, ГЦИ СИ ФГУП \"ВНИИМС\"",
+            "applicable": {
+                "certNum": "С-СП\/19-05-2022\/158668448",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZСП.1206.2015",
+                    "title": "Государственный вторичный эталон единиц длины в диапазоне значений от 1·10[^-8] до 7,5·10[^-2] м, скорости в диапазоне значенийот 1·10[^-4] до 1·10[^-1] м\/с и ускорения в диапазоне значений от 3·10[^-2] до 4·10[^2] м\/с[^2] при колебательном движении твердого тела в диапазоне частот от 0,1 до 2·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/407476"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "52768.13.4Р.00364812",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/364812",
+                    "mitypeNumber": "52768-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365001",
+                    "mitypeTitle": "Гири от 1 мг до 20 кг классов точности Е1, Е2, F1, F2, М1",
+                    "notation": "Нет данных",
+                    "modification": "Набор гирь (1g - 5kg) M1",
+                    "manufactureNum": "28825066",
+                    "manufactureYear": 2013,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 29.12.2018 №2818"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-158672718\/protocol",
+            "additional_info": "Ка = 3,58 пКл\/мс^-2; Кf = 376 пКл\/Н"
+        }
+    }
+}

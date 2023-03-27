@@ -1,0 +1,41 @@
+{
+    "152302479": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "45724-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389327",
+                "mitypeType": "АОG-110",
+                "mitypeTitle": "Генераторы сигналов вспомогательные",
+                "manufactureNum": "100000084",
+                "manufactureYear": 2009,
+                "modification": "AOG-110"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЛАВНЫЙ НАУЧНЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ(ФГБУ \"ГНМЦ\" МИНОБОРОНЫ РОССИИ)",
+            "signCipher": "ВХН",
+            "miOwner": "ФГБУ \"ГНМЦ\" Минобороны России",
+            "vrfDate": "28.04.2022",
+            "validDate": "27.04.2025",
+            "vriType": "2",
+            "docTitle": "Инструкция. Генераторы сигналов вспомогательные AOG-110 фирмы \"Symmetricom, Inc.\", США. Методика поверки",
+            "applicable": {
+                "certNum": "С-ВХН\/28-04-2022\/152302479",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ВХН.0025.2020",
+                    "title": "Вторичный эталон единиц времени и частоты ВЭ-31-16",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1384694"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

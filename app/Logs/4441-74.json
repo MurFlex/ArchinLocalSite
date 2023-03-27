@@ -1,0 +1,120 @@
+{
+    "200042206": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4441-74",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355273",
+                "mitypeType": "УС-1",
+                "mitypeTitle": "Прибор-согласующие устройства",
+                "manufactureNum": "4713",
+                "modification": "УС-1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ  ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РОСТОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТОВСКИЙ ЦСМ\")",
+            "signCipher": "ВР",
+            "miOwner": "АО <<АОМЗ>>",
+            "vrfDate": "08.11.2022",
+            "validDate": "07.11.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 «ГСИ. Виброметры с пьезоэлектрическими и индуктивными преобразователями. Методика поверки»",
+            "applicable": {
+                "certNum": "С-ВР\/08-11-2022\/200042206",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "45699.10.1Р.00451671",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/451671",
+                    "mitypeNumber": "45699-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356704",
+                    "mitypeTitle": "Станции для калибровки преобразователей вибрации",
+                    "notation": "9155",
+                    "modification": "9155D-830",
+                    "manufactureNum": "23435339",
+                    "manufactureYear": 2011,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ № 2772 от 27.12.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "structure": "Вибропреобразователь АВС036-02 811313275",
+            "briefIndicator": false,
+            "additional_info": "-"
+        }
+    },
+    "171234234": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "4441-74",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355273",
+                "mitypeType": "УС-1",
+                "mitypeTitle": "Прибор-согласующие устройства",
+                "manufactureNum": "38",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "01.07.2022",
+            "validDate": "30.06.2023",
+            "vriType": "2",
+            "docTitle": "УМЯИ 433.772.005 ТО (раздел 10)",
+            "applicable": {
+                "certNum": "С-ВЗ\/01-07-2022\/171234234",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "47717.11.3Р.00189838",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/189838",
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359044",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34410А, 34411А",
+                    "modification": "34410А",
+                    "manufactureNum": "MY53000518",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ переменного электрического напряжения до 1000 В в диапазоне частот от 1∙10^-1 до 2∙10^9 Гц"
+                },
+                {
+                    "regNumber": "9081.83.2Р.00208783",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/208783",
+                    "mitypeNumber": "9081-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387751",
+                    "mitypeTitle": "Измерители нелинейных искажений автоматические",
+                    "notation": "С6-11",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9102133",
+                    "manufactureYear": 1991,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная система обеспечения единства измерений. ГПС для средств измерений коэффициента гармоник"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "52150-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364297",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "MY40030230"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

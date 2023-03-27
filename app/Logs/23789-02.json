@@ -1,0 +1,91 @@
+{
+    "170558700": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "23789-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328503",
+                "mitypeType": "СК-2300",
+                "mitypeTitle": "Виброанализаторы",
+                "manufactureNum": "78",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОДАРСКОМ КРАЕ И РЕСПУБЛИКЕ АДЫГЕЯ\"(ФБУ \"Краснодарский ЦСМ\")",
+            "signCipher": "АУ",
+            "miOwner": "ООО \"Газпром трансгаз Краснодар\" Краснодарское ЛПУМГ",
+            "vrfDate": "30.05.2022",
+            "validDate": "29.05.2023",
+            "vriType": "2",
+            "docTitle": "МП ВНИИМС",
+            "applicable": {
+                "certNum": "С-АУ\/30-05-2022\/170558700",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "58770.14.1Р.00290285",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/290285",
+                    "mitypeNumber": "58770-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371863",
+                    "mitypeTitle": "Виброустановки поверочные",
+                    "notation": "DVC-500",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1441",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ]
+        },
+        "info": {
+            "structure": "вибропреобразователи № 0075, № 1050",
+            "briefIndicator": false,
+            "additional_info": "#midf419ce30-028e-11ed-8f7b-000c29b2a290"
+        }
+    },
+    "146351879": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "23789-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328503",
+                "mitypeType": "СК-2300",
+                "mitypeTitle": "Виброанализаторы",
+                "manufactureNum": "48",
+                "modification": "Без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ИТЦ - филиал ООО \"Газпром трансгаз Нижний Новгород\"",
+            "vrfDate": "05.04.2022",
+            "validDate": "04.04.2023",
+            "vriType": "2",
+            "docTitle": "МП 23789-02 «Методика поверки «Виброанализатор СК-2300»",
+            "applicable": {
+                "certNum": "С-БН\/05-04-2022\/146351879",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1645.2014",
+                    "title": "ГЭЕ длины, скорости и ускорения при колебательном движении твёрдого тела 2 разряда в диапазоне значений частот от 2·10[^-1] Гц до 2·10[^4] Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/411875"
+                }
+            ]
+        },
+        "info": {
+            "structure": "вибропробразователь ВП-5-А зав. № 0125; вибропробразователь ВП-3 зав. № 070",
+            "briefIndicator": false
+        }
+    }
+}

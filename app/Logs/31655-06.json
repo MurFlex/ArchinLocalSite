@@ -1,0 +1,69 @@
+{
+    "196054019": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "31655.06.РЭ.00696654",
+                "mitypeNumber": "31655-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339686",
+                "mitypeTitle": "Имитаторы скорости движения",
+                "mitypeType": "ИС-24П",
+                "modification": "ИС-24П",
+                "manufactureNum": "06",
+                "manufactureYear": 2006,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП Рег.№ 35953-12, 57978-14, 41005-09, 44841-10, 31474-06, 16561-05, 44840-10, 25783-03, 21364-01, 41558-09, 31473-06, 37926-13"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ  \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КЕМЕРОВСКОЙ ОБЛАСТИ - КУЗБАССЕ\"",
+            "vrfDate": "20.10.2022",
+            "validDate": "19.10.2024",
+            "vriType": "2",
+            "docTitle": "ГДЯК 464965.003 МП Имитатор скорости движения ИС-24П. Методика поверки",
+            "applicable": {
+                "certNum": "С-НН\/20-10-2022\/196054019",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41567.09.4Р.00214362",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/214362",
+                    "mitypeNumber": "41567-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351918",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-90, CNT-90XL, CNT-91, CNT-91R, CNT-92 с опциями: 10, 13, 14, 14B, 27G, 40G",
+                    "modification": "с опцией 40G",
+                    "manufactureNum": "125710",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "28768.05.2Р.00347364",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/347364",
+                    "mitypeNumber": "28768-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/335872",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "TDS5104B, TDS5032B, TDS5034B, TDS5052B, TDS5054B, TDS5054BE",
+                    "modification": "TDS5052B",
+                    "manufactureNum": "B020189",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 3463 от 30.12.2019"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-196054019\/protocol"
+        }
+    }
+}

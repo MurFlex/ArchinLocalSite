@@ -1,0 +1,79 @@
+{
+    "198607559": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "5897-77",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372078",
+                "mitypeType": "М 1610.ТД",
+                "mitypeTitle": "Приборы щитовые",
+                "manufactureNum": "40204",
+                "manufactureYear": 1982,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФИЛИАЛ ПУБЛИЧНОГО АКЦИОНЕРНОГО ОБЩЕСТВА \"ОБЪЕДИНЕННАЯ АВИАСТРОИТЕЛЬНАЯ КОРПОРАЦИЯ\" - КОМСОМОЛЬСКИЙ - НА - АМУРЕ АВИАЦИОННЫЙ ЗАВОД ИМЕНИ Ю.А. ГАГАРИНА(Филиал ПАО \"ОАК\" - КнААЗ им. Ю.А. Гагарина)",
+            "signCipher": "ББХ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "11.08.2022",
+            "validDate": "10.08.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.209-76 ГСИ. Логометры магнитоэлектрические. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-ББХ\/11-08-2022\/198607559",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "18624.99.4Р.00146140",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/146140",
+                    "mitypeNumber": "18624-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/319712",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MC5-R",
+                    "modification": "MC5-R",
+                    "manufactureNum": "25512931",
+                    "manufactureYear": 2003,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "18624.99.3Р.00146142",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/146142",
+                    "mitypeNumber": "18624-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/319712",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MC5-R",
+                    "modification": "MC5-R",
+                    "manufactureNum": "25512931",
+                    "manufactureYear": 2003,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "18624.99.2Р.00146153",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/146153",
+                    "mitypeNumber": "18624-99",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/319712",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MC5-R",
+                    "modification": "MC5-R",
+                    "manufactureNum": "25512931",
+                    "manufactureYear": 2003,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 01.10.2018 № 2091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "в диапазоне от -20 до 200 °C"
+        }
+    }
+}

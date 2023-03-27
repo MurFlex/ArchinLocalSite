@@ -1,0 +1,91 @@
+{
+    "142987065": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "47858.11.1Р.00579878",
+                "mitypeNumber": "47858-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359232",
+                "mitypeTitle": "Установки поверочные",
+                "mitypeType": "Аймитер",
+                "modification": "вариант 2",
+                "manufactureNum": "008",
+                "manufactureYear": 2016,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приказ Росстандарта №2825 от 29.12.2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "Всероссийский научно-исследовательский институт расходометрии — филиал Федерального государственного унитарного предприятия «Всероссийский научно- исследовательский институт метрологии им. Д.И.Менделеева»(ВНИИР – филиал ФГУП «ВНИИМ им. Д.И.Менделеева»)",
+            "signCipher": "З",
+            "miOwner": "-",
+            "vrfDate": "21.03.2022",
+            "validDate": "20.03.2024",
+            "vriType": "2",
+            "docTitle": "\"Инструкция. ГСИ. Установки поверочные \"Аймитер\". Методика поверки АСДТ 408 863.003МП\"",
+            "applicable": {
+                "certNum": "С-З\/21-03-2022\/142987065",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт118-2017",
+                    "title": "ГПЭ единиц объёмного и массового расходов газа",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397814"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "69551.17.3Р.00447808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/447808",
+                    "mitypeNumber": "69551-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383685",
+                    "mitypeTitle": "Термометры лабораторные электронные",
+                    "notation": "LTA",
+                    "modification": "LTA модификации LTA\/Б-Э",
+                    "manufactureNum": "870328",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "43560.10.2Р.00532385",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/532385",
+                    "mitypeNumber": "43560-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354272",
+                    "mitypeTitle": "Приборы цифровые для измерения давления",
+                    "notation": "DPI",
+                    "modification": "DPI (модификация DPI 740)",
+                    "manufactureNum": "74004204",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ №2900"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "41190-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351466",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "808"
+                },
+                {
+                    "mitypeNumber": "22237-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/397121",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "25519047"
+                }
+            ]
+        },
+        "info": {
+            "structure": "в соответствии с прилагаемым перечнем",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-142987065\/protocol"
+        }
+    }
+}

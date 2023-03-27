@@ -1,0 +1,82 @@
+{
+    "189536192": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "44807-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355712",
+                "mitypeType": "POS-1,2",
+                "mitypeTitle": "Магнитометры",
+                "manufactureNum": "203",
+                "modification": "POS-1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Открытое акционерное общество \"Научно-исследовательский институт электроизмерительных приборов\"",
+            "vrfDate": "27.09.2022",
+            "validDate": "26.09.2024",
+            "vriType": "2",
+            "docTitle": "МИ 156-78 «Методика поверки рабочих средств измерений магнитной индукции постоянного поля в диапазоне 1*10ˉ⁸ - 5*10ˉ² Тл»",
+            "applicable": {
+                "certNum": "С-В\/27-09-2022\/189536192",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт12-2021",
+                    "title": "ГПЭ единиц магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390912"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "в диапазоне измерений модуля магнитной индукции от 30000 до 90000 нТл",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-189536192\/protocol",
+            "additional_info": "#midfc1d5737-db93-44d0-8c1f-6cf4f2b9e1d2"
+        }
+    },
+    "184346986": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "44807-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355712",
+                "mitypeType": "POS-1,2",
+                "mitypeTitle": "Магнитометры",
+                "manufactureNum": "11",
+                "modification": "POS-1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Федеральное государственное автономное образовательное учреждение высшего профессионального образования \"Уральский федеральный университет имени первого Президента России Б.Н.Ельцина\"",
+            "vrfDate": "05.09.2022",
+            "validDate": "04.09.2024",
+            "vriType": "2",
+            "docTitle": "МИ 156-78 «Методика поверки рабочих средств измерений магнитной индукции постоянного поля  »",
+            "applicable": {
+                "certNum": "С-В\/05-09-2022\/184346986",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт12-2021",
+                    "title": "ГПЭ единиц магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390912"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid77ff3bfd-0e37-48e8-825a-8a818b9b71a1"
+        }
+    }
+}

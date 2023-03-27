@@ -1,0 +1,142 @@
+{
+    "207978944": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "5347-76",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365801",
+                "mitypeType": "Г6-10",
+                "mitypeTitle": "Измерители чувствительности",
+                "manufactureNum": "14386",
+                "modification": "Г6-10"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "09.12.2022",
+            "validDate": "08.12.2023",
+            "vriType": "2",
+            "docTitle": "Раздел «Поверка» ЕЕ2.749.044 ТО",
+            "applicable": {
+                "certNum": "С-ДИЭ\/09-12-2022\/207978944",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "31112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338979",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "number": "32569"
+                },
+                {
+                    "mitypeNumber": "10908-87",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305349",
+                    "mitypeTitle": "Вольтметры переменного тока",
+                    "number": "56984"
+                },
+                {
+                    "mitypeNumber": "10237-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390636",
+                    "mitypeTitle": "Генераторы сигналов низкочастотные прецизионные",
+                    "number": "12587"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "151292035": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "5347-76",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365801",
+                "mitypeType": "Г6-10",
+                "mitypeTitle": "Измерители чувствительности",
+                "manufactureNum": "14385",
+                "modification": "Г6-10"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННАЯ КОМПАНИЯ АВИАПРИБОР\"(ООО \"НПК АВИАПРИБОР\")",
+            "signCipher": "ГКГ",
+            "miOwner": "ОАО\"20 АРЗ\"",
+            "vrfDate": "24.04.2022",
+            "validDate": "23.04.2023",
+            "vriType": "2",
+            "docTitle": "Раздел «Поверка» ЕЕ2.749.044 ТО",
+            "applicable": {
+                "certNum": "С-ГКГ\/24-04-2022\/151292035",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "10908.87.2Р.00185960",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/185960",
+                    "mitypeNumber": "10908-87",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305349",
+                    "mitypeTitle": "Вольтметры переменного тока",
+                    "notation": "В3-63",
+                    "modification": "В3-63 - 2 разряд",
+                    "manufactureNum": "0417",
+                    "manufactureYear": 1990,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 29.05.2018  №1053"
+                },
+                {
+                    "regNumber": "31112.12.3Р.00534122",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/534122",
+                    "mitypeNumber": "31112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338979",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "FE-5650A, FE-5680A",
+                    "modification": "FE-5680A",
+                    "manufactureNum": "1326-146268",
+                    "manufactureYear": 2013,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения времени и частоты"
+                },
+                {
+                    "regNumber": "10237.85.4Р.00557208",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/557208",
+                    "mitypeNumber": "10237-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304424",
+                    "mitypeTitle": "Генераторы сигналов низкочастотные прецизионные",
+                    "notation": "Г3-122",
+                    "modification": "Г3-122",
+                    "manufactureNum": "3414",
+                    "manufactureYear": 1998,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "30556-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338263",
+                    "mitypeTitle": "Частотомеры электронные цифровые",
+                    "number": "907018"
+                },
+                {
+                    "mitypeNumber": "67514-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381476",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "121-236340000-0267"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

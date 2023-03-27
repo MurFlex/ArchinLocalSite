@@ -1,0 +1,2970 @@
+{
+    "219745256": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00779675",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0,1",
+                "manufactureNum": "Р128",
+                "manufactureYear": 1978,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ Росстандарта №2498 от 22 октября 2019 года"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "02.02.2023",
+            "validDate": "01.02.2024",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/02-02-2023\/219745256",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор ИЧ-10 №76535",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-219745256\/protocol"
+        }
+    },
+    "219875434": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р391",
+                "manufactureYear": 1982,
+                "modification": "ДОР-0,1тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ТЕХНИЧЕСКОЙ ФИЗИКИ ИМЕНИ АКАДЕМИКА Е.И. ЗАБАБАХИНА\"(ФГУП \"РФЯЦ - ВНИИТФ ИМ. АКАДЕМ. Е.И. ЗАБАБАХИНА\")",
+            "signCipher": "АБУ",
+            "miOwner": "ФГУП \"РФЯЦ - ВНИИТФ им. академ. Е.И. Забабахина\"",
+            "vrfDate": "31.01.2023",
+            "validDate": "30.01.2024",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-АБУ\/31-01-2023\/219875434",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "49465.12.2Р.00146557",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/146557",
+                    "mitypeNumber": "49465-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361123",
+                    "mitypeTitle": "Динамометры электронные переносные",
+                    "notation": "АЦД",
+                    "modification": "АЦДУ-5\/1И-00",
+                    "manufactureNum": "2086",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы (утверждена приказом Росстандарта от 22 октября 2019 г. № 2498)"
+                },
+                {
+                    "regNumber": "49465.12.2Р.00500633",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/500633",
+                    "mitypeNumber": "49465-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361123",
+                    "mitypeTitle": "Динамометры электронные переносные",
+                    "notation": "АЦД",
+                    "modification": "АЦДУ-0,5\/1И-00",
+                    "manufactureNum": "4457",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерения силы (утверждена приказом Росстандарта от 22 октября 2019 г. №2498)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "22129-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325758",
+                    "mitypeTitle": "Термогигрометры электронные",
+                    "number": "190305876"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Индикатор ИЧ-10 №276955",
+            "briefIndicator": false
+        }
+    },
+    "210520811": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00474519",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0.1тс",
+                "manufactureNum": "Р555",
+                "manufactureYear": 1976,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ Росстандарта №2498 от 22 октября 2019 года"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ФБУ \"Мордовский ЦСМ\"",
+            "vrfDate": "22.12.2022",
+            "validDate": "21.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/22-12-2022\/210520811",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор ИЧ-10 №423017",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-210520811\/protocol"
+        }
+    },
+    "209661875": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00747407",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0,1",
+                "manufactureNum": "Р484",
+                "manufactureYear": 1979,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ Росстандарта №2498 от 22 октября 2019 года"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ООО \"КироМ\"",
+            "vrfDate": "20.12.2022",
+            "validDate": "19.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/20-12-2022\/209661875",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор ИЧ-10 №641682",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-209661875\/protocol"
+        }
+    },
+    "207572995": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00739288",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0,3",
+                "manufactureNum": "р 428",
+                "manufactureYear": 1979,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ Росстандарта №2498 от 22 октября 2019 года"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "12.12.2022",
+            "validDate": "11.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/12-12-2022\/207572995",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор ИЧ-10 №90254885",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-207572995\/protocol"
+        }
+    },
+    "207510892": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "р582",
+                "modification": "модификация ДОР-0,3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "Владелец",
+            "vrfDate": "12.12.2022",
+            "validDate": "11.12.2023",
+            "vriType": "1",
+            "docTitle": "И 44-64",
+            "applicable": {
+                "certNum": "С-ТТ\/12-12-2022\/207510892",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZТТ.0008.2021",
+                    "title": "Государственный рабочий эталон единиц силы 1 разряда в диапазоне значений от 10 Н до 5 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1391343"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор № 360",
+            "briefIndicator": false
+        }
+    },
+    "206660987": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00493518",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0.5тс",
+                "manufactureNum": "р38",
+                "manufactureYear": 1974,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ Росстандарта №2498 от 22 октября 2019 года"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "АО \"АПЗ\"",
+            "vrfDate": "08.12.2022",
+            "validDate": "07.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/08-12-2022\/206660987",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор ИЧ-10 №338",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-206660987\/protocol"
+        }
+    },
+    "206238978": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "р2211",
+                "manufactureYear": 1969,
+                "modification": "ДОР-0,3тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В УДМУРТСКОЙ РЕСПУБЛИКЕ\"(ФБУ \"УДМУРТСКИЙ ЦСМ\")",
+            "signCipher": "АО",
+            "miOwner": "АО \"ИЭМЗ\" Купол\"",
+            "vrfDate": "05.12.2022",
+            "validDate": "04.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-АО\/05-12-2022\/206238978",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZAO.0014.2012",
+                    "title": "Государственный рабочий эталон единицы силы 1 разряда в диапазоне измерений от 100 до 5000 кгс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/431976"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "811.61.3Р.00540680",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/540680",
+                    "mitypeNumber": "811-61",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386423",
+                    "mitypeTitle": "Гири образцовые 3-го разряда",
+                    "notation": "Нет данных",
+                    "modification": "-",
+                    "manufactureNum": "105",
+                    "manufactureYear": 1965,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2818 от 29.12.2018 г."
+                },
+                {
+                    "regNumber": "811.61.3Р.00540681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/540681",
+                    "mitypeNumber": "811-61",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386423",
+                    "mitypeTitle": "Гири образцовые 3-го разряда",
+                    "notation": "Нет данных",
+                    "modification": "-",
+                    "manufactureNum": "104",
+                    "manufactureYear": 1965,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2818 от 29.12.2018 г."
+                },
+                {
+                    "regNumber": "811.61.3Р.00540682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/540682",
+                    "mitypeNumber": "811-61",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386423",
+                    "mitypeTitle": "Гири образцовые 3-го разряда",
+                    "notation": "Нет данных",
+                    "modification": "-",
+                    "manufactureNum": "103",
+                    "manufactureYear": 1965,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2818 от 29.12.2018 г."
+                },
+                {
+                    "regNumber": "811.61.3Р.00540683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/540683",
+                    "mitypeNumber": "811-61",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386423",
+                    "mitypeTitle": "Гири образцовые 3-го разряда",
+                    "notation": "Нет данных",
+                    "modification": "-",
+                    "manufactureNum": "102",
+                    "manufactureYear": 1965,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2818 от 29.12.2018 г."
+                },
+                {
+                    "regNumber": "811.61.3Р.00540684",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/540684",
+                    "mitypeNumber": "811-61",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386423",
+                    "mitypeTitle": "Гири образцовые 3-го разряда",
+                    "notation": "Нет данных",
+                    "modification": "-",
+                    "manufactureNum": "101",
+                    "manufactureYear": 1965,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2818 от 29.12.2018 г."
+                },
+                {
+                    "regNumber": "27134.04.4Р.00551536",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551536",
+                    "mitypeNumber": "27134-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333626",
+                    "mitypeTitle": "Гири класса точности М1",
+                    "notation": "Нет данных",
+                    "modification": "-",
+                    "manufactureNum": "5010309",
+                    "manufactureYear": 2005,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2818 от 29.12.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор №947921",
+            "briefIndicator": false,
+            "additional_info": "0-20876"
+        }
+    },
+    "206238976": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "р2238",
+                "manufactureYear": 1968,
+                "modification": "ДОР-0,1тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В УДМУРТСКОЙ РЕСПУБЛИКЕ\"(ФБУ \"УДМУРТСКИЙ ЦСМ\")",
+            "signCipher": "АО",
+            "miOwner": "АО \"ИЭМЗ\" Купол\"",
+            "vrfDate": "05.12.2022",
+            "validDate": "04.12.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-АО\/05-12-2022\/206238976",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZAO.0014.2012",
+                    "title": "Государственный рабочий эталон единицы силы 1 разряда в диапазоне измерений от 100 до 5000 кгс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/431976"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "811.61.3Р.00540680",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/540680",
+                    "mitypeNumber": "811-61",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386423",
+                    "mitypeTitle": "Гири образцовые 3-го разряда",
+                    "notation": "Нет данных",
+                    "modification": "-",
+                    "manufactureNum": "105",
+                    "manufactureYear": 1965,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2818 от 29.12.2018 г."
+                },
+                {
+                    "regNumber": "811.61.3Р.00540681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/540681",
+                    "mitypeNumber": "811-61",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386423",
+                    "mitypeTitle": "Гири образцовые 3-го разряда",
+                    "notation": "Нет данных",
+                    "modification": "-",
+                    "manufactureNum": "104",
+                    "manufactureYear": 1965,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2818 от 29.12.2018 г."
+                },
+                {
+                    "regNumber": "811.61.3Р.00540682",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/540682",
+                    "mitypeNumber": "811-61",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386423",
+                    "mitypeTitle": "Гири образцовые 3-го разряда",
+                    "notation": "Нет данных",
+                    "modification": "-",
+                    "manufactureNum": "103",
+                    "manufactureYear": 1965,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2818 от 29.12.2018 г."
+                },
+                {
+                    "regNumber": "811.61.3Р.00540683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/540683",
+                    "mitypeNumber": "811-61",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386423",
+                    "mitypeTitle": "Гири образцовые 3-го разряда",
+                    "notation": "Нет данных",
+                    "modification": "-",
+                    "manufactureNum": "102",
+                    "manufactureYear": 1965,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2818 от 29.12.2018 г."
+                },
+                {
+                    "regNumber": "811.61.3Р.00540684",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/540684",
+                    "mitypeNumber": "811-61",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386423",
+                    "mitypeTitle": "Гири образцовые 3-го разряда",
+                    "notation": "Нет данных",
+                    "modification": "-",
+                    "manufactureNum": "101",
+                    "manufactureYear": 1965,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2818 от 29.12.2018 г."
+                },
+                {
+                    "regNumber": "27134.04.4Р.00551536",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551536",
+                    "mitypeNumber": "27134-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333626",
+                    "mitypeTitle": "Гири класса точности М1",
+                    "notation": "Нет данных",
+                    "modification": "-",
+                    "manufactureNum": "5010309",
+                    "manufactureYear": 2005,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2818 от 29.12.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор №9271731",
+            "briefIndicator": false,
+            "additional_info": "0-20876"
+        }
+    },
+    "204695014": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р182",
+                "modification": "ДОР-0,5 тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ИВАНОВСКОЙ ОБЛАСТИ\"(ФБУ \"ИВАНОВСКИЙ ЦСМ\")",
+            "signCipher": "БО",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "30.11.2022",
+            "validDate": "29.11.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БО\/30-11-2022\/204695014",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1834.63.3Р.00242924",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/242924",
+                    "mitypeNumber": "1834-63",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/319179",
+                    "mitypeTitle": "Динамометры",
+                    "notation": "ДО-2-5",
+                    "modification": "-",
+                    "manufactureNum": "12",
+                    "manufactureYear": 1963,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №2498 от 22 октября 2019 г."
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор №72472",
+            "briefIndicator": false
+        }
+    },
+    "204764004": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р326",
+                "modification": "ДОР-0.1тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Тверской области\"(ФБУ \"Тверской ЦСМ\")",
+            "signCipher": "БТ",
+            "miOwner": "Владелец",
+            "vrfDate": "30.11.2022",
+            "validDate": "29.11.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БТ\/30-11-2022\/204764004",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБТ.0319.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 0,5 до 50 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/415741"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "811.66.4Р.00178951",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/178951",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1-100",
+                    "manufactureYear": 1966,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 2818 от 29.12.2018"
+                },
+                {
+                    "regNumber": "67.47.4Р.00192740",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/192740",
+                    "mitypeNumber": "67-47",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380904",
+                    "mitypeTitle": "Гири технические 3-го класса чугунные, массой 20, 10, 5, 2 и 1 кг и 500, 200, 100 и 50 г",
+                    "notation": "Нет данных",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "4",
+                    "manufactureYear": 1976,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 2818 от 29.12.2018"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Индикатор часового типа 46052",
+            "briefIndicator": false
+        }
+    },
+    "201222393": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р287",
+                "modification": "ДОР-0,1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОЯРСКОМ КРАЕ, РЕСПУБЛИКЕ ХАКАСИЯ И РЕСПУБЛИКЕ ТЫВА\"(ФБУ \"КРАСНОЯРСКИЙ ЦСМ\")",
+            "signCipher": "АШ",
+            "miOwner": "ЮЛ",
+            "vrfDate": "14.11.2022",
+            "validDate": "13.11.2023",
+            "vriType": "2",
+            "docTitle": "Инструкция 44—64",
+            "applicable": {
+                "certNum": "С-АШ\/14-11-2022\/201222393",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZАШ.0140.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 100 Н до 50 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/673737"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "201810819": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00472850",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0,1тс",
+                "manufactureNum": "р531",
+                "manufactureYear": 1973,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта от 22.10.2019 № 2498"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ЧЕЛЯБИНСКОЙ ОБЛАСТИ\"(ФБУ \"ЧЕЛЯБИНСКИЙ ЦСМ\")",
+            "signCipher": "ГА",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "14.11.2022",
+            "validDate": "13.11.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-ГА\/14-11-2022\/201810819",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZГА.0305.2013",
+                    "title": "ГРЭ единицы массы 4 разряда в диапазоне 10 – 100 кг",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/459176"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-201810819\/protocol"
+        }
+    },
+    "194094653": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00693888",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0.1",
+                "manufactureNum": "р124",
+                "manufactureYear": 1978,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ Росстандарта №2498 от 22 октября 2019 года"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ГАЗ ПАО",
+            "vrfDate": "17.10.2022",
+            "validDate": "16.10.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/17-10-2022\/194094653",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-194094653\/protocol"
+        }
+    },
+    "194094652": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00693887",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0.3",
+                "manufactureNum": "р139",
+                "manufactureYear": 1978,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ Росстандарта №2498 от 22 октября 2019 года"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ГАЗ ПАО",
+            "vrfDate": "17.10.2022",
+            "validDate": "16.10.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/17-10-2022\/194094652",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-194094652\/protocol"
+        }
+    },
+    "194095357": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00693893",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0.5",
+                "manufactureNum": "р135",
+                "manufactureYear": 1978,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ Росстандарта №2498 от 22 октября 2019 года"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ГАЗ ПАО",
+            "vrfDate": "17.10.2022",
+            "validDate": "16.10.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/17-10-2022\/194095357",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-194095357\/protocol"
+        }
+    },
+    "193295413": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00439333",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0.1тс",
+                "manufactureNum": "р589",
+                "manufactureYear": 1973,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "рабочего эталона 2 -го разряда по государственной поверочной схеме для средств измерений силы, утвержденной приказом Росстандарт"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "АО \"ОКБМ Африкантов\"",
+            "vrfDate": "12.10.2022",
+            "validDate": "11.10.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/12-10-2022\/193295413",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор ИЧ-10 №3254",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-193295413\/protocol"
+        }
+    },
+    "193295409": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00439334",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0,5тс",
+                "manufactureNum": "р579",
+                "manufactureYear": 1973,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "рабочего эталона 2 -го разряда по государственной поверочной схеме для средств измерений силы, утвержденной приказом Росстандарт"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "АО \"ОКБМ Африкантов\"",
+            "vrfDate": "12.10.2022",
+            "validDate": "11.10.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/12-10-2022\/193295409",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор ИЧ-10 №376",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-193295409\/protocol"
+        }
+    },
+    "190495526": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00437926",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0,3тс",
+                "manufactureNum": "р190",
+                "manufactureYear": 1974,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта от 22.10.2019 № 2498"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ЧЕЛЯБИНСКОЙ ОБЛАСТИ\"(ФБУ \"ЧЕЛЯБИНСКИЙ ЦСМ\")",
+            "signCipher": "ГА",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "30.09.2022",
+            "validDate": "29.09.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-ГА\/30-09-2022\/190495526",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZГА.1711.2022",
+                    "title": "Государственный рабочий эталон единицы силы 1 разряда в диапазоне значений от 1 до 50 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1396897"
+                },
+                {
+                    "number": "3.1.ZГА.0305.2013",
+                    "title": "ГРЭ единицы массы 4 разряда в диапазоне 10 – 100 кг",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/459176"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-190495526\/protocol"
+        }
+    },
+    "186330324": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00674141",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0.1",
+                "manufactureNum": "939",
+                "manufactureYear": 1973,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "\"Государственная поверочная схема для средств измерений силы\" Приказ №2498 от22.10.2013г."
+            }
+        },
+        "vriInfo": {
+            "organization": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Республике Татарстан\"(ФБУ \"ЦСМ Татарстан\")",
+            "signCipher": "АМ",
+            "miOwner": "КАЗ им. С.П. Горбунова-филиал ПАО \"Туполев\"",
+            "vrfDate": "15.09.2022",
+            "validDate": "14.09.2023",
+            "vriType": "2",
+            "docTitle": "инструкции 44—64 «По поверке и градуировке образцовых переносных динамометров 3-го разряда».",
+            "applicable": {
+                "certNum": "С-АМ\/15-09-2022\/186330324",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт32-2011",
+                    "title": "ГПЭ единицы силы",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397917"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "58463.14.4Р.00423955",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/423955",
+                    "mitypeNumber": "58463-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371498",
+                    "mitypeTitle": "Гири классов точности E2, F1, F2, M1",
+                    "notation": "Нет данных",
+                    "modification": "Гиря 10 кг М1",
+                    "manufactureNum": "PV055",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений массы, утвержденная приказом Росстандарта №2818 от 29.12.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "ГПЭ единицы силы"
+        }
+    },
+    "184501233": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00418738",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0,3тс",
+                "manufactureNum": "Р127",
+                "manufactureYear": 1975,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "рабочего эталона 2 -го разряда по государственной поверочной схеме для средств измерений силы, утвержденной приказом Росстандарт"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "07.09.2022",
+            "validDate": "06.09.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/07-09-2022\/184501233",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор ИЧ-10 №677482",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-184501233\/protocol"
+        }
+    },
+    "181817039": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р 120",
+                "modification": "ДОР-0,3тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ИМ. Б.А. ДУБОВИКОВА В САРАТОВСКОЙ ОБЛАСТИ\"(ФБУ \"САРАТОВСКИЙ ЦСМ ИМ. Б.А. ДУБОВИКОВА\")",
+            "signCipher": "ВУ",
+            "miOwner": "Юридичкское лицо",
+            "vrfDate": "29.08.2022",
+            "validDate": "28.08.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-ВУ\/29-08-2022\/181817039",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1834.63.1Р.00175219",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/175219",
+                    "mitypeNumber": "1834-63",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/319179",
+                    "mitypeTitle": "Динамометры",
+                    "notation": "ДО-2-5",
+                    "modification": "ДО-2-5",
+                    "manufactureNum": "144",
+                    "manufactureYear": 1965,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ № 2498 от 22.10.2019"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "181328808": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00408399",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "Без модификации",
+                "manufactureNum": "р206",
+                "manufactureYear": 1984,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ Росстандарта №2498 от 22 октября 2019 года"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "АО \"АМЗ\"",
+            "vrfDate": "26.08.2022",
+            "validDate": "25.08.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/26-08-2022\/181328808",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор ИЧ-10 №447075",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-181328808\/protocol"
+        }
+    },
+    "180461485": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00156761",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0,1 тс",
+                "manufactureNum": "р588",
+                "manufactureYear": 1973,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "Приказ Росстандарта № 2498 от 22 октября 2019 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ЧЕЛЯБИНСКОЙ ОБЛАСТИ\"(ФБУ \"ЧЕЛЯБИНСКИЙ ЦСМ\")",
+            "signCipher": "ГА",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "22.08.2022",
+            "validDate": "21.08.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-ГА\/22-08-2022\/180461485",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZГА.0305.2013",
+                    "title": "ГРЭ единицы массы 4 разряда в диапазоне 10 – 100 кг",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/459176"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-180461485\/protocol"
+        }
+    },
+    "180303502": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р232  (индикатор № 279272)",
+                "modification": "ДОР-0,3 тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ,  МЕТРОЛОГИИ И ИСПЫТАНИЙ В КИРОВСКОЙ ОБЛАСТИ\"(ФБУ \"КИРОВСКИЙ ЦСМ\")",
+            "signCipher": "БЭ",
+            "miOwner": "АО \"ЛЕПСЕ\"",
+            "vrfDate": "18.08.2022",
+            "validDate": "17.08.2023",
+            "vriType": "2",
+            "docTitle": "инструкция 44-64  \"По поверке и градуировке образцовых переносных динамометров 3-го разряда\"",
+            "applicable": {
+                "certNum": "С-БЭ\/18-08-2022\/180303502",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБЭ.0285.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1000 до 50000 Н",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/449210"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "180303503": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р224  (индикатор № 62616)",
+                "modification": "ДОР-0,1тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ,  МЕТРОЛОГИИ И ИСПЫТАНИЙ В КИРОВСКОЙ ОБЛАСТИ\"(ФБУ \"КИРОВСКИЙ ЦСМ\")",
+            "signCipher": "БЭ",
+            "miOwner": "АО \"ЛЕПСЕ\"",
+            "vrfDate": "18.08.2022",
+            "validDate": "17.08.2023",
+            "vriType": "2",
+            "docTitle": "инструкция 44-64  \"По поверке и градуировке образцовых переносных динамометров 3-го разряда\"",
+            "applicable": {
+                "certNum": "С-БЭ\/18-08-2022\/180303503",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБЭ.0582.2015",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 10 до 5000 Н",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/440781"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "180303501": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р247 (индикатор № 73516)",
+                "modification": "ДОР-0,5тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ,  МЕТРОЛОГИИ И ИСПЫТАНИЙ В КИРОВСКОЙ ОБЛАСТИ\"(ФБУ \"КИРОВСКИЙ ЦСМ\")",
+            "signCipher": "БЭ",
+            "miOwner": "АО \"ЛЕПСЕ\"",
+            "vrfDate": "18.08.2022",
+            "validDate": "17.08.2023",
+            "vriType": "2",
+            "docTitle": "инструкция 44-64  \"По поверке и градуировке образцовых переносных динамометров 3-го разряда\"",
+            "applicable": {
+                "certNum": "С-БЭ\/18-08-2022\/180303501",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБЭ.0285.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1000 до 50000 Н",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/449210"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "179276903": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р1774",
+                "manufactureYear": 1974,
+                "modification": "ДОР-0.5тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "17.08.2022",
+            "validDate": "16.08.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287 - 78 \"ГСИ.Динамометры образцовые переносные 3-го разряда. Методы и средства поверки\"",
+            "applicable": {
+                "certNum": "С-СЕ\/17-08-2022\/179276903",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZCE.1264.2018",
+                    "title": "Государственный рабочий эталон единицы силы 1 разряда в диапазоне значений от 0,03 до 1 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1060753"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "83529.21.1Р.00644826",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/644826",
+                    "mitypeNumber": "83529-21",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1393938",
+                    "mitypeTitle": "Машины силовоспроизводящие",
+                    "notation": "МСВ-МГ4",
+                    "modification": "МСВ-50\/2МГ4М",
+                    "manufactureNum": "044",
+                    "manufactureYear": 2022,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерения силы (утверждена приказом Росстандарта от 22 октября 2019 г. №2498)"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "089"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "178958144": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р1726",
+                "manufactureYear": 1975,
+                "modification": "ДОР-0,1тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "16.08.2022",
+            "validDate": "15.08.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287 - 78 \"ГСИ.Динамометры образцовые переносные 3-го разряда. Методы и средства поверки\"",
+            "applicable": {
+                "certNum": "С-СЕ\/16-08-2022\/178958144",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZCE.1264.2018",
+                    "title": "Государственный рабочий эталон единицы силы 1 разряда в диапазоне значений от 0,03 до 1 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1060753"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "089"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "176058107": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р214",
+                "manufactureYear": 1977,
+                "modification": "ДОР-0.1тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "Публичное акционерное общество \"НОВОСИБИРСКИЙ ЗАВОД ХИМКОНЦЕНТРАТОВ\"",
+            "vrfDate": "04.08.2022",
+            "validDate": "03.08.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-НН\/04-08-2022\/176058107",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "811.66.4Р.10557",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10557",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "01",
+                    "manufactureYear": 1971,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения массы, приказ Росстандарта  2818"
+                },
+                {
+                    "regNumber": "811.66.4Р.10558",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10558",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "02",
+                    "manufactureYear": 1971,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения массы, приказ Росстандарта  2818"
+                },
+                {
+                    "regNumber": "811.66.4Р.10559",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10559",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "03",
+                    "manufactureYear": 1971,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения массы, приказ Росстандарта  2818"
+                },
+                {
+                    "regNumber": "811.66.4Р.10560",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10560",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "04",
+                    "manufactureYear": 1971,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения массы, приказ Росстандарта  2818"
+                },
+                {
+                    "regNumber": "811.66.4Р.10561",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10561",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "05",
+                    "manufactureYear": 1971,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения массы, приказ Росстандарта  2818"
+                },
+                {
+                    "regNumber": "27015.04.4Р.00217632",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/217632",
+                    "mitypeNumber": "27015-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333460",
+                    "mitypeTitle": "Комплекты поверки гирь и весов переносные",
+                    "notation": "КПГВП",
+                    "modification": "Набор гирь от 10 мг до 5 кг, класса точности М1",
+                    "manufactureNum": "17825011",
+                    "manufactureYear": 2004,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений массы» в соответствии с приказом от 29 декабря 2018 г. 2818"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "176058104": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р822",
+                "manufactureYear": 1980,
+                "modification": "ДОР-0.5тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "Публичное акционерное общество \"НОВОСИБИРСКИЙ ЗАВОД ХИМКОНЦЕНТРАТОВ\"",
+            "vrfDate": "04.08.2022",
+            "validDate": "03.08.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-НН\/04-08-2022\/176058104",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZНН.0612.2013",
+                    "title": "Государственный рабочий эталон единицы силы 1 разряда в диапазоне значений от 100 до 5000 кгс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/455971"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "811.66.4Р.10557",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10557",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "01",
+                    "manufactureYear": 1971,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения массы, приказ Росстандарта  2818"
+                },
+                {
+                    "regNumber": "811.66.4Р.10558",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10558",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "02",
+                    "manufactureYear": 1971,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения массы, приказ Росстандарта  2818"
+                },
+                {
+                    "regNumber": "27015.04.4Р.00217632",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/217632",
+                    "mitypeNumber": "27015-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333460",
+                    "mitypeTitle": "Комплекты поверки гирь и весов переносные",
+                    "notation": "КПГВП",
+                    "modification": "Набор гирь от 10 мг до 5 кг, класса точности М1",
+                    "manufactureNum": "17825011",
+                    "manufactureYear": 2004,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений массы» в соответствии с приказом от 29 декабря 2018 г. 2818"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "173317305": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р440",
+                "modification": "модификация ДОР-0.5тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "Владелец",
+            "vrfDate": "26.07.2022",
+            "validDate": "25.07.2023",
+            "vriType": "2",
+            "docTitle": "И 44-64",
+            "applicable": {
+                "certNum": "С-ТТ\/26-07-2022\/173317305",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZТТ.0008.2021",
+                    "title": "Государственный рабочий эталон единиц силы 1 разряда в диапазоне значений от 10 Н до 5 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1391343"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор № 908219",
+            "briefIndicator": false
+        }
+    },
+    "173110288": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р714",
+                "manufactureYear": 1971,
+                "modification": "ДОР-0,1тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В УДМУРТСКОЙ РЕСПУБЛИКЕ\"(ФБУ \"УДМУРТСКИЙ ЦСМ\")",
+            "signCipher": "АО",
+            "miOwner": "Акционерное общество \"ВОТКИНСКИЙ ЗАВОД\"",
+            "vrfDate": "25.07.2022",
+            "validDate": "24.07.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-АО\/25-07-2022\/173110288",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZAO.0014.2012",
+                    "title": "Государственный рабочий эталон единицы силы 1 разряда в диапазоне измерений от 100 до 5000 кгс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/431976"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор №154313",
+            "briefIndicator": false,
+            "additional_info": "0-12414"
+        }
+    },
+    "172164834": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р241",
+                "manufactureYear": 1975,
+                "modification": "ДОР-0,1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Акционерное общество \"Уральское производственное предприятие \"Вектор\"",
+            "vrfDate": "21.07.2022",
+            "validDate": "20.07.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287 - 78 \"ГСИ.Динамометры образцовые переносные 3-го разряда. Методы и средства поверки\"",
+            "applicable": {
+                "certNum": "С-СЕ\/21-07-2022\/172164834",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZCE.1264.2018",
+                    "title": "Государственный рабочий эталон единицы силы 1 разряда в диапазоне значений от 0,03 до 1 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1060753"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "089"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "172164772": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р120",
+                "manufactureYear": 1976,
+                "modification": "ДОР-0,5"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Акционерное общество \"Уральское производственное предприятие \"Вектор\"",
+            "vrfDate": "21.07.2022",
+            "validDate": "20.07.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287 - 78 \"ГСИ.Динамометры образцовые переносные 3-го разряда. Методы и средства поверки\"",
+            "applicable": {
+                "certNum": "С-СЕ\/21-07-2022\/172164772",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZCE.1264.2018",
+                    "title": "Государственный рабочий эталон единицы силы 1 разряда в диапазоне значений от 0,03 до 1 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1060753"
+                },
+                {
+                    "number": "3.1.ZCE.0728.2014",
+                    "title": "Государственный рабочий эталон единицы силы первого разряда в диапазоне значений от 1 до 50 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/415290"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "089"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "171775472": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р722",
+                "modification": "ДОР-0,5 тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПЕНЗЕНСКОЙ ОБЛАСТИ\"(ФБУ \"ПЕНЗЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВМ",
+            "miOwner": "Акционерное общество \"ФЕДЕРАЛЬНЫЙ НАУЧНО-ПРОИЗВОДСТВЕННЫЙ ЦЕНТР \"ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"СТАРТ\" ИМЕНИ М.В. ПРОЦЕНКО\"",
+            "vrfDate": "19.07.2022",
+            "validDate": "18.07.2023",
+            "vriType": "2",
+            "docTitle": "Инструкция 44-64",
+            "applicable": {
+                "certNum": "С-ВМ\/19-07-2022\/171775472",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZВМ.0438.2015",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 5 до 6·10[^3] Н",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/404168"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "167093056": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р-70",
+                "modification": "ДОР-50"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В УЛЬЯНОВСКОЙ ОБЛАСТИ\"(ФБУ \"УЛЬЯНОВСКИЙ ЦСМ\")",
+            "signCipher": "ВЬ",
+            "miOwner": "Общество с ограниченной ответственностью \"Димитровградский автоагрегатный завод\"",
+            "vrfDate": "29.06.2022",
+            "validDate": "28.06.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78. ГСИ \" Динамометры образцовые переносные 3-разряда. Методы и средства поверки\"",
+            "applicable": {
+                "certNum": "С-ВЬ\/29-06-2022\/167093056",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZВЬ.0900.2021",
+                    "title": "Государственный рабочий эталон единицы силы 1 разряда в диапазоне значений от 20 до 1000 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1391067"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "164150094": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00626521",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "Без модификации",
+                "manufactureNum": "Р392",
+                "manufactureYear": 1984,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ Росстандарта №2498 от 22 октября 2019 года"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "16.06.2022",
+            "validDate": "15.06.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/16-06-2022\/164150094",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор ИЧ-10, зав. № 419530",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-164150094\/protocol"
+        }
+    },
+    "163231102": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р 326",
+                "modification": "ДОР-0,1тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ИМ. Б.А. ДУБОВИКОВА В САРАТОВСКОЙ ОБЛАСТИ\"(ФБУ \"САРАТОВСКИЙ ЦСМ ИМ. Б.А. ДУБОВИКОВА\")",
+            "signCipher": "ВУ",
+            "miOwner": "АО \"Промэлектроника\"",
+            "vrfDate": "14.06.2022",
+            "validDate": "13.06.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-ВУ\/14-06-2022\/163231102",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1834.63.1Р.00175219",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/175219",
+                    "mitypeNumber": "1834-63",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/319179",
+                    "mitypeTitle": "Динамометры",
+                    "notation": "ДО-2-5",
+                    "modification": "ДО-2-5",
+                    "manufactureNum": "144",
+                    "manufactureYear": 1965,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ № 2498 от 22.10.2019"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "164523353": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р118",
+                "manufactureYear": 1975,
+                "modification": "ДОР-0,3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ИРКУТСКОЙ ОБЛАСТИ\"(ФБУ \"ИРКУТСКИЙ ЦСМ\")",
+            "signCipher": "БП",
+            "miOwner": "ИАЗ - филиал ПАО \"Корпорация  \"Иркут\"",
+            "vrfDate": "02.06.2022",
+            "validDate": "01.06.2023",
+            "vriType": "2",
+            "docTitle": "требованиями инструкции 44-64 \"По поверке и градуировке образцовых переносных динамометров 3-го разряда\"",
+            "applicable": {
+                "certNum": "С-БП\/02-06-2022\/164523353",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБП.0002.2012",
+                    "title": "ГРЭ единицы силы 1 разряда в диапазоне значений 100 кгс-5000 кгс, зав. №59",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/466756"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "164523352": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р136",
+                "manufactureYear": 1975,
+                "modification": "ДОР-0,1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ИРКУТСКОЙ ОБЛАСТИ\"(ФБУ \"ИРКУТСКИЙ ЦСМ\")",
+            "signCipher": "БП",
+            "miOwner": "ИАЗ - филиал ПАО \"Корпорация  \"Иркут\"",
+            "vrfDate": "02.06.2022",
+            "validDate": "01.06.2023",
+            "vriType": "2",
+            "docTitle": "требованиями инструкции 44-64 \"По поверке и градуировке образцовых переносных динамометров 3-го разряда\"",
+            "applicable": {
+                "certNum": "С-БП\/02-06-2022\/164523352",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБП.0002.2012",
+                    "title": "ГРЭ единицы силы 1 разряда в диапазоне значений 100 кгс-5000 кгс, зав. №59",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/466756"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "161052400": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р394 инд.31351",
+                "manufactureYear": 1983,
+                "modification": "ДОР-0.1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "СПб ОАО \"Красный Октябрь\"",
+            "vrfDate": "02.06.2022",
+            "validDate": "01.06.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 13782-68; Динамометры пружинные общего назначения. Методы и средства поверки",
+            "applicable": {
+                "certNum": "С-СП\/02-06-2022\/161052400",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.0702.2015",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 10 до 50000 Н",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/410674"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "160489783": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "р600",
+                "manufactureYear": 1971,
+                "modification": "ДОР-0,5тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В УДМУРТСКОЙ РЕСПУБЛИКЕ\"(ФБУ \"УДМУРТСКИЙ ЦСМ\")",
+            "signCipher": "АО",
+            "miOwner": "Акционерное общество \"ВОТКИНСКИЙ ЗАВОД\"",
+            "vrfDate": "01.06.2022",
+            "validDate": "31.05.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-АО\/01-06-2022\/160489783",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZAO.0014.2012",
+                    "title": "Государственный рабочий эталон единицы силы 1 разряда в диапазоне измерений от 100 до 5000 кгс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/431976"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор№012945",
+            "briefIndicator": false,
+            "additional_info": "0-7648"
+        }
+    },
+    "157148405": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р394",
+                "manufactureYear": 1982,
+                "modification": "ДОР-0.1тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "Публичное акционерное общество \"НОВОСИБИРСКИЙ ЗАВОД ХИМКОНЦЕНТРАТОВ\"",
+            "vrfDate": "19.05.2022",
+            "validDate": "18.05.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-НН\/19-05-2022\/157148405",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "811.66.4Р.10557",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10557",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "01",
+                    "manufactureYear": 1971,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения массы, приказ Росстандарта  2818"
+                },
+                {
+                    "regNumber": "811.66.4Р.10558",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10558",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "02",
+                    "manufactureYear": 1971,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения массы, приказ Росстандарта  2818"
+                },
+                {
+                    "regNumber": "811.66.4Р.10559",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10559",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "03",
+                    "manufactureYear": 1971,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения массы, приказ Росстандарта  2818"
+                },
+                {
+                    "regNumber": "811.66.4Р.10560",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10560",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "04",
+                    "manufactureYear": 1971,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения массы, приказ Росстандарта  2818"
+                },
+                {
+                    "regNumber": "811.66.4Р.10561",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10561",
+                    "mitypeNumber": "811-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386425",
+                    "mitypeTitle": "Гири образцовые 4-го разряда параллелепипедные",
+                    "notation": "ГО-20",
+                    "modification": "ГО-20",
+                    "manufactureNum": "05",
+                    "manufactureYear": 1971,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения массы, приказ Росстандарта  2818"
+                },
+                {
+                    "regNumber": "27015.04.4Р.00217632",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/217632",
+                    "mitypeNumber": "27015-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333460",
+                    "mitypeTitle": "Комплекты поверки гирь и весов переносные",
+                    "notation": "КПГВП",
+                    "modification": "Набор гирь от 10 мг до 5 кг, класса точности М1",
+                    "manufactureNum": "17825011",
+                    "manufactureYear": 2004,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений массы» в соответствии с приказом от 29 декабря 2018 г. 2818"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "155132733": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00265696",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0,1тс,",
+                "manufactureNum": "Р386",
+                "manufactureYear": 1981,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "\"Государственной поверочной схеме для средств измерений силы\", приказ Росстандарта от 22 октября 2019 г. №2498"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В УЛЬЯНОВСКОЙ ОБЛАСТИ\"(ФБУ \"УЛЬЯНОВСКИЙ ЦСМ\")",
+            "signCipher": "ВЬ",
+            "miOwner": "Акционерное общество \"Ульяновский механический завод\"",
+            "vrfDate": "12.05.2022",
+            "validDate": "11.05.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78. ГСИ \" Динамометры образцовые переносные 3-разряда. Методы и средства поверки\"",
+            "applicable": {
+                "certNum": "С-ВЬ\/12-05-2022\/155132733",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZВЬ.0900.2021",
+                    "title": "Государственный рабочий эталон единицы силы 1 разряда в диапазоне значений от 20 до 1000 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1391067"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "187305070": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00265697",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0,5тс,",
+                "manufactureNum": "Р394",
+                "manufactureYear": 1981,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "\"Государственной поверочной схеме для средств измерений силы\", приказ Росстандарта от 22 октября 2019 г. №2498"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В УЛЬЯНОВСКОЙ ОБЛАСТИ\"(ФБУ \"УЛЬЯНОВСКИЙ ЦСМ\")",
+            "signCipher": "ВЬ",
+            "miOwner": "Акционерное общество \"Ульяновский механический завод\"",
+            "vrfDate": "12.05.2022",
+            "validDate": "11.05.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78. ГСИ \" Динамометры образцовые переносные 3-разряда. Методы и средства поверки\"",
+            "applicable": {
+                "certNum": "С-ВЬ\/12-05-2022\/187305070",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZВЬ.0900.2021",
+                    "title": "Государственный рабочий эталон единицы силы 1 разряда в диапазоне значений от 20 до 1000 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1391067"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор часового типа ИЧ-10  №965964",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-187305070\/protocol"
+        }
+    },
+    "152222164": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р436",
+                "modification": "модификация ДОР-0.3тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "Владелец",
+            "vrfDate": "28.04.2022",
+            "validDate": "27.04.2023",
+            "vriType": "2",
+            "docTitle": "И 44-64",
+            "applicable": {
+                "certNum": "С-ТТ\/28-04-2022\/152222164",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZТТ.0008.2021",
+                    "title": "Государственный рабочий эталон единиц силы 1 разряда в диапазоне значений от 10 Н до 5 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1391343"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор № 90255155",
+            "briefIndicator": false
+        }
+    },
+    "149220151": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "1056",
+                "modification": "Тип ДОР-0,5тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТЕСТИНТЕХ\"(ООО \"ТЕСТИНТЕХ\")",
+            "signCipher": "ВЮМ",
+            "miOwner": "ПАО АК РУБИН",
+            "vrfDate": "18.04.2022",
+            "validDate": "17.04.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-ВЮМ\/18-04-2022\/149220151",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.7.АГЮ.0003.2021",
+                    "title": "Рабочий эталон единиц силы 1 разряда в диапазоне значений от 0,1 до 10 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1391642"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор часового типа №97156",
+            "briefIndicator": false,
+            "additional_info": "Пригодно, Поверено в полном объеме"
+        }
+    },
+    "145258797": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00584648",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0.5",
+                "manufactureNum": "Р65",
+                "manufactureYear": 1976,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ Росстандарта №2498 от 22 октября 2019 года"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "04.04.2022",
+            "validDate": "03.04.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/04-04-2022\/145258797",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-145258797\/protocol"
+        }
+    },
+    "142441894": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р472 (индикатор № 088554)",
+                "modification": "ДОР-0,5тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ,  МЕТРОЛОГИИ И ИСПЫТАНИЙ В КИРОВСКОЙ ОБЛАСТИ\"(ФБУ \"КИРОВСКИЙ ЦСМ\")",
+            "signCipher": "БЭ",
+            "miOwner": "АО \"Завод \"Сельмаш\"",
+            "vrfDate": "24.03.2022",
+            "validDate": "23.03.2023",
+            "vriType": "2",
+            "docTitle": "инструкция 44-64  \"По поверке и градуировке образцовых переносных динамометров 3-го разряда\"",
+            "applicable": {
+                "certNum": "С-БЭ\/24-03-2022\/142441894",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБЭ.0285.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1000 до 50000 Н",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/449210"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "140585798": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00247733",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0,5",
+                "manufactureNum": "р688",
+                "manufactureYear": 1973,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ№2498"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "16.03.2022",
+            "validDate": "15.03.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/16-03-2022\/140585798",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор ИЧ-10 №66884",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-140585798\/protocol"
+        }
+    },
+    "134372289": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р626",
+                "manufactureYear": 1973,
+                "modification": "ДОР-0,1тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В УДМУРТСКОЙ РЕСПУБЛИКЕ\"(ФБУ \"УДМУРТСКИЙ ЦСМ\")",
+            "signCipher": "АО",
+            "miOwner": "АО \"ИЖЕВСКИЙ МОТОЗАВОД \"АКСИОН-ХОЛДИНГ\"",
+            "vrfDate": "21.02.2022",
+            "validDate": "20.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-АО\/21-02-2022\/134372289",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZAO.0014.2012",
+                    "title": "Государственный рабочий эталон единицы силы 1 разряда в диапазоне измерений от 100 до 5000 кгс",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/431976"
+                }
+            ]
+        },
+        "info": {
+            "structure": "индикатор№3280",
+            "briefIndicator": false,
+            "additional_info": "0-1455"
+        }
+    },
+    "133513124": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "р623 (индикатор №81530)",
+                "modification": "ДОР-0,1тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ,  МЕТРОЛОГИИ И ИСПЫТАНИЙ В КИРОВСКОЙ ОБЛАСТИ\"(ФБУ \"КИРОВСКИЙ ЦСМ\")",
+            "signCipher": "БЭ",
+            "miOwner": "АО \"Воркутауголь\"",
+            "vrfDate": "17.02.2022",
+            "validDate": "16.02.2023",
+            "vriType": "2",
+            "docTitle": "инструкция 44-64  \"По поверке и градуировке образцовых переносных динамометров 3-го разряда\"",
+            "applicable": {
+                "certNum": "С-БЭ\/17-02-2022\/133513124",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБЭ.0582.2015",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 10 до 5000 Н",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/440781"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "131320100": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00552643",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "Без модификации",
+                "manufactureNum": "р4",
+                "manufactureYear": 1983,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ Росстандарта №2498 от 22 октября 2019 года"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "АО \"ДПО Пластик\"",
+            "vrfDate": "11.02.2022",
+            "validDate": "10.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/11-02-2022\/131320100",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "130300194": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р339",
+                "modification": "ДОР-0.1тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОДАРСКОМ КРАЕ И РЕСПУБЛИКЕ АДЫГЕЯ\"(ФБУ \"Краснодарский ЦСМ\")",
+            "signCipher": "АУ",
+            "miOwner": "Общество с ограниченной ответственностью ТОРГОВЫЙ ДОМ \"ЮГВЕССТРОЙ\"",
+            "vrfDate": "09.02.2022",
+            "validDate": "08.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-АУ\/09-02-2022\/130300194",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZAУ.0412.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений (0,1 – 50) кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/419741"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ИЧ-10 83316",
+            "briefIndicator": false
+        }
+    },
+    "130300191": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р857",
+                "modification": "ДОР-0.5тс"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОДАРСКОМ КРАЕ И РЕСПУБЛИКЕ АДЫГЕЯ\"(ФБУ \"Краснодарский ЦСМ\")",
+            "signCipher": "АУ",
+            "miOwner": "Общество с ограниченной ответственностью ТОРГОВЫЙ ДОМ \"ЮГВЕССТРОЙ\"",
+            "vrfDate": "09.02.2022",
+            "validDate": "08.02.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-АУ\/09-02-2022\/130300191",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZAУ.0412.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений (0,1 – 50) кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/419741"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ИЧ-10 531551",
+            "briefIndicator": false
+        }
+    },
+    "141195247": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "manufactureNum": "Р390",
+                "modification": "ДОР-3-0,5"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОЯРСКОМ КРАЕ, РЕСПУБЛИКЕ ХАКАСИЯ И РЕСПУБЛИКЕ ТЫВА\"(ФБУ \"КРАСНОЯРСКИЙ ЦСМ\")",
+            "signCipher": "АШ",
+            "miOwner": "ФБУ \"КРАСНОЯРСКИЙ ЦСМ\"",
+            "vrfDate": "01.02.2022",
+            "validDate": "31.01.2023",
+            "vriType": "2",
+            "docTitle": "Инструкция 44—64 По поверке и градуировке образцовых переносных динамометров 3-го разряда",
+            "applicable": {
+                "certNum": "С-АШ\/01-02-2022\/141195247",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZАШ.0140.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 100 Н до 50 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/673737"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Индикатор часового типа ИЧ-10 №162587",
+            "briefIndicator": false
+        }
+    },
+    "127931255": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00540120",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0.3",
+                "manufactureNum": "р350",
+                "manufactureYear": 1979,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ Росстандарта №2498 от 22 октября 2019 года"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "ПАО \"ГАЗ\"",
+            "vrfDate": "01.02.2022",
+            "validDate": "31.01.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/01-02-2022\/127931255",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "125705357": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "3605.73.2Р.00535080",
+                "mitypeNumber": "3605-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345324",
+                "mitypeTitle": "Динамометры образцовые переносные 3-го разряда конструкции Токаря Н.Г.",
+                "mitypeType": "ДОР-0.1тс, ДОР-0.3тс, ДОР-0.5тс",
+                "modification": "ДОР-0.1",
+                "manufactureNum": "р128",
+                "manufactureYear": 1978,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "приказ Росстандарта №2498 от 22 октября 2019 года"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "АО \"НПО \"ПРЗ\"",
+            "vrfDate": "24.01.2022",
+            "validDate": "23.01.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.287-78",
+            "applicable": {
+                "certNum": "С-БН\/24-01-2022\/125705357",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1646.2014",
+                    "title": "ГЭЕ силы 1 разряда в диапазоне значений от 1 Н до 3 МН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446995"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

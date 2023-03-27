@@ -1,0 +1,56 @@
+{
+    "169516602": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "63108-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376690",
+                "mitypeType": "ТМСА 1-18 Б 064",
+                "mitypeTitle": "Комплекс автоматизированный измерительно-вычислительный",
+                "manufactureNum": "064",
+                "manufactureYear": 2015,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "08.07.2022",
+            "validDate": "07.07.2024",
+            "vriType": "2",
+            "docTitle": "651-15-39 МП. Инструкция. Комплекс автоматизированный измерительно-вычислительный ТМСА 1-18 Б 064. Методика поверки.",
+            "applicable": {
+                "certNum": "С-Т\/08-07-2022\/169516602",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0210.2015",
+                    "title": "Государственный вторичный эталон единиц комплексных коэффициентов передачи в диапазоне от 0 до минус 60 дБ и комплексных коэффициентов отражений в диапазоне от 0,002 до 1 в диапазоне частот от 0,05 до 65·ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/495309"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "55021-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367546",
+                    "mitypeTitle": "Дальномеры лазерные",
+                    "number": "0834626010"
+                },
+                {
+                    "mitypeNumber": "60403-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373677",
+                    "mitypeTitle": "Системы лазерные координатно-измерительные",
+                    "number": "752362"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid69354450-164f-43be-81cf-220a870e46a4"
+        }
+    }
+}

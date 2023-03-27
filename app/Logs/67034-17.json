@@ -1,0 +1,918 @@
+{
+    "200756626": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "67034-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380946",
+                "mitypeType": "ПРИЗМА",
+                "mitypeTitle": "Анализаторы электрической мощности",
+                "manufactureNum": "125-04910",
+                "modification": "модификация ПРИЗМА-150\/3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "ООО \"НТТ-ИК\"",
+            "vrfDate": "07.11.2022",
+            "validDate": "06.11.2023",
+            "vriType": "2",
+            "docTitle": "РТ-МП-2604-500-2016 «ГСИ. Анализаторы электрической мощности ПРИЗМА. Методика поверки»",
+            "applicable": {
+                "certNum": "С-СП\/07-11-2022\/200756626",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "51518.12.1Р.00338712",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/338712",
+                    "mitypeNumber": "51518-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363541",
+                    "mitypeTitle": "Шунты переменного тока",
+                    "notation": "Fluke A40B",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "346671001",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 575 от 14.05.2015 г."
+                },
+                {
+                    "regNumber": "29282.05.2Р.00417272",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/417272",
+                    "mitypeNumber": "29282-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336545",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Fluke 5520A с модулями SC1100 и PQ",
+                    "modification": "Fluke 5520A c модулями SC1100 и PQ",
+                    "manufactureNum": "1013010",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 01.10.2018 № 2091"
+                },
+                {
+                    "regNumber": "29282.05.1Р.00417273",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/417273",
+                    "mitypeNumber": "29282-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336545",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Fluke 5520A с модулями SC1100 и PQ",
+                    "modification": "Fluke 5520A c модулями SC1100 и PQ",
+                    "manufactureNum": "1013010",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ от 01.10.2018 № 2091"
+                },
+                {
+                    "regNumber": "29282.05.2Р.00417274",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/417274",
+                    "mitypeNumber": "29282-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336545",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Fluke 5520A с модулями SC1100 и PQ",
+                    "modification": "Fluke 5520A c модулями SC1100 и PQ",
+                    "manufactureNum": "1013010",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "29282.05.2Р.00417281",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/417281",
+                    "mitypeNumber": "29282-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336545",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Fluke 5520A с модулями SC1100 и PQ",
+                    "modification": "Fluke 5520A c модулями SC1100 и PQ",
+                    "manufactureNum": "1013010",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 23.07.2021 № 1436"
+                },
+                {
+                    "regNumber": "60407.15.1Р.00600667",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/600667",
+                    "mitypeNumber": "60407-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373680",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "Fluke 5730А (калибраторы) Fluke 5725A (усилитель)",
+                    "modification": "Fluke 5730А с усилителем Fluke 5725A",
+                    "manufactureNum": "3219503\/3773001",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ от 14.05.2015 № 575"
+                },
+                {
+                    "regNumber": "60407.15.2Р.00600668",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/600668",
+                    "mitypeNumber": "60407-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373680",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "Fluke 5730А (калибраторы) Fluke 5725A (усилитель)",
+                    "modification": "Fluke 5730А с усилителем Fluke 5725A",
+                    "manufactureNum": "3219503\/3773001",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 03.09.2021 № 1942"
+                },
+                {
+                    "regNumber": "29282.05.3Р.00665844",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/665844",
+                    "mitypeNumber": "29282-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336545",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Fluke 5520A с модулями SC1100 и PQ",
+                    "modification": "Fluke 5520A c модулями SC1100 и PQ",
+                    "manufactureNum": "1013010",
+                    "manufactureYear": 2009,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 03.09.2021 № 1942"
+                },
+                {
+                    "regNumber": "29282.05.2Р.00665845",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/665845",
+                    "mitypeNumber": "29282-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336545",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Fluke 5520A с модулями SC1100 и PQ",
+                    "modification": "Fluke 5520A c модулями SC1100 и PQ",
+                    "manufactureNum": "1013010",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 03.09.2021 № 1942"
+                },
+                {
+                    "regNumber": "29282.05.2Р.00665846",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/665846",
+                    "mitypeNumber": "29282-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336545",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Fluke 5520A с модулями SC1100 и PQ",
+                    "modification": "Fluke 5520A c модулями SC1100 и PQ",
+                    "manufactureNum": "1013010",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 17.03.2022 № 668"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "61033-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374385",
+                    "mitypeTitle": "Усилители тока",
+                    "number": "5502701"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "197195282": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "67034-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380946",
+                "mitypeType": "ПРИЗМА",
+                "mitypeTitle": "Анализаторы электрической мощности",
+                "manufactureNum": "155-05581",
+                "modification": "ПРИЗМА 450\/3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "26.10.2022",
+            "validDate": "25.10.2023",
+            "vriType": "2",
+            "docTitle": "РТ-МП-2604-500-2016",
+            "applicable": {
+                "certNum": "С-МА\/26-10-2022\/197195282",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25900.03.1Р.00180628",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180628",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Мультиметр 3458A",
+                    "manufactureNum": "MY45049891",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 01.10.2018 № 2091"
+                },
+                {
+                    "regNumber": "33864.07.2Р.00415727",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/415727",
+                    "mitypeNumber": "33864-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342590",
+                    "mitypeTitle": "Калибраторы электрической мощности",
+                    "notation": "Fluke 6100A",
+                    "modification": "Fluke 6100A",
+                    "manufactureNum": "856648042",
+                    "manufactureYear": 2007,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 23.07.2021 г. № 1436"
+                },
+                {
+                    "regNumber": "30447.05.1Р.00660624",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/660624",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "1124208",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "30447.05.2Р.00660631",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/660631",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "1124208",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "30447.05.1Р.00660633",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/660633",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "1124208",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "30447.05.2Р.00660636",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/660636",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "1124208",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "30447.05.1Р.00660639",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/660639",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "1124208",
+                    "manufactureYear": 2009,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "8196a70c-1ed6-4d42-aa58-ab39f208a5b5"
+        }
+    },
+    "195387694": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "67034-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380946",
+                "mitypeType": "ПРИЗМА",
+                "mitypeTitle": "Анализаторы электрической мощности",
+                "manufactureNum": "125-06089",
+                "modification": "ПРИЗМА-150\/3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "20.10.2022",
+            "validDate": "19.10.2023",
+            "vriType": "2",
+            "docTitle": "РТ-МП-2604-500-2016",
+            "applicable": {
+                "certNum": "С-МА\/20-10-2022\/195387694",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52854.13.1Р.00284208",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284208",
+                    "mitypeNumber": "52854-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365106",
+                    "mitypeTitle": "Приборы электроизмерительные эталонные многофункциональные",
+                    "notation": "Энергомонитор-3.1КМ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "800",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  № 1436 от 23.07.2021 Приложение А (Подсистема воспроизведения единиц электрической мощности) к ГПС"
+                },
+                {
+                    "regNumber": "52854.13.1Р.00284209",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284209",
+                    "mitypeNumber": "52854-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365106",
+                    "mitypeTitle": "Приборы электроизмерительные эталонные многофункциональные",
+                    "notation": "Энергомонитор-3.1КМ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "800",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  № 1436 от 23.07.2021 Приложение Б (Подсистема воспроизведения единиц силы тока основной гармоники) к ГПС"
+                },
+                {
+                    "regNumber": "52854.13.1Р.00284210",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284210",
+                    "mitypeNumber": "52854-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365106",
+                    "mitypeTitle": "Приборы электроизмерительные эталонные многофункциональные",
+                    "notation": "Энергомонитор-3.1КМ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "800",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  № 1436 от 23.07.2021 Приложение Б (Подсистема воспроизведения единиц напряжения основной гармоники) к ГПС"
+                },
+                {
+                    "regNumber": "52854.13.3Р.00284211",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284211",
+                    "mitypeNumber": "52854-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365106",
+                    "mitypeTitle": "Приборы электроизмерительные эталонные многофункциональные",
+                    "notation": "Энергомонитор-3.1КМ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "800",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "52854.13.2Р.00284214",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284214",
+                    "mitypeNumber": "52854-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365106",
+                    "mitypeTitle": "Приборы электроизмерительные эталонные многофункциональные",
+                    "notation": "Энергомонитор-3.1КМ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "800",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ   № 1436 от 23.07.2021 Приложение Г (Подсистема воспроизведения единиц суммарного коэффициента гармоник напряжения) к ГПС"
+                },
+                {
+                    "regNumber": "52854.13.1Р.00601105",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/601105",
+                    "mitypeNumber": "52854-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365106",
+                    "mitypeTitle": "Приборы электроизмерительные эталонные многофункциональные",
+                    "notation": "Энергомонитор-3.1КМ",
+                    "modification": "ЕМ3.1КМ-02, 7.0.4151",
+                    "manufactureNum": "800",
+                    "manufactureYear": 2021,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 1436 от 23.07.2021 Приложение В (угол сдвига фаз между напряжением и током)"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "a71aedb7-b10d-47ae-97ac-cc813483130d"
+        }
+    },
+    "172743197": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "67034-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380946",
+                "mitypeType": "ПРИЗМА",
+                "mitypeTitle": "Анализаторы электрической мощности",
+                "manufactureNum": "165-05294",
+                "manufactureYear": 2017,
+                "modification": "ПРИЗМА"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ЯДЕРНЫЙ ЦЕНТР - ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ТЕХНИЧЕСКОЙ ФИЗИКИ ИМЕНИ АКАДЕМИКА Е.И. ЗАБАБАХИНА\"(ФГУП \"РФЯЦ - ВНИИТФ ИМ. АКАДЕМ. Е.И. ЗАБАБАХИНА\")",
+            "signCipher": "АБУ",
+            "miOwner": "ООО \"СвердловЭлектро\" г. Екатеринбург",
+            "vrfDate": "18.07.2022",
+            "validDate": "17.07.2023",
+            "vriType": "2",
+            "docTitle": "РТ-МП-2604-500-2016",
+            "applicable": {
+                "certNum": "С-АБУ\/18-07-2022\/172743197",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "27656.04.2Р.33883",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/33883",
+                    "mitypeNumber": "27656-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334354",
+                    "mitypeTitle": "Установки для регулировки и поверки счетчиков электрической энергии",
+                    "notation": "ЭНИКА РЭС 3\/6",
+                    "modification": "ЭНИКА РЭС 3\/6",
+                    "manufactureNum": "008",
+                    "manufactureYear": 2004,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ электоэнергетических величин в диапазоне частот от 1 до 2500 Гц, утв. пр. Росстандарта от 23.07.2021 г. № 1436."
+                },
+                {
+                    "regNumber": "25900.03.2Р.00115546",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/115546",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "3458A",
+                    "manufactureNum": "MY45046758",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "25900.03.1Р.00115557",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/115557",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "3458A",
+                    "manufactureNum": "MY45046758",
+                    "manufactureYear": 2008,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "25900.03.3Р.00115572",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/115572",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "3458A",
+                    "manufactureNum": "MY45046758",
+                    "manufactureYear": 2008,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 МГц"
+                },
+                {
+                    "regNumber": "25900.03.2Р.00115579",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/115579",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "3458A",
+                    "manufactureNum": "MY45046758",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "описание не найдено"
+                },
+                {
+                    "regNumber": "22125.01.2Р.00521132",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/521132",
+                    "mitypeNumber": "22125-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325751",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Н4-7, Н4-7\/1",
+                    "modification": "Н4-7",
+                    "manufactureNum": "022209",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 575 от 14 мая 2015 г."
+                },
+                {
+                    "regNumber": "22125.01.1Р.00521133",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/521133",
+                    "mitypeNumber": "22125-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325751",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Н4-7, Н4-7\/1",
+                    "modification": "Н4-7",
+                    "manufactureNum": "022209",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ № 575 от 14 мая 2015 г."
+                },
+                {
+                    "regNumber": "22125.01.3Р.00521134",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/521134",
+                    "mitypeNumber": "22125-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325751",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Н4-7, Н4-7\/1",
+                    "modification": "Н4-7",
+                    "manufactureNum": "022209",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ № 1942 от 03.09.2021 г."
+                },
+                {
+                    "regNumber": "22125.01.2Р.00521135",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/521135",
+                    "mitypeNumber": "22125-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325751",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Н4-7, Н4-7\/1",
+                    "modification": "Н4-7",
+                    "manufactureNum": "022209",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 1942 от 03.09.2021 г."
+                },
+                {
+                    "regNumber": "22125.01.1Р.00521136",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/521136",
+                    "mitypeNumber": "22125-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325751",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Н4-7, Н4-7\/1",
+                    "modification": "Н4-7",
+                    "manufactureNum": "022209",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ № 1942 от 03.09.2021 г."
+                },
+                {
+                    "regNumber": "22125.01.1Р.00521148",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/521148",
+                    "mitypeNumber": "22125-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325751",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Н4-7, Н4-7\/1",
+                    "modification": "Н4-7",
+                    "manufactureNum": "022209",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ № 2091 от 1 октября 2018 г."
+                },
+                {
+                    "regNumber": "22125.01.2Р.00521149",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/521149",
+                    "mitypeNumber": "22125-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325751",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Н4-7, Н4-7\/1",
+                    "modification": "Н4-7",
+                    "manufactureNum": "022209",
+                    "manufactureYear": 2010,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 3457 от 30 декабря 2019 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76912-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011069",
+                    "mitypeTitle": "Регистраторы показателей качества электрической энергии",
+                    "number": "1210"
+                },
+                {
+                    "mitypeNumber": "42972-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353580",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "number": "11\/11"
+                },
+                {
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "number": "4655019\/6330002"
+                },
+                {
+                    "mitypeNumber": "22129-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325758",
+                    "mitypeTitle": "Термогигрометры электронные",
+                    "number": "180705839"
+                },
+                {
+                    "mitypeNumber": "3745-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178301",
+                    "mitypeTitle": "Барометры-анероиды",
+                    "number": "269"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "152327151": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "67034-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380946",
+                "mitypeType": "ПРИЗМА",
+                "mitypeTitle": "Анализаторы электрической мощности",
+                "manufactureNum": "155-05787",
+                "modification": "ПРИЗМА 450\/3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "28.04.2022",
+            "validDate": "27.04.2023",
+            "vriType": "2",
+            "docTitle": "РТ-МП-2604-500-2016",
+            "applicable": {
+                "certNum": "С-МА\/28-04-2022\/152327151",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30447.05.2Р.10052",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10052",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "1124208",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "30447.05.1Р.10053",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10053",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "1124208",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "30447.05.2Р.10061",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10061",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "1124208",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "30447.05.1Р.10090",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10090",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "1124208",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "30447.05.1Р.10092",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10092",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "1124208",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 МГц"
+                },
+                {
+                    "regNumber": "25900.03.1Р.00180628",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180628",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Мультиметр 3458A",
+                    "manufactureNum": "MY45049891",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 01.10.2018 № 2091"
+                },
+                {
+                    "regNumber": "33864.07.2Р.00415727",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/415727",
+                    "mitypeNumber": "33864-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342590",
+                    "mitypeTitle": "Калибраторы электрической мощности",
+                    "notation": "Fluke 6100A",
+                    "modification": "Fluke 6100A",
+                    "manufactureNum": "856648042",
+                    "manufactureYear": 2007,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 23.07.2021 г. № 1436"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "210588bc-d91a-4b95-bcdb-3f73a21035ef"
+        }
+    },
+    "125386563": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "67034-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380946",
+                "mitypeType": "ПРИЗМА",
+                "mitypeTitle": "Анализаторы электрической мощности",
+                "manufactureNum": "155-05786",
+                "modification": "ПРИЗМА 450\/3"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО \"РИМЕРА-АЛНАС\"",
+            "vrfDate": "21.01.2022",
+            "validDate": "20.01.2023",
+            "vriType": "2",
+            "docTitle": "РТ-МП-2604-500-2016",
+            "applicable": {
+                "certNum": "С-МА\/21-01-2022\/125386563",
+                "stickerNum": "16005051087",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30447.05.2Р.10052",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10052",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "1124208",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "30447.05.1Р.10053",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10053",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "1124208",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "30447.05.1Р.10090",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10090",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "1124208",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "30447.05.1Р.10092",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/10092",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "1124208",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 МГц"
+                },
+                {
+                    "regNumber": "25900.03.1Р.00180628",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/180628",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Мультиметр 3458A",
+                    "manufactureNum": "MY45049891",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 01.10.2018 № 2091"
+                },
+                {
+                    "regNumber": "33864.07.2Р.00415727",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/415727",
+                    "mitypeNumber": "33864-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342590",
+                    "mitypeTitle": "Калибраторы электрической мощности",
+                    "notation": "Fluke 6100A",
+                    "modification": "Fluke 6100A",
+                    "manufactureNum": "856648042",
+                    "manufactureYear": 2007,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 23.07.2021 г. № 1436"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "a316d37b-5584-48c9-aea0-ad5707914ed9"
+        }
+    }
+}

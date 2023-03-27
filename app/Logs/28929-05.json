@@ -1,0 +1,805 @@
+{
+    "205928217": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "28929.05.СИ.00206649",
+                "mitypeNumber": "28929-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336090",
+                "mitypeTitle": "Нагрузки электронные многофункциональные",
+                "mitypeType": "ELTO SHH-2,4K",
+                "modification": "Нет модификации",
+                "manufactureNum": "09EL07005",
+                "manufactureYear": 2005,
+                "rankCode": "СИ",
+                "rankTitle": "Рабочее средство измерений",
+                "schemaTitle": "ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "06.12.2022",
+            "validDate": "05.12.2023",
+            "vriType": "2",
+            "docTitle": "МП-065\/447-2005 «Нагрузка электронная многофункциональная, ELTO SHH-2.4k»",
+            "applicable": {
+                "certNum": "С-ВЗ\/06-12-2022\/205928217",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30447.05.1Р.13147",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/13147",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "2069203",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "43826.10.СИ.00189843",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/189843",
+                    "mitypeNumber": "43826-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "DMM4040, DMM4050",
+                    "modification": "DMM4050",
+                    "manufactureNum": "2163201",
+                    "manufactureYear": 2012,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы постоянного электрического тока в диапазоне от  1∙10^-16 до 100 А"
+                },
+                {
+                    "regNumber": "43826.10.3Р.00189848",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/189848",
+                    "mitypeNumber": "43826-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "DMM4040, DMM4050",
+                    "modification": "DMM4050",
+                    "manufactureNum": "2163201",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "68945.17.2Р.00391816",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/391816",
+                    "mitypeNumber": "68945-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383046",
+                    "mitypeTitle": "Шунты токовые",
+                    "notation": "PCS-71000A",
+                    "modification": "PCS-71000A",
+                    "manufactureNum": "GES110982",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "35908.07.3Р.00647004",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/647004",
+                    "mitypeNumber": "35908-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345155",
+                    "mitypeTitle": "Нановольтметры\/микроомметры",
+                    "notation": "34420А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY42004322",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "«ГПС для СИ постоянного электрического напряжения и электродвижущей силы» утвержденной приказом Росстандарта от 30.12.2019 №3457"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "55898-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368520",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "GES14A003"
+                },
+                {
+                    "mitypeNumber": "46742-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357862",
+                    "mitypeTitle": "Источники питания постоянного тока программируемые (мощностью от 0,75 до 5 кВт)",
+                    "number": "LOC-610A275-0001"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-205928217\/protocol"
+        }
+    },
+    "205928218": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "28929.05.СИ.00211511",
+                "mitypeNumber": "28929-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336090",
+                "mitypeTitle": "Нагрузки электронные многофункциональные",
+                "mitypeType": "ELTO SHH-2,4K",
+                "modification": "Нет модификации",
+                "manufactureNum": "09EL07005",
+                "manufactureYear": 2005,
+                "rankCode": "СИ",
+                "rankTitle": "Рабочее средство измерений",
+                "schemaTitle": "ГПС для СИ электрического сопротивления постоянного и переменного тока"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "06.12.2022",
+            "validDate": "05.12.2023",
+            "vriType": "2",
+            "docTitle": "МП-065\/447-2005 «Нагрузка электронная многофункциональная, ELTO SHH-2.4k»",
+            "applicable": {
+                "certNum": "С-ВЗ\/06-12-2022\/205928218",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30447.05.1Р.13147",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/13147",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "2069203",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "43826.10.СИ.00189843",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/189843",
+                    "mitypeNumber": "43826-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "DMM4040, DMM4050",
+                    "modification": "DMM4050",
+                    "manufactureNum": "2163201",
+                    "manufactureYear": 2012,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы постоянного электрического тока в диапазоне от  1∙10^-16 до 100 А"
+                },
+                {
+                    "regNumber": "43826.10.3Р.00189848",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/189848",
+                    "mitypeNumber": "43826-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "DMM4040, DMM4050",
+                    "modification": "DMM4050",
+                    "manufactureNum": "2163201",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "68945.17.2Р.00391816",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/391816",
+                    "mitypeNumber": "68945-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383046",
+                    "mitypeTitle": "Шунты токовые",
+                    "notation": "PCS-71000A",
+                    "modification": "PCS-71000A",
+                    "manufactureNum": "GES110982",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "35908.07.3Р.00647004",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/647004",
+                    "mitypeNumber": "35908-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345155",
+                    "mitypeTitle": "Нановольтметры\/микроомметры",
+                    "notation": "34420А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY42004322",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "«ГПС для СИ постоянного электрического напряжения и электродвижущей силы» утвержденной приказом Росстандарта от 30.12.2019 №3457"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "55898-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368520",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "GES14A003"
+                },
+                {
+                    "mitypeNumber": "46742-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357862",
+                    "mitypeTitle": "Источники питания постоянного тока программируемые (мощностью от 0,75 до 5 кВт)",
+                    "number": "LOC-610A275-0001"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-205928218\/protocol"
+        }
+    },
+    "205928236": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "28929.05.СИ.00208730",
+                "mitypeNumber": "28929-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336090",
+                "mitypeTitle": "Нагрузки электронные многофункциональные",
+                "mitypeType": "ELTO SHH-2,4K",
+                "modification": "Нет модификации",
+                "manufactureNum": "09EL07005",
+                "manufactureYear": 2005,
+                "rankCode": "СИ",
+                "rankTitle": "Рабочее средство измерений",
+                "schemaTitle": "ГПС для СИ силы постоянного электрического тока в диапазоне от  1∙10^-16 до 100 А"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "06.12.2022",
+            "validDate": "05.12.2023",
+            "vriType": "2",
+            "docTitle": "МП-065\/447-2005 «Нагрузка электронная многофункциональная, ELTO SHH-2.4k»",
+            "applicable": {
+                "certNum": "С-ВЗ\/06-12-2022\/205928236",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30447.05.1Р.13147",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/13147",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "2069203",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "43826.10.СИ.00189843",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/189843",
+                    "mitypeNumber": "43826-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "DMM4040, DMM4050",
+                    "modification": "DMM4050",
+                    "manufactureNum": "2163201",
+                    "manufactureYear": 2012,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы постоянного электрического тока в диапазоне от  1∙10^-16 до 100 А"
+                },
+                {
+                    "regNumber": "43826.10.3Р.00189848",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/189848",
+                    "mitypeNumber": "43826-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354596",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "DMM4040, DMM4050",
+                    "modification": "DMM4050",
+                    "manufactureNum": "2163201",
+                    "manufactureYear": 2012,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "68945.17.2Р.00391816",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/391816",
+                    "mitypeNumber": "68945-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383046",
+                    "mitypeTitle": "Шунты токовые",
+                    "notation": "PCS-71000A",
+                    "modification": "PCS-71000A",
+                    "manufactureNum": "GES110982",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "35908.07.3Р.00647004",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/647004",
+                    "mitypeNumber": "35908-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345155",
+                    "mitypeTitle": "Нановольтметры\/микроомметры",
+                    "notation": "34420А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY42004322",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "«ГПС для СИ постоянного электрического напряжения и электродвижущей силы» утвержденной приказом Росстандарта от 30.12.2019 №3457"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "55898-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368520",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "GES14A003"
+                },
+                {
+                    "mitypeNumber": "46742-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357862",
+                    "mitypeTitle": "Источники питания постоянного тока программируемые (мощностью от 0,75 до 5 кВт)",
+                    "number": "LOC-610A275-0001"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-205928236\/protocol"
+        }
+    },
+    "127224900": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "28929.05.СИ.00208730",
+                "mitypeNumber": "28929-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336090",
+                "mitypeTitle": "Нагрузки электронные многофункциональные",
+                "mitypeType": "ELTO SHH-2,4K",
+                "modification": "Нет модификации",
+                "manufactureNum": "09EL07005",
+                "manufactureYear": 2005,
+                "rankCode": "СИ",
+                "rankTitle": "Рабочее средство измерений",
+                "schemaTitle": "ГПС для СИ силы постоянного электрического тока в диапазоне от  1∙10^-16 до 100 А"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "24.01.2022",
+            "validDate": "23.01.2023",
+            "vriType": "2",
+            "docTitle": "МП-065\/447-2005 «Нагрузка электронная многофункциональная, ELTO SHH-2.4k»",
+            "applicable": {
+                "certNum": "С-ВЗ\/24-01-2022\/127224900",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30447.05.1Р.13147",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/13147",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "2069203",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "47717.11.СИ.00187386",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/187386",
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359044",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34410А, 34411А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY47019302",
+                    "manufactureYear": 2011,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы постоянного электрического тока в диапазоне от  1∙10^-16 до 100 А"
+                },
+                {
+                    "regNumber": "47717.11.3Р.00187393",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/187393",
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359044",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34410А, 34411А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY47019302",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "68945.17.2Р.00391816",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/391816",
+                    "mitypeNumber": "68945-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383046",
+                    "mitypeTitle": "Шунты токовые",
+                    "notation": "PCS-71000A",
+                    "modification": "PCS-71000A",
+                    "manufactureNum": "GES110982",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "47886.11.3Р.00393234",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/393234",
+                    "mitypeNumber": "47886-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359267",
+                    "mitypeTitle": "Нановольтметры\/микроомметры",
+                    "notation": "34420А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY42004322",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39505700\/402"
+                },
+                {
+                    "mitypeNumber": "20189-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322455",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "ЕК885474"
+                },
+                {
+                    "mitypeNumber": "46742-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357862",
+                    "mitypeTitle": "Источники питания постоянного тока программируемые (мощностью от 0,75 до 5 кВт)",
+                    "number": "LOC-610A275-0001"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-127224900\/protocol"
+        }
+    },
+    "127224902": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "28929.05.СИ.00206649",
+                "mitypeNumber": "28929-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336090",
+                "mitypeTitle": "Нагрузки электронные многофункциональные",
+                "mitypeType": "ELTO SHH-2,4K",
+                "modification": "Нет модификации",
+                "manufactureNum": "09EL07005",
+                "manufactureYear": 2005,
+                "rankCode": "СИ",
+                "rankTitle": "Рабочее средство измерений",
+                "schemaTitle": "ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "24.01.2022",
+            "validDate": "23.01.2023",
+            "vriType": "2",
+            "docTitle": "МП-065\/447-2005 «Нагрузка электронная многофункциональная, ELTO SHH-2.4k»",
+            "applicable": {
+                "certNum": "С-ВЗ\/24-01-2022\/127224902",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30447.05.1Р.13147",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/13147",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "2069203",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "47717.11.СИ.00187386",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/187386",
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359044",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34410А, 34411А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY47019302",
+                    "manufactureYear": 2011,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы постоянного электрического тока в диапазоне от  1∙10^-16 до 100 А"
+                },
+                {
+                    "regNumber": "47717.11.3Р.00187393",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/187393",
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359044",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34410А, 34411А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY47019302",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "68945.17.2Р.00391816",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/391816",
+                    "mitypeNumber": "68945-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383046",
+                    "mitypeTitle": "Шунты токовые",
+                    "notation": "PCS-71000A",
+                    "modification": "PCS-71000A",
+                    "manufactureNum": "GES110982",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "47886.11.3Р.00393234",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/393234",
+                    "mitypeNumber": "47886-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359267",
+                    "mitypeTitle": "Нановольтметры\/микроомметры",
+                    "notation": "34420А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY42004322",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39505700\/402"
+                },
+                {
+                    "mitypeNumber": "20189-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322455",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "ЕК885474"
+                },
+                {
+                    "mitypeNumber": "46742-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357862",
+                    "mitypeTitle": "Источники питания постоянного тока программируемые (мощностью от 0,75 до 5 кВт)",
+                    "number": "LOC-610A275-0001"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-127224902\/protocol"
+        }
+    },
+    "127224901": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "28929.05.СИ.00211511",
+                "mitypeNumber": "28929-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336090",
+                "mitypeTitle": "Нагрузки электронные многофункциональные",
+                "mitypeType": "ELTO SHH-2,4K",
+                "modification": "Нет модификации",
+                "manufactureNum": "09EL07005",
+                "manufactureYear": 2005,
+                "rankCode": "СИ",
+                "rankTitle": "Рабочее средство измерений",
+                "schemaTitle": "ГПС для СИ электрического сопротивления постоянного и переменного тока"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ОМСКОЙ ОБЛАСТИ\"(ФБУ \"ОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЗ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "24.01.2022",
+            "validDate": "23.01.2023",
+            "vriType": "2",
+            "docTitle": "МП-065\/447-2005 «Нагрузка электронная многофункциональная, ELTO SHH-2.4k»",
+            "applicable": {
+                "certNum": "С-ВЗ\/24-01-2022\/127224901",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30447.05.1Р.13147",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/13147",
+                    "mitypeNumber": "30447-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338136",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "5720A (калибраторы), 5725A (усилитель)",
+                    "modification": "5720A",
+                    "manufactureNum": "2069203",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "47717.11.СИ.00187386",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/187386",
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359044",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34410А, 34411А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY47019302",
+                    "manufactureYear": 2011,
+                    "rankCode": "СИ",
+                    "rankTitle": "Рабочее средство измерений",
+                    "schemaTitle": "ГПС для СИ силы постоянного электрического тока в диапазоне от  1∙10^-16 до 100 А"
+                },
+                {
+                    "regNumber": "47717.11.3Р.00187393",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/187393",
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359044",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34410А, 34411А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY47019302",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для СИ постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "68945.17.2Р.00391816",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/391816",
+                    "mitypeNumber": "68945-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383046",
+                    "mitypeTitle": "Шунты токовые",
+                    "notation": "PCS-71000A",
+                    "modification": "PCS-71000A",
+                    "manufactureNum": "GES110982",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "47886.11.3Р.00393234",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/393234",
+                    "mitypeNumber": "47886-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359267",
+                    "mitypeTitle": "Нановольтметры\/микроомметры",
+                    "notation": "34420А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY42004322",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39505700\/402"
+                },
+                {
+                    "mitypeNumber": "20189-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322455",
+                    "mitypeTitle": "Источники питания постоянного тока",
+                    "number": "ЕК885474"
+                },
+                {
+                    "mitypeNumber": "46742-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357862",
+                    "mitypeTitle": "Источники питания постоянного тока программируемые (мощностью от 0,75 до 5 кВт)",
+                    "number": "LOC-610A275-0001"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-127224901\/protocol"
+        }
+    },
+    "194588051": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "28929-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336090",
+                "mitypeType": "ELTO SHH-2,4K",
+                "mitypeTitle": "Нагрузки электронные многофункциональные",
+                "manufactureNum": "000001",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГОСУДАРСТВЕННЫЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ПРИБОРОСТРОЕНИЯ\"(АО \"ГОСНИИП\")",
+            "signCipher": "ВДП",
+            "miOwner": "АО \"ГОСНИИП\"",
+            "vrfDate": "18.01.2022",
+            "validDate": "17.01.2023",
+            "vriType": "2",
+            "docTitle": "МП-065\/447-2005",
+            "applicable": {
+                "certNum": "С-ВДП\/18-01-2022\/194588051",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1162.58.3Р.00445933",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/445933",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "101385",
+                    "manufactureYear": 1984,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

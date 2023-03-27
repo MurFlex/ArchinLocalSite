@@ -1,0 +1,49 @@
+{
+    "163846355": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "19161-00",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/320627",
+                "mitypeType": "ЭФ-3МА",
+                "mitypeTitle": "Флуориметры лабораторные электронные",
+                "manufactureNum": "1252",
+                "modification": "ЭФ-3МА"
+            }
+        },
+        "vriInfo": {
+            "organization": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Тверской области\"(ФБУ \"Тверской ЦСМ\")",
+            "signCipher": "БТ",
+            "miOwner": "Владелец",
+            "vrfDate": "10.06.2022",
+            "validDate": "09.06.2023",
+            "vriType": "2",
+            "docTitle": "раздел 10 \"Методика поверки\" руководства по эксплуатации ЭФ-3МА РЭ, согл. с Ростест-Москва",
+            "applicable": {
+                "certNum": "С-БТ\/10-06-2022\/163846355",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22054.16.РЭ.00431452",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/431452",
+                    "mitypeNumber": "22054-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325655",
+                    "mitypeTitle": "Комплекты светофильтров",
+                    "notation": "КС-105",
+                    "modification": "КС-105",
+                    "manufactureNum": "ВА0013",
+                    "manufactureYear": 2021,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Приказ от27.11.2018 № 2517"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

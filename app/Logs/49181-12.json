@@ -1,0 +1,104 @@
+{
+    "157711274": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "49181.12.РЭ.00611479",
+                "mitypeNumber": "49181-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360795",
+                "mitypeTitle": "Комплекты мер моделей дефектов",
+                "mitypeType": "УКМ-УЛЬТРА",
+                "modification": "\"УКМ-УЛЬТРА\"",
+                "manufactureNum": "500.50",
+                "manufactureYear": 2016,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 4276-54-66744541-11"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОЛОГОДСКОЙ ОБЛАСТИ\"(ФБУ \"ВОЛОГОДСКИЙ ЦСМ\")",
+            "signCipher": "БЛ",
+            "miOwner": "ПАО \"ЧТПЗ\"",
+            "vrfDate": "23.05.2022",
+            "validDate": "22.05.2024",
+            "vriType": "2",
+            "docTitle": "МП 4276-65-66744541",
+            "applicable": {
+                "certNum": "С-БЛ\/23-05-2022\/157685340",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "3705.73.4Р.37835",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/37835",
+                    "mitypeNumber": "3705-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346507",
+                    "mitypeTitle": "Микроскопы универсальные измерительные",
+                    "notation": "УИМ-23",
+                    "modification": "нет модификации",
+                    "manufactureNum": "760047",
+                    "manufactureYear": 1976,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №2840 от 29 декабря 2018 г."
+                },
+                {
+                    "regNumber": "49310.12.РЭ.00429384",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/429384",
+                    "mitypeNumber": "49310-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360944",
+                    "mitypeTitle": "Индикаторы часового типа с ценой деления 0,01 мм",
+                    "notation": "ИЧ",
+                    "modification": "ИЧ 10",
+                    "manufactureNum": "17880",
+                    "manufactureYear": 2012,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "МП 4276-65-66744541; МИ 564-84"
+                },
+                {
+                    "regNumber": "62052.15.РЭ.00429420",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/429420",
+                    "mitypeNumber": "62052-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375514",
+                    "mitypeTitle": "Штангенциркули торговой марки \"SHAN\"",
+                    "notation": "Нет данных",
+                    "modification": "с цифровым отсчетным устройством двусторонний с глубиномером",
+                    "manufactureNum": "Н45537",
+                    "manufactureYear": 2020,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "МП 4276-65-66744541; КЫ4.161.071 ТО, раздел 11;  ШКЛР.943313.001 И1; ИТКГ 002.000 РЭ, прил-е А; МП 6-23199; МП к г\/р№ 21585-01"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "11605-00",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306298",
+                    "mitypeTitle": "Плиты поверочные и разметочные",
+                    "number": "70"
+                },
+                {
+                    "mitypeNumber": "3463-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343533",
+                    "mitypeTitle": "Линейки поверочные лекальные четырехгранные",
+                    "number": "В-166"
+                },
+                {
+                    "mitypeNumber": "369-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346333",
+                    "mitypeTitle": "Щупы",
+                    "number": "7"
+                }
+            ]
+        },
+        "info": {
+            "structure": "мера \"СОП-UK-1\" № 500.50",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-157711274\/protocol"
+        }
+    }
+}

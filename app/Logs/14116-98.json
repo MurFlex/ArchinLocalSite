@@ -1,0 +1,50 @@
+{
+    "177971218": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "14116-98",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/310546",
+                "mitypeType": "СВКА 1",
+                "mitypeTitle": "Аппаратура виброконтроля",
+                "manufactureNum": "760178",
+                "modification": "СВКА 1-02.03"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ЯРОСЛАВСКОЙ ОБЛАСТИ\"(ФБУ \"ЯРОСЛАВСКИЙ ЦСМ\")",
+            "signCipher": "ГД",
+            "miOwner": "ООО \"ГАЗПРОМ ТРАНСГАЗ УХТА\"",
+            "vrfDate": "09.08.2022",
+            "validDate": "08.08.2023",
+            "vriType": "2",
+            "docTitle": "БЫ2.781.024 ТО",
+            "applicable": {
+                "certNum": "С-ГД\/09-08-2022\/177971218",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "50247.12.2Р.00295753",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/295753",
+                    "mitypeNumber": "50247-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362044",
+                    "mitypeTitle": "Виброустановки калибровочные портативные",
+                    "notation": "9100D и 9110D",
+                    "modification": "9100D",
+                    "manufactureNum": "2080",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ виброперемещения, виброскорости, виброускорения и углового ускорения, утв. приказом Росстандарта № 2772 от 27.12.2018"
+                }
+            ]
+        },
+        "info": {
+            "structure": "вибропреобразователь АНС 260-01 7535036,вибропреобразователь АНС 260-01 7535041",
+            "briefIndicator": false
+        }
+    }
+}

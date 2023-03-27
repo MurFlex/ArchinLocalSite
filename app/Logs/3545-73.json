@@ -1,0 +1,98 @@
+{
+    "138553802": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3545-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344570",
+                "mitypeType": "Л2-41",
+                "mitypeTitle": "Испытатели интегральных схем",
+                "manufactureNum": "1780",
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВОСТОЧНОЕ ОБОРОННОЕ ПРЕДПРИЯТИЕ \"ГРАНИТ\"(АО \"ВОП \"ГРАНИТ\")",
+            "signCipher": "ГЧЖ",
+            "miOwner": "АО \"ВОП \"Гранит\"",
+            "vrfDate": "02.03.2022",
+            "validDate": "01.03.2023",
+            "vriType": "2",
+            "docTitle": "раздел 7 \"Методы и средства поверки\" 2.746.003 ТО",
+            "applicable": {
+                "certNum": "С-ГЧЖ\/02-03-2022\/138553802",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "26425.04.2Р.00498466",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/498466",
+                    "mitypeNumber": "26425-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332581",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-72",
+                    "modification": "В7-72",
+                    "manufactureNum": "25",
+                    "manufactureYear": 2005,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«Приказ №575 от 14.05.2015»"
+                },
+                {
+                    "regNumber": "26425.04.2Р.00498467",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/498467",
+                    "mitypeNumber": "26425-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332581",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-72",
+                    "modification": "В7-72",
+                    "manufactureNum": "25",
+                    "manufactureYear": 2005,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "«ГПС для СИ силы постоянного электрического тока в диапазоне 1*10^-16 до 100 А»"
+                },
+                {
+                    "regNumber": "26425.04.3Р.00498468",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/498468",
+                    "mitypeNumber": "26425-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332581",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-72",
+                    "modification": "В7-72",
+                    "manufactureNum": "25",
+                    "manufactureYear": 2005,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №3457 от 30.12.2019 \"ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы\""
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "43841-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354612",
+                    "mitypeTitle": "Клещи токовые многофункциональные",
+                    "number": "140701023"
+                },
+                {
+                    "mitypeNumber": "3744-73",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346990",
+                    "mitypeTitle": "Барометры-анероиды контрольные",
+                    "number": "279"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "67625"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    }
+}

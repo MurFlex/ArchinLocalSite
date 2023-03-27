@@ -2,15 +2,21 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\ApplicableDevice;
+use App\Models\Changes;
 use App\Models\Company;
 use App\Models\Device;
+use App\Models\InapplicableDevice;
+use App\Models\PartymiDevice;
 use App\Models\Storage;
+use App\Models\VriInfo;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
 class SearchController extends Controller
 {
     /**
+     * Changing keyboard layout
      * @param $value
      * @return string
      */
@@ -36,51 +42,136 @@ class SearchController extends Controller
         return $value;
     }
 
-
+    /**
+     * API for adding company to ban list
+     *
+     * {
+     *      'id' : company id
+     * }
+     *
+     * @param Request $request
+     * @return \Illuminate\Http\JsonResponse
+     */
+    public function banCompany(Request $request) {
+        if(file_exists('../app/Helpers/black_list_of_companies.txt'))
+            $data = explode(' ',trim(preg_replace('/\r\n|\n\r|\n|\r/', ' ', file_get_contents('../app/Helpers/black_list_of_companies.txt'))));
+        else $data = [];
+        if(!in_array($request['id'], $data))
+            file_put_contents('../app/Helpers/black_list_of_companies.txt', $request['id'] . PHP_EOL, FILE_APPEND);
+        return response()->json(['response' => 'done']);
+    }
 
     /**
+     * API for removing company from ban list
+     *
+     * {
+     *      'id' : company id
+     * }
+     *
+     * @param Request $request
+     * @return \Illuminate\Http\JsonResponse
+     */
+    public function unbanCompany(Request $request) {
+        $data = explode(' ',trim(preg_replace('/\r\n|\n\r|\n|\r/', ' ', file_get_contents('../app/Helpers/black_list_of_companies.txt'))));
+        unlink('../app/Helpers/black_list_of_companies.txt');
+        if (($key = array_search($request['id'], $data)) !== False) {
+            unset($data[$key]);
+        }
+
+        foreach($data as $item) {
+            file_put_contents('../app/Helpers/black_list_of_companies.txt', $item . PHP_EOL, FILE_APPEND);
+        }
+        return response()->json(['response' => 'done']);
+    }
+
+    /**
+     * API for renaming company name
+     *
+     * request form:
+     *  {
+     *      'id' : company id
+     *      'rename_from' : company name from
+     *      'rename_to' : company name to
+     *      'apply' : true/false if there is a company with the rename_to name
+     *  }
+     *
+     * @param Request $request
+     * @return \Illuminate\Http\JsonResponse
+     */
+    public function renameCompany(Request $request) {
+        $request['apply'] = $request['apply'] == 'true' ? 1 : 0;
+        $request['rename_to'] = mb_strtoupper($request['rename_to']);
+        if($company = Company::where('company_name', '=', $request['rename_from'])->first()) {
+            if($request['apply'] && count(Company::where('company_name', '=', $request['rename_to'])->get())) {
+                $renametoId = Company::where('company_name', '=', $request['rename_to'])->first()->company_id;
+                Device::where('company_id', '=', $request['id'])->update(['company_id' => $renametoId]);
+                Storage::where('company_id', '=', $request['id'])->update(['company_id' => $renametoId]);
+                ApplicableDevice::where('company_id', '=', $request['id'])->update(['company_id' => $renametoId]);
+                InapplicableDevice::where('company_id', '=', $request['id'])->update(['company_id' => $renametoId]);
+                if(!count(Device::where('company_id', '=', $request['id'])->get())) {
+                    Company::where('company_id', '=', $request['id'])->delete();
+                    $change = new Changes;
+                    $change->ip = request()->ip();
+                    $change->renamed_from = $request['rename_from'];
+                    $change->renamed_to = $request['rename_to'];
+                    $change->renamed_id = $request['id'];
+                    $change->new_id = $renametoId;
+                    $change->save();
+                    return response()->json(['response' => 'success']);
+                } else {
+                    return response()->json(['response' => 'wrong']);
+                }
+            } else {
+                if (count(Company::where('company_name', '=', $request['rename_to'])->get())) {
+                    return response()->json(['response' => 'found']);
+                } else {
+                    $company = Company::where('company_name', '=', $request['rename_from'])->first();
+                    $change = new Changes;
+                    $company->company_name = $request['rename_to'];
+                    $change->ip = request()->ip();
+                    $change->renamed_from = $request['rename_from'];
+                    $change->renamed_to = $request['rename_to'];
+                    $change->renamed_id = $request['id'];
+                    $change->save();
+                    $company->save();
+                    return response()->json(['response' => 'success']);
+                }
+            }
+        } else {
+            return response()->json(['response' => 'not found']);
+        }
+    }
+
+    /**
+     * Main search controller
      * @param Request $request
      * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
      */
     public function index(Request $request)
     {
-        $found = False;
-
-        $page = isset(
-            $request['page']) && $request['page'] !== '<<'? $request['page'] : 1;
+        if(file_exists('../app/Helpers/black_list_of_companies.txt'))
+            $ban = explode(' ',trim(preg_replace('/\r\n|\n\r|\n|\r/', ' ', file_get_contents('../app/Helpers/black_list_of_companies.txt'))));
+        else
+            $ban = [];
+        $bannedCompanies = array();
 
         if ($request['company_name'] == null && $request['device_name'] == null) {
-            $companies = array();
-
-//            $data = json_decode(Company::all(), 1);
-//
-//            foreach($data as $item) {
-//                $companies[$item['company_id']] = $item['company_name'];
-//            }
-
-//            $companies = array_chunk($companies, 15);
-
-//            dd(1);
-            return view('dev', [
-                'found'     => null,
+            return view('pages.dev', [
+                'bannedCompanies' => null,
                 'request'   => $request,
                 'year'      => date('Y'),
-                'storages'  => null,
-                'companies' => null,
+                'companies' => [],
             ]);
 
         } elseif($request['company_name'] !== null && $request['device_name'] == null) {
-            $companies = array();
+            $data = Storage::leftJoin('companies', function($join){
+                $join->on('storages.company_id', '=', 'companies.company_id');
+            })->where([
+                ['year', 'LIKE', '%'.$request['years'].'%'],
+                ['company_name', 'LIKE', '%' . $request['company_name'] . '%'],
+            ])->get();
 
-            $data = Company::where('company_name', 'LIKE', '%' . mb_strtoupper($request['company_name'] . '%'))->get();
-
-            if(count($data) == 0) {
-                $found = $this->switcher_ru($request['company_name']);
-                $data = Company::where('company_name', 'LIKE', '%' . mb_strtoupper($this->switcher_ru($request['company_name'] . '%')))->get();
-            }
         } elseif ($request['device_name'] !== null) {
-            $companies = array();
-
             $swapWords = [
                 'С' => 'C', # Ru to eng
                 'К' => 'K',
@@ -96,22 +187,12 @@ class SearchController extends Controller
 
             $request['device_name'] = strtr(mb_strtoupper($request['device_name']), $swapWords);
 
-//            dd($request['device_name']);
-            $data = Storage::where('type', 'LIKE', '%' . $request['device_name'] . '%')->leftJoin('companies', function($join) {
+            $data = Storage::where([
+                ['type', 'LIKE', '%' . $request['device_name'] . '%'],
+                ['year', 'LIKE', $request['years']]
+            ])->leftJoin('companies', function($join) {
                 $join->on('storages.company_id', '=', 'companies.company_id');
-            })->get();
-
-//            dd($data);
-
-//             $data = Device::where('mitypeType', 'LIKE', '%' . $request['device_name'] . '%')->leftJoin('vri_Infos', function ($join) {
-//                $join->on('vri_Infos.device_id', '=', 'devices.device_id');
-//            })->leftJoin('companies', function ($join) {
-//                $join->on('companies.company_id', '=', 'devices.company_id');
-//            })->where('vrfDate', 'LIKE', '%' .  $request['years'])->leftJoin('storages', function ($join) {
-//                $join->on('storages.type', '=', 'devices.mitypeType');
-//            })->get();
-
-//            dd($devices);
+            })->where('company_name', 'LIKE', '%'. $request['company_name'] .'%')->get();
 
             // Swap to english analogue
             $swapWords = [
@@ -129,14 +210,12 @@ class SearchController extends Controller
 
             $request['device_name'] = strtr(mb_strtoupper($request['device_name']), $swapWords);
 
-//            dd($request['device_name']);
-
-            $addtionalData = Storage::where('type', 'LIKE', '%' . $request['device_name'] . '%')->leftJoin('companies', function($join) {
+            $addtionalData = Storage::where([
+                ['type', 'LIKE', '%' . $request['device_name'] . '%'],
+                ['year', 'LIKE', $request['years']]
+            ])->leftJoin('companies', function($join) {
                 $join->on('storages.company_id', '=', 'companies.company_id');
-            })->get();
-
-//            $data += $addtionalData;
-//            dd($addtionalData);
+            })->where('company_name', 'LIKE', '%'. $request['company_name'] .'%')->get();
 
             if(count($data) == 0 && count($addtionalData) == 0) {
                 $data = Company::where('company_name', 'LIKE', '%' . mb_strtoupper($request['company_name']) . '%')->leftJoin('devices', function ($join){
@@ -147,44 +226,40 @@ class SearchController extends Controller
             }
         }
 
-        $storage = array();
-        $inapplicable = array();
-
-        if(isset($data)) {
-            foreach ($data as $item) {
-                $companies[$item->company_id] = $item->company_name;
-                if(!isset($storage[$item->company_id]) && !isset($inapplicable[$item->company_id]) && $request['device_name'] !== null) {
-                    $storage[$item->company_id] = $item->count;
-                    $inapplicable[$item->company_id] = $item->inapplicable;
-                } elseif($request['device_name'] !== null) {
-                    $storage[$item->company_id] += $item->count;
-                    $inapplicable[$item->company_id] += $item->inapplicable;
-                }
-
-            }
-        }
-
         if(isset($addtionalData)) {
-            foreach ($addtionalData as $item) {
-                $companies[$item->company_id] = $item->company_name;
-                if(!isset($storage[$item->company_id]) && !isset($inapplicable[$item->company_id]) && $request['device_name'] !== null) {
-                    $storage[$item->company_id] = $item->count;
-                    $inapplicable[$item->company_id] = $item->inapplicable;
-                } elseif($request['device_name'] !== null) {
-                    $storage[$item->company_id] += $item->count;
-                    $inapplicable[$item->company_id] += $item->inapplicable;
+            $addtionalData = $addtionalData->diff($data);
+            $data = $data->merge($addtionalData);
+        }
+
+        $companies = array();
+
+        foreach($data as $storage) {
+            if($storage->count !== 0) {
+                if (!in_array($storage->company_id, $ban)) {
+                    if (!isset($companies[$storage->company_id])) {
+                        $companies[$storage->company_id] = [
+                            'name' => $storage->company_name,
+                            'count' => $storage->count,
+                            'inapplicable' => $storage->inapplicable,
+                        ];
+                    } else {
+                        $companies[$storage->company_id]['count'] += $storage->count;
+                        $companies[$storage->company_id]['inapplicable'] += $storage->inapplicable;
+                    }
+                } else {
+                    $bannedCompanies[$storage->company_id] = $storage->company_name;
                 }
             }
         }
 
-        arsort($storage);
+        $keys = array_keys($companies);
+        array_multisort(array_column($companies, 'count'), SORT_DESC, SORT_NUMERIC ,$companies, $keys);
+        $companies = array_combine($keys, $companies);
 
-        return view('dev',
+        return view('pages.dev',
             [
+                'bannedCompanies' => !empty($bannedCompanies) ? $bannedCompanies : null,
                 'year'      => date('Y'),
-                'inapplicable' => $inapplicable,
-                'storages'   => !empty($storage) ? $storage : null,
-                'found'     => $found,
                 'companies' => isset($companies) ? $companies : [],
                 'request'   => $request,
             ]);

@@ -1,0 +1,100 @@
+{
+    "193825912": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "51259-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363244",
+                "mitypeType": "STBACI0320K, STBACI1225K, STBACI1230K, STBACI1400K, STBACI8320K, STBACO0120K, STBACO0220K, STBACO1210K, STBACO1225K, STBART0200, STBART0200K, STBAVI0300K, STBAVI1255K, STBAVI1270K, STBAVI1275K, STBAVI1400K, STBAVO0200K, STBAVO1250K, STBAVO1255K, STBAVO1265K, STBEHC3020KC",
+                "mitypeTitle": "Модули аналоговые",
+                "manufactureNum": "APSAS8-Y02-MOD5",
+                "modification": "STBART0200K"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭРИС\"(ООО \"ЭРИС\")",
+            "signCipher": "ВКЭ",
+            "miOwner": "-",
+            "vrfDate": "05.10.2022",
+            "validDate": "04.10.2030",
+            "vriType": "2",
+            "docTitle": "МП 2203-0249-2012 «Модули аналоговыеSTBAVI1255K, STBAVI1270K, STBAVI1275K, STBAVI0300K, STBAVI1400K,STBACI1225K, STBACI1230K, ST",
+            "applicable": {
+                "certNum": "С-ВКЭ\/05-10-2022\/193825912",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "6332.77.4Р.00308706",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/308706",
+                    "mitypeNumber": "6332-77",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376916",
+                    "mitypeTitle": "Магазины сопротивления",
+                    "notation": "Р4831",
+                    "modification": "Нет данных",
+                    "manufactureNum": "03992",
+                    "manufactureYear": 1988,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений электрического сопротивления постоянного и переменного тока"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Pt100 (-200…350) °С, измерительный канал I4.0",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-193825912\/protocol"
+        }
+    },
+    "193825913": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "51259-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363244",
+                "mitypeType": "STBACI0320K, STBACI1225K, STBACI1230K, STBACI1400K, STBACI8320K, STBACO0120K, STBACO0220K, STBACO1210K, STBACO1225K, STBART0200, STBART0200K, STBAVI0300K, STBAVI1255K, STBAVI1270K, STBAVI1275K, STBAVI1400K, STBAVO0200K, STBAVO1250K, STBAVO1255K, STBAVO1265K, STBEHC3020KC",
+                "mitypeTitle": "Модули аналоговые",
+                "manufactureNum": "APSAS8-Y02-MOD3",
+                "modification": "STBACI1400K"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭРИС\"(ООО \"ЭРИС\")",
+            "signCipher": "ВКЭ",
+            "miOwner": "-",
+            "vrfDate": "05.10.2022",
+            "validDate": "04.10.2030",
+            "vriType": "2",
+            "docTitle": "МП 2203-0249-2012 «Модули аналоговыеSTBAVI1255K, STBAVI1270K, STBAVI1275K, STBAVI0300K, STBAVI1400K,STBACI1225K, STBACI1230K, ST",
+            "applicable": {
+                "certNum": "С-ВКЭ\/05-10-2022\/193825913",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39151.12.1Р.00274749",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/274749",
+                    "mitypeNumber": "39151-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349070",
+                    "mitypeTitle": "Калибраторы давления портативные",
+                    "notation": "Метран-517",
+                    "modification": "Метран 517-1",
+                    "manufactureNum": "869",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказ Росстандарта № 2091 от 1 октября 2018 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "(4 - 20) мА, измерительные каналы I2.0, I2.4",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-193825913\/protocol"
+        }
+    }
+}

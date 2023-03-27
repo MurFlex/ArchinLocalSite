@@ -1,0 +1,77 @@
+{
+    "191390177": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "5784-76",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370764",
+                "mitypeType": "ФН4-25",
+                "mitypeTitle": "Фильтры нижних частот",
+                "manufactureNum": "25",
+                "modification": "ФНЧ-25"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТОМСКОЙ ОБЛАСТИ\"(ФБУ \"ТОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЭ",
+            "miOwner": "ФБУ \"Томский ЦСМ\"",
+            "vrfDate": "06.09.2022",
+            "validDate": "05.09.2023",
+            "vriType": "2",
+            "docTitle": "раздел 9 \"Методы и средства поверки\" РХ2.067.071ТО",
+            "applicable": {
+                "certNum": "С-ВЭ\/06-09-2022\/191390177",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32869.06.3Р.00165578",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/165578",
+                    "mitypeNumber": "32869-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341374",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/3R",
+                    "modification": "Ч3-85\/3R",
+                    "manufactureNum": "73010023",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "5477.76.2Р.00203686",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/203686",
+                    "mitypeNumber": "5477-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367253",
+                    "mitypeTitle": "Вольтметры переменного тока диодные компенсационные",
+                    "notation": "В3-49",
+                    "modification": "В3-49",
+                    "manufactureNum": "3349",
+                    "manufactureYear": 1984,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 1053 от 29.05.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32620-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/341025",
+                    "mitypeTitle": "Генераторы сигналов сложной формы",
+                    "number": "C024104"
+                },
+                {
+                    "mitypeNumber": "5783-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370753",
+                    "mitypeTitle": "Магазины затуханий",
+                    "number": "57"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

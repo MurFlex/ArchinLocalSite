@@ -1,0 +1,46 @@
+{
+    "158704523": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "41650.09.РЭ.00433667",
+                "mitypeNumber": "41650-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/352021",
+                "mitypeTitle": "Излучатель эталонный непрерывного светового потока",
+                "mitypeType": "ЭИС-1",
+                "modification": "",
+                "manufactureNum": "1",
+                "manufactureYear": 2009,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 30.12.2019 №3460"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "7727061249 РОСТЕСТ-МОСКВА ФБУ",
+            "vrfDate": "25.05.2022",
+            "validDate": "24.05.2023",
+            "vriType": "2",
+            "docTitle": "документом \"Излучатель эталонный непрерывного светового потока ЭИС-1. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-А\/25-05-2022\/158704523",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZA.0012.2015",
+                    "title": "Государственный вторичный эталон единиц силы света непрерывного излучения в диапазоне от 1 до 500 кд и освещенности непрерывного излучения в диапазоне от 1 до 10[^5] лк",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446939"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-158704523\/protocol"
+        }
+    }
+}

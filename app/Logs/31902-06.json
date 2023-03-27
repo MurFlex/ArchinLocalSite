@@ -1,0 +1,99 @@
+{
+    "163719275": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "31902-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340055",
+                "mitypeType": "AVL",
+                "mitypeTitle": "Стенд для испытаний двигателей внутреннего сгорания",
+                "manufactureNum": "31403772 AKA",
+                "modification": "Без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "15.06.2022",
+            "validDate": "14.06.2023",
+            "vriType": "2",
+            "docTitle": "Стенд для испытаний двигателей фирмы AVL LIST GmbH. Методика поверки",
+            "applicable": {
+                "certNum": "С-БН\/15-06-2022\/163719275",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZБН.1492.2014",
+                    "title": "ГЭЕ времени и частоты в диапазоне значений от 1 мГц до 50 кГц для линейных скоростей от 1 км\/ч до 250 км\/ч и частот вращения от 0,1 об\/мин до 300000 об\/мин",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/412027"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "23653.02.4Р.00141834",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/141834",
+                    "mitypeNumber": "23653-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328331",
+                    "mitypeTitle": "Гири классов точности E1, E2, F1 и F2",
+                    "notation": "Нет данных",
+                    "modification": "Набор (1 кг - 10 кг) М1",
+                    "manufactureNum": "5030917",
+                    "manufactureYear": 2005,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2818 от 29 декабря 2018 г."
+                },
+                {
+                    "regNumber": "22237.06.4Р.00425534",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/425534",
+                    "mitypeNumber": "22237-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325960",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MCх-R",
+                    "modification": "MC5-R",
+                    "manufactureNum": "25513492",
+                    "manufactureYear": 2006,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "22237.06.3Р.00425535",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/425535",
+                    "mitypeNumber": "22237-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325960",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MCх-R",
+                    "modification": "MC5-R",
+                    "manufactureNum": "25513492",
+                    "manufactureYear": 2006,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 3457 от 31.12.2019 г."
+                },
+                {
+                    "regNumber": "22237.06.1Р.00425536",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/425536",
+                    "mitypeNumber": "22237-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325960",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MCх-R",
+                    "modification": "MC5-R",
+                    "manufactureNum": "25513492",
+                    "manufactureYear": 2006,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №2091 от 01.10.2018 г. «Об утверждении государственной поверочной схемы для средств измерений силы постоянно"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Х1,Х2,Х4,Х6,Х7, AVL-М,AVL-F, Р5,Р7,Р8"
+        }
+    }
+}

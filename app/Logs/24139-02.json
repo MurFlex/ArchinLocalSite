@@ -1,0 +1,50 @@
+{
+    "132711850": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24139-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/329072",
+                "mitypeType": "АСТРОН",
+                "mitypeTitle": "Приборы для измерений механических напряжений",
+                "manufactureNum": "М 0463897 11",
+                "modification": "нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТЕХНИЧЕСКИЙ ЦЕНТР ЭЛЕКТРУМ\"(ООО \"ТЦ ЭЛЕКТРУМ\")",
+            "signCipher": "ВДЕ",
+            "miOwner": "физ лицо",
+            "vrfDate": "16.02.2022",
+            "validDate": "15.02.2027",
+            "vriType": "2",
+            "docTitle": "МИ 1592-2015",
+            "applicable": {
+                "certNum": "С-ВДЕ\/16-02-2022\/132711850",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "40391.09.3Р.00534119",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/534119",
+                    "mitypeNumber": "40391-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350522",
+                    "mitypeTitle": "Установки поверочные переносные",
+                    "notation": "УПСЖ 3ПМ",
+                    "modification": "УПСЖ 3ПМ",
+                    "manufactureNum": "1040",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения массы и объёма жидкости в потоке"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "В полном объёме"
+        }
+    }
+}

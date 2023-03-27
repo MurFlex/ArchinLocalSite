@@ -1,0 +1,99 @@
+{
+    "193373183": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "51443-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363457",
+                "mitypeType": "DH 603",
+                "mitypeTitle": "Анализаторы водорода",
+                "manufactureNum": "3039",
+                "modification": "DH 603"
+            }
+        },
+        "vriInfo": {
+            "organization": "УРАЛЬСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ(УРАЛЬСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ)",
+            "signCipher": "С",
+            "miOwner": "АО \"ЧТПЗ\", ИНН 7449006730",
+            "vrfDate": "13.10.2022",
+            "validDate": "12.10.2023",
+            "vriType": "2",
+            "docTitle": "МП 32-251-2012 \"ГСИ. Анализаторы водорода  DH 603.  Методика поверки\"",
+            "applicable": {
+                "certNum": "С-С\/13-10-2022\/193373183",
+                "stickerNum": "20016103277",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 8725-2005",
+                    "title": "СО МАССОВОЙ ДОЛИ КИСЛОРОДА, ВОДОРОДА И АЗОТА В СТАЛИ УГЛЕРОДИСТОЙ (СГ-18)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/391460",
+                    "manufactureYear": 2005
+                },
+                {
+                    "number": "ГСО 3608-87",
+                    "title": "СО СОСТАВА ТИТАНОВОГО СПЛАВА ТИПА ВТ16",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/393718",
+                    "manufactureYear": 1986
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "191014701": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "51443-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363457",
+                "mitypeType": "DH 603",
+                "mitypeTitle": "Анализаторы водорода",
+                "manufactureNum": "3056",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ООО \"НИИ Транснефть\"",
+            "vrfDate": "27.09.2022",
+            "validDate": "26.09.2023",
+            "vriType": "2",
+            "docTitle": "документом МП 32-251-2012 \"ГСИ. Анализаторы водорода DH 603. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-АБ\/27-09-2022\/191014701",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 8447-2003",
+                    "title": "СО СОСТАВА СТАЛИ (СRМ 501-529)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/391736",
+                    "manufactureYear": 2022
+                },
+                {
+                    "number": "ГСО 8448-2003",
+                    "title": "СО СОСТАВА СТАЛИ (СRМ 762-747)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/391735",
+                    "manufactureYear": 2022
+                },
+                {
+                    "number": "ГСО 3608-87",
+                    "title": "СО СОСТАВА ТИТАНОВОГО СПЛАВА ТИПА ВТ16",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/393718",
+                    "manufactureYear": 2022
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

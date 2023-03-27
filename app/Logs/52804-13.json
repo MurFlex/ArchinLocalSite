@@ -1,0 +1,109 @@
+{
+    "209278844": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "52804-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365048",
+                "mitypeType": "IDAX 350, CDAX 605",
+                "mitypeTitle": "Измерители параметров изоляции",
+                "manufactureNum": "2201129",
+                "modification": "IDAX 350"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "19.12.2022",
+            "validDate": "18.12.2024",
+            "vriType": "1",
+            "docTitle": "МП 52804-13",
+            "applicable": {
+                "certNum": "С-МА\/19-12-2022\/209278844",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41104.09.2Р.00534993",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/534993",
+                    "mitypeNumber": "41104-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351361",
+                    "mitypeTitle": "Киловольтметры спектральные цифровые",
+                    "notation": "КВЦ-120",
+                    "modification": "КВЦ-120",
+                    "manufactureNum": "3214",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 3458 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "41104.09.2Р.00534994",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/534994",
+                    "mitypeNumber": "41104-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351361",
+                    "mitypeTitle": "Киловольтметры спектральные цифровые",
+                    "notation": "КВЦ-120",
+                    "modification": "КВЦ-120",
+                    "manufactureNum": "3214",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ № 2316 от 31.12.2020 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "b36b07b7-5566-4d7e-8cbb-185f570bfc67"
+        }
+    },
+    "156154198": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "52804-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365048",
+                "mitypeType": "IDAX 350, CDAX 605",
+                "mitypeTitle": "Измерители параметров изоляции",
+                "manufactureNum": "1900817",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "12.04.2022",
+            "validDate": "11.04.2024",
+            "vriType": "2",
+            "docTitle": "МП 52804-13",
+            "applicable": {
+                "certNum": "С-ДИЭ\/12-04-2022\/156154198",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "21884-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325363",
+                    "mitypeTitle": "Мосты переменного тока высоковольтные автоматические",
+                    "number": "045"
+                },
+                {
+                    "mitypeNumber": "5395-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366344",
+                    "mitypeTitle": "Магазины емкости",
+                    "number": "458"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

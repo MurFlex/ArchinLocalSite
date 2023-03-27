@@ -1,0 +1,100 @@
+{
+    "196303953": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "17444-98",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317478",
+                "mitypeType": "DL205, DL305, DL405",
+                "mitypeTitle": "Контроллеры программируемые",
+                "manufactureNum": "H03-0070",
+                "manufactureYear": 2002,
+                "modification": "DirectLOGIC 405"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СИБИРСКАЯ ИНТЕРНЕТ КОМПАНИЯ\"(ООО ИК \"СИБИНТЕК\")",
+            "signCipher": "ДВК",
+            "miOwner": "ООО\"РН-Юганскнефтегаз\"",
+            "vrfDate": "22.10.2022",
+            "validDate": "21.10.2024",
+            "vriType": "2",
+            "docTitle": "МП ВНИИМС",
+            "applicable": {
+                "certNum": "С-ДВК\/22-10-2022\/196303953",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "74892.19.1Р.00175233",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/175233",
+                    "mitypeNumber": "74892-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/582684",
+                    "mitypeTitle": "Устройства для поверки вторичной измерительной аппаратуры узлов учета нефти и нефтепродуктов",
+                    "notation": "УПВА-Т",
+                    "modification": "УПВА-Т",
+                    "manufactureNum": "122",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 01 октября 2018г. №2091,"
+                }
+            ]
+        },
+        "info": {
+            "structure": "H03-0070-01|H03-0070-02|H03-0070-03|H03-0070-04|H03-0070-05",
+            "briefIndicator": true,
+            "briefCharacteristics": "4-20 мА ∆ = ± 0,4%;"
+        }
+    },
+    "137420112": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "17444-98",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/317478",
+                "mitypeType": "DL205, DL305, DL405",
+                "mitypeTitle": "Контроллеры программируемые",
+                "manufactureNum": "Д19-0021",
+                "manufactureYear": 2006,
+                "modification": "DirectLogic 205"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СИБИРСКАЯ ИНТЕРНЕТ КОМПАНИЯ\"(ООО ИК \"СИБИНТЕК\")",
+            "signCipher": "ДВК",
+            "miOwner": "ООО \"РН-Юганскнефтегаз\"",
+            "vrfDate": "01.03.2022",
+            "validDate": "29.02.2024",
+            "vriType": "2",
+            "docTitle": "Инструкцией \"Измерительные каналы контроллеров DL205, DL305, DL405 фирмы PLC DIRECT by Koyo, США. Методика поверки и калибровки.",
+            "applicable": {
+                "certNum": "С-ДВК\/01-03-2022\/137420112",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22237.08.1Р.00263368",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/263368",
+                    "mitypeNumber": "22237-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325961",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MCх-R",
+                    "modification": "MC5-R-IS",
+                    "manufactureNum": "20096478",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 1 октября 2018 г. №2091"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

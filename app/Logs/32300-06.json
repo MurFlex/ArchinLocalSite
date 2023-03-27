@@ -1,0 +1,58 @@
+{
+    "183332177": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32300-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340599",
+                "mitypeType": "Freelance 2000-1600 (зав.№ 01) и Freelance 2000-1700 (зав.№ 02)",
+                "mitypeTitle": "Комплексы вычислительные на базе Freelance-2000",
+                "manufactureNum": "02",
+                "modification": "Freelance 2000-1700"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ЦЕНТР МЕТРОЛОГИИ \"СТП\"(ООО ЦМ \"СТП\")",
+            "signCipher": "ГШЯ",
+            "miOwner": "АО «ТАИФ-НК»",
+            "vrfDate": "26.08.2022",
+            "validDate": "25.08.2024",
+            "vriType": "2",
+            "docTitle": "\"Инструкция. ГСИ. Комплекс вычислительный на базе Freelance 2000. Методика поверки\", утвержденная ГЦИ СИ ФГУП ВНИИР в июне 2006",
+            "applicable": {
+                "certNum": "С-ГШЯ\/26-08-2022\/183200521",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52489.13.1Р.00484857",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/484857",
+                    "mitypeNumber": "52489-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364689",
+                    "mitypeTitle": "Калибраторы многофункциональные и коммуникаторы",
+                    "notation": "ВЕАМЕХ MC6 (-R)",
+                    "modification": "ВЕАМЕХ MC6 (-R)",
+                    "manufactureNum": "605538",
+                    "manufactureYear": 2017,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "1 октября 2018 г. № 2091  воспроизведение"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "АЕ11"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "канал измерения давления и перепада давления"
+        }
+    }
+}

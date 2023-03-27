@@ -1,0 +1,123 @@
+{
+    "201282339": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44899.10.РЭ.00674308",
+                "mitypeNumber": "44899-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355807",
+                "mitypeTitle": "Меры толщины покрытий",
+                "mitypeType": "МТОНП, МТ-НП, МТДХПН",
+                "modification": "МТОНП",
+                "manufactureNum": "157",
+                "manufactureYear": 2010,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГПС для СИ толщины покрытий в диапазоне знач-й от 1 до 120000 мкм, утв. приказом Росстандарта № 3276 от от 23.12.2019 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "юридическое лицо",
+            "vrfDate": "06.09.2022",
+            "validDate": "05.09.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1903-97",
+            "applicable": {
+                "certNum": "С-М\/06-09-2022\/186356703",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "20668.12.1Р.00671779",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/671779",
+                    "mitypeNumber": "20668-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323243",
+                    "mitypeTitle": "Приборы для измерений текстуры поверхности, отклонения от формы дуги окружности, прямолинейности и радиуса дуги средней линии по методу наименьших квадратов",
+                    "notation": "Form Talysurf",
+                    "modification": "-",
+                    "manufactureNum": "1987",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказ Росстандарта № 2657 от 06.11.2019"
+                }
+            ]
+        },
+        "info": {
+            "structure": "меры с заводскими номерами 42, 40, 58-Н, 62-Н, 69-Н, 56-Н, 74-Н, 73-Н",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-201282339\/protocol"
+        }
+    },
+    "169411321": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44899.10.РЭ.00350165",
+                "mitypeNumber": "44899-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355807",
+                "mitypeTitle": "Меры толщины покрытий",
+                "mitypeType": "МТОНП, МТ-НП, МТДХПН",
+                "modification": "МТОНП",
+                "manufactureNum": "1",
+                "manufactureYear": 2010,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "3276"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "08.07.2022",
+            "validDate": "07.07.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1903-97",
+            "applicable": {
+                "certNum": "С-БН\/08-07-2022\/169411321",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "54174.13.3Р.00156966",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/156966",
+                    "mitypeNumber": "54174-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366604",
+                    "mitypeTitle": "Приборы для измерений параметров шероховатости",
+                    "notation": "178",
+                    "modification": "модель Surftest SJ-412",
+                    "manufactureNum": "000361711",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №2657 от 06.11.2019 «Об утверждении Государственной поверочной схемы для средств измерений параметров шерох"
+                },
+                {
+                    "regNumber": "40893.09.3Р.00174319",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/174319",
+                    "mitypeNumber": "40893-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351118",
+                    "mitypeTitle": "Длиномеры горизонтальные",
+                    "notation": "LMI",
+                    "modification": "LMI-680 РС-ЕХ",
+                    "manufactureNum": "05290",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ №2840"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-169411321\/protocol"
+        }
+    }
+}

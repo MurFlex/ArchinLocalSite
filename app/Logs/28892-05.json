@@ -1,0 +1,691 @@
+{
+    "210563494": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "28892-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336047",
+                "mitypeType": "EQUOTIP 2",
+                "mitypeTitle": "Приборы для измерения твердости",
+                "manufactureNum": "919-0565",
+                "manufactureYear": 2005,
+                "modification": "EQUOTIP 2"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Публичное акционерное общество \"УРАЛЬСКИЙ ЗАВОД ТЯЖЕЛОГО МАШИНОСТРОЕНИЯ\"",
+            "vrfDate": "16.12.2022",
+            "validDate": "15.12.2023",
+            "vriType": "2",
+            "docTitle": "919-05 МП \"Прибор для измерения твердости EQUOTIP 2. Методика поверки\", утв. ГЦИ СИ ФГУП \"ВНИИФТРИ\" 20.10.2004 г.",
+            "applicable": {
+                "certNum": "С-СЕ\/16-12-2022\/210563494",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31737.16.1Р.00212171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/212171",
+                    "mitypeNumber": "31737-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339823",
+                    "mitypeTitle": "Меры твердости эталонные Бринелля",
+                    "notation": "МТБ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "119",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.062-85 ГСИ. Госуд спец эталон и госуд повер схема для ср измер тв по шкалам Бринелля"
+                },
+                {
+                    "regNumber": "31737.16.1Р.00212173",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/212173",
+                    "mitypeNumber": "31737-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339823",
+                    "mitypeTitle": "Меры твердости эталонные Бринелля",
+                    "notation": "МТБ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "116",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.062-85 ГСИ. Госуд спец эталон и госуд повер схема для ср измер тв по шкалам Бринелля"
+                },
+                {
+                    "regNumber": "31737.16.1Р.00212176",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/212176",
+                    "mitypeNumber": "31737-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339823",
+                    "mitypeTitle": "Меры твердости эталонные Бринелля",
+                    "notation": "МТБ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "112",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.062-85 ГСИ. Госуд спец эталон и госуд повер схема для ср измер тв по шкалам Бринелля"
+                },
+                {
+                    "regNumber": "31734.06.1Р.00232160",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/232160",
+                    "mitypeNumber": "31734-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339815",
+                    "mitypeTitle": "Меры твердости эталонные Шора",
+                    "notation": "МТШ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "118",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.516-2001 ГСИ. Государственная поверочная схема для средств измерений твердости металлов по шкале твердости Шора D"
+                },
+                {
+                    "regNumber": "31734.06.1Р.00232161",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/232161",
+                    "mitypeNumber": "31734-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339815",
+                    "mitypeTitle": "Меры твердости эталонные Шора",
+                    "notation": "МТШ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "126",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.516-2001 ГСИ. Государственная поверочная схема для средств измерений твердости металлов по шкале твердости Шора D"
+                },
+                {
+                    "regNumber": "31734.06.1Р.00232162",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/232162",
+                    "mitypeNumber": "31734-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339815",
+                    "mitypeTitle": "Меры твердости эталонные Шора",
+                    "notation": "МТШ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "134",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.516-2001 ГСИ. Государственная поверочная схема для средств измерений твердости металлов по шкале твердости Шора D"
+                },
+                {
+                    "regNumber": "46991.16.1Р.00300830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300830",
+                    "mitypeNumber": "46991-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358162",
+                    "mitypeTitle": "Меры твердости эталонные Роквелла и Супер-Роквелла",
+                    "notation": "МТР-МЕТ, МТСР-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "31",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 30.12.2019 г. №3462"
+                },
+                {
+                    "regNumber": "46991.16.1Р.00300834",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300834",
+                    "mitypeNumber": "46991-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358162",
+                    "mitypeTitle": "Меры твердости эталонные Роквелла и Супер-Роквелла",
+                    "notation": "МТР-МЕТ, МТСР-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "19",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 30.12.2019 г. №3462"
+                },
+                {
+                    "regNumber": "46991.16.1Р.00300835",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300835",
+                    "mitypeNumber": "46991-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358162",
+                    "mitypeTitle": "Меры твердости эталонные Роквелла и Супер-Роквелла",
+                    "notation": "МТР-МЕТ, МТСР-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "10",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 30.12.2019 г. №3462"
+                },
+                {
+                    "regNumber": "46991.16.1Р.00300836",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300836",
+                    "mitypeNumber": "46991-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358162",
+                    "mitypeTitle": "Меры твердости эталонные Роквелла и Супер-Роквелла",
+                    "notation": "МТР-МЕТ, МТСР-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 30.12.2019 г. №3462"
+                },
+                {
+                    "regNumber": "31736.06.1Р.00493370",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/493370",
+                    "mitypeNumber": "31736-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339819",
+                    "mitypeTitle": "Меры твердости эталонные Виккерса",
+                    "notation": "МТВ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "101",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.063-2012 ГСИ. ГПС для СИ твердости металлов и сплавов по шкалам Виккерса"
+                },
+                {
+                    "regNumber": "31736.06.1Р.00493372",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/493372",
+                    "mitypeNumber": "31736-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339819",
+                    "mitypeTitle": "Меры твердости эталонные Виккерса",
+                    "notation": "МТВ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "88",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.063-2012 ГСИ. ГПС для СИ твердости металлов и сплавов по шкалам Виккерса"
+                },
+                {
+                    "regNumber": "31736.06.1Р.00493374",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/493374",
+                    "mitypeNumber": "31736-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339820",
+                    "mitypeTitle": "Меры твердости эталонные Виккерса",
+                    "notation": "МТВ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "80",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.063-2012 ГСИ. ГПС для СИ твердости металлов и сплавов по шкалам Виккерса"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39517622\/807"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ударное устройство D ,ударное устройство G",
+            "briefIndicator": false
+        }
+    },
+    "195192313": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "28892-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336047",
+                "mitypeType": "EQUOTIP 2",
+                "mitypeTitle": "Приборы для измерения твердости",
+                "manufactureNum": "919-0567",
+                "manufactureYear": 2005,
+                "modification": "EQUOTIP 2"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Публичное акционерное общество \"УРАЛЬСКИЙ ЗАВОД ТЯЖЕЛОГО МАШИНОСТРОЕНИЯ\"",
+            "vrfDate": "14.10.2022",
+            "validDate": "13.10.2023",
+            "vriType": "2",
+            "docTitle": "919-05 МП \"Прибор для измерения твердости EQUOTIP 2. Методика поверки\", утв. ГЦИ СИ ФГУП \"ВНИИФТРИ\" 20.10.2004 г.",
+            "applicable": {
+                "certNum": "С-СЕ\/14-10-2022\/195192313",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31737.16.1Р.00212171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/212171",
+                    "mitypeNumber": "31737-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339823",
+                    "mitypeTitle": "Меры твердости эталонные Бринелля",
+                    "notation": "МТБ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "119",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.062-85 ГСИ. Госуд спец эталон и госуд повер схема для ср измер тв по шкалам Бринелля"
+                },
+                {
+                    "regNumber": "31737.16.1Р.00212173",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/212173",
+                    "mitypeNumber": "31737-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339823",
+                    "mitypeTitle": "Меры твердости эталонные Бринелля",
+                    "notation": "МТБ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "116",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.062-85 ГСИ. Госуд спец эталон и госуд повер схема для ср измер тв по шкалам Бринелля"
+                },
+                {
+                    "regNumber": "31737.16.1Р.00212176",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/212176",
+                    "mitypeNumber": "31737-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339823",
+                    "mitypeTitle": "Меры твердости эталонные Бринелля",
+                    "notation": "МТБ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "112",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.062-85 ГСИ. Госуд спец эталон и госуд повер схема для ср измер тв по шкалам Бринелля"
+                },
+                {
+                    "regNumber": "31734.06.1Р.00232160",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/232160",
+                    "mitypeNumber": "31734-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339815",
+                    "mitypeTitle": "Меры твердости эталонные Шора",
+                    "notation": "МТШ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "118",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.516-2001 ГСИ. Государственная поверочная схема для средств измерений твердости металлов по шкале твердости Шора D"
+                },
+                {
+                    "regNumber": "31734.06.1Р.00232161",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/232161",
+                    "mitypeNumber": "31734-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339815",
+                    "mitypeTitle": "Меры твердости эталонные Шора",
+                    "notation": "МТШ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "126",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.516-2001 ГСИ. Государственная поверочная схема для средств измерений твердости металлов по шкале твердости Шора D"
+                },
+                {
+                    "regNumber": "31734.06.1Р.00232162",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/232162",
+                    "mitypeNumber": "31734-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339815",
+                    "mitypeTitle": "Меры твердости эталонные Шора",
+                    "notation": "МТШ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "134",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.516-2001 ГСИ. Государственная поверочная схема для средств измерений твердости металлов по шкале твердости Шора D"
+                },
+                {
+                    "regNumber": "46991.16.1Р.00300830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300830",
+                    "mitypeNumber": "46991-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358162",
+                    "mitypeTitle": "Меры твердости эталонные Роквелла и Супер-Роквелла",
+                    "notation": "МТР-МЕТ, МТСР-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "31",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 30.12.2019 г. №3462"
+                },
+                {
+                    "regNumber": "46991.16.1Р.00300831",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300831",
+                    "mitypeNumber": "46991-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358162",
+                    "mitypeTitle": "Меры твердости эталонные Роквелла и Супер-Роквелла",
+                    "notation": "МТР-МЕТ, МТСР-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "28",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 30.12.2019 г. №3462"
+                },
+                {
+                    "regNumber": "46991.16.1Р.00300834",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300834",
+                    "mitypeNumber": "46991-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358162",
+                    "mitypeTitle": "Меры твердости эталонные Роквелла и Супер-Роквелла",
+                    "notation": "МТР-МЕТ, МТСР-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "19",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 30.12.2019 г. №3462"
+                },
+                {
+                    "regNumber": "46991.16.1Р.00300835",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300835",
+                    "mitypeNumber": "46991-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358162",
+                    "mitypeTitle": "Меры твердости эталонные Роквелла и Супер-Роквелла",
+                    "notation": "МТР-МЕТ, МТСР-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "10",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 30.12.2019 г. №3462"
+                },
+                {
+                    "regNumber": "46991.16.1Р.00300836",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300836",
+                    "mitypeNumber": "46991-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358162",
+                    "mitypeTitle": "Меры твердости эталонные Роквелла и Супер-Роквелла",
+                    "notation": "МТР-МЕТ, МТСР-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 30.12.2019 г. №3462"
+                },
+                {
+                    "regNumber": "31736.06.1Р.00493370",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/493370",
+                    "mitypeNumber": "31736-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339819",
+                    "mitypeTitle": "Меры твердости эталонные Виккерса",
+                    "notation": "МТВ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "101",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.063-2012 ГСИ. ГПС для СИ твердости металлов и сплавов по шкалам Виккерса"
+                },
+                {
+                    "regNumber": "31736.06.1Р.00493372",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/493372",
+                    "mitypeNumber": "31736-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339819",
+                    "mitypeTitle": "Меры твердости эталонные Виккерса",
+                    "notation": "МТВ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "88",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.063-2012 ГСИ. ГПС для СИ твердости металлов и сплавов по шкалам Виккерса"
+                },
+                {
+                    "regNumber": "31736.06.1Р.00493374",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/493374",
+                    "mitypeNumber": "31736-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339820",
+                    "mitypeTitle": "Меры твердости эталонные Виккерса",
+                    "notation": "МТВ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "80",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.063-2012 ГСИ. ГПС для СИ твердости металлов и сплавов по шкалам Виккерса"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39517622\/807"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ударное устройство G ,ударное устройство E",
+            "briefIndicator": false
+        }
+    },
+    "195191950": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "28892-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336047",
+                "mitypeType": "EQUOTIP 2",
+                "mitypeTitle": "Приборы для измерения твердости",
+                "manufactureNum": "919-0566",
+                "manufactureYear": 2005,
+                "modification": "EQUOTIP 2"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Публичное акционерное общество \"УРАЛЬСКИЙ ЗАВОД ТЯЖЕЛОГО МАШИНОСТРОЕНИЯ\"",
+            "vrfDate": "14.10.2022",
+            "validDate": "13.10.2023",
+            "vriType": "2",
+            "docTitle": "919-05 МП \"Прибор для измерения твердости EQUOTIP 2. Методика поверки\", утв. ГЦИ СИ ФГУП \"ВНИИФТРИ\" 20.10.2004 г.",
+            "applicable": {
+                "certNum": "С-СЕ\/14-10-2022\/195191950",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31737.16.1Р.00212171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/212171",
+                    "mitypeNumber": "31737-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339823",
+                    "mitypeTitle": "Меры твердости эталонные Бринелля",
+                    "notation": "МТБ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "119",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.062-85 ГСИ. Госуд спец эталон и госуд повер схема для ср измер тв по шкалам Бринелля"
+                },
+                {
+                    "regNumber": "31737.16.1Р.00212173",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/212173",
+                    "mitypeNumber": "31737-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339823",
+                    "mitypeTitle": "Меры твердости эталонные Бринелля",
+                    "notation": "МТБ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "116",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.062-85 ГСИ. Госуд спец эталон и госуд повер схема для ср измер тв по шкалам Бринелля"
+                },
+                {
+                    "regNumber": "31737.16.1Р.00212176",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/212176",
+                    "mitypeNumber": "31737-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339823",
+                    "mitypeTitle": "Меры твердости эталонные Бринелля",
+                    "notation": "МТБ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "112",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.062-85 ГСИ. Госуд спец эталон и госуд повер схема для ср измер тв по шкалам Бринелля"
+                },
+                {
+                    "regNumber": "31734.06.1Р.00232160",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/232160",
+                    "mitypeNumber": "31734-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339815",
+                    "mitypeTitle": "Меры твердости эталонные Шора",
+                    "notation": "МТШ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "118",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.516-2001 ГСИ. Государственная поверочная схема для средств измерений твердости металлов по шкале твердости Шора D"
+                },
+                {
+                    "regNumber": "31734.06.1Р.00232161",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/232161",
+                    "mitypeNumber": "31734-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339815",
+                    "mitypeTitle": "Меры твердости эталонные Шора",
+                    "notation": "МТШ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "126",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.516-2001 ГСИ. Государственная поверочная схема для средств измерений твердости металлов по шкале твердости Шора D"
+                },
+                {
+                    "regNumber": "31734.06.1Р.00232162",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/232162",
+                    "mitypeNumber": "31734-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339815",
+                    "mitypeTitle": "Меры твердости эталонные Шора",
+                    "notation": "МТШ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "134",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.516-2001 ГСИ. Государственная поверочная схема для средств измерений твердости металлов по шкале твердости Шора D"
+                },
+                {
+                    "regNumber": "46991.16.1Р.00300830",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300830",
+                    "mitypeNumber": "46991-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358162",
+                    "mitypeTitle": "Меры твердости эталонные Роквелла и Супер-Роквелла",
+                    "notation": "МТР-МЕТ, МТСР-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "31",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 30.12.2019 г. №3462"
+                },
+                {
+                    "regNumber": "46991.16.1Р.00300834",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300834",
+                    "mitypeNumber": "46991-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358162",
+                    "mitypeTitle": "Меры твердости эталонные Роквелла и Супер-Роквелла",
+                    "notation": "МТР-МЕТ, МТСР-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "19",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 30.12.2019 г. №3462"
+                },
+                {
+                    "regNumber": "46991.16.1Р.00300835",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300835",
+                    "mitypeNumber": "46991-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358162",
+                    "mitypeTitle": "Меры твердости эталонные Роквелла и Супер-Роквелла",
+                    "notation": "МТР-МЕТ, МТСР-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "10",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 30.12.2019 г. №3462"
+                },
+                {
+                    "regNumber": "46991.16.1Р.00300836",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/300836",
+                    "mitypeNumber": "46991-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358162",
+                    "mitypeTitle": "Меры твердости эталонные Роквелла и Супер-Роквелла",
+                    "notation": "МТР-МЕТ, МТСР-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "9",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 30.12.2019 г. №3462"
+                },
+                {
+                    "regNumber": "31736.06.1Р.00493370",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/493370",
+                    "mitypeNumber": "31736-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339819",
+                    "mitypeTitle": "Меры твердости эталонные Виккерса",
+                    "notation": "МТВ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "101",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.063-2012 ГСИ. ГПС для СИ твердости металлов и сплавов по шкалам Виккерса"
+                },
+                {
+                    "regNumber": "31736.06.1Р.00493372",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/493372",
+                    "mitypeNumber": "31736-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339819",
+                    "mitypeTitle": "Меры твердости эталонные Виккерса",
+                    "notation": "МТВ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "88",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.063-2012 ГСИ. ГПС для СИ твердости металлов и сплавов по шкалам Виккерса"
+                },
+                {
+                    "regNumber": "31736.06.1Р.00493374",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/493374",
+                    "mitypeNumber": "31736-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339820",
+                    "mitypeTitle": "Меры твердости эталонные Виккерса",
+                    "notation": "МТВ-МЕТ",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "80",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.063-2012 ГСИ. ГПС для СИ твердости металлов и сплавов по шкалам Виккерса"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39517622\/807"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ударное устройство D",
+            "briefIndicator": false
+        }
+    }
+}

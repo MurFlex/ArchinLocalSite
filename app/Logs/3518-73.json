@@ -1,0 +1,71 @@
+{
+    "159460828": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3518-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344224",
+                "mitypeType": "Р2-41",
+                "mitypeTitle": "Измерители КСВН и ослабления панорамные",
+                "manufactureNum": "0643",
+                "modification": "Р2-41"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РАТЕП\"(АО \"РАТЕП\")",
+            "signCipher": "АЧЭ",
+            "miOwner": "АО \"РАТЕП\"",
+            "vrfDate": "23.05.2022",
+            "validDate": "22.05.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1766-87 и ТО на тип СИ",
+            "applicable": {
+                "certNum": "С-АЧЭ\/23-05-2022\/159460828",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "9273.83.4Р.00407288",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/407288",
+                    "mitypeNumber": "9273-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388034",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-66",
+                    "modification": "Ч3-66",
+                    "manufactureNum": "8808157",
+                    "manufactureYear": 1989,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты Приказ Росстандарта №1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "2428.69.РЭ.00549434",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/549434",
+                    "mitypeNumber": "2428-69",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/329275",
+                    "mitypeTitle": "Нагрузки волноводные образцовые малой мощности",
+                    "notation": "Э0-7, Э9-123",
+                    "modification": "Э0-7\/2",
+                    "manufactureNum": "533",
+                    "manufactureYear": 1972,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Локальная поверочная схема для средств измерения КСВН в полых прямоугольных волноводах"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "2621-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332216",
+                    "mitypeTitle": "Аттенюаторы волноводные",
+                    "number": "01013"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "127747064": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "1147-57",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306115",
+                "mitypeType": "МВЛ-2М",
+                "mitypeTitle": "Милливольтметры ламповые",
+                "manufactureNum": "23533",
+                "modification": "МВЛ-2М"
+            }
+        },
+        "vriInfo": {
+            "organization": "Открытое акционерное общество «20 авиационный ремонтный завод»(ОАО «20 АРЗ»)",
+            "signCipher": "ГАМ",
+            "miOwner": "ОАО \"20 АРЗ\"",
+            "vrfDate": "26.01.2022",
+            "validDate": "25.01.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.118-85",
+            "applicable": {
+                "certNum": "С-ГАМ\/26-01-2022\/127747064",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "11029.92.3Р.00284437",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/284437",
+                    "mitypeNumber": "11029-92",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305507",
+                    "mitypeTitle": "Калибраторы переменного напряжения",
+                    "notation": "В1-29, В1-29\/1",
+                    "modification": "В1-29",
+                    "manufactureNum": "0578",
+                    "manufactureYear": 1991,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 29.05.2018  №1053"
+                },
+                {
+                    "regNumber": "4395.74.3Р.00430466",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/430466",
+                    "mitypeNumber": "4395-74",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354737",
+                    "mitypeTitle": "Установки для поверки вольтметров",
+                    "notation": "В1-8",
+                    "modification": "В1-8",
+                    "manufactureNum": "7827",
+                    "manufactureYear": 1986,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 29.05.2018  №1053"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

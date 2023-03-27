@@ -1,0 +1,149 @@
+{
+    "220874198": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "49464.12.5Р.00782436",
+                "mitypeNumber": "49464-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361122",
+                "mitypeTitle": "Аппаратура частотно-временной синхронизации по сигналам навигационных космических аппаратов космической навигационной системы GPS",
+                "mitypeType": "Thunderbolt E Disciplined Clock",
+                "modification": "Нет модификации",
+                "manufactureNum": "80270365",
+                "manufactureYear": 2012,
+                "rankCode": "5Р",
+                "rankTitle": "Эталон 5-го разряда",
+                "schemaTitle": "ГПС для средств измерений времени и частоты. Приказ Росстандарта от 26.09.2022 г. №2360"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ФГУП \"ВНИИФТРИ\"",
+            "vrfDate": "07.02.2023",
+            "validDate": "06.02.2024",
+            "vriType": "2",
+            "docTitle": "МП 49464-12",
+            "applicable": {
+                "certNum": "С-Т\/07-02-2023\/220874198",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт1-2022",
+                    "title": "ГПЭ единиц времени, частоты и национальной шкалы времени",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1398028"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-220874198\/protocol",
+            "additional_info": "#midc66d6b72-e7e2-45d7-905c-0bf28d5c50fb"
+        }
+    },
+    "184588373": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "49464-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361122",
+                "mitypeType": "Thunderbolt E Disciplined Clock",
+                "mitypeTitle": "Аппаратура частотно-временной синхронизации по сигналам навигационных космических аппаратов космической навигационной системы GPS",
+                "manufactureNum": "71136683",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Филиал РТРС \"РТПЦ Республики Коми\"",
+            "vrfDate": "08.09.2022",
+            "validDate": "07.09.2023",
+            "vriType": "2",
+            "docTitle": "МП 49464-12",
+            "applicable": {
+                "certNum": "С-Т\/08-09-2022\/184588373",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZT.0378.2021",
+                    "title": "Государственный рабочий эталон 1 разряда единиц времени в диапазоне значений от 1,0 нс до 9,(9) с, частоты номинальных значений 1 Гц, 5 МГц, 10 МГц, 100 МГц и шкалы времени",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1393287"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "82567.21.1Р.00434535",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/434535",
+                    "mitypeNumber": "82567-21",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1392364",
+                    "mitypeTitle": "Комплекс эталонный формирования и измерения радионавигационных параметров",
+                    "notation": "ЭФИР",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "001",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для координатно-временных средств измерений. Приказ 2831 от 29.12.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-184588373\/protocol",
+            "additional_info": "#mid0e670bed-6d3f-4e3e-8225-8c9d68ae8eac"
+        }
+    },
+    "129867660": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "49464.12.4Р.22929",
+                "mitypeNumber": "49464-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361122",
+                "mitypeTitle": "Аппаратура частотно-временной синхронизации по сигналам навигационных космических аппаратов космической навигационной системы GPS",
+                "mitypeType": "Thunderbolt E Disciplined Clock",
+                "modification": "Нет модификации",
+                "manufactureNum": "80270365",
+                "manufactureYear": 2012,
+                "rankCode": "4Р",
+                "rankTitle": "Эталон 4-го разряда",
+                "schemaTitle": "ГПС для средств измерений времени и частоты"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Федеральное государственное унитарное предприятие \"Всероссийский научно-исследовательский институт физико-технических и радиотехнических измерений\"",
+            "vrfDate": "07.02.2022",
+            "validDate": "06.02.2023",
+            "vriType": "2",
+            "docTitle": "МП 49464-12",
+            "applicable": {
+                "certNum": "С-Т\/07-02-2022\/129867660",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт1-2018",
+                    "title": "ГПЭ единиц времени, частоты и национальной шкалы времени",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397805"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-129867660\/protocol",
+            "additional_info": "#middbbca1ee-5e0f-4bf4-a22d-f59801a567bc"
+        }
+    }
+}

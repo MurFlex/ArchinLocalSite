@@ -1,0 +1,97 @@
+{
+    "158540795": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "31698-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339750",
+                "mitypeType": "Нет данных",
+                "mitypeTitle": "Комплекс измерительный для технологической установки по производству азота и водорода",
+                "manufactureNum": "110045153",
+                "modification": "СВК 15-1,5"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГОРВОДОУЧЕТ\"(ООО \"ГОРВОДОУЧЕТ\")",
+            "signCipher": "ДЮЧ",
+            "miOwner": "ФИЗЛИЦО",
+            "vrfDate": "24.05.2022",
+            "validDate": "23.05.2026",
+            "vriType": "2",
+            "docTitle": "МИ1592-2015",
+            "applicable": {
+                "certNum": "С-ДЮЧ\/24-05-2022\/158540795",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "60661.15.3Р.24023",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/24023",
+                    "mitypeNumber": "60661-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373953",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "ВПУ - Энерго М",
+                    "modification": "М-00-00-00-0-03",
+                    "manufactureNum": "020.15.066",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Федерального агенства по техническому регулированию и метрологии от 07 февраля 2018 г. №256."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "42926"
+        }
+    },
+    "125767434": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "31698-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339750",
+                "mitypeType": "Нет данных",
+                "mitypeTitle": "Комплекс измерительный для технологической установки по производству азота и водорода",
+                "manufactureNum": "120244017",
+                "modification": "СВК 15-1,5"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МЕТРОСТАНДАРТ\"(ООО \"МЕТРОСТАНДАРТ\")",
+            "signCipher": "ДУГ",
+            "miOwner": "ФЛ",
+            "vrfDate": "13.01.2022",
+            "validDate": "12.01.2026",
+            "vriType": "2",
+            "docTitle": "МИ 1592-2015",
+            "applicable": {
+                "certNum": "С-ДУГ\/13-01-2022\/125767434",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "72850.18.3Р.00291551",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/291551",
+                    "mitypeNumber": "72850-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492471",
+                    "mitypeTitle": "Установки поверочные переносные",
+                    "notation": "УПСЖ 5П",
+                    "modification": "нет модификации",
+                    "manufactureNum": "1453",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ №256 от 07.02.2018"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "154265010": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18260-99",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/319032",
+                "mitypeType": "Кресло И-1",
+                "mitypeTitle": "Система информационно-измерительная",
+                "manufactureNum": "01",
+                "manufactureYear": 1998,
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КОМПАНИЯ ОКТАВА + \"(ООО \"КОМПАНИЯ ОКТАВА + \")",
+            "signCipher": "ДОЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "11.05.2022",
+            "validDate": "10.05.2023",
+            "vriType": "2",
+            "docTitle": "Раздел МП 310.2373 РЭ",
+            "applicable": {
+                "certNum": "С-ДОЕ\/11-05-2022\/154265010",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25900.03.2Р.00162052",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/162052",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Мультиметр 3458A",
+                    "manufactureNum": "MY45050567",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29.05.2018 № 1053"
+                },
+                {
+                    "regNumber": "68875.17.1Р.00194411",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/194411",
+                    "mitypeNumber": "68875-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382972",
+                    "mitypeTitle": "Установки для поверки и калибровки виброизмерительных преобразователей",
+                    "notation": "9155",
+                    "modification": "мод. 9155-779\/831",
+                    "manufactureNum": "01CDF775",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказ Росстандарта № 2772 от 27.12.2018"
+                },
+                {
+                    "regNumber": "45344.10.РЭ.00504637",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/504637",
+                    "mitypeNumber": "45344-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356324",
+                    "mitypeTitle": "Генераторы сигналов сложной формы со сверхнизким уровнем искажений",
+                    "notation": "DS360",
+                    "modification": "DS360",
+                    "manufactureNum": "123310",
+                    "manufactureYear": 2014,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "см. прочие сведения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334071",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "5030"
+                }
+            ]
+        },
+        "info": {
+            "structure": "7231С-750Т № С15738, № С15690; № C21276,Model 136 № BN-35,  E14-440 № 8D525112",
+            "briefIndicator": true,
+            "briefCharacteristics": "по каналам измерения параметров вибрации",
+            "additional_info": "Тип канала ИУс- c датчиком тип 7231С-750Т с усилителем модель 136-1 «Endevco» № BN-35 Канал 1 -  Sensiviti, mV\/EU- 0,291; Канал 2 -  Sensiviti, mV\/EU – 0,250; Канал 3 -  Sensiviti, mV\/EU – 0,230"
+        }
+    },
+    "152275813": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "18260-99",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/319032",
+                "mitypeType": "Кресло И-1",
+                "mitypeTitle": "Система информационно-измерительная",
+                "manufactureNum": "01",
+                "modification": "Нет Модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТЕСТИНТЕХ\"(ООО \"ТЕСТИНТЕХ\")",
+            "signCipher": "ВЮМ",
+            "miOwner": "ФКП \"ГкНИПАС\"",
+            "vrfDate": "26.04.2022",
+            "validDate": "25.04.2023",
+            "vriType": "2",
+            "docTitle": "Раздел МП 310.2373 РЭ",
+            "applicable": {
+                "certNum": "С-ВЮМ\/26-04-2022\/152275813",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.7.АГЮ.0002.2021",
+                    "title": "Рабочий эталон единиц силы 1 разряда в диапазоне значений от 1 до 100 кН",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1391641"
+                }
+            ]
+        },
+        "info": {
+            "structure": "1891FZ №120,  1891FZ №119",
+            "briefIndicator": false,
+            "additional_info": "Пригодно"
+        }
+    }
+}

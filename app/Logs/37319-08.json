@@ -1,0 +1,77 @@
+{
+    "158045245": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "37319.08.1Р.00612512",
+                "mitypeNumber": "37319-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346842",
+                "mitypeTitle": "Установки поверочные",
+                "mitypeType": "УПГ",
+                "modification": "мод. УПГ 1\/1000",
+                "manufactureNum": "16.1207.001",
+                "manufactureYear": 2008,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приказ Росстандарта №1133 от 11.05.2022 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "Всероссийский научно-исследовательский институт расходометрии — филиал Федерального государственного унитарного предприятия «Всероссийский научно- исследовательский институт метрологии им. Д.И.Менделеева»(ВНИИР – филиал ФГУП «ВНИИМ им. Д.И.Менделеева»)",
+            "signCipher": "З",
+            "miOwner": "-",
+            "vrfDate": "23.05.2022",
+            "validDate": "22.05.2024",
+            "vriType": "2",
+            "docTitle": "\"Инструкция. ГСИ. Установки поверочные УПГ. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-З\/23-05-2022\/158045245",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт118-2017",
+                    "title": "ГПЭ единиц объёмного и массового расходов газа",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397814"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "69551.17.3Р.00447808",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/447808",
+                    "mitypeNumber": "69551-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383685",
+                    "mitypeTitle": "Термометры лабораторные электронные",
+                    "notation": "LTA",
+                    "modification": "LTA модификации LTA\/Б-Э",
+                    "manufactureNum": "870328",
+                    "manufactureYear": 2020,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "43560.10.2Р.00532385",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/532385",
+                    "mitypeNumber": "43560-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354272",
+                    "mitypeTitle": "Приборы цифровые для измерения давления",
+                    "notation": "DPI",
+                    "modification": "DPI (модификация DPI 740)",
+                    "manufactureNum": "74004204",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ №2900"
+                }
+            ]
+        },
+        "info": {
+            "structure": "в соответствии с прилагаемым перечнем",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-158045245\/protocol"
+        }
+    }
+}

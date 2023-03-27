@@ -1,0 +1,187 @@
+{
+    "219551805": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "27086-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333552",
+                "mitypeType": "HM70",
+                "mitypeTitle": "Термогигрометры портативные",
+                "manufactureNum": "С2640002",
+                "modification": "MI70"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "01.02.2023",
+            "vriType": "2",
+            "docTitle": "МП \"Термогигрометры портативные HM70. Методика поверки\"",
+            "inapplicable": {
+                "noticeNum": "И-В\/01-02-2023\/219551805"
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZB.0286.2019",
+                    "title": "Государственный рабочий эталон 1 разряда относительной влажности от 5 % до 100 %, температура точки росы от минус 20 °С до плюс 60 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1120885"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5075-75",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362668",
+                    "mitypeTitle": "Термометры сопротивления платиновые образцовые",
+                    "number": "5158"
+                },
+                {
+                    "mitypeNumber": "19484-00",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321177",
+                    "mitypeTitle": "Термометры сопротивления эталонные",
+                    "number": "052"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Преобразователь HMP77 № С2830001",
+            "briefIndicator": false,
+            "additional_info": "#midb8b34e1d-e481-44e2-8733-9314e44c0742"
+        }
+    },
+    "194910014": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "27086-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333552",
+                "mitypeType": "HM70",
+                "mitypeTitle": "Термогигрометры портативные",
+                "manufactureNum": "K3120028 \/ K3230029",
+                "modification": "MI70\/HMP76"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КАЛУЖСКОЙ ОБЛАСТИ\"(ФБУ \"КАЛУЖСКИЙ ЦСМ\")",
+            "signCipher": "БУ",
+            "miOwner": "Общество с ограниченной ответственностью \"ХЕМОФАРМ\"",
+            "vrfDate": "19.10.2022",
+            "validDate": "18.10.2023",
+            "vriType": "2",
+            "docTitle": "МП ГЦИ СИ \"ВНИИМ им. Д.И.Менделеева\"",
+            "applicable": {
+                "certNum": "С-БУ\/19-10-2022\/194910014",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "65421.16.2Р.00471713",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/471713",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2604",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "65421.16.2Р.00471978",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/471978",
+                    "mitypeNumber": "65421-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379194",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ-9-2, ПТСВ-10-2, ПТСВ-11-2, ПТСВ-12-3",
+                    "modification": "ПТСВ-9-2",
+                    "manufactureNum": "2604",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "19736.11.4Р.00568623",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/568623",
+                    "mitypeNumber": "19736-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321618",
+                    "mitypeTitle": "Измерители температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "МИТ8.10М",
+                    "manufactureNum": "1072",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказу ФАТРМ №3456 от 30.12.2019 «Об утверждении ГПС для средств измерений электрического сопротивления»"
+                },
+                {
+                    "regNumber": "32405.11.1Р.00641401",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/641401",
+                    "mitypeNumber": "32405-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340725",
+                    "mitypeTitle": "Генераторы влажного воздуха",
+                    "notation": "HygroGen",
+                    "modification": "модификация HygroGen 2",
+                    "manufactureNum": "VCT-HG2-1314",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений влажности газов и температуры конденсации углеводородов Приказ № 2885 от"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Датчик-зонд HMP76 K3230029",
+            "briefIndicator": false
+        }
+    },
+    "148553673": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "27086-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333552",
+                "mitypeType": "HM70",
+                "mitypeTitle": "Термогигрометры портативные",
+                "manufactureNum": "H2620046",
+                "modification": "MI70\/HM70"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "АО \"КТ-Беспилотные Системы\"",
+            "vrfDate": "14.04.2022",
+            "validDate": "13.04.2023",
+            "vriType": "2",
+            "docTitle": "МП \"Термогигрометры портативные HM70. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-В\/14-04-2022\/148553673",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZB.0029.2013",
+                    "title": "Государственный вторичный эталон единицы температуры (эталон-копия) в диапазоне от минус 189,3442 °С до 1768,2 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/457759"
+                },
+                {
+                    "number": "3.1.ZZB.0286.2019",
+                    "title": "Государственный рабочий эталон 1 разряда относительной влажности от 5 % до 100 %, температура точки росы от минус 20 °С до плюс 60 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1120885"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mida35308fd-1609-486f-96df-c962aecf351f"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "169614178": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "66149-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/379981",
+                "mitypeType": "ТЕСТ-МСУ",
+                "mitypeTitle": "Система автоматизированная измерительная",
+                "manufactureNum": "1610001",
+                "modification": "ТЕСТ-МСУ"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ХАБАРОВСКОМ КРАЕ И ЕВРЕЙСКОЙ АВТОНОМНОЙ ОБЛАСТИ\"(ФБУ \"ХАБАРОВСКИЙ ЦСМ\")",
+            "signCipher": "АЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "05.07.2022",
+            "validDate": "04.07.2023",
+            "vriType": "2",
+            "docTitle": "ФТКС.411713.238 РЭ",
+            "applicable": {
+                "certNum": "С-АЮ\/05-07-2022\/169614178",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "69742.17.2Р.00287074",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/287074",
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "B7-78\/1, B7-78\/2, B7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00033270",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ №575"
+                },
+                {
+                    "regNumber": "69742.17.3Р.00287077",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/287077",
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "B7-78\/1, B7-78\/2, B7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00033270",
+                    "manufactureYear": 2017,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №3457"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

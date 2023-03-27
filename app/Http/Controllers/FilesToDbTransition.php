@@ -16,8 +16,14 @@ use Illuminate\Support\Facades\Redirect;
 
 class FilesToDbTransition extends Controller
 {
-    //todo convert into middleware
-    public function transformate($str) {
+    /**
+     * transforms name of company in case we can store them in same way
+     *
+     * @param $str
+     * @return bool|false|string|string[]|null
+     */
+    public function transformate($str)
+    {
         $deletePhrases = [
             '«' => ' ',
             "'" => ' ',
@@ -101,13 +107,14 @@ class FilesToDbTransition extends Controller
             mb_strtoupper($str, 'UTF-8'));
 
         $str = preg_replace('| +|', ' ', trim($str));
-//        dd($str);
         return $str;
     }
 
+    /**
+     * @return \Illuminate\Http\RedirectResponse|\Illuminate\Routing\Redirector
+     */
     public function index()
     {
-        try {
             $dir = '../app/Logs/';
             $files = scandir($dir);
 
@@ -115,15 +122,15 @@ class FilesToDbTransition extends Controller
                 file_get_contents('../app/Helpers/new_result.json'),
                 1);
 
-//            foreach ($categories_data as $category => $data) {
-//                if (!count(Category::where('category_id', '=', $category)->get())) {
-//                    $category_db = new Category();
-//                    $category_db->category_id = $category;
-//                    $category_db->category_title = $data['name'];
-//                    $category_db->category_type = $data['type'];
-//                    $category_db->save();
-//                }
-//            }
+            foreach ($categories_data as $category => $data) {
+                if (!count(Category::where('category_id', '=', $category)->get())) {
+                    $category_db = new Category();
+                    $category_db->category_id = $category;
+                    $category_db->category_title = $data['name'];
+                    $category_db->category_type = $data['type'];
+                    $category_db->save();
+                }
+            }
 
             $filtered_files = array();
             foreach (array_slice($files, 2) as $file) {
@@ -141,39 +148,23 @@ class FilesToDbTransition extends Controller
                     $dir . $file), 1);
             }
 
-//            $max = 0;
-
-//            foreach ($data as $id => $element) {
-////                if($id>$max) $max = $id;
-////                continue;
-//
-//                if (isset($element['vriInfo']['miOwner'])) {
-//
-//                    $element = $this->transformate($element);
-//
-////                if(!in_array($element, $result) && $element !== '' && $element !== '-')
-////                    $result[] = trim($element);
-//
-////                if(count($result) > 1000) {
-////                    dd($result);
-////                }
-//
-//                    if (!count(Company::where('company_name', '=', $element)->get())) {
-//                        $company = new Company();
-//                        $company->company_name = trim($element);
-//                        $company->save();
-//                    }
-//                }
-//            }
-
-//            dd($max);
+            foreach ($data as $id => $element) {
+                if (isset($element['vriInfo']['miOwner'])) {
+                    $element = $this->transformate($element);
+                    if (!count(Company::where('company_name', '=', $element)->get())) {
+                        $company = new Company();
+                        $company->company_name = trim($element);
+                        $company->save();
+                    }
+                }
+            }
 
             foreach ($data as $id => $element) {
                 if (is_array($element)) {
-                    foreach ($element as $index => $item) {
-                        if ($index == 'miInfo') {
-                            $classname = key($item) . 'Device';
-                            if (!count(Device::where('device_id', '=', $id)->get())) {
+                    if (!count(Device::where('device_id', '=', $id)->get())) {
+                        foreach ($element as $index => $item) {
+                            if ($index == 'miInfo') {
+                                $classname = key($item) . 'Device';
                                 $device = new Device();
                                 $device->device_id = $id;
                                 if (isset($element['vriInfo']['miOwner'])) {
@@ -183,9 +174,8 @@ class FilesToDbTransition extends Controller
                                 } else {
                                     $company_id = null;
                                 }
-
                                 $device->miInfoType = $classname;
-                                if (isset($element['vriInfo']['applicable']) && !count(ApplicableDevice::where('device_id', '=', $id)->get())) {
+                                if (isset($element['vriInfo']['applicable'])) {
                                     $applicable = new ApplicableDevice();
                                     $applicable->device_id = $id;
                                     $applicable->company_id = $company_id;
@@ -193,19 +183,16 @@ class FilesToDbTransition extends Controller
                                     $applicable->signPass = $element['vriInfo']['applicable']['signPass'];
                                     $applicable->signMi = $element['vriInfo']['applicable']['signMi'];
                                     $applicable->save();
-
                                     $device->applicable = 'Y';
-                                } elseif (isset($element['vriInfo']['inapplicable']) && !count(InapplicableDevice::where('device_id', '=', $id)->get())) {
+                                } elseif (isset($element['vriInfo']['inapplicable'])) {
                                     $inApplicable = new InapplicableDevice();
                                     $inApplicable->device_id = $id;
                                     $inApplicable->company_id = $company_id;
                                     $inApplicable->noticeNum = $element['vriInfo']['inapplicable']['noticeNum'];
                                     $inApplicable->save();
-
                                     $device->applicable = 'N';
                                 }
-
-                                if ($classname == 'singleMIDevice' && !count(SinglemiDevice::where('device_id', '=', $id)->get())) {
+                                if ($classname == 'singleMIDevice') {
                                     $singleMiDevice = new SinglemiDevice();
                                     $device->category_id = isset($item['singleMI']['mitypeNumber']) ? $item['singleMI']['mitypeNumber'] : null;
                                     $device->mitypeType = isset($item['singleMI']['mitypeType']) ? $item['singleMI']['mitypeType'] : null;
@@ -220,7 +207,7 @@ class FilesToDbTransition extends Controller
                                     $singleMiDevice->manufactureYear = isset($item['singleMI']['manufactureYear']) ? $item['singleMI']['manufactureYear'] : null;
                                     $singleMiDevice->modification = isset($item['singleMI']['modification']) ? $item['singleMI']['modification'] : null;
                                     $singleMiDevice->save();
-                                } elseif ($classname == 'partyMIDevice' && !count(partyMIDevice::where('device_id', '=', $id)->get())) {
+                                } elseif ($classname == 'partyMIDevice') {
                                     $partyMiDevice = new partyMIDevice();
                                     $device->category_id = isset($item['partyMI']['mitypeNumber']) ? $item['partyMI']['mitypeNumber'] : null;
                                     $device->mitypeType = isset($item['partyMI']['mitypeType']) ? $item['partyMI']['mitypeType'] : null;
@@ -233,7 +220,7 @@ class FilesToDbTransition extends Controller
                                     $partyMiDevice->quantity = isset($item['partyMI']['quantity']) ? $item['partyMI']['quantity'] : null;
                                     $partyMiDevice->mitypeTitle = isset($item['partyMI']['mitypeTitle']) ? $item['partyMI']['mitypeTitle'] : null;
                                     $partyMiDevice->save();
-                                } elseif ($classname == 'etaMIDevice' && !count(etaMIDevice::where('device_id', '=', $id)->get())) {
+                                } elseif ($classname == 'etaMIDevice') {
                                     $etaMiDevice = new etaMIDevice();
                                     $device->category_id = isset($item['etaMI']['mitypeNumber']) ? $item['etaMI']['mitypeNumber'] : null;
                                     $device->mitypeType = isset($item['etaMI']['mitypeType']) ? $item['etaMI']['mitypeType'] : null;
@@ -252,33 +239,27 @@ class FilesToDbTransition extends Controller
                                     $etaMiDevice->schemaTitle = isset($item['etaMI']['schemaTitle']) ? $item['etaMI']['schemaTitle'] : null;
                                     $etaMiDevice->save();
                                 }
-
-                                $device->save();
-                            } else {
+                                    $device->save();
+                            } elseif ($index == 'vriInfo') {
+                                $vriInfo = new VriInfo();
+                                $vriInfo->device_id = $id;
+                                $vriInfo->organization = isset($item['organization']) ? $item['organization'] : null;
+                                $vriInfo->signCipher = isset($item['signCipher']) ? $item['signCipher'] : null;
+                                $vriInfo->miOwner = isset($item['miOwner']) ? $this->transformate($element) : null;
+                                $vriInfo->vrfDate = isset($item['vrfDate']) ? $item['vrfDate'] : null;
+                                $vriInfo->validDate = isset($item['validDate']) ? $item['validDate'] : null;
+                                $vriInfo->vriType = isset($item['vriType']) && $item['vriType'] == 1 ? 'Первичная' : 'Периодическая';
+                                $vriInfo->applicable = isset($item['applicable']) ? 'Y' : 'N';
+                                $vriInfo->save();
+                            } elseif ($index == 'means') {
                                 break;
                             }
-                        } elseif ($index == 'vriInfo') {
-                            $vriInfo = new VriInfo();
-                            $vriInfo->device_id = $id;
-                            $vriInfo->organization = isset($item['organization']) ? $item['organization'] : null;
-                            $vriInfo->signCipher = isset($item['signCipher']) ? $item['signCipher'] : null;
-                            $vriInfo->miOwner = isset($item['miOwner']) ? $item['miOwner'] : null;
-                            $vriInfo->vrfDate = isset($item['vrfDate']) ? $item['vrfDate'] : null;
-                            $vriInfo->validDate = isset($item['validDate']) ? $item['validDate'] : null;
-                            $vriInfo->vriType = isset($item['vriType']) && $item['vriType'] == 1 ? 'Первичная' : 'Периодическая';
-                            $vriInfo->applicable = isset($item['applicable']) ? 'Y' : 'N';
-                            $vriInfo->save();
-                        } elseif ($index == 'means') {
-                            break;
                         }
+                    } else {
+                        continue;
                     }
                 }
             }
-        } catch (\Exception $e) {
-            return Redirect('/trans');
-        } catch (\Error $e) {
-            return Redirect('/trans');
-        }
 
         return Redirect('/');
     }

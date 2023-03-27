@@ -1,0 +1,78 @@
+{
+    "179427577": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62762-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376306",
+                "mitypeType": "55340, 55540",
+                "mitypeTitle": "Преобразователи измерительные СВЧ",
+                "manufactureNum": "9110",
+                "modification": "55340"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"Светлана-Электронприбор\"",
+            "vrfDate": "17.08.2022",
+            "validDate": "16.08.2023",
+            "vriType": "2",
+            "docTitle": "МП 62762-15 Инструкция. Преобразователи измерительные 55340,55540",
+            "applicable": {
+                "certNum": "С-СП\/17-08-2022\/179427577",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "54535.13.1Р.00260083",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260083",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС50",
+                    "manufactureNum": "101131",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 37,5 ГГц до 78,33 ГГц. Приказ ФАТРИМ №2839 от 29.12.2018г."
+                },
+                {
+                    "regNumber": "54535.13.1Р.00260084",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260084",
+                    "mitypeNumber": "54535-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366997",
+                    "mitypeTitle": "Калибраторы мощности СВЧ",
+                    "notation": "NRPC18, NRPC33, NRPC40, NRPC50",
+                    "modification": "NRРС50",
+                    "manufactureNum": "101131",
+                    "manufactureYear": 2016,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц. Приказ ФАТРИМ №3461 от 30.12.2019 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "39089-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/348990",
+                    "mitypeTitle": "Генераторы сигналов СВЧ",
+                    "number": "101282"
+                },
+                {
+                    "mitypeNumber": "37229-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389650",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "MY49002170"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    }
+}

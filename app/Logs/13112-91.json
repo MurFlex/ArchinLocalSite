@@ -1,0 +1,57 @@
+{
+    "204675096": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "13112-91",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/308449",
+                "mitypeType": "ЭА2230",
+                "mitypeTitle": "Микроамперметры",
+                "manufactureNum": "030496",
+                "modification": "ЭА2230"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В САМАРСКОЙ ОБЛАСТИ\"(ФБУ \"САМАРСКИЙ ЦСМ\")",
+            "signCipher": "БЯ",
+            "miOwner": "Самарская ГРЭС",
+            "vrfDate": "28.11.2022",
+            "validDate": "27.11.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.497-83",
+            "applicable": {
+                "certNum": "С-БЯ\/28-11-2022\/204675096",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "42972.09.1Р.00140547",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/140547",
+                    "mitypeNumber": "42972-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353580",
+                    "mitypeTitle": "Комплексы поверочные",
+                    "notation": "ЗМ3003",
+                    "modification": "-",
+                    "manufactureNum": "09\/09",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказ № 2091 от 01.10.2018"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "15500-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313586",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "44864"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

@@ -1,0 +1,505 @@
+{
+    "204555631": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "12435.90.3Р.00727845",
+                "mitypeNumber": "12435-90",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/307489",
+                "mitypeTitle": "Микроинтерферометры",
+                "mitypeType": "МИИ-4М",
+                "modification": "-",
+                "manufactureNum": "ХУ0007",
+                "manufactureYear": 1995,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "«ГОСУДАРСТВЕННАЯ ПОВЕРОЧНАЯ СХЕМА ДЛЯ СРЕДСТВ ИЗМЕРЕНИЙ ПАРАМЕТРОВ ШЕРОХОВАТОСТИ Rmax, Rz В ДИАПАЗОНЕ от 0,001 до 3000 мкм и Ra"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ХАБАРОВСКОМ КРАЕ И ЕВРЕЙСКОЙ АВТОНОМНОЙ ОБЛАСТИ\"(ФБУ \"ХАБАРОВСКИЙ ЦСМ\")",
+            "signCipher": "АЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "28.11.2022",
+            "validDate": "27.11.2024",
+            "vriType": "2",
+            "docTitle": "МИ 120-77",
+            "applicable": {
+                "certNum": "С-АЮ\/28-11-2022\/204554399",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZАЮ.0127.2015",
+                    "title": "ГЭЕ шероховатости 2 разряда в диапазоне значений Ra 0,073…0,60 мкм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/412275"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-204555631\/protocol"
+        }
+    },
+    "209300132": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "12435-90",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/307489",
+                "mitypeType": "МИИ-4М",
+                "mitypeTitle": "Микроинтерферометры",
+                "manufactureNum": "XY-0002",
+                "modification": "МИИ-4М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"ЛОМО\"",
+            "vrfDate": "02.11.2022",
+            "validDate": "01.11.2024",
+            "vriType": "2",
+            "docTitle": "Методы и средства поверки. МИ 120-86",
+            "applicable": {
+                "certNum": "С-СП\/02-11-2022\/209300132",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.0269.2014",
+                    "title": "ГЭЕ длины 2 разряда в диапазоне значений от 0 до 200 мм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/452669"
+                },
+                {
+                    "number": "3.1.ZСП.0267.2014",
+                    "title": "ГЭЕ длины 2 разряда в диапазоне значений от 0 до 100 мм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/417590"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "1712.76.3Р.00115880",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/115880",
+                    "mitypeNumber": "1712-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316879",
+                    "mitypeTitle": "Меры длины",
+                    "notation": "МКП",
+                    "modification": "-",
+                    "manufactureNum": "014981",
+                    "manufactureYear": 1989,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №2840 от 29.12.2018"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "190136191": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "12435-90",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/307489",
+                "mitypeType": "МИИ-4М",
+                "mitypeTitle": "Микроинтерферометры",
+                "manufactureNum": "XY0044",
+                "modification": "МИИ-4М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"НИИ \"Феррит-Домен\"",
+            "vrfDate": "29.09.2022",
+            "validDate": "28.09.2024",
+            "vriType": "2",
+            "docTitle": "Методы и средства поверки. МИ 120-86",
+            "applicable": {
+                "certNum": "С-СП\/29-09-2022\/190136191",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.0269.2014",
+                    "title": "ГЭЕ длины 2 разряда в диапазоне значений от 0 до 200 мм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/452669"
+                },
+                {
+                    "number": "3.1.ZСП.0267.2014",
+                    "title": "ГЭЕ длины 2 разряда в диапазоне значений от 0 до 100 мм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/417590"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "1712.76.3Р.00115880",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/115880",
+                    "mitypeNumber": "1712-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316879",
+                    "mitypeTitle": "Меры длины",
+                    "notation": "МКП",
+                    "modification": "-",
+                    "manufactureNum": "014981",
+                    "manufactureYear": 1989,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №2840 от 29.12.2018"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "184317396": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "12435-90",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/307489",
+                "mitypeType": "МИИ-4М",
+                "mitypeTitle": "Микроинтерферометры",
+                "manufactureNum": "AE0007\/CH989",
+                "manufactureYear": 2010,
+                "modification": "МИИ-4М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Филиал АО \"НПЦАП\"- \"Завод \"Звезда\"",
+            "vrfDate": "06.09.2022",
+            "validDate": "05.09.2024",
+            "vriType": "2",
+            "docTitle": "МИ 12435-90",
+            "applicable": {
+                "certNum": "С-МА\/06-09-2022\/184317396",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0139.2012",
+                    "title": "ГЭЕ длины 1 разряда в диапазоне значений от 0 до 200 мм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/463243"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "9771.84.3Р.00329693",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/329693",
+                    "mitypeNumber": "9771-84",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388772",
+                    "mitypeTitle": "Меры длины концевые плоскопараллельные образцовые 3-го разряда длиной 100 мм",
+                    "notation": "Нет данных",
+                    "modification": "Набор № 3",
+                    "manufactureNum": "420956",
+                    "manufactureYear": 1987,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта  № 2840 от 29 декабря 2018 г."
+                },
+                {
+                    "regNumber": "66933.17.1Р.00472662",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/472662",
+                    "mitypeNumber": "66933-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380836",
+                    "mitypeTitle": "Меры шероховатости эталонные",
+                    "notation": "ПРО-10",
+                    "modification": "-",
+                    "manufactureNum": "0910",
+                    "manufactureYear": 2017,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 06.11.2019 г. № 2657"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "41cf1870-0b20-4c6a-b61e-49b6ab2853b8"
+        }
+    },
+    "185524291": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "12435-90",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/307489",
+                "mitypeType": "МИИ-4М",
+                "mitypeTitle": "Микроинтерферометры",
+                "manufactureNum": "150021\/AM0091",
+                "modification": "МИИ-4М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТУЛЬСКОЙ И ОРЛОВСКОЙ ОБЛАСТЯХ\"(ФБУ \"ТУЛЬСКИЙ ЦСМ\")",
+            "signCipher": "ВЮ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "06.09.2022",
+            "validDate": "05.09.2024",
+            "vriType": "2",
+            "docTitle": "МП 12435-90",
+            "applicable": {
+                "certNum": "С-ВЮ\/06-09-2022\/185524291",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "66933.17.1Р.00367829",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/367829",
+                    "mitypeNumber": "66933-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380836",
+                    "mitypeTitle": "Меры шероховатости эталонные",
+                    "notation": "ПРО-10",
+                    "modification": "-",
+                    "manufactureNum": "1026",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "по приказу Росстандарта от 06.11.2019 г. № 2657"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "178425130": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "12435-90",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/307489",
+                "mitypeType": "МИИ-4М",
+                "mitypeTitle": "Микроинтерферометры",
+                "manufactureNum": "АЕ0022\/СН987",
+                "modification": "МИИ-4М,"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В УЛЬЯНОВСКОЙ ОБЛАСТИ\"(ФБУ \"УЛЬЯНОВСКИЙ ЦСМ\")",
+            "signCipher": "ВЬ",
+            "miOwner": "АО \"НПП \"Завод Искра\"",
+            "vrfDate": "11.08.2022",
+            "validDate": "10.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 120-77 Микроинтерферометр МИИ-4. Методика поверки",
+            "applicable": {
+                "certNum": "С-ВЬ\/11-08-2022\/178425130",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZВЬ.0026.2012",
+                    "title": "ГЭЕ длины в области измерений параметров шероховатости 3 разряда с номинальным значением Rz 0,8 мкм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/464841"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "171290805": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "12435-90",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/307489",
+                "mitypeType": "МИИ-4М",
+                "mitypeTitle": "Микроинтерферометры",
+                "manufactureNum": "АЕ0016",
+                "modification": "МИИ-4М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "18.07.2022",
+            "vriType": "2",
+            "docTitle": "МП ВНИИМС",
+            "inapplicable": {
+                "noticeNum": "И-МА\/18-07-2022\/171290805"
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZТТ.0043.2022",
+                    "title": "Государственный рабочий эталон единицы длины в области измерений параметров шероховатости поверхности 2 разряда в диапазоне значений Rz от 0,1 до 0,8 мкм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1398888"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "9afec649-ad96-413e-933f-b12e7848514f"
+        }
+    },
+    "165415676": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "12435-90",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/307489",
+                "mitypeType": "МИИ-4М",
+                "mitypeTitle": "Микроинтерферометры",
+                "manufactureNum": "АЕ0002",
+                "modification": "МИИ-4М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"КНИРТИ\"",
+            "vrfDate": "23.06.2022",
+            "validDate": "22.06.2024",
+            "vriType": "2",
+            "docTitle": "методика поверки в РЭ",
+            "applicable": {
+                "certNum": "С-МА\/23-06-2022\/165415676",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZТТ.0043.2022",
+                    "title": "Государственный рабочий эталон единицы длины в области измерений параметров шероховатости поверхности 2 разряда в диапазоне значений Rz от 0,1 до 0,8 мкм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1398888"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "59538e94-d004-4a3c-b85a-b92eb19b9158"
+        }
+    },
+    "175716465": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "12435-90",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/307489",
+                "mitypeType": "МИИ-4М",
+                "mitypeTitle": "Микроинтерферометры",
+                "manufactureNum": "ХУ0036",
+                "modification": "МИИ-4М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "АО \"ЛОМО\"",
+            "vrfDate": "22.06.2022",
+            "validDate": "21.06.2024",
+            "vriType": "2",
+            "docTitle": "Методы и средства поверки. МИ 120-86",
+            "applicable": {
+                "certNum": "С-СП\/22-06-2022\/175716465",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСП.0269.2014",
+                    "title": "ГЭЕ длины 2 разряда в диапазоне значений от 0 до 200 мм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/452669"
+                },
+                {
+                    "number": "3.1.ZСП.0267.2014",
+                    "title": "ГЭЕ длины 2 разряда в диапазоне значений от 0 до 100 мм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/417590"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "28962.16.1Р.71715",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/71715",
+                    "mitypeNumber": "28962-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336128",
+                    "mitypeTitle": "Объект-микрометры",
+                    "notation": "ОМ",
+                    "modification": "ОМ-О",
+                    "manufactureNum": "027",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29 декабря 2018 г. № 2840"
+                },
+                {
+                    "regNumber": "28962.16.1Р.71954",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/71954",
+                    "mitypeNumber": "28962-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336128",
+                    "mitypeTitle": "Объект-микрометры",
+                    "notation": "ОМ",
+                    "modification": "ОМ-П",
+                    "manufactureNum": "055",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 29 декабря 2018 г. № 2840"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "160747125": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "12435-90",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/307489",
+                "mitypeType": "МИИ-4М",
+                "mitypeTitle": "Микроинтерферометры",
+                "manufactureNum": "890009",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "ФБУ \"ЦСМ Республики Башкортостан",
+            "vrfDate": "03.06.2022",
+            "validDate": "02.06.2024",
+            "vriType": "2",
+            "docTitle": "\"Методика поверки микроинтерферометра МИИ-4\" МИ 120-77",
+            "applicable": {
+                "certNum": "С-АБ\/03-06-2022\/160747125",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZАБ.0052.2012",
+                    "title": "ГЭЕ длины в области измерений параметров шероховатости Rmax и Rz 3 разряда в диапазоне значений (1,6…80) мкм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/431002"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

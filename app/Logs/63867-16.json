@@ -1,0 +1,90 @@
+{
+    "192754357": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "63867.16.3Р.00690497",
+                "mitypeNumber": "63867-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1388959",
+                "mitypeTitle": "Источники тока и напряжения эталонные",
+                "mitypeType": "ИТНЭ-01В",
+                "modification": "ИТНЭ-01В",
+                "manufactureNum": "004",
+                "manufactureYear": 2022,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии 3457 от 30.12.2019"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЛАВНЫЙ НАУЧНЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ(ФГБУ \"ГНМЦ\" МИНОБОРОНЫ РОССИИ)",
+            "signCipher": "ВХН",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "22.09.2022",
+            "validDate": "21.09.2023",
+            "vriType": "1",
+            "docTitle": "РАЗДЕЛОМ 8 ЦЕКВ. 411181.002РЭ",
+            "applicable": {
+                "certNum": "С-ВХН\/22-09-2022\/192754357",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "37704-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347308",
+                    "mitypeTitle": "Меры сопротивления",
+                    "number": "011218"
+                },
+                {
+                    "mitypeNumber": "9081-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387751",
+                    "mitypeTitle": "Измерители нелинейных искажений автоматические",
+                    "number": "8912034"
+                },
+                {
+                    "mitypeNumber": "9512-84",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388409",
+                    "mitypeTitle": "Измерители разности фаз",
+                    "number": "1240"
+                },
+                {
+                    "mitypeNumber": "53668-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366030",
+                    "mitypeTitle": "Мегаомметры",
+                    "number": "9016.20"
+                },
+                {
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1388691",
+                    "mitypeTitle": "Мультиметpы",
+                    "number": "2738"
+                },
+                {
+                    "mitypeNumber": "57560-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389064",
+                    "mitypeTitle": "Установки измерительные",
+                    "number": "001"
+                },
+                {
+                    "mitypeNumber": "44500-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389359",
+                    "mitypeTitle": "Установки измерительные универсальные",
+                    "number": "001"
+                },
+                {
+                    "mitypeNumber": "32111-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389877",
+                    "mitypeTitle": "Установки измерительные",
+                    "number": "001009"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-192754357\/protocol",
+            "additional_info": "3 р. по приказу Росстандарта 3457 от 30.12.2019; 2 р. в диапазоне напряжений от 1 до 750В и диапазоне частот от 20 Гц до 2500 Гц; 3 р. - в остальных диапазонах по приказу Росстандарта 1942 от 03.09.2021; 2 р. пр приказу Росстандарта 2091 от 01.10.2018; 2 р. по приказу Росстандарта 575 от 14.05.2015."
+        }
+    }
+}

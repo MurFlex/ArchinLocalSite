@@ -1,0 +1,181 @@
+{
+    "217344761": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "13729-93",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/309622",
+                "mitypeType": "Волна-5М",
+                "mitypeTitle": "Гигрометры",
+                "manufactureNum": "270",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ИМ. Б.А. ДУБОВИКОВА В САРАТОВСКОЙ ОБЛАСТИ\"(ФБУ \"САРАТОВСКИЙ ЦСМ ИМ. Б.А. ДУБОВИКОВА\")",
+            "signCipher": "ВУ",
+            "miOwner": "ФБУ \"Саратовский ЦСМ им. Б.А. Дубовикова\"",
+            "vrfDate": "10.01.2023",
+            "validDate": "09.01.2024",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.472-2013",
+            "applicable": {
+                "certNum": "С-ВУ\/10-01-2023\/217344761",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32405.06.1Р.00749964",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/749964",
+                    "mitypeNumber": "32405-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340724",
+                    "mitypeTitle": "Генераторы влажного воздуха динамические",
+                    "notation": "Hygrogen",
+                    "modification": "модификация HygroGen 2",
+                    "manufactureNum": "60535739",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений влажности газов и температуры конденсации углеводородов, Приказ № 2885 от 15 декабря 2021 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "канал влажности",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-217344761\/protocol"
+        }
+    },
+    "210576790": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "13729-93",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/309622",
+                "mitypeType": "Волна-5М",
+                "mitypeTitle": "Гигрометры",
+                "manufactureNum": "323",
+                "manufactureYear": 2005,
+                "modification": "модификации нет"
+            }
+        },
+        "vriInfo": {
+            "organization": "Восточно-Сибирский филиал ФГУП \"ВНИИФТРИ\"(Восточно-Сибирский филиал ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "И",
+            "miOwner": "АО \"АНХК\"",
+            "vrfDate": "22.12.2022",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.472-2013 \"ГСИ. Гигрометры пьезосорбционные. Методика поверки\"",
+            "inapplicable": {
+                "noticeNum": "И-И\/22-12-2022\/210576790"
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZИ.0132.2014",
+                    "title": "Государственный вторичный эталон единиц относительной влажности газов в диапазоне от 5 % до 99 %, объемной доли влаги в диапазоне от 410 млн[^-1] до 150000 млн[^-1], температуры точки росы в диапазоне от минус 29 °С до плюс 54 °С",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/455565"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "162343670": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "13729-93",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/309622",
+                "mitypeType": "Волна-5М",
+                "mitypeTitle": "Гигрометры",
+                "manufactureNum": "350",
+                "modification": "Волна-5М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ИМ. Б.А. ДУБОВИКОВА В САРАТОВСКОЙ ОБЛАСТИ\"(ФБУ \"САРАТОВСКИЙ ЦСМ ИМ. Б.А. ДУБОВИКОВА\")",
+            "signCipher": "ВУ",
+            "miOwner": "ФБУ \"Саратовский ЦСМ им. Б.А. Дубовикова\"",
+            "vrfDate": "08.06.2022",
+            "validDate": "07.06.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.472-2013",
+            "applicable": {
+                "certNum": "С-ВУ\/08-06-2022\/162343670",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32405.06.1Р.00126259",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/126259",
+                    "mitypeNumber": "32405-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340724",
+                    "mitypeTitle": "Генераторы влажного воздуха динамические",
+                    "notation": "Hygrogen",
+                    "modification": "HygroGen 2",
+                    "manufactureNum": "60535739",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 \"Государственная поверочная схема для средств измерений влажности газов"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "122058517": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "13729-93",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/309622",
+                "mitypeType": "Волна-5М",
+                "mitypeTitle": "Гигрометры",
+                "manufactureNum": "270",
+                "modification": "Волна-5М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ ИМ. Б.А. ДУБОВИКОВА В САРАТОВСКОЙ ОБЛАСТИ\"(ФБУ \"САРАТОВСКИЙ ЦСМ ИМ. Б.А. ДУБОВИКОВА\")",
+            "signCipher": "ВУ",
+            "miOwner": "ФБУ \"Саратовский ЦСМ им.Б.А.Дубовикова\"",
+            "vrfDate": "11.01.2022",
+            "validDate": "10.01.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.472-82",
+            "applicable": {
+                "certNum": "С-ВУ\/11-01-2022\/122058517",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32405.06.1Р.00126259",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/126259",
+                    "mitypeNumber": "32405-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340724",
+                    "mitypeTitle": "Генераторы влажного воздуха динамические",
+                    "notation": "Hygrogen",
+                    "modification": "HygroGen 2",
+                    "manufactureNum": "60535739",
+                    "manufactureYear": 2010,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.547-2009 \"Государственная поверочная схема для средств измерений влажности газов"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

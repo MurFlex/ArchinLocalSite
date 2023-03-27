@@ -1,0 +1,119 @@
+{
+    "169112141": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "34853-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343823",
+                "mitypeType": "Formtester MMQ 10, Formtester MMQ 100",
+                "mitypeTitle": "Приборы для измерений отклонений от круглости",
+                "manufactureNum": "5440691",
+                "manufactureYear": 2007,
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "30.06.2022",
+            "validDate": "29.06.2024",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.481-82",
+            "applicable": {
+                "certNum": "С-М\/30-06-2022\/169112141",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "79846.20.1Р.00390181",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/390181",
+                    "mitypeNumber": "79846-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1384096",
+                    "mitypeTitle": "Комплекты мер для поверки приборов для измерений параметров формы, отклонения формы и расположения тел вращения",
+                    "notation": " ",
+                    "modification": "Эталонная мера отклонения от круглости",
+                    "manufactureNum": "7328",
+                    "manufactureYear": 2020,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "по ГОСТ 8.648-2015"
+                },
+                {
+                    "regNumber": "79846.20.РЭ.00390218",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/390218",
+                    "mitypeNumber": "79846-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1384096",
+                    "mitypeTitle": "Комплекты мер для поверки приборов для измерений параметров формы, отклонения формы и расположения тел вращения",
+                    "notation": " ",
+                    "modification": "Эталонная мера с лыской",
+                    "manufactureNum": "X341",
+                    "manufactureYear": 2020,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "для средств измерений параметров отклонений формы и расположения поверхностей вращения, утвержденной ФГУП «ВНИИМС»"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "150199366": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "34853-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343823",
+                "mitypeType": "Formtester MMQ 10, Formtester MMQ 100",
+                "mitypeTitle": "Приборы для измерений отклонений от круглости",
+                "manufactureNum": "5440088",
+                "modification": "Formtester MMQ 10"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФБУ \"Ростест-Москва\" (Сергиево-Посадский филиал)",
+            "vrfDate": "14.01.2022",
+            "validDate": "13.01.2024",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.481-82",
+            "applicable": {
+                "certNum": "С-МА\/14-01-2022\/150199366",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0118.2015",
+                    "title": "ГЭЕ длины в области измерений параметров отклонений формы и расположения поверхностей вращения 2 разряда с номинальным значением отклонения от круглости 0,05 мкм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/476385"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "197.70.1Р.00530300",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/530300",
+                    "mitypeNumber": "197-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321545",
+                    "mitypeTitle": "Пластины плоские стеклянные 2-го класса",
+                    "notation": "ПИ60, ПИ80, ПИ100, ПИ120",
+                    "modification": "ПИ-120",
+                    "manufactureNum": "2870",
+                    "manufactureYear": 1991,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС, утвержденная приказом Росстандарта от 25.11.2019 г. № 2819"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "КТ 1 по ГОСТ 17353-89 0193f1e1-53c1-40db-98fa-d17b8eb8a133"
+        }
+    }
+}

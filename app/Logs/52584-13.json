@@ -1,0 +1,112 @@
+{
+    "203971471": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "52584-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364796",
+                "mitypeType": "АР19",
+                "mitypeTitle": "Вибропреобразователи пьезоэлектрические",
+                "manufactureNum": "5237",
+                "modification": "АР19"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"Российские космические системы\"",
+            "vrfDate": "26.11.2022",
+            "validDate": "25.11.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-09",
+            "applicable": {
+                "certNum": "С-МА\/26-11-2022\/203971471",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "68875.17.1Р.05053",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/5053",
+                    "mitypeNumber": "68875-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382972",
+                    "mitypeTitle": "Установки для поверки и калибровки виброизмерительных преобразователей",
+                    "notation": "9155",
+                    "modification": "9155-831 и 9155-875",
+                    "manufactureNum": "1901СС8",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Действительное значение коэффициента преобразования на базовой частоте 200 Гц К = 0,0182 пКл\/м·с-2 7edf525d-cd69-4eab-9235-0120367c469b"
+        }
+    },
+    "201632579": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "52584-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364796",
+                "mitypeType": "АР19",
+                "mitypeTitle": "Вибропреобразователи пьезоэлектрические",
+                "manufactureNum": "5235",
+                "modification": "АР19"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"Российские космические системы\"",
+            "vrfDate": "15.11.2022",
+            "validDate": "14.11.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ Р 8.669-09",
+            "applicable": {
+                "certNum": "С-МА\/15-11-2022\/201632579",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "68875.17.1Р.05053",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/5053",
+                    "mitypeNumber": "68875-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382972",
+                    "mitypeTitle": "Установки для поверки и калибровки виброизмерительных преобразователей",
+                    "notation": "9155",
+                    "modification": "9155-831 и 9155-875",
+                    "manufactureNum": "1901СС8",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                },
+                {
+                    "regNumber": "45462.10.1Р.00352166",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/352166",
+                    "mitypeNumber": "45462-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356453",
+                    "mitypeTitle": "Установки для калибровки акселерометров ударом",
+                    "notation": "K9525C",
+                    "modification": "K9525C",
+                    "manufactureNum": "19A1ED7",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ 8.137-84"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "cd23d579-8d0f-4d60-94f4-8b790988a221"
+        }
+    }
+}

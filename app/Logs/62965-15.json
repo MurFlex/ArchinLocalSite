@@ -1,0 +1,87 @@
+{
+    "218851968": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62965-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1388989",
+                "mitypeType": "ТСЮИ.468782.008",
+                "mitypeTitle": "Блоки опорной частоты",
+                "manufactureNum": "104",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЙ ИНСТИТУТ РАДИОНАВИГАЦИИ И ВРЕМЕНИ\"(АО \"РИРВ\")",
+            "signCipher": "ГАР",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "26.01.2023",
+            "validDate": "25.01.2025",
+            "vriType": "2",
+            "docTitle": "Методика поверки ТСЮИ.468782.008 МП",
+            "applicable": {
+                "certNum": "С-ГАР\/26-01-2023\/218851968",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.2.ГАР.0001.2017",
+                    "title": "Вторичный эталон единиц времени в диапазоне значений от 1•10[^-8]до 1•10[^8]с и частоты в диапазоне значений от 1 до 1•10[^8]Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/400276"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "167900943": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "62965-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1388989",
+                "mitypeType": "ТСЮИ.468782.008",
+                "mitypeTitle": "Блоки опорной частоты",
+                "manufactureNum": "106",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "АО \"НПО Лавочкина\"",
+            "vrfDate": "04.07.2022",
+            "validDate": "03.07.2023",
+            "vriType": "2",
+            "docTitle": "ТСЮИ.468782.008 МП",
+            "applicable": {
+                "certNum": "С-Т\/04-07-2022\/167881555",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт1-2022",
+                    "title": "ГПЭ единиц времени, частоты и национальной шкалы времени",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1398028"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27154-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333652",
+                    "mitypeTitle": "Стандарты частоты и времени водородные",
+                    "number": "211115"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid48285213-b98d-4c7e-ab6e-c9494a081708"
+        }
+    }
+}

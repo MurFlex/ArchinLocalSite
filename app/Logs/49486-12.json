@@ -1,0 +1,84 @@
+{
+    "191067819": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "49486.12.РЭ.00442293",
+                "mitypeNumber": "49486-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361147",
+                "mitypeTitle": "Установка поверочная",
+                "mitypeType": "УПР СВ 600",
+                "modification": "УПР СВ 600",
+                "manufactureNum": "11 2010.066",
+                "manufactureYear": 2012,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "по ЛПС №04-17 от 2018 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"Мосводоканал\"",
+            "vrfDate": "28.09.2022",
+            "validDate": "27.09.2023",
+            "vriType": "2",
+            "docTitle": "Инструкция. ГСИ. Установка поверочная УПР СВ 600 фирмы ENBRA, a.s.\" (Чехия). Методика поверки\".",
+            "applicable": {
+                "certNum": "С-МА\/28-09-2022\/191067819",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "20262.05.3Р.00256095",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/256095",
+                    "mitypeNumber": "20262-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322582",
+                    "mitypeTitle": "Калибраторы температуры",
+                    "notation": "АТС-R",
+                    "modification": "АТС-156B",
+                    "manufactureNum": "542302-00634",
+                    "manufactureYear": 2005,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ8.558-2009"
+                },
+                {
+                    "regNumber": "22237.02.3Р.00318945",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/318945",
+                    "mitypeNumber": "22237-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325959",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MCx-R",
+                    "modification": "MC5-R",
+                    "manufactureNum": "25515208",
+                    "manufactureYear": 2004,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ Росстандарта  от  30 декабря 2019 г. №3457"
+                },
+                {
+                    "regNumber": "71416.18.2Р.00336067",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/336067",
+                    "mitypeNumber": "71416-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/396379",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "Эрмитаж",
+                    "modification": "-А-ВУ-С-ОР-1000-2000-025-В-П-0-0",
+                    "manufactureNum": "03.21.400",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Федерального агентства по техническому регулированию и метрологии от 07.02.2018 № 256"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-191067819\/protocol",
+            "additional_info": "faac1f47-fb77-4b6b-8a93-e9f66a496033"
+        }
+    }
+}

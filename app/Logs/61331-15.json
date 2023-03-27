@@ -1,0 +1,85 @@
+{
+    "171902177": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61331-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374725",
+                "mitypeType": "ЭЛВИС-экспресс",
+                "mitypeTitle": "Система измерительная",
+                "manufactureNum": "01",
+                "modification": "-"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР \"ЭНЕРГО\"(ООО \"НИЦ \"ЭНЕРГО\")",
+            "signCipher": "ЕАР",
+            "miOwner": "АО \"ВНИИЖТ\"",
+            "vrfDate": "20.07.2022",
+            "validDate": "19.07.2024",
+            "vriType": "2",
+            "docTitle": "АСК.100.14 ИС3",
+            "applicable": {
+                "certNum": "С-ЕАР\/20-07-2022\/171902177",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.3Р.00449376",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/449376",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/6 с стандартом частоты FE-5680A",
+                    "manufactureNum": "6Е5041013",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                },
+                {
+                    "regNumber": "25985.03.2Р.00453826",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/453826",
+                    "mitypeNumber": "25985-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331874",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "9100, 9100Е",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "30366",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для измерений силы переменного электрического тока.Приказ 575"
+                },
+                {
+                    "regNumber": "25985.03.2Р.00453827",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/453827",
+                    "mitypeNumber": "25985-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331874",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "9100, 9100Е",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "30366",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В. Приказ 1053"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "26209-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332214",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "number": "US34020255"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

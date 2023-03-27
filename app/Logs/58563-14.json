@@ -1,0 +1,93 @@
+{
+    "173804633": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "58563-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371611",
+                "mitypeType": "Нет данных",
+                "mitypeTitle": "Системы измерительные в составе управляющих систем безопасности энергоблоков АЭС с реакторами типа ВВЭР-440",
+                "manufactureNum": "001",
+                "manufactureYear": 2014,
+                "modification": "ИС УСБ-АЭС-440"
+            }
+        },
+        "vriInfo": {
+            "organization": "Филиал АО «Концерн Росэнергоатом» - Кольская атомная станция (Филиал АО «Концерн Росэнергоатом» - Кольская атомная станция )",
+            "signCipher": "АЯШ",
+            "miOwner": "Филиал АО «Концерн Росэнергоатом» «Кольская атомная станция»",
+            "vrfDate": "27.07.2022",
+            "validDate": "27.07.2024",
+            "vriType": "2",
+            "docTitle": "МП 58563-14",
+            "applicable": {
+                "certNum": "С-АЯШ\/27-07-2022\/173804633",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "35062.07.1Р.00443878",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/443878",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260",
+                    "manufactureNum": "231-0776",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 г."
+                },
+                {
+                    "regNumber": "35062.07.4Р.00443879",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/443879",
+                    "mitypeNumber": "35062-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344087",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов эталонные",
+                    "notation": "ИКСУ-260",
+                    "modification": "ИКСУ-260",
+                    "manufactureNum": "231-0776",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "54934.13.2Р.00461429",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/461429",
+                    "mitypeNumber": "54934-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367445",
+                    "mitypeTitle": "Калибраторы процессов прецизионные",
+                    "notation": "Fluke 7526A",
+                    "modification": "Fluke 7526A",
+                    "manufactureNum": "2833046",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.2019 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "45379-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356360",
+                    "mitypeTitle": "Термометры лабораторные электронные",
+                    "number": "301720"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39506440\/405"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "блок № 4"
+        }
+    }
+}

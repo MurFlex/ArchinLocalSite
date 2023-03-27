@@ -1,0 +1,51 @@
+{
+    "164107048": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3579-73",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345013",
+                "mitypeType": "ПКПП",
+                "mitypeTitle": "Приборы для контроля приборных подшипников",
+                "manufactureNum": "6",
+                "modification": "ПКПП"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В САМАРСКОЙ ОБЛАСТИ\"(ФБУ \"САМАРСКИЙ ЦСМ\")",
+            "signCipher": "БЯ",
+            "miOwner": "Общество с ограниченной ответственностью \"Завод приборных подшипников\"",
+            "vrfDate": "14.06.2022",
+            "validDate": "13.06.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.669-2009",
+            "applicable": {
+                "certNum": "С-БЯ\/14-06-2022\/164107048",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56857.14.2Р.00137630",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/137630",
+                    "mitypeNumber": "56857-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369634",
+                    "mitypeTitle": "Вибростенды взрывозащищенные",
+                    "notation": "ТИК-ВВ (TIK - VV)",
+                    "modification": "ТИК-ВВ исполнение 01.",
+                    "manufactureNum": "173",
+                    "manufactureYear": 2016,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ от 27.12.2018  №2772"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Вибропреобразователь ДН-14 № 368",
+            "briefIndicator": false,
+            "additional_info": "Основная относительная погрешность измерения в диапазоне частот (40-3500) Гц , не превышает ±1 дБ. Калибровочное значение прибора Кч=86,2 дБ"
+        }
+    }
+}

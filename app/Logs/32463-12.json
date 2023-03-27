@@ -1,0 +1,64 @@
+{
+    "172614158": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "32463-12",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340805",
+                "mitypeType": "АСПС-Ц",
+                "mitypeTitle": "Системы цифровые автоматические прогнозирования самосогревания растительного сырья",
+                "manufactureNum": "12000003",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТАМБОВСКОЙ ОБЛАСТИ\"(ФБУ \"ТАМБОВСКИЙ ЦСМ\")",
+            "signCipher": "ВШ",
+            "miOwner": "Общество с ограниченной ответственностью \"АГРОТЕХНОЛОГИИ\"",
+            "vrfDate": "22.07.2022",
+            "validDate": "21.07.2026",
+            "vriType": "2",
+            "docTitle": "ТКШЛ 421452.002 МП",
+            "applicable": {
+                "certNum": "С-ВШ\/22-07-2022\/172614158",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "23040.07.2Р.00313238",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/313238",
+                    "mitypeNumber": "23040-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/327301",
+                    "mitypeTitle": "Термометры сопротивления платиновые вибропрочные эталонные",
+                    "notation": "ПТСВ",
+                    "modification": "ПТСВ-1-2",
+                    "manufactureNum": "2324",
+                    "manufactureYear": 2008,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "19736.05.4Р.00484642",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/484642",
+                    "mitypeNumber": "19736-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321617",
+                    "mitypeTitle": "Измерители-регуляторы температуры многоканальные прецизионные",
+                    "notation": "МИТ8",
+                    "modification": "МИТ8.10",
+                    "manufactureNum": "234",
+                    "manufactureYear": 2006,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«ГПС для СИ электрического сопротивления Приказ Росстандарта  №3456 0т 30.13.2019»"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Термоподвески ТКМ14-28-28 № 000000045-000000154, 000000158-000000212",
+            "briefIndicator": false
+        }
+    }
+}

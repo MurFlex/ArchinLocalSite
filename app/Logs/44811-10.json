@@ -1,0 +1,50 @@
+{
+    "209770944": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "44811-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355719",
+                "mitypeType": "MarShaft SCOPE 750",
+                "mitypeTitle": "Приборы для контроля параметров валов",
+                "manufactureNum": "2144-15",
+                "modification": "MarShaft SCOPE 350"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "19.12.2022",
+            "validDate": "18.12.2023",
+            "vriType": "2",
+            "docTitle": "Приборы для контроля параметров валов MarShaft SCOPE. Методика поверки",
+            "applicable": {
+                "certNum": "С-М\/19-12-2022\/209770944",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "69473.17.РЭ.00306078",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/306078",
+                    "mitypeNumber": "69473-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383625",
+                    "mitypeTitle": "Комплекты мер для поверки систем для измерения валов",
+                    "notation": "MarShaft",
+                    "modification": "Мера диаметром от 25 мм до 110 мм и длиной 585 мм",
+                    "manufactureNum": "1209",
+                    "manufactureYear": 2017,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "МП 69473-17"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "В части измерений диаметров"
+        }
+    }
+}

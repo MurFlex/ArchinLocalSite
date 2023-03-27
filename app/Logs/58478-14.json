@@ -1,0 +1,136 @@
+{
+    "200310019": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "58478-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371513",
+                "mitypeType": "20-2346, 20-2356",
+                "mitypeTitle": "Дуктилометры",
+                "manufactureNum": "2005320",
+                "modification": "20-2356"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "02.11.2022",
+            "validDate": "01.11.2023",
+            "vriType": "2",
+            "docTitle": "документом Ductility 20-23-01 МП «Инструкция. Дуктилометры 20-2346, 20-2356. Методика поверки»",
+            "applicable": {
+                "certNum": "С-ДИЭ\/02-11-2022\/200310019",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "50803-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362731",
+                    "mitypeTitle": "Динамометры электронные переносные",
+                    "number": "458262"
+                },
+                {
+                    "mitypeNumber": "27015-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333460",
+                    "mitypeTitle": "Комплекты поверки гирь и весов переносные",
+                    "number": "5248"
+                },
+                {
+                    "mitypeNumber": "198-75",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321738",
+                    "mitypeTitle": "Штангенрейсмасы",
+                    "number": "87"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "186773218": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "58478-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371513",
+                "mitypeType": "20-2346, 20-2356",
+                "mitypeTitle": "Дуктилометры",
+                "manufactureNum": "2045317",
+                "modification": "20-2346"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "15.09.2022",
+            "validDate": "14.09.2023",
+            "vriType": "2",
+            "docTitle": "документом Ductility 20-23-01 МП «Инструкция. Дуктилометры 20-2346, 20-2356. Методика поверки», утвержденному ФГУП «ВНИИФТРИ» в",
+            "applicable": {
+                "certNum": "С-НН\/15-09-2022\/186773218",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "50803.12.2Р.13879",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/13879",
+                    "mitypeNumber": "50803-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362731",
+                    "mitypeTitle": "Динамометры электронные переносные",
+                    "notation": "АЦД\/1",
+                    "modification": "АЦД\/1У-1\/1И-0,5",
+                    "manufactureNum": "2939",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 2498 от 22.10.2019г."
+                },
+                {
+                    "regNumber": "198.75.РЭ.45539",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/45539",
+                    "mitypeNumber": "198-75",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321738",
+                    "mitypeTitle": "Штангенрейсмасы",
+                    "notation": "ШР",
+                    "modification": "-",
+                    "manufactureNum": "477",
+                    "manufactureYear": 1985,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "для средств измерений длины в диапазоне измерений (100...1000) мм"
+                },
+                {
+                    "regNumber": "27015.04.4Р.00217632",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/217632",
+                    "mitypeNumber": "27015-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333460",
+                    "mitypeTitle": "Комплекты поверки гирь и весов переносные",
+                    "notation": "КПГВП",
+                    "modification": "Набор гирь от 10 мг до 5 кг, класса точности М1",
+                    "manufactureNum": "17825011",
+                    "manufactureYear": 2004,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений массы» в соответствии с приказом от 29 декабря 2018 г. 2818"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "11519-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306185",
+                    "mitypeTitle": "Секундомеры механические",
+                    "number": "0493"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

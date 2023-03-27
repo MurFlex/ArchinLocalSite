@@ -1,0 +1,58 @@
+{
+    "203910299": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24603-16",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/329771",
+                "mitypeType": "МФС-8 \"СЛ\"",
+                "mitypeTitle": "Спектрометры эмиссионные",
+                "manufactureNum": "ХА0015",
+                "modification": "мод. МФС-8 \"СЛ\"-24"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "АО «Авиаавтоматика» им. В.В.Тарасова",
+            "vrfDate": "18.11.2022",
+            "validDate": "17.11.2023",
+            "vriType": "2",
+            "docTitle": "МП-242-1995-2016. «Спектрометр эмиссионный МФС-8 «СЛ». Методика поверки»",
+            "applicable": {
+                "certNum": "С-В\/18-11-2022\/203910299",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 10662-2015",
+                    "title": "СО СОСТАВА СПЛАВОВ АЛЮМИНИЕВЫХ ЛИТЕЙНЫХ ГРУППЫ I (комплект VSАС11)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/389520",
+                    "manufactureYear": 2015,
+                    "manufactureNum": "VSAC11"
+                },
+                {
+                    "number": "ГСО 11527-2020\/ГСО 11531-2020",
+                    "title": "СО СОСТАВА СПЛАВОВ АЛЮМИНИЕВЫХ ЛИТЕЙНЫХ III ГРУППЫ И СПЛАВОВ ДЕФОРМИРУЕМЫХ СИСТЕМ АЛЮМИНИЙ–МЕДЬ-МАГНИЙ И АЛЮМИНИЙ-МЕДЬ-МАРГАНЕЦ (набор VSAC3)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/1236966",
+                    "manufactureYear": 2020,
+                    "manufactureNum": "VSAC3"
+                },
+                {
+                    "number": "ГСО 9424-2009",
+                    "title": "СО СОСТАВА СПЛАВОВ АЛЮМИНИЕВЫХ ЛИТЕЙНЫХ ГРУППЫ II (комплект VSAC2)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/390761",
+                    "manufactureYear": 2009,
+                    "manufactureNum": "VSAC2"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "в диапазоне измерений массовых долей элементов от 0,01 до 15,0 %",
+            "additional_info": "#midf5e8e72d-3d6f-4c79-960e-fe85a76c2033"
+        }
+    }
+}

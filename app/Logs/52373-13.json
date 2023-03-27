@@ -1,0 +1,78 @@
+{
+    "198249295": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "52373.13.РЭ.00697856",
+                "mitypeNumber": "52373-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364556",
+                "mitypeTitle": "Нефелометр",
+                "mitypeType": "FD12",
+                "modification": "Нет модификации",
+                "manufactureNum": "R16110",
+                "manufactureYear": 2013,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "МП 2551-0091-2012 \"Комплект поверочный FDA12\""
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "22.08.2022",
+            "validDate": "21.08.2023",
+            "vriType": "2",
+            "docTitle": "МП 2551-0090-2012 \"Нефелометр FD12\"",
+            "applicable": {
+                "certNum": "С-В\/22-08-2022\/196279887",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "26379.10.2Р.43883",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/43883",
+                    "mitypeNumber": "26379-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332492",
+                    "mitypeTitle": "Гигрометры",
+                    "notation": "Rotronic мод. HygroPalm, HygroLog NT, HygroFlex, HygroLab, ThermoPalm, GTS, S1",
+                    "modification": "HygroLog NT, исп. HL-NT3-D",
+                    "manufactureNum": "61373876",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений влажности газов"
+                },
+                {
+                    "regNumber": "80790.20.1Р.00357312",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/357312",
+                    "mitypeNumber": "80790-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1386155",
+                    "mitypeTitle": "Барометр ",
+                    "notation": "DIGITAL BAROMETR PTB330",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "R3250708",
+                    "manufactureYear": 2019,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для СИ абсолютного давления в диапазоне 1∙10^-1 - 1∙10^7 Па"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "35669-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/344846",
+                    "mitypeTitle": "Трансмиссометры",
+                    "number": "G0950001"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-198249295\/protocol",
+            "additional_info": "#midf734e8cc-ca2b-473f-a2b6-c341dcf00f31"
+        }
+    }
+}

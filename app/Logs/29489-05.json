@@ -1,0 +1,50 @@
+{
+    "169266947": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "29489-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336818",
+                "mitypeType": "Нет данных",
+                "mitypeTitle": "Подсистема измерительная автоматизированная диспетчерского контроля и управления станции обработки промышленных стоков АСДКУ СОПС РВС",
+                "manufactureNum": "00005",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИЧЕСКОЙ СЛУЖБЫ\"(ФГБУ \"ВНИИМС\")",
+            "signCipher": "М",
+            "miOwner": "АО \"Мосводоканал\"",
+            "vrfDate": "04.07.2022",
+            "validDate": "03.07.2023",
+            "vriType": "2",
+            "docTitle": "РВСМ.414.368.004 МП",
+            "applicable": {
+                "certNum": "С-М\/04-07-2022\/169146716",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "22237.02.2Р.00440132",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/440132",
+                    "mitypeNumber": "22237-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325959",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "MCx-R",
+                    "modification": "MC5-R",
+                    "manufactureNum": "25515625",
+                    "manufactureYear": 2005,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.2018 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-169266947\/protocol"
+        }
+    }
+}

@@ -1,0 +1,1381 @@
+{
+    "202016496": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "029",
+                "modification": "ТПУ-2В"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "АО \"НПП \"ИСТОК\" ИМ. ШОКИНА\"",
+            "vrfDate": "11.11.2022",
+            "validDate": "10.11.2023",
+            "vriType": "1",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ТТ\/11-11-2022\/202016496",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "47721.11.ВЭ.00190947",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/190947",
+                    "mitypeNumber": "47721-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359049",
+                    "mitypeTitle": "Измерители-калибраторы коэффициента гармоник",
+                    "notation": "СК6-20А",
+                    "modification": "СК6-20А-01",
+                    "manufactureNum": "071",
+                    "manufactureYear": 2013,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГПС для средств измерений коэффициента гармоник"
+                },
+                {
+                    "regNumber": "56005.13.4Р.00249200",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/249200",
+                    "mitypeNumber": "56005-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368650",
+                    "mitypeTitle": "Генераторы сигналов сложной\/произвольной формы",
+                    "notation": "81150А, 81160А, 81180А, 81180В",
+                    "modification": "Генератор сигналов сложной\/произвольной формы 81160А",
+                    "manufactureNum": "MY51400904",
+                    "manufactureYear": 2016,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказу Росстандарта от 31.07.2018 г. №1621"
+                },
+                {
+                    "regNumber": "16500.97.2Р.00260726",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260726",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401A",
+                    "manufactureNum": "MY41044725",
+                    "manufactureYear": 2005,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.18 г."
+                },
+                {
+                    "regNumber": "16500.97.3Р.00260755",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260755",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401A",
+                    "manufactureNum": "MY41044725",
+                    "manufactureYear": 2005,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.19 г."
+                },
+                {
+                    "regNumber": "61082.15.2Р.00373993",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/373993",
+                    "mitypeNumber": "61082-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374440",
+                    "mitypeTitle": "Тесламетры-веберметры универсальные",
+                    "notation": "ТПУ-2В",
+                    "modification": "ТПУ-2В",
+                    "manufactureNum": "031",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.030-2013. ГСИ. ГПС для СИ магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции"
+                },
+                {
+                    "regNumber": "40449.09.2Р.00430959",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/430959",
+                    "mitypeNumber": "40449-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350599",
+                    "mitypeTitle": "Меры напряженности постоянного и переменного магнитного поля",
+                    "notation": "М-303.1",
+                    "modification": "М-303.1",
+                    "manufactureNum": "21001",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.030-2013"
+                },
+                {
+                    "regNumber": "9135.83.4Р.00441505",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/441505",
+                    "mitypeNumber": "9135-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387836",
+                    "mitypeTitle": "Частотомеры электронно-счетные вычислительные",
+                    "notation": "Ч3-64",
+                    "modification": "Ч3-64\/1",
+                    "manufactureNum": "9101077",
+                    "manufactureYear": 1991,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 31.07.2018 г. №1621"
+                },
+                {
+                    "regNumber": "29282.05.2Р.00557401",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/557401",
+                    "mitypeNumber": "29282-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336545",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Fluke 5520A с модулями SC1100 и PQ",
+                    "modification": "Fluke 5520А с модулем PQ",
+                    "manufactureNum": "1463003",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы. Приказ 3457"
+                },
+                {
+                    "regNumber": "27589.11.2Р.00684802",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/684802",
+                    "mitypeNumber": "27589-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                    "mitypeTitle": "Меры напряженности магнитного поля",
+                    "notation": "М-503",
+                    "modification": "М-503",
+                    "manufactureNum": "22001",
+                    "manufactureYear": 2022,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.030-2013"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-202016496\/protocol",
+            "additional_info": "[ID=7ab82b60-65a6-11ed-b3f4-16f2bf468aad]"
+        }
+    },
+    "202016494": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "028",
+                "modification": "ТПУ-2В"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "АО \"НПП \"ИСТОК\" ИМ. ШОКИНА\"",
+            "vrfDate": "11.11.2022",
+            "validDate": "10.11.2023",
+            "vriType": "1",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ТТ\/11-11-2022\/202016494",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "47721.11.ВЭ.00190947",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/190947",
+                    "mitypeNumber": "47721-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359049",
+                    "mitypeTitle": "Измерители-калибраторы коэффициента гармоник",
+                    "notation": "СК6-20А",
+                    "modification": "СК6-20А-01",
+                    "manufactureNum": "071",
+                    "manufactureYear": 2013,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГПС для средств измерений коэффициента гармоник"
+                },
+                {
+                    "regNumber": "56005.13.4Р.00249200",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/249200",
+                    "mitypeNumber": "56005-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368650",
+                    "mitypeTitle": "Генераторы сигналов сложной\/произвольной формы",
+                    "notation": "81150А, 81160А, 81180А, 81180В",
+                    "modification": "Генератор сигналов сложной\/произвольной формы 81160А",
+                    "manufactureNum": "MY51400904",
+                    "manufactureYear": 2016,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказу Росстандарта от 31.07.2018 г. №1621"
+                },
+                {
+                    "regNumber": "16500.97.2Р.00260726",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260726",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401A",
+                    "manufactureNum": "MY41044725",
+                    "manufactureYear": 2005,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 2091 от 01.10.18 г."
+                },
+                {
+                    "regNumber": "16500.97.3Р.00260755",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/260755",
+                    "mitypeNumber": "16500-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315609",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "34401A",
+                    "modification": "34401A",
+                    "manufactureNum": "MY41044725",
+                    "manufactureYear": 2005,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3457 от 30.12.19 г."
+                },
+                {
+                    "regNumber": "61082.15.2Р.00373993",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/373993",
+                    "mitypeNumber": "61082-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374440",
+                    "mitypeTitle": "Тесламетры-веберметры универсальные",
+                    "notation": "ТПУ-2В",
+                    "modification": "ТПУ-2В",
+                    "manufactureNum": "031",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.030-2013. ГСИ. ГПС для СИ магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции"
+                },
+                {
+                    "regNumber": "40449.09.2Р.00430959",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/430959",
+                    "mitypeNumber": "40449-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350599",
+                    "mitypeTitle": "Меры напряженности постоянного и переменного магнитного поля",
+                    "notation": "М-303.1",
+                    "modification": "М-303.1",
+                    "manufactureNum": "21001",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.030-2013"
+                },
+                {
+                    "regNumber": "9135.83.4Р.00441505",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/441505",
+                    "mitypeNumber": "9135-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387836",
+                    "mitypeTitle": "Частотомеры электронно-счетные вычислительные",
+                    "notation": "Ч3-64",
+                    "modification": "Ч3-64\/1",
+                    "manufactureNum": "9101077",
+                    "manufactureYear": 1991,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ Росстандарта от 31.07.2018 г. №1621"
+                },
+                {
+                    "regNumber": "29282.05.2Р.00557401",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/557401",
+                    "mitypeNumber": "29282-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336545",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Fluke 5520A с модулями SC1100 и PQ",
+                    "modification": "Fluke 5520А с модулем PQ",
+                    "manufactureNum": "1463003",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы. Приказ 3457"
+                },
+                {
+                    "regNumber": "27589.11.2Р.00684802",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/684802",
+                    "mitypeNumber": "27589-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334247",
+                    "mitypeTitle": "Меры напряженности магнитного поля",
+                    "notation": "М-503",
+                    "modification": "М-503",
+                    "manufactureNum": "22001",
+                    "manufactureYear": 2022,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.030-2013"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-202016494\/protocol",
+            "additional_info": "[ID=a56265f0-65a2-11ed-b3f4-16f2bf468aad]"
+        }
+    },
+    "197874554": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "039",
+                "manufactureYear": 2022,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЗАВОД ЭЛЕКТРОННОЙ ТЕХНИКИ\"(ООО \"ЗЭТ\")",
+            "signCipher": "ГМБ",
+            "miOwner": "ООО \"ЗЭТ\"",
+            "vrfDate": "28.10.2022",
+            "validDate": "27.10.2023",
+            "vriType": "1",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ГМБ\/28-10-2022\/197874554",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ГМБ.0004.2014",
+                    "title": "Рабочий эталон 1 разряда единицы отношения магнитного потока к силе тока с номинальным значением 10 мВб\/А",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418349"
+                },
+                {
+                    "number": "3.2.ГМБ.0002.2014",
+                    "title": "Рабочий эталон 1 разряда единицы магнитной индукции в диапазоне от 0,01 до 20 мТл при частотах от 0 до 2000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418518"
+                },
+                {
+                    "number": "3.2.ГМБ.0001.2014",
+                    "title": "Рабочий эталон 2 разряда единицы магнитной индукции постоянного магнитного поля в диапазоне от 0,02 до 2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/490029"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Протокол поверки приложен к свидетельству о поверке на бумажном носителе."
+        }
+    },
+    "196603206": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "030",
+                "modification": "ТПУ-2В"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "владелец",
+            "vrfDate": "24.10.2022",
+            "validDate": "23.10.2023",
+            "vriType": "2",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ТТ\/24-10-2022\/196603206",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "61082.15.2Р.00373993",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/373993",
+                    "mitypeNumber": "61082-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374440",
+                    "mitypeTitle": "Тесламетры-веберметры универсальные",
+                    "notation": "ТПУ-2В",
+                    "modification": "ТПУ-2В",
+                    "manufactureNum": "031",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.030-2013. ГСИ. ГПС для СИ магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции"
+                },
+                {
+                    "regNumber": "40449.09.2Р.00430959",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/430959",
+                    "mitypeNumber": "40449-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350599",
+                    "mitypeTitle": "Меры напряженности постоянного и переменного магнитного поля",
+                    "notation": "М-303.1",
+                    "modification": "М-303.1",
+                    "manufactureNum": "21001",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.030-2013"
+                },
+                {
+                    "regNumber": "9335.83.2Р.00609031",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/609031",
+                    "mitypeNumber": "9335-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388147",
+                    "mitypeTitle": "Измерители магнитной индукции",
+                    "notation": "Ш1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1048\/1053",
+                    "manufactureYear": 1986,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "по постоянному магнитному полю от 0,01 до 2000 мТл",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-196603206\/protocol",
+            "additional_info": "[ID=ac83a770-53a2-11ed-b3f4-16f2bf468aad]"
+        }
+    },
+    "196455668": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "022",
+                "modification": "ТПУ-2В"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "владелец",
+            "vrfDate": "24.10.2022",
+            "validDate": "23.10.2023",
+            "vriType": "2",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ТТ\/24-10-2022\/196455668",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "32499.06.4Р.00110431",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/110431",
+                    "mitypeNumber": "32499-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340857",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-63\/3",
+                    "modification": "Частотомеры электронно-счетные Ч3-63\/3",
+                    "manufactureNum": "83020131",
+                    "manufactureYear": 2006,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказу Росстандарта от 31.07.2018 г. №1621"
+                },
+                {
+                    "regNumber": "47721.11.ВЭ.00190947",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/190947",
+                    "mitypeNumber": "47721-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359049",
+                    "mitypeTitle": "Измерители-калибраторы коэффициента гармоник",
+                    "notation": "СК6-20А",
+                    "modification": "СК6-20А-01",
+                    "manufactureNum": "071",
+                    "manufactureYear": 2013,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "ГПС для средств измерений коэффициента гармоник"
+                },
+                {
+                    "regNumber": "61082.15.2Р.00373993",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/373993",
+                    "mitypeNumber": "61082-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374440",
+                    "mitypeTitle": "Тесламетры-веберметры универсальные",
+                    "notation": "ТПУ-2В",
+                    "modification": "ТПУ-2В",
+                    "manufactureNum": "031",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.030-2013. ГСИ. ГПС для СИ магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции"
+                },
+                {
+                    "regNumber": "40449.09.2Р.00430959",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/430959",
+                    "mitypeNumber": "40449-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350599",
+                    "mitypeTitle": "Меры напряженности постоянного и переменного магнитного поля",
+                    "notation": "М-303.1",
+                    "modification": "М-303.1",
+                    "manufactureNum": "21001",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.030-2013"
+                },
+                {
+                    "regNumber": "29282.05.2Р.00557401",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/557401",
+                    "mitypeNumber": "29282-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/336545",
+                    "mitypeTitle": "Калибраторы универсальные",
+                    "notation": "Fluke 5520A с модулями SC1100 и PQ",
+                    "modification": "Fluke 5520А с модулем PQ",
+                    "manufactureNum": "1463003",
+                    "manufactureYear": 2009,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы. Приказ 3457"
+                },
+                {
+                    "regNumber": "9335.83.2Р.00609031",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/609031",
+                    "mitypeNumber": "9335-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388147",
+                    "mitypeTitle": "Измерители магнитной индукции",
+                    "notation": "Ш1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1048\/1053",
+                    "manufactureYear": 1986,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "[ID=98db13d0-5365-11ed-b3f4-16f2bf468aad]"
+        }
+    },
+    "194326997": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "007",
+                "manufactureYear": 2016,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЗАВОД ЭЛЕКТРОННОЙ ТЕХНИКИ\"(ООО \"ЗЭТ\")",
+            "signCipher": "ГМБ",
+            "miOwner": "АО НПО \"Магнетон\", ИНН 3328100019",
+            "vrfDate": "18.10.2022",
+            "validDate": "17.10.2023",
+            "vriType": "1",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ГМБ\/18-10-2022\/194326997",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ГМБ.0004.2014",
+                    "title": "Рабочий эталон 1 разряда единицы отношения магнитного потока к силе тока с номинальным значением 10 мВб\/А",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418349"
+                },
+                {
+                    "number": "3.2.ГМБ.0002.2014",
+                    "title": "Рабочий эталон 1 разряда единицы магнитной индукции в диапазоне от 0,01 до 20 мТл при частотах от 0 до 2000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418518"
+                },
+                {
+                    "number": "3.2.ГМБ.0001.2014",
+                    "title": "Рабочий эталон 2 разряда единицы магнитной индукции постоянного магнитного поля в диапазоне от 0,02 до 2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/490029"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Первичная поверка после ремонта. Протокол поверки приложен к свидетельству о поверке на бумажном носителе."
+        }
+    },
+    "192274542": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "021",
+                "manufactureYear": 2020,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЗАВОД ЭЛЕКТРОННОЙ ТЕХНИКИ\"(ООО \"ЗЭТ\")",
+            "signCipher": "ГМБ",
+            "miOwner": "АО \"ЧЭАЗ\", ИНН 2128000600",
+            "vrfDate": "10.10.2022",
+            "validDate": "09.10.2023",
+            "vriType": "2",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ГМБ\/10-10-2022\/191917227",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ГМБ.0004.2014",
+                    "title": "Рабочий эталон 1 разряда единицы отношения магнитного потока к силе тока с номинальным значением 10 мВб\/А",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418349"
+                },
+                {
+                    "number": "3.2.ГМБ.0002.2014",
+                    "title": "Рабочий эталон 1 разряда единицы магнитной индукции в диапазоне от 0,01 до 20 мТл при частотах от 0 до 2000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418518"
+                },
+                {
+                    "number": "3.2.ГМБ.0001.2014",
+                    "title": "Рабочий эталон 2 разряда единицы магнитной индукции постоянного магнитного поля в диапазоне от 0,02 до 2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/490029"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Протокол поверки приложен к свидетельству о поверке на бумажном носителе."
+        }
+    },
+    "191917226": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "038",
+                "manufactureYear": 2022,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЗАВОД ЭЛЕКТРОННОЙ ТЕХНИКИ\"(ООО \"ЗЭТ\")",
+            "signCipher": "ГМБ",
+            "miOwner": "ООО \"ЗЭТ\"",
+            "vrfDate": "10.10.2022",
+            "validDate": "09.10.2023",
+            "vriType": "1",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ГМБ\/10-10-2022\/191917226",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ГМБ.0004.2014",
+                    "title": "Рабочий эталон 1 разряда единицы отношения магнитного потока к силе тока с номинальным значением 10 мВб\/А",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418349"
+                },
+                {
+                    "number": "3.2.ГМБ.0002.2014",
+                    "title": "Рабочий эталон 1 разряда единицы магнитной индукции в диапазоне от 0,01 до 20 мТл при частотах от 0 до 2000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418518"
+                },
+                {
+                    "number": "3.2.ГМБ.0001.2014",
+                    "title": "Рабочий эталон 2 разряда единицы магнитной индукции постоянного магнитного поля в диапазоне от 0,02 до 2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/490029"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Протокол поверки приложен к свидетельству о поверке на бумажном носителе."
+        }
+    },
+    "187120136": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "008",
+                "modification": "ТПУ-2В"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "ТТ",
+            "miOwner": "АО \"НПЦАП\"",
+            "vrfDate": "20.09.2022",
+            "validDate": "19.09.2023",
+            "vriType": "2",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ТТ\/20-09-2022\/187120136",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0314.2015",
+                    "title": "ГЭЕ магнитного потока 1 разряда номинальных значений (0,001; 0,01) Вб\/А, 1 разряда в диапазоне значений от 2·10[^-6] до 25·10[^-3] Вб, 2 разряда в диапазоне значений от 1·10[^-6] до 0,1 Вб и напряженности намагничивающего поля 2 разряда в диапазоне значений от 1·10[^-2] до 1·10[^5] А\/м",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/407059"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "61082.15.2Р.00373993",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/373993",
+                    "mitypeNumber": "61082-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374440",
+                    "mitypeTitle": "Тесламетры-веберметры универсальные",
+                    "notation": "ТПУ-2В",
+                    "modification": "ТПУ-2В",
+                    "manufactureNum": "031",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.030-2013. ГСИ. ГПС для СИ магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции"
+                },
+                {
+                    "regNumber": "9335.83.2Р.00609031",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/609031",
+                    "mitypeNumber": "9335-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388147",
+                    "mitypeTitle": "Измерители магнитной индукции",
+                    "notation": "Ш1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1048\/1053",
+                    "manufactureYear": 1986,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "[ID=58539770-38b6-11ed-b3f4-16f2bf468aad]"
+        }
+    },
+    "178037475": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "028",
+                "manufactureYear": 2021,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "11.08.2022",
+            "vriType": "2",
+            "docTitle": "Тесламетры-веберметры  универсальные  ТПУ-2В. Методика поверки»    ТПКЛ.411171.010МП",
+            "inapplicable": {
+                "noticeNum": "И-Т\/11-08-2022\/178037475"
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZT.0246.2017",
+                    "title": "Государственный рабочий эталон единицы магнитной индукции переменного магнитного поля 1 разряда в диапазоне значений от 1 до 1700 мТл в диапазоне частот от 20 до 10000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/600130"
+                },
+                {
+                    "number": "3.1.ZZT.0247.2017",
+                    "title": "Государственный рабочий эталон единиц магнитной индукции постоянного магнитного поля 1 разряда в диапазоне значений от 1 до 7000 мкТл, магнитной индукции переменного магнитного поля 1 разряда в диапазоне значений от 1 до 7000 мкТл в диапазоне частот от 5 до 10000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/604162"
+                },
+                {
+                    "number": "3.1.ZZТ.0021.2013",
+                    "title": "ГРЭ единицы магнитной индукции постоянного магнитного поля 1 разряда в диапазоне 0,02...2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/422484"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "74162-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/536962",
+                    "mitypeTitle": "Калибраторы процессов",
+                    "number": "992185865"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#midee5fb071-9dbd-417d-b348-5275d4b24737"
+        }
+    },
+    "178037469": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "029",
+                "manufactureYear": 2021,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "11.08.2022",
+            "vriType": "2",
+            "docTitle": "Тесламетры-веберметры  универсальные  ТПУ-2В. Методика поверки»    ТПКЛ.411171.010МП",
+            "inapplicable": {
+                "noticeNum": "И-Т\/11-08-2022\/178037469"
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZT.0246.2017",
+                    "title": "Государственный рабочий эталон единицы магнитной индукции переменного магнитного поля 1 разряда в диапазоне значений от 1 до 1700 мТл в диапазоне частот от 20 до 10000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/600130"
+                },
+                {
+                    "number": "3.1.ZZT.0247.2017",
+                    "title": "Государственный рабочий эталон единиц магнитной индукции постоянного магнитного поля 1 разряда в диапазоне значений от 1 до 7000 мкТл, магнитной индукции переменного магнитного поля 1 разряда в диапазоне значений от 1 до 7000 мкТл в диапазоне частот от 5 до 10000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/604162"
+                },
+                {
+                    "number": "3.1.ZZТ.0021.2013",
+                    "title": "ГРЭ единицы магнитной индукции постоянного магнитного поля 1 разряда в диапазоне 0,02...2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/422484"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "74162-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/536962",
+                    "mitypeTitle": "Калибраторы процессов",
+                    "number": "992185865"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid9eccbdab-c1d6-4cff-b5e2-c6d9baa0768c"
+        }
+    },
+    "173482730": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "009",
+                "manufactureYear": 2016,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЗАВОД ЭЛЕКТРОННОЙ ТЕХНИКИ\"(ООО \"ЗЭТ\")",
+            "signCipher": "ГМБ",
+            "miOwner": "ООО «СЭПО-ЗЭМ», Саратов, ИНН 6453037698",
+            "vrfDate": "26.07.2022",
+            "validDate": "25.07.2023",
+            "vriType": "2",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ГМБ\/26-07-2022\/173482730",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ГМБ.0004.2014",
+                    "title": "Рабочий эталон 1 разряда единицы отношения магнитного потока к силе тока с номинальным значением 10 мВб\/А",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418349"
+                },
+                {
+                    "number": "3.2.ГМБ.0002.2014",
+                    "title": "Рабочий эталон 1 разряда единицы магнитной индукции в диапазоне от 0,01 до 20 мТл при частотах от 0 до 2000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418518"
+                },
+                {
+                    "number": "3.2.ГМБ.0001.2014",
+                    "title": "Рабочий эталон 2 разряда единицы магнитной индукции постоянного магнитного поля в диапазоне от 0,02 до 2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/490029"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Протокол поверки приложен к свидетельству о поверке на бумажном носителе."
+        }
+    },
+    "172938042": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61082.15.2Р.00373993",
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374440",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "mitypeType": "ТПУ-2В",
+                "modification": "ТПУ-2В",
+                "manufactureNum": "031",
+                "manufactureYear": 2021,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ Р 8.030-2013. ГСИ. ГПС для СИ магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЗАВОД ЭЛЕКТРОННОЙ ТЕХНИКИ\"(ООО \"ЗЭТ\")",
+            "signCipher": "ГМБ",
+            "miOwner": "ФБУ «Ростест-Москва», Сергиев-Посадский филиал. ИНН 7727061249",
+            "vrfDate": "25.07.2022",
+            "validDate": "24.07.2023",
+            "vriType": "2",
+            "docTitle": "ЦЕКВ.411648.010РЭ. Раздел 4 «Методика поверки»",
+            "applicable": {
+                "certNum": "С-ГМБ\/25-07-2022\/172938042",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ГМБ.0004.2014",
+                    "title": "Рабочий эталон 1 разряда единицы отношения магнитного потока к силе тока с номинальным значением 10 мВб\/А",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418349"
+                },
+                {
+                    "number": "3.2.ГМБ.0002.2014",
+                    "title": "Рабочий эталон 1 разряда единицы магнитной индукции в диапазоне от 0,01 до 20 мТл при частотах от 0 до 2000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418518"
+                },
+                {
+                    "number": "3.2.ГМБ.0001.2014",
+                    "title": "Рабочий эталон 2 разряда единицы магнитной индукции постоянного магнитного поля в диапазоне от 0,02 до 2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/490029"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Протокол поверки приложен к свидетельству о поверке на бумажном носителе"
+        }
+    },
+    "169962450": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "61082.15.2Р.00639317",
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "mitypeType": "ТПУ-2В",
+                "modification": "Нет модификации",
+                "manufactureNum": "032",
+                "manufactureYear": 2021,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "ГОСТ 8.030-2013 «ГСИ. ГПС для средств измерений магнитной индукции, магнитного потока, магн. момента и градиента магн. индукции"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ООО \"АЗ-И\"",
+            "vrfDate": "08.07.2022",
+            "validDate": "07.07.2023",
+            "vriType": "2",
+            "docTitle": "Тесламетры-веберметры  универсальные  ТПУ-2В. Методика поверки»    ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-Т\/08-07-2022\/169962450",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZT.0246.2017",
+                    "title": "Государственный рабочий эталон единицы магнитной индукции переменного магнитного поля 1 разряда в диапазоне значений от 1 до 1700 мТл в диапазоне частот от 20 до 10000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/600130"
+                },
+                {
+                    "number": "3.1.ZZT.0247.2017",
+                    "title": "Государственный рабочий эталон единиц магнитной индукции постоянного магнитного поля 1 разряда в диапазоне значений от 1 до 7000 мкТл, магнитной индукции переменного магнитного поля 1 разряда в диапазоне значений от 1 до 7000 мкТл в диапазоне частот от 5 до 10000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/604162"
+                },
+                {
+                    "number": "3.1.ZZТ.0021.2013",
+                    "title": "ГРЭ единицы магнитной индукции постоянного магнитного поля 1 разряда в диапазоне 0,02...2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/422484"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "74162-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/536962",
+                    "mitypeTitle": "Калибраторы процессов",
+                    "number": "992185865"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-169962450\/protocol",
+            "additional_info": "#mid1ec30ea2-f250-43ce-a009-3c3c433a41d9"
+        }
+    },
+    "166642606": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "036",
+                "manufactureYear": 2022,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЗАВОД ЭЛЕКТРОННОЙ ТЕХНИКИ\"(ООО \"ЗЭТ\")",
+            "signCipher": "ГМБ",
+            "miOwner": "ООО \"ЗЭТ\"",
+            "vrfDate": "28.06.2022",
+            "validDate": "27.06.2023",
+            "vriType": "1",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ГМБ\/28-06-2022\/166642606",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ГМБ.0004.2014",
+                    "title": "Рабочий эталон 1 разряда единицы отношения магнитного потока к силе тока с номинальным значением 10 мВб\/А",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418349"
+                },
+                {
+                    "number": "3.2.ГМБ.0002.2014",
+                    "title": "Рабочий эталон 1 разряда единицы магнитной индукции в диапазоне от 0,01 до 20 мТл при частотах от 0 до 2000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418518"
+                },
+                {
+                    "number": "3.2.ГМБ.0001.2014",
+                    "title": "Рабочий эталон 2 разряда единицы магнитной индукции постоянного магнитного поля в диапазоне от 0,02 до 2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/490029"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Протокол поверки приложен к свидетельству о поверке на бумажном носителе."
+        }
+    },
+    "166642604": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "037",
+                "manufactureYear": 2022,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЗАВОД ЭЛЕКТРОННОЙ ТЕХНИКИ\"(ООО \"ЗЭТ\")",
+            "signCipher": "ГМБ",
+            "miOwner": "ООО \"ЗЭТ\"",
+            "vrfDate": "28.06.2022",
+            "validDate": "27.06.2023",
+            "vriType": "1",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ГМБ\/28-06-2022\/166642604",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ГМБ.0004.2014",
+                    "title": "Рабочий эталон 1 разряда единицы отношения магнитного потока к силе тока с номинальным значением 10 мВб\/А",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418349"
+                },
+                {
+                    "number": "3.2.ГМБ.0002.2014",
+                    "title": "Рабочий эталон 1 разряда единицы магнитной индукции в диапазоне от 0,01 до 20 мТл при частотах от 0 до 2000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418518"
+                },
+                {
+                    "number": "3.2.ГМБ.0001.2014",
+                    "title": "Рабочий эталон 2 разряда единицы магнитной индукции постоянного магнитного поля в диапазоне от 0,02 до 2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/490029"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Протокол поверки приложен к свидетельству о поверке на бумажном носителе."
+        }
+    },
+    "163172873": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "006",
+                "manufactureYear": 2016,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЗАВОД ЭЛЕКТРОННОЙ ТЕХНИКИ\"(ООО \"ЗЭТ\")",
+            "signCipher": "ГМБ",
+            "miOwner": "-",
+            "vrfDate": "14.06.2022",
+            "validDate": "13.06.2023",
+            "vriType": "2",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ГМБ\/14-06-2022\/163172873",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ГМБ.0004.2014",
+                    "title": "Рабочий эталон 1 разряда единицы отношения магнитного потока к силе тока с номинальным значением 10 мВб\/А",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418349"
+                },
+                {
+                    "number": "3.2.ГМБ.0002.2014",
+                    "title": "Рабочий эталон 1 разряда единицы магнитной индукции в диапазоне от 0,01 до 20 мТл при частотах от 0 до 2000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418518"
+                },
+                {
+                    "number": "3.2.ГМБ.0001.2014",
+                    "title": "Рабочий эталон 2 разряда единицы магнитной индукции постоянного магнитного поля в диапазоне от 0,02 до 2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/490029"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Протокол поверки приложен к свидетельству о поверке на бумажном носителе."
+        }
+    },
+    "149385929": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374441",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "017",
+                "manufactureYear": 2019,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЗАВОД ЭЛЕКТРОННОЙ ТЕХНИКИ\"(ООО \"ЗЭТ\")",
+            "signCipher": "ГМБ",
+            "miOwner": "-",
+            "vrfDate": "18.04.2022",
+            "validDate": "17.04.2023",
+            "vriType": "2",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ГМБ\/18-04-2022\/149385929",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ГМБ.0004.2014",
+                    "title": "Рабочий эталон 1 разряда единицы отношения магнитного потока к силе тока с номинальным значением 10 мВб\/А",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418349"
+                },
+                {
+                    "number": "3.2.ГМБ.0002.2014",
+                    "title": "Рабочий эталон 1 разряда единицы магнитной индукции в диапазоне от 0,01 до 20 мТл при частотах от 0 до 2000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418518"
+                },
+                {
+                    "number": "3.2.ГМБ.0001.2014",
+                    "title": "Рабочий эталон 2 разряда единицы магнитной индукции постоянного магнитного поля в диапазоне от 0,02 до 2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/490029"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Поверка в режиме измерений магнитной индукции - только с измерительным зондом \"С\".",
+            "additional_info": "Протокол поверки приложен к свидетельству о поверке на бумажном носителе."
+        }
+    },
+    "132141602": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374440",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "035",
+                "manufactureYear": 2022,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЗАВОД ЭЛЕКТРОННОЙ ТЕХНИКИ\"(ООО \"ЗЭТ\")",
+            "signCipher": "ГМБ",
+            "miOwner": "ООО «ЗЭТ»",
+            "vrfDate": "15.02.2022",
+            "validDate": "14.02.2023",
+            "vriType": "1",
+            "docTitle": "ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-ГМБ\/15-02-2022\/132141602",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.ГМБ.0004.2014",
+                    "title": "Рабочий эталон 1 разряда единицы отношения магнитного потока к силе тока с номинальным значением 10 мВб\/А",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418349"
+                },
+                {
+                    "number": "3.2.ГМБ.0002.2014",
+                    "title": "Рабочий эталон 1 разряда единицы магнитной индукции в диапазоне от 0,01 до 20 мТл при частотах от 0 до 2000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/418518"
+                },
+                {
+                    "number": "3.2.ГМБ.0001.2014",
+                    "title": "Рабочий эталон 2 разряда единицы магнитной индукции постоянного магнитного поля в диапазоне от 0,02 до 2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/490029"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Протокол поверки приложен к свидетельству о поверке на бумажном носителе."
+        }
+    },
+    "126469099": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "61082-15",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374440",
+                "mitypeType": "ТПУ-2В",
+                "mitypeTitle": "Тесламетры-веберметры универсальные",
+                "manufactureNum": "007",
+                "manufactureYear": 2016,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "АО НПО \"Магнетон\"",
+            "vrfDate": "24.01.2022",
+            "validDate": "23.01.2023",
+            "vriType": "2",
+            "docTitle": "Тесламетры-веберметры  универсальные  ТПУ-2В. Методика поверки»    ТПКЛ.411171.010МП",
+            "applicable": {
+                "certNum": "С-Т\/24-01-2022\/126469099",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZТ.0021.2013",
+                    "title": "ГРЭ единицы магнитной индукции постоянного магнитного поля 1 разряда в диапазоне 0,02...2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/422484"
+                },
+                {
+                    "number": "3.1.ZZT.0246.2017",
+                    "title": "Государственный рабочий эталон единицы магнитной индукции переменного магнитного поля 1 разряда в диапазоне значений от 1 до 1700 мТл в диапазоне частот от 20 до 10000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/600130"
+                },
+                {
+                    "number": "3.1.ZZT.0247.2017",
+                    "title": "Государственный рабочий эталон единиц магнитной индукции постоянного магнитного поля 1 разряда в диапазоне значений от 1 до 7000 мкТл, магнитной индукции переменного магнитного поля 1 разряда в диапазоне значений от 1 до 7000 мкТл в диапазоне частот от 5 до 10000 Гц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/604162"
+                },
+                {
+                    "number": "3.1.ZZT.0206.2015",
+                    "title": "ГРЭ единиц постоянного электрического напряжения 2 разряда в диапазоне от 5 мкВ до 1100 В, переменного электрического напряжения 2 разряда в диапазоне от 10 мкВ до 1100 В в диапазоне частот от 10 Гц до 1 МГц, силы постоянного электрического тока 1 разряда в диапазоне от 0,05 мкА до 11 А, силы переменного электрического тока 3 разряда в диапазоне от 0,1 мкА до 11 А в диапазоне частот от 10 Гц до 10 кГц, электрического сопротивления 3 разряда в диапазоне от 0 до 100 МОм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/495310"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "74162-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/536962",
+                    "mitypeTitle": "Калибраторы процессов",
+                    "number": "992185865"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#midf6298562-fab1-4439-ad9e-42669761964e"
+        }
+    }
+}

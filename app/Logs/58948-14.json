@@ -1,0 +1,70 @@
+{
+    "181195628": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "58948-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372053",
+                "mitypeType": "СТРИЖ Телематика",
+                "mitypeTitle": "Системы измерительные автоматизированные контроля и учета энергоресурсов",
+                "manufactureNum": "1016045541506",
+                "modification": "ХВ-15"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ И МЕТРОЛОГИИ\"(ООО \"РЦСМ\")",
+            "signCipher": "ДЦН",
+            "miOwner": "Физическое лицо",
+            "vrfDate": "24.08.2022",
+            "validDate": "23.08.2028",
+            "vriType": "2",
+            "docTitle": "«МИ 1592-2015 ГСИ. Счетчики воды. Методика поверки»",
+            "applicable": {
+                "certNum": "С-ДЦН\/24-08-2022\/181195628",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "60661.15.3Р.00230768",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/230768",
+                    "mitypeNumber": "60661-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373953",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "ВПУ - Энерго М",
+                    "modification": "ВПУ - Энерго М-00-00-0-03",
+                    "manufactureNum": "020.15.858",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "часть 1 Государственной поверочной схемы для средств измерений массы и объёма жидкости в потоке, объёма жидкости и вместимости"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "68635"
+                },
+                {
+                    "mitypeNumber": "35808-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492666",
+                    "mitypeTitle": "Измерители температуры портативные",
+                    "number": "17360"
+                },
+                {
+                    "mitypeNumber": "11519-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306186",
+                    "mitypeTitle": "Секундомеры механические",
+                    "number": "3292"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "1035126"
+        }
+    }
+}

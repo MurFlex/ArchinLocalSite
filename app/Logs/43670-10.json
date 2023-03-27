@@ -1,0 +1,786 @@
+{
+    "192935750": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "43670-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389394",
+                "mitypeType": "Г3-135",
+                "mitypeTitle": "Генераторы сигналов низкочастотные",
+                "manufactureNum": "483",
+                "manufactureYear": 2011,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОЯРСКОМ КРАЕ, РЕСПУБЛИКЕ ХАКАСИЯ И РЕСПУБЛИКЕ ТЫВА\"(ФБУ \"КРАСНОЯРСКИЙ ЦСМ\")",
+            "signCipher": "АШ",
+            "miOwner": "ООО \"Аэропорт Емельяново\"",
+            "vrfDate": "13.10.2022",
+            "validDate": "12.10.2024",
+            "vriType": "2",
+            "docTitle": "раздел 8, ПШФИ.411652.001РЭ8",
+            "applicable": {
+                "certNum": "С-АШ\/13-10-2022\/192935750",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "7987.80.4Р.03073",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/3073",
+                    "mitypeNumber": "7987-80",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386264",
+                    "mitypeTitle": "Синтезаторы частоты",
+                    "notation": "Ч6-71",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "8907070",
+                    "manufactureYear": 1989,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ № 1621   от 31.07.2018г"
+                },
+                {
+                    "regNumber": "49918.12.2Р.12853",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/12853",
+                    "mitypeNumber": "49918-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361647",
+                    "mitypeTitle": "Осциллографы цифровые",
+                    "notation": "ADS",
+                    "modification": "ADS-2221M",
+                    "manufactureNum": "1415201",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ № 3463 от «30» декабря 2019 г."
+                },
+                {
+                    "regNumber": "10227.85.2Р.48081",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/48081",
+                    "mitypeNumber": "10227-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304413",
+                    "mitypeTitle": "Измерители нелинейных искажений",
+                    "notation": "СК6-13",
+                    "modification": "СК6-13",
+                    "manufactureNum": "9112117",
+                    "manufactureYear": 1997,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.762–2011"
+                },
+                {
+                    "regNumber": "30405.05.4Р.00196090",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/196090",
+                    "mitypeNumber": "30405-05",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120 (старое обозначение ГСС-05, ГСС-10, ГСС-20, ГСС-40, ГСС-80, ГСС-120, ГСС-05\/1, ГСС-10\/1, ГСС-20\/1, ГСС-40\/1, ГСС-80\/1, ГСС-120\/1)",
+                    "modification": "ГСС-40",
+                    "manufactureNum": "105091404",
+                    "manufactureYear": 2012,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ №1621 от 31.07.2018г"
+                },
+                {
+                    "regNumber": "9135.83.4Р.00324252",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/324252",
+                    "mitypeNumber": "9135-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387836",
+                    "mitypeTitle": "Частотомеры электронно-счетные вычислительные",
+                    "notation": "Ч3-64",
+                    "modification": "Ч3-64",
+                    "manufactureNum": "8903115",
+                    "manufactureYear": 1987,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "приказ №1621 от 31.07.2018г"
+                },
+                {
+                    "regNumber": "25900.03.2Р.00640170",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/640170",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331750",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45055022",
+                    "manufactureYear": 2017,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ №1942 от 03.09.2021"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "7657-80",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385811",
+                    "mitypeTitle": "Микровольтметры",
+                    "number": "2213"
+                },
+                {
+                    "mitypeNumber": "5269-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1388746",
+                    "mitypeTitle": "Генеpатоpы импульсов",
+                    "number": "38420"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "179564884": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "43670-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389394",
+                "mitypeType": "Г3-135",
+                "mitypeTitle": "Генераторы сигналов низкочастотные",
+                "manufactureNum": "135347",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ МАРИЙ ЭЛ\"(ФБУ \"МАРИЙСКИЙ ЦСМ\")",
+            "signCipher": "АИ",
+            "miOwner": "ООО \"Технотех\"",
+            "vrfDate": "19.08.2022",
+            "validDate": "18.08.2024",
+            "vriType": "2",
+            "docTitle": "Раздел 8 ПШФИ.411652.001РЭ",
+            "applicable": {
+                "certNum": "С-АИ\/19-08-2022\/179564884",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "9081.83.2Р.67102",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/67102",
+                    "mitypeNumber": "9081-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387751",
+                    "mitypeTitle": "Измерители нелинейных искажений автоматические",
+                    "notation": "С6-11",
+                    "modification": "нет модификации",
+                    "manufactureNum": "8909398",
+                    "manufactureYear": 1983,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.762-2011"
+                },
+                {
+                    "regNumber": "57757.14.2Р.93657",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/93657",
+                    "mitypeNumber": "57757-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/370671",
+                    "mitypeTitle": "Осциллографы-анализаторы спектра",
+                    "notation": "MDO3012, MDO3014, MDO3022, MDO3024, MDO3032, MDO3034, MDO3052, MDO3054, MDO3102, MDO3104",
+                    "modification": "MDO3102",
+                    "manufactureNum": "C053700",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №3463"
+                },
+                {
+                    "regNumber": "75631.19.3Р.00446012",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/446012",
+                    "mitypeNumber": "75631-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/717974",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85",
+                    "modification": "Ч3-85\/6",
+                    "manufactureNum": "6Е5041002",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта №1621 от 31.07.18"
+                },
+                {
+                    "regNumber": "63083.16.2Р.00503396",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/503396",
+                    "mitypeNumber": "63083-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376661",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "Keithley DMM7510",
+                    "modification": "DMM7510",
+                    "manufactureNum": "4386462",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 03.09.2021 г. № 1942"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "162651631": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "43670-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389394",
+                "mitypeType": "Г3-135",
+                "mitypeTitle": "Генераторы сигналов низкочастотные",
+                "manufactureNum": "135174",
+                "modification": "Г3-135"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КООРДИНАЦИОННО-ИНФОРМАЦИОННОЕ АГЕНТСТВО\"(ООО \"КИА\")",
+            "signCipher": "ГДИ",
+            "miOwner": "АО \"НИИССУ\"",
+            "vrfDate": "08.06.2022",
+            "validDate": "07.06.2024",
+            "vriType": "2",
+            "docTitle": "раздел «Поверка прибора» ТО",
+            "applicable": {
+                "certNum": "С-ГДИ\/08-06-2022\/162651631",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "9135.83.4Р.00184608",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/184608",
+                    "mitypeNumber": "9135-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387836",
+                    "mitypeTitle": "Частотомеры электронно-счетные вычислительные",
+                    "notation": "Ч3-64",
+                    "modification": "Ч3-64",
+                    "manufactureNum": "8810006",
+                    "manufactureYear": 1988,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений времени и частоты (ГЭТ 1-2018)."
+                },
+                {
+                    "regNumber": "51871.12.3Р.00249309",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/249309",
+                    "mitypeNumber": "51871-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363962",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "Ч1-2010",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0028",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения времени и частоты"
+                },
+                {
+                    "regNumber": "5477.76.2Р.00574639",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/574639",
+                    "mitypeNumber": "5477-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367253",
+                    "mitypeTitle": "Вольтметры переменного тока диодные компенсационные",
+                    "notation": "В3-49",
+                    "modification": "В3-49",
+                    "manufactureNum": "0684",
+                    "manufactureYear": 1989,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ  Росстандарта от 03.09.2021 г. №1942"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "3243-82",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340754",
+                    "mitypeTitle": "Милливольтметры",
+                    "number": "9152"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "162651630": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "43670-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389394",
+                "mitypeType": "Г3-135",
+                "mitypeTitle": "Генераторы сигналов низкочастотные",
+                "manufactureNum": "135176",
+                "modification": "Г3-135"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КООРДИНАЦИОННО-ИНФОРМАЦИОННОЕ АГЕНТСТВО\"(ООО \"КИА\")",
+            "signCipher": "ГДИ",
+            "miOwner": "АО \"НИИССУ\"",
+            "vrfDate": "08.06.2022",
+            "validDate": "07.06.2024",
+            "vriType": "2",
+            "docTitle": "раздел «Поверка прибора» ТО",
+            "applicable": {
+                "certNum": "С-ГДИ\/08-06-2022\/162651630",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "9135.83.4Р.00184608",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/184608",
+                    "mitypeNumber": "9135-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387836",
+                    "mitypeTitle": "Частотомеры электронно-счетные вычислительные",
+                    "notation": "Ч3-64",
+                    "modification": "Ч3-64",
+                    "manufactureNum": "8810006",
+                    "manufactureYear": 1988,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений времени и частоты (ГЭТ 1-2018)."
+                },
+                {
+                    "regNumber": "51871.12.3Р.00249309",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/249309",
+                    "mitypeNumber": "51871-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363962",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "Ч1-2010",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0028",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения времени и частоты"
+                },
+                {
+                    "regNumber": "5477.76.2Р.00574639",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/574639",
+                    "mitypeNumber": "5477-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367253",
+                    "mitypeTitle": "Вольтметры переменного тока диодные компенсационные",
+                    "notation": "В3-49",
+                    "modification": "В3-49",
+                    "manufactureNum": "0684",
+                    "manufactureYear": 1989,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ  Росстандарта от 03.09.2021 г. №1942"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "3243-82",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340754",
+                    "mitypeTitle": "Милливольтметры",
+                    "number": "9152"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "162651632": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "43670-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389394",
+                "mitypeType": "Г3-135",
+                "mitypeTitle": "Генераторы сигналов низкочастотные",
+                "manufactureNum": "135116",
+                "modification": "Г3-135"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КООРДИНАЦИОННО-ИНФОРМАЦИОННОЕ АГЕНТСТВО\"(ООО \"КИА\")",
+            "signCipher": "ГДИ",
+            "miOwner": "АО \"НИИССУ\"",
+            "vrfDate": "08.06.2022",
+            "validDate": "07.06.2024",
+            "vriType": "2",
+            "docTitle": "раздел «Поверка прибора» ТО",
+            "applicable": {
+                "certNum": "С-ГДИ\/08-06-2022\/162651632",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "9135.83.4Р.00184608",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/184608",
+                    "mitypeNumber": "9135-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387836",
+                    "mitypeTitle": "Частотомеры электронно-счетные вычислительные",
+                    "notation": "Ч3-64",
+                    "modification": "Ч3-64",
+                    "manufactureNum": "8810006",
+                    "manufactureYear": 1988,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений времени и частоты (ГЭТ 1-2018)."
+                },
+                {
+                    "regNumber": "51871.12.3Р.00249309",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/249309",
+                    "mitypeNumber": "51871-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363962",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "Ч1-2010",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0028",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения времени и частоты"
+                },
+                {
+                    "regNumber": "5477.76.2Р.00574639",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/574639",
+                    "mitypeNumber": "5477-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367253",
+                    "mitypeTitle": "Вольтметры переменного тока диодные компенсационные",
+                    "notation": "В3-49",
+                    "modification": "В3-49",
+                    "manufactureNum": "0684",
+                    "manufactureYear": 1989,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "приказ  Росстандарта от 03.09.2021 г. №1942"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "3243-82",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340754",
+                    "mitypeTitle": "Милливольтметры",
+                    "number": "9152"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "136524537": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "43670-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389394",
+                "mitypeType": "Г3-135",
+                "mitypeTitle": "Генераторы сигналов низкочастотные",
+                "manufactureNum": "135208",
+                "manufactureYear": 2018,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО  \"СУПЕРТЕХПРИБОР\"(ЗАО \"СУПЕРТЕХПРИБОР\")",
+            "signCipher": "БСЕ",
+            "miOwner": "ЗАО \"Супертехприбор\"",
+            "vrfDate": "03.03.2022",
+            "validDate": "02.03.2024",
+            "vriType": "2",
+            "docTitle": "раздел 8 часть 1 Руководства по эксплуатации ПШФИ.411652.001РЭ",
+            "applicable": {
+                "certNum": "С-БСЕ\/03-03-2022\/136524537",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41370.09.2Р.00249059",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/249059",
+                    "mitypeNumber": "41370-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351665",
+                    "mitypeTitle": "Калибраторы-измерители нелинейных искажений",
+                    "notation": "СК6-20",
+                    "modification": "нет модификации",
+                    "manufactureNum": "078",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений коэффициента гармоник в диапазоне от 10 до 200000 Гц"
+                },
+                {
+                    "regNumber": "10908.87.1Р.00542964",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/542964",
+                    "mitypeNumber": "10908-87",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305349",
+                    "mitypeTitle": "Вольтметры переменного тока",
+                    "notation": "В3-63",
+                    "modification": "-",
+                    "manufactureNum": "0170",
+                    "manufactureYear": 1988,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 03.09.2021 № 1942"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "75673-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/717890",
+                    "mitypeTitle": "Генераторы сигналов высокочастотные",
+                    "number": "NSG3XGCX4R0017"
+                },
+                {
+                    "mitypeNumber": "69417-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383562",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "number": "SDS1EDEC5R3809"
+                },
+                {
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "TW00016730"
+                },
+                {
+                    "mitypeNumber": "15500-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313585",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "34333"
+                },
+                {
+                    "mitypeNumber": "9135-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387836",
+                    "mitypeTitle": "Частотомеры электронно-счетные вычислительные",
+                    "number": "9111119"
+                },
+                {
+                    "mitypeNumber": "7657-80",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385811",
+                    "mitypeTitle": "Микровольтметры",
+                    "number": "0145"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "1377"
+                },
+                {
+                    "mitypeNumber": "41559-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389477",
+                    "mitypeTitle": "Вольтметры селективные",
+                    "number": "1861"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "132305224": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "43670-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389394",
+                "mitypeType": "Г3-135",
+                "mitypeTitle": "Генераторы сигналов низкочастотные",
+                "manufactureNum": "482",
+                "manufactureYear": 2010,
+                "modification": "Г3-135"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПРИМОРСКОМ КРАЕ\"(ФБУ \"ПРИМОРСКИЙ ЦСМ\")",
+            "signCipher": "АЭ",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Приморском крае\"",
+            "vrfDate": "11.02.2022",
+            "validDate": "10.02.2024",
+            "vriType": "2",
+            "docTitle": "ПШФИ.411652.001 РЭ раздел 8",
+            "applicable": {
+                "certNum": "С-АЭ\/11-02-2022\/132305224",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "9081.83.2Р.79663",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/79663",
+                    "mitypeNumber": "9081-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387751",
+                    "mitypeTitle": "Измерители нелинейных искажений автоматические",
+                    "notation": "С6-11",
+                    "modification": "С6-11",
+                    "manufactureNum": "8810245",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.762-2011 \"ГПС для СИ коэффициента гармоник\". Приказ № 1093 от 13.12.20011 г."
+                },
+                {
+                    "regNumber": "60893.15.2Р.00142435",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/142435",
+                    "mitypeNumber": "60893-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/374220",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "notation": "HDO, WaveJet, WaveSurfer",
+                    "modification": "WaveJet Touch 354R",
+                    "manufactureNum": "LCRY0122J50236",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.761-2011 \"ГПС для СИ импульсного электрического напряжения\"."
+                },
+                {
+                    "regNumber": "9135.83.4Р.00142461",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/142461",
+                    "mitypeNumber": "9135-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387836",
+                    "mitypeTitle": "Частотомеры электронно-счетные вычислительные",
+                    "notation": "Ч3-64",
+                    "modification": "Ч3-64",
+                    "manufactureNum": "8902074",
+                    "manufactureYear": 1989,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "\"ГПС для СИ времени и частоты\". Приказ № 1621 от 31.07.2018 г."
+                },
+                {
+                    "regNumber": "26425.04.3Р.00539793",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/539793",
+                    "mitypeNumber": "26425-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332581",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-72",
+                    "modification": "В7-72",
+                    "manufactureNum": "129",
+                    "manufactureYear": 2007,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "№1942 от 03.09.2021"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334071",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "5115"
+                },
+                {
+                    "mitypeNumber": "27022-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333470",
+                    "mitypeTitle": "Осциллографы промышленные портативные",
+                    "number": "DM9500590"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "128932512": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "43670-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389394",
+                "mitypeType": "Г3-135",
+                "mitypeTitle": "Генераторы сигналов низкочастотные",
+                "manufactureNum": "135355",
+                "manufactureYear": 2021,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ЗАКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО  \"СУПЕРТЕХПРИБОР\"(ЗАО \"СУПЕРТЕХПРИБОР\")",
+            "signCipher": "БСЕ",
+            "miOwner": "АО «ПРИСТ»",
+            "vrfDate": "04.02.2022",
+            "validDate": "03.02.2024",
+            "vriType": "1",
+            "docTitle": "раздел 8 часть 1 Руководства по эксплуатации ПШФИ.411652.001РЭ",
+            "applicable": {
+                "certNum": "С-БСЕ\/04-02-2022\/128932512",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "41370.09.2Р.00249059",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/249059",
+                    "mitypeNumber": "41370-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351665",
+                    "mitypeTitle": "Калибраторы-измерители нелинейных искажений",
+                    "notation": "СК6-20",
+                    "modification": "нет модификации",
+                    "manufactureNum": "078",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений коэффициента гармоник в диапазоне от 10 до 200000 Гц"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "75673-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/717890",
+                    "mitypeTitle": "Генераторы сигналов высокочастотные",
+                    "number": "NSG3XGCX4R0017"
+                },
+                {
+                    "mitypeNumber": "69417-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383562",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "number": "SDS1EDEC5R3809"
+                },
+                {
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "TW00016730"
+                },
+                {
+                    "mitypeNumber": "15500-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313585",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "34333"
+                },
+                {
+                    "mitypeNumber": "9135-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387836",
+                    "mitypeTitle": "Частотомеры электронно-счетные вычислительные",
+                    "number": "9111119"
+                },
+                {
+                    "mitypeNumber": "7657-80",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385811",
+                    "mitypeTitle": "Микровольтметры",
+                    "number": "0145"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "1377"
+                },
+                {
+                    "mitypeNumber": "41559-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1389477",
+                    "mitypeTitle": "Вольтметры селективные",
+                    "number": "1861"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

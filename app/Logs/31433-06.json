@@ -1,0 +1,78 @@
+{
+    "217151439": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "31433-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1396805",
+                "mitypeType": "Е8267D опция 520",
+                "mitypeTitle": "Генераторы сигналов векторные",
+                "manufactureNum": "MY57280131",
+                "manufactureYear": 2019,
+                "modification": "E8267D"
+            }
+        },
+        "vriInfo": {
+            "organization": "Акционерное общество «Информационные спутниковые системы»\nимени академика М.Ф. Решетнёва(АО «ИСС»)",
+            "signCipher": "БГГ",
+            "miOwner": "АО \"ИСС\"",
+            "vrfDate": "20.01.2023",
+            "validDate": "19.01.2024",
+            "vriType": "2",
+            "docTitle": "МП \"Воентест\"",
+            "applicable": {
+                "certNum": "С-БГГ\/20-01-2023\/217151439",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "7055.79.3Р.00518569",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/518569",
+                    "mitypeNumber": "7055-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384789",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности",
+                    "notation": "М3-51",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "30368",
+                    "manufactureYear": 1988,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ ФАТРИМ №3461 от 30.12.2019 г."
+                },
+                {
+                    "regNumber": "54025.13.РЭ.00633520",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/633520",
+                    "mitypeNumber": "54025-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366431",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "notation": "N9342C, N9343C, N9344C",
+                    "modification": "N9344",
+                    "manufactureNum": "CN0604A428",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 31.07.2018 г. № 1621"
+                },
+                {
+                    "regNumber": "9273.85.4Р.00642493",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/642493",
+                    "mitypeNumber": "9273-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388035",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-66",
+                    "modification": "Ч3-66",
+                    "manufactureNum": "9104178",
+                    "manufactureYear": 1991,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ Росстондарта от 31.07.2018"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

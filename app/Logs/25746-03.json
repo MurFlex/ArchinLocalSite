@@ -1,0 +1,80 @@
+{
+    "151678989": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25746-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331526",
+                "mitypeType": "enpac - 1200A",
+                "mitypeTitle": "Приборы для измерения и анализа вибрации",
+                "manufactureNum": "040813",
+                "modification": "enpac - 1200A"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТЮМЕНСКОЙ И КУРГАНСКОЙ ОБЛАСТЯХ, ХАНТЫ-МАНСИЙСКОМ АВТОНОМНОМ ОКРУГЕ-ЮГРЕ, ЯМАЛО-НЕНЕЦКОМ АВТОНОМНОМ ОКРУГЕ\"(ФБУ \"ТЮМЕНСКИЙ ЦСМ\")",
+            "signCipher": "ВЯ",
+            "miOwner": "ООО \"Газпром добыча Ямбург\"",
+            "vrfDate": "25.04.2022",
+            "validDate": "24.04.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88 «ГСИ. Виброметры с пьезоэлектрическими и индукционными преобразователями. Методика поверки»",
+            "applicable": {
+                "certNum": "С-ВЯ\/25-04-2022\/151678989",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZВЯ.2047.2021",
+                    "title": "Рабочий эталон единиц виброперемещения 2 разряда в диапазоне значений 2•10[^-4]…14 мм, виброскорости 2 разряда в диапазоне значений 0,1…1000 мм\/с, виброускорения 2 разряда в диапазоне значений 0,1…500 м\/с[^2]",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1391678"
+                }
+            ]
+        },
+        "info": {
+            "structure": "вибропреобразователя 9000A-LBV №Р5739",
+            "briefIndicator": false
+        }
+    },
+    "162443141": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25746-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331526",
+                "mitypeType": "enpac - 1200A",
+                "mitypeTitle": "Приборы для измерения и анализа вибрации",
+                "manufactureNum": "030566",
+                "modification": "enpac - 1200A"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "ООО \"ДИАТЭК\"",
+            "vrfDate": "11.04.2022",
+            "validDate": "10.04.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-ДИЭ\/11-04-2022\/162443141",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "68155-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382179",
+                    "mitypeTitle": "Виброустановки электродинамические",
+                    "number": "55597"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "212977917": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "25094-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/330562",
+                "mitypeType": "1414",
+                "mitypeTitle": "Радиометры альфа-, бета-излучения спектрометрические",
+                "manufactureNum": "4140246",
+                "manufactureYear": 2004,
+                "modification": "1414-03"
+            }
+        },
+        "vriInfo": {
+            "organization": "Филиал АО «Концерн Росэнергоатом» - Белоярская атомная станция (Филиал АО «Концерн Росэнергоатом» - Белоярская атомная станция )",
+            "signCipher": "АДЧ",
+            "miOwner": "Филиал АО «Концерн Росэнергоатом» «Белоярская АЭС»",
+            "vrfDate": "14.12.2022",
+            "validDate": "13.12.2024",
+            "vriType": "2",
+            "docTitle": "\"Радиометры альф-бета-излучения спектрометрические модели 1414. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-АДЧ\/14-12-2022\/212977917",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "19793-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321727",
+                    "mitypeTitle": "Дозиметры рентгеновского и гамма-излучения",
+                    "number": "44431"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39512990\/704"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

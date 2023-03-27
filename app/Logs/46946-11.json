@@ -1,0 +1,552 @@
+{
+    "191488155": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "46946-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358106",
+                "mitypeType": "ИППЛ",
+                "mitypeTitle": "Преобразователи напряженности импульсного электрического поля измерительные",
+                "manufactureNum": "71",
+                "modification": "ИППЛ-Л"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "7702038456 ВНИИОФИ ФГУП",
+            "vrfDate": "07.10.2022",
+            "validDate": "06.10.2023",
+            "vriType": "2",
+            "docTitle": "Методика поверки МП 46946-11",
+            "applicable": {
+                "certNum": "С-А\/07-10-2022\/191488155",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт148-2021",
+                    "title": "ГПСЭ единиц напряженностей импульсных электрического и магнитного полей и высокого импульсного электрического напряжения с длительностью фронта импульсов в диапазоне от 0,1 до 10,0 нс",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1387039"
+                },
+                {
+                    "number": "гэт178-2016",
+                    "title": "ГПСЭ единиц напряженностей импульсных электрического и магнитного полей с длительностью фронта импульсов в диапазоне от 10 до 100 пс",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397862"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "40566.09.2Р.00336055",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/336055",
+                    "mitypeNumber": "40566-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350740",
+                    "mitypeTitle": "Осциллограф цифровой стробоскопический широкополосный",
+                    "notation": "Tektronix CSA8000В",
+                    "modification": "С модулями 80E01, 80E03",
+                    "manufactureNum": "B010120",
+                    "manufactureYear": 2001,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Для средств измерений импульсного электрического напряжения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32014-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340204",
+                    "mitypeTitle": "Измерители параметров микроклимата",
+                    "number": "75710"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "154697322": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "46946-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358106",
+                "mitypeType": "ИППЛ",
+                "mitypeTitle": "Преобразователи напряженности импульсного электрического поля измерительные",
+                "manufactureNum": "86",
+                "modification": "ИППЛ-М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "12.05.2022",
+            "validDate": "11.05.2023",
+            "vriType": "1",
+            "docTitle": "Методика поверки МП 46946-11",
+            "applicable": {
+                "certNum": "С-А\/12-05-2022\/154697322",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт178-2016",
+                    "title": "ГПСЭ единиц напряженностей импульсных электрического и магнитного полей с длительностью фронта импульсов в диапазоне от 10 до 100 пс",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397862"
+                },
+                {
+                    "number": "гэт148-2021",
+                    "title": "ГПСЭ единиц напряженностей импульсных электрического и магнитного полей и высокого импульсного электрического напряжения с длительностью фронта импульсов в диапазоне от 0,1 до 10,0 нс",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1387039"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "40566.09.2Р.00336055",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/336055",
+                    "mitypeNumber": "40566-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350740",
+                    "mitypeTitle": "Осциллограф цифровой стробоскопический широкополосный",
+                    "notation": "Tektronix CSA8000В",
+                    "modification": "С модулями 80E01, 80E03",
+                    "manufactureNum": "B010120",
+                    "manufactureYear": 2001,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Для средств измерений импульсного электрического напряжения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32014-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340204",
+                    "mitypeTitle": "Измерители параметров микроклимата",
+                    "number": "75710"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "143307196": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "46946.11.ВЭ.00581037",
+                "mitypeNumber": "46946-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358106",
+                "mitypeTitle": "Преобразователи напряженности импульсного электрического поля измерительные",
+                "mitypeType": "ИППЛ",
+                "modification": "ИППЛ-Л",
+                "manufactureNum": "67",
+                "manufactureYear": 2014,
+                "rankCode": "ВЭ",
+                "rankTitle": "Вторичный эталон",
+                "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 28.09.2018 №2087"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "7702038456 ВНИИОФИ ФГУП",
+            "vrfDate": "28.03.2022",
+            "validDate": "27.03.2023",
+            "vriType": "2",
+            "docTitle": "Методика поверки МП 46946-11",
+            "applicable": {
+                "certNum": "С-А\/28-03-2022\/143307196",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт178-2016",
+                    "title": "ГПСЭ единиц напряженностей импульсных электрического и магнитного полей с длительностью фронта импульсов в диапазоне от 10 до 100 пс",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397862"
+                },
+                {
+                    "number": "гэт148-2021",
+                    "title": "ГПСЭ единиц напряженностей импульсных электрического и магнитного полей и высокого импульсного электрического напряжения с длительностью фронта импульсов в диапазоне от 0,1 до 10,0 нс",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1387039"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "40566.09.2Р.00336055",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/336055",
+                    "mitypeNumber": "40566-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350740",
+                    "mitypeTitle": "Осциллограф цифровой стробоскопический широкополосный",
+                    "notation": "Tektronix CSA8000В",
+                    "modification": "С модулями 80E01, 80E03",
+                    "manufactureNum": "B010120",
+                    "manufactureYear": 2001,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Для средств измерений импульсного электрического напряжения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32014-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340204",
+                    "mitypeTitle": "Измерители параметров микроклимата",
+                    "number": "75710"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-143307196\/protocol"
+        }
+    },
+    "143307198": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "46946.11.ВЭ.00581039",
+                "mitypeNumber": "46946-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358106",
+                "mitypeTitle": "Преобразователи напряженности импульсного электрического поля измерительные",
+                "mitypeType": "ИППЛ",
+                "modification": "ИППЛ-Л",
+                "manufactureNum": "77",
+                "manufactureYear": 2015,
+                "rankCode": "ВЭ",
+                "rankTitle": "Вторичный эталон",
+                "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 28.09.2018 №2087"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "7702038456 ВНИИОФИ ФГУП",
+            "vrfDate": "28.03.2022",
+            "validDate": "27.03.2023",
+            "vriType": "2",
+            "docTitle": "Методика поверки МП 46946-11",
+            "applicable": {
+                "certNum": "С-А\/28-03-2022\/143307198",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт178-2016",
+                    "title": "ГПСЭ единиц напряженностей импульсных электрического и магнитного полей с длительностью фронта импульсов в диапазоне от 10 до 100 пс",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397862"
+                },
+                {
+                    "number": "гэт148-2021",
+                    "title": "ГПСЭ единиц напряженностей импульсных электрического и магнитного полей и высокого импульсного электрического напряжения с длительностью фронта импульсов в диапазоне от 0,1 до 10,0 нс",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1387039"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "40566.09.2Р.00336055",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/336055",
+                    "mitypeNumber": "40566-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350740",
+                    "mitypeTitle": "Осциллограф цифровой стробоскопический широкополосный",
+                    "notation": "Tektronix CSA8000В",
+                    "modification": "С модулями 80E01, 80E03",
+                    "manufactureNum": "B010120",
+                    "manufactureYear": 2001,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Для средств измерений импульсного электрического напряжения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32014-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340204",
+                    "mitypeTitle": "Измерители параметров микроклимата",
+                    "number": "75710"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-143307198\/protocol"
+        }
+    },
+    "143307199": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "46946.11.ВЭ.00581040",
+                "mitypeNumber": "46946-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358106",
+                "mitypeTitle": "Преобразователи напряженности импульсного электрического поля измерительные",
+                "mitypeType": "ИППЛ",
+                "modification": "ИППЛ-Л",
+                "manufactureNum": "77",
+                "manufactureYear": 2015,
+                "rankCode": "ВЭ",
+                "rankTitle": "Вторичный эталон",
+                "schemaTitle": "Приказ Росстандарта  от 29.12.2021 №3086"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "7702038456 ВНИИОФИ ФГУП",
+            "vrfDate": "28.03.2022",
+            "validDate": "27.03.2023",
+            "vriType": "2",
+            "docTitle": "Методика поверки МП 46946-11",
+            "applicable": {
+                "certNum": "С-А\/28-03-2022\/143307199",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт178-2016",
+                    "title": "ГПСЭ единиц напряженностей импульсных электрического и магнитного полей с длительностью фронта импульсов в диапазоне от 10 до 100 пс",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397862"
+                },
+                {
+                    "number": "гэт148-2021",
+                    "title": "ГПСЭ единиц напряженностей импульсных электрического и магнитного полей и высокого импульсного электрического напряжения с длительностью фронта импульсов в диапазоне от 0,1 до 10,0 нс",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1387039"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "40566.09.2Р.00336055",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/336055",
+                    "mitypeNumber": "40566-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350740",
+                    "mitypeTitle": "Осциллограф цифровой стробоскопический широкополосный",
+                    "notation": "Tektronix CSA8000В",
+                    "modification": "С модулями 80E01, 80E03",
+                    "manufactureNum": "B010120",
+                    "manufactureYear": 2001,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Для средств измерений импульсного электрического напряжения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32014-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340204",
+                    "mitypeTitle": "Измерители параметров микроклимата",
+                    "number": "75710"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-143307199\/protocol"
+        }
+    },
+    "143307197": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "46946.11.ВЭ.00581038",
+                "mitypeNumber": "46946-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358106",
+                "mitypeTitle": "Преобразователи напряженности импульсного электрического поля измерительные",
+                "mitypeType": "ИППЛ",
+                "modification": "ИППЛ-Л",
+                "manufactureNum": "67",
+                "manufactureYear": 2014,
+                "rankCode": "ВЭ",
+                "rankTitle": "Вторичный эталон",
+                "schemaTitle": "Приказ Росстандарта  от 29.12.2021 №3086"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "7702038456 ВНИИОФИ ФГУП",
+            "vrfDate": "28.03.2022",
+            "validDate": "27.03.2023",
+            "vriType": "2",
+            "docTitle": "Методика поверки МП 46946-11",
+            "applicable": {
+                "certNum": "С-А\/28-03-2022\/143307197",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт178-2016",
+                    "title": "ГПСЭ единиц напряженностей импульсных электрического и магнитного полей с длительностью фронта импульсов в диапазоне от 10 до 100 пс",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397862"
+                },
+                {
+                    "number": "гэт148-2021",
+                    "title": "ГПСЭ единиц напряженностей импульсных электрического и магнитного полей и высокого импульсного электрического напряжения с длительностью фронта импульсов в диапазоне от 0,1 до 10,0 нс",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1387039"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "40566.09.2Р.00336055",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/336055",
+                    "mitypeNumber": "40566-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350740",
+                    "mitypeTitle": "Осциллограф цифровой стробоскопический широкополосный",
+                    "notation": "Tektronix CSA8000В",
+                    "modification": "С модулями 80E01, 80E03",
+                    "manufactureNum": "B010120",
+                    "manufactureYear": 2001,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Для средств измерений импульсного электрического напряжения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32014-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340204",
+                    "mitypeTitle": "Измерители параметров микроклимата",
+                    "number": "75710"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-143307197\/protocol"
+        }
+    },
+    "123311465": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "46946-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358106",
+                "mitypeType": "ИППЛ",
+                "mitypeTitle": "Преобразователи напряженности импульсного электрического поля измерительные",
+                "manufactureNum": "94",
+                "modification": "ИППЛ-Д"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "5254001230 РФЯЦ - ВНИИЭФ ФГУП",
+            "vrfDate": "13.01.2022",
+            "validDate": "12.01.2023",
+            "vriType": "2",
+            "docTitle": "Методика поверки МП 46946-11",
+            "applicable": {
+                "certNum": "С-А\/13-01-2022\/123311465",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт148-2021",
+                    "title": "ГПСЭ единиц напряженностей импульсных электрического и магнитного полей и высокого импульсного электрического напряжения с длительностью фронта импульсов в диапазоне от 0,1 до 10,0 нс",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1387039"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "40566.09.2Р.00336055",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/336055",
+                    "mitypeNumber": "40566-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350740",
+                    "mitypeTitle": "Осциллограф цифровой стробоскопический широкополосный",
+                    "notation": "Tektronix CSA8000В",
+                    "modification": "С модулями 80E01, 80E03",
+                    "manufactureNum": "B010120",
+                    "manufactureYear": 2001,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Для средств измерений импульсного электрического напряжения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32014-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340204",
+                    "mitypeTitle": "Измерители параметров микроклимата",
+                    "number": "75710"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "123311464": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "46946-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358106",
+                "mitypeType": "ИППЛ",
+                "mitypeTitle": "Преобразователи напряженности импульсного электрического поля измерительные",
+                "manufactureNum": "93",
+                "modification": "ИППЛ-Д"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "5254001230 РФЯЦ - ВНИИЭФ ФГУП",
+            "vrfDate": "12.01.2022",
+            "validDate": "11.01.2023",
+            "vriType": "2",
+            "docTitle": "Методика поверки МП 46946-11",
+            "applicable": {
+                "certNum": "С-А\/12-01-2022\/123311464",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт148-2021",
+                    "title": "ГПСЭ единиц напряженностей импульсных электрического и магнитного полей и высокого импульсного электрического напряжения с длительностью фронта импульсов в диапазоне от 0,1 до 10,0 нс",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1387039"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "40566.09.2Р.00336055",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/336055",
+                    "mitypeNumber": "40566-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350740",
+                    "mitypeTitle": "Осциллограф цифровой стробоскопический широкополосный",
+                    "notation": "Tektronix CSA8000В",
+                    "modification": "С модулями 80E01, 80E03",
+                    "manufactureNum": "B010120",
+                    "manufactureYear": 2001,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Для средств измерений импульсного электрического напряжения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "32014-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340204",
+                    "mitypeTitle": "Измерители параметров микроклимата",
+                    "number": "75710"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

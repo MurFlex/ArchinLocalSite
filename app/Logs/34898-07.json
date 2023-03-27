@@ -1,0 +1,83 @@
+{
+    "134714431": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "34898.07.3Р.00201414",
+                "mitypeNumber": "34898-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343880",
+                "mitypeTitle": "Ваттметр с блоком измерительным и преобразователями измерительными",
+                "mitypeType": "E4418В (блок) и Е4412А, Е4413А (преобразователи)",
+                "modification": "Нет модификации",
+                "manufactureNum": "MY45103848\/MY41500763\/MY41497551",
+                "manufactureYear": 2006,
+                "rankCode": "3Р",
+                "rankTitle": "Эталон 3-го разряда",
+                "schemaTitle": "ГПС для СИ мощности электромагнитных колебаний в диапазоне частот от 9 кГц до 37,5 ГГц. Приказ ФАТРИМ №3461 от 30.12.2019 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "24.02.2022",
+            "validDate": "23.02.2023",
+            "vriType": "2",
+            "docTitle": "Инструкция «Ваттметр с блоком измерительным E4418B и преобразователями измерительными E4412A, E4413A фирмы «Agilent Technologies",
+            "applicable": {
+                "certNum": "С-Т\/24-02-2022\/134714431",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZT.0210.2015",
+                    "title": "Государственный вторичный эталон единиц комплексных коэффициентов передачи в диапазоне от 0 до минус 60 дБ и комплексных коэффициентов отражений в диапазоне от 0,002 до 1 в диапазоне частот от 0,05 до 65·ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/495309"
+                },
+                {
+                    "number": "3.1.ZZТ.0237.2016",
+                    "title": "Государственный рабочий эталон единицы мощности электромагнитных колебаний 1 разряда в диапазоне значений от 0,1 до 10 мВт в диапазоне частот от 0,03 до 37,5 ГГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/401701"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "60237.15.2Р.00427373",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/427373",
+                    "mitypeNumber": "60237-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373486",
+                    "mitypeTitle": "Аттенюаторы ступенчатые ручные",
+                    "notation": "8494A, 8495A, 8496A, 8494B, 8495B, 8496B, 8495D",
+                    "modification": "8496B",
+                    "manufactureNum": "MY42145164",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.851-2013"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "74333-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/548056",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "MY58040315"
+                },
+                {
+                    "mitypeNumber": "66718-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380601",
+                    "mitypeTitle": "Комплекты для измерений соединителей коаксиальных",
+                    "number": "012"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-134714431\/protocol",
+            "additional_info": "#mid0e15852b-b73c-4c7a-a8e5-c04fb890e82b"
+        }
+    }
+}

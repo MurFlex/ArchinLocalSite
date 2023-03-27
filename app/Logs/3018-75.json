@@ -1,0 +1,77 @@
+{
+    "198061410": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "3018-75",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/337765",
+                "mitypeType": "УПО-6М2",
+                "mitypeTitle": "Установки для поверки оптических пирометров",
+                "manufactureNum": "403",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ «ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КЕМЕРОВСКОЙ ОБЛАСТИ - КУЗБАССЕ»(ФБУ «КУЗБАССКИЙ ЦСМ»)",
+            "signCipher": "БЧ",
+            "miOwner": "юридическое лицо",
+            "vrfDate": "28.10.2022",
+            "validDate": "27.10.2023",
+            "vriType": "2",
+            "docTitle": "Раздел 5 \"Методы и средства поверки\" в РЭ. ТУ 50-56-81. Установка для поверки оптических пирометров УПО-6М2.",
+            "applicable": {
+                "certNum": "С-БЧ\/28-10-2022\/198061410",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "1162.58.3Р.02848",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/2848",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "196273",
+                    "manufactureYear": 1971,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "1162.58.2Р.34469",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/34469",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "130237",
+                    "manufactureYear": 1978,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ № 3456"
+                },
+                {
+                    "regNumber": "56318.14.3Р.00299113",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/299113",
+                    "mitypeNumber": "56318-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368996",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов прецизионные",
+                    "notation": "ЭЛЕМЕР-ИКСУ-2012",
+                    "modification": "ИКСУ-2012",
+                    "manufactureNum": "234-0672",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ  Росстандарта № 3457 от 30.12.2019 г."
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

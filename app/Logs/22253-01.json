@@ -1,0 +1,83 @@
+{
+    "208579754": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "22253-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1396678",
+                "mitypeType": "ВЭПЭ",
+                "mitypeTitle": "Военный эталон-переносчик единицы энергии импульсного лазерного излучения",
+                "manufactureNum": "01",
+                "modification": "ВЭПЭ"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЛАВНЫЙ НАУЧНЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ(ФГБУ \"ГНМЦ\" МИНОБОРОНЫ РОССИИ)",
+            "signCipher": "ВХН",
+            "miOwner": "ФГБУ \"ГНМЦ\" Минобороны России",
+            "vrfDate": "15.12.2022",
+            "validDate": "14.12.2023",
+            "vriType": "2",
+            "docTitle": "КЭ110.00.000Д1",
+            "applicable": {
+                "certNum": "С-ВХН\/15-12-2022\/208579754",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ВХН.0028.2020",
+                    "title": "Вторичный эталон единиц средней мощности и энергии лазерного излучения ВЭ-36-06",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1384696"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "214041860": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "22253.01.1Р.00758842",
+                "mitypeNumber": "22253-01",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1396678",
+                "mitypeTitle": "Военный эталон-переносчик единицы энергии импульсного лазерного излучения",
+                "mitypeType": "ВЭПЭ",
+                "modification": "ВЭПЭ",
+                "manufactureNum": "01",
+                "manufactureYear": 2001,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для средств измерений средней мощности и энергии импульсного лазерного излучения в диапазоне длин волн от 0,3 до 12,0 мкм"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЛАВНЫЙ НАУЧНЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ(ФГБУ \"ГНМЦ\" МИНОБОРОНЫ РОССИИ)",
+            "signCipher": "ВХН",
+            "miOwner": "ФГБУ \"ГНМЦ\" МИНОБОРОНЫ РОССИИ",
+            "vrfDate": "15.12.2022",
+            "validDate": "14.12.2023",
+            "vriType": "2",
+            "docTitle": "КЭ110.00.000Д1",
+            "applicable": {
+                "certNum": "С-ВХН\/15-12-2022\/214041860",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ВХН.0028.2020",
+                    "title": "Вторичный эталон единиц средней мощности и энергии лазерного излучения ВЭ-36-06",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1384696"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

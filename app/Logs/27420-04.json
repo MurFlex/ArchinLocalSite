@@ -1,0 +1,64 @@
+{
+    "206826469": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "27420-04",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334005",
+                "mitypeType": "МИР УСПД-01",
+                "mitypeTitle": "Устройства сбора и передачи данных",
+                "manufactureNum": "04038",
+                "manufactureYear": 2006,
+                "modification": "УСПД-01.00"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"МИР\"(ООО \"НПО \"МИР\")",
+            "signCipher": "ВЛГ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "09.12.2022",
+            "validDate": "08.12.2028",
+            "vriType": "2",
+            "docTitle": "раздел 10 \"Устройство сбора и передачи данных МИР УСПД-01. Руководство по эксплуатации\" М02.109.00.000 РЭ",
+            "applicable": {
+                "certNum": "С-ВЛГ\/09-12-2022\/206826469",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56478.14.4Р.00241626",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/241626",
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85\/4, Ч3-85\/5, Ч3-85\/6",
+                    "modification": "Ч3-85\/4",
+                    "manufactureNum": "68C09007",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "22623.02.4Р.00323899",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/323899",
+                    "mitypeNumber": "22623-02",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326606",
+                    "mitypeTitle": "Частотомеры универсальные",
+                    "notation": "CNT-66, CNT-69",
+                    "modification": "CNT-66",
+                    "manufactureNum": "SM867862",
+                    "manufactureYear": 2005,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений времени и частоты"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

@@ -1,0 +1,962 @@
+{
+    "216856204": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "615",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГЛАВНЫЙ НАУЧНЫЙ МЕТРОЛОГИЧЕСКИЙ ЦЕНТР\" МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ(ФГБУ \"ГНМЦ\" МИНОБОРОНЫ РОССИИ)",
+            "signCipher": "ВХН",
+            "miOwner": "Юр.лицо",
+            "vrfDate": "17.01.2023",
+            "validDate": "16.01.2025",
+            "vriType": "2",
+            "docTitle": "УШЯИ.464653.003-01 МП",
+            "applicable": {
+                "certNum": "С-ВХН\/17-01-2023\/216856204",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "55403-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/491321",
+                    "mitypeTitle": "Комплекты антенные измерительные",
+                    "number": "041018101"
+                },
+                {
+                    "mitypeNumber": "53568-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365917",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "MY51441364"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "210269031": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "243",
+                "manufactureYear": 2006,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ООО \"ЦБИ\"",
+            "vrfDate": "21.12.2022",
+            "validDate": "20.12.2024",
+            "vriType": "2",
+            "docTitle": "Антенна измерительная П6-23М Методика поверки УШЯИ.464653.003МП",
+            "applicable": {
+                "certNum": "С-Т\/21-12-2022\/210269031",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZТ.0088.2013",
+                    "title": "ГРЭ единицы коэффициента усиления измерительных антенн РЭИА-2",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/423622"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid4712f2a0-e58b-42bc-85b8-f148ea5c69e6"
+        }
+    },
+    "204970326": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "10206",
+                "modification": "П6-23М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"Корпорация \"Тактическое ракетное вооружение\"",
+            "vrfDate": "01.12.2022",
+            "validDate": "30.11.2024",
+            "vriType": "2",
+            "docTitle": "УШЯИ.464653.003 МП",
+            "applicable": {
+                "certNum": "С-МА\/01-12-2022\/204970326",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "85313.22.РЭ.00610342",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/610342",
+                    "mitypeNumber": "85313-22",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1399023",
+                    "mitypeTitle": "Установка для поверки измерительных антенн",
+                    "notation": "П1-31",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "01",
+                    "manufactureYear": 2021,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ плотности потока энергии электромагнитного поля в диапазоне частот от 0,3 до 178,4ГГц"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "8ee9b0a2-466d-43d9-b5e3-0962312617f6"
+        }
+    },
+    "201927101": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "230",
+                "modification": "П6-23М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФБУ \"Ростест-Москва\"",
+            "vrfDate": "16.11.2022",
+            "validDate": "15.11.2024",
+            "vriType": "2",
+            "docTitle": "УШЯИ.464653.003 МП",
+            "applicable": {
+                "certNum": "С-МА\/16-11-2022\/201927101",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "85313.22.РЭ.00610342",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/610342",
+                    "mitypeNumber": "85313-22",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1399023",
+                    "mitypeTitle": "Установка для поверки измерительных антенн",
+                    "notation": "П1-31",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "01",
+                    "manufactureYear": 2021,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ плотности потока энергии электромагнитного поля в диапазоне частот от 0,3 до 178,4ГГц"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "8f6c3228-93f0-4c9f-bf7a-4976eea080a3"
+        }
+    },
+    "192136583": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "345",
+                "modification": "П6-23М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Филиал ФГУП \"ГРЧЦ\" в Центральном федеральном округе (71786+71168)",
+            "vrfDate": "11.10.2022",
+            "validDate": "10.10.2024",
+            "vriType": "2",
+            "docTitle": "УШЯИ.464653.003 МП",
+            "applicable": {
+                "certNum": "С-МА\/11-10-2022\/192136583",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.1Р.17683",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17683",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z270",
+                    "manufactureNum": "101369",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "85313.22.РЭ.00610342",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/610342",
+                    "mitypeNumber": "85313-22",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1399023",
+                    "mitypeTitle": "Установка для поверки измерительных антенн",
+                    "notation": "П1-31",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "01",
+                    "manufactureYear": 2021,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для СИ плотности потока энергии электромагнитного поля в диапазоне частот от 0,3 до 178,4ГГц"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "3e3dd9ae-10b4-424a-8392-0f52e486a5c7"
+        }
+    },
+    "178609906": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "306.11",
+                "manufactureYear": 2006,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "АО \"КНИРТИ\"",
+            "vrfDate": "15.08.2022",
+            "validDate": "14.08.2024",
+            "vriType": "2",
+            "docTitle": "Антенна измерительная П6-23М Методика поверки УШЯИ.464653.003МП",
+            "applicable": {
+                "certNum": "С-Т\/15-08-2022\/178609906",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZТ.0088.2013",
+                    "title": "ГРЭ единицы коэффициента усиления измерительных антенн РЭИА-2",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/423622"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid3b5c6d70-f891-43c5-b3df-5d8949812e35"
+        }
+    },
+    "176030354": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "192",
+                "modification": "Без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "04.08.2022",
+            "validDate": "03.08.2024",
+            "vriType": "2",
+            "docTitle": "УШЯИ.464653.003-01 МП \"Антенна измерительная П6-23М. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-БН\/04-08-2022\/176030354",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "11474.88.РЭ.27335",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/27335",
+                    "mitypeNumber": "11474-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306120",
+                    "mitypeTitle": "Установки для поверки измерителей плотности потока",
+                    "notation": "П1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "004",
+                    "manufactureYear": 1988,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для средств измерений плотности потока энергии электромагнитного поля в диапазоне частот от 0,3 до 178,4 ГГц, ГОСТ Р8.574-20"
+                },
+                {
+                    "regNumber": "7055.79.3Р.00499399",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/499399",
+                    "mitypeNumber": "7055-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384789",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности",
+                    "notation": "М3-51",
+                    "modification": "Без модификации",
+                    "manufactureNum": "03698\/30738",
+                    "manufactureYear": 1989,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ Росстандарта № 3461 от 30 декабря 2019 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "58581-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371632",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "177017"
+                },
+                {
+                    "mitypeNumber": "53450-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395694",
+                    "mitypeTitle": "Анализаторы цепей скалярные",
+                    "number": "08006008"
+                },
+                {
+                    "mitypeNumber": "41142-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351409",
+                    "mitypeTitle": "Дальномеры лазерные",
+                    "number": "501620177"
+                },
+                {
+                    "mitypeNumber": "7055-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384789",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности",
+                    "number": "26202\/21964"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "176030353": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "191",
+                "modification": "Без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "04.08.2022",
+            "validDate": "03.08.2024",
+            "vriType": "2",
+            "docTitle": "УШЯИ.464653.003-01 МП \"Антенна измерительная П6-23М. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-БН\/04-08-2022\/176030353",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "11474.88.РЭ.27335",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/27335",
+                    "mitypeNumber": "11474-88",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306120",
+                    "mitypeTitle": "Установки для поверки измерителей плотности потока",
+                    "notation": "П1-9",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "004",
+                    "manufactureYear": 1988,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "ГПС для средств измерений плотности потока энергии электромагнитного поля в диапазоне частот от 0,3 до 178,4 ГГц, ГОСТ Р8.574-20"
+                },
+                {
+                    "regNumber": "7055.79.3Р.00499399",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/499399",
+                    "mitypeNumber": "7055-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384789",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности",
+                    "notation": "М3-51",
+                    "modification": "Без модификации",
+                    "manufactureNum": "03698\/30738",
+                    "manufactureYear": 1989,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ Росстандарта № 3461 от 30 декабря 2019 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "58581-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/371632",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "177017"
+                },
+                {
+                    "mitypeNumber": "53450-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/395694",
+                    "mitypeTitle": "Анализаторы цепей скалярные",
+                    "number": "08006008"
+                },
+                {
+                    "mitypeNumber": "41142-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351409",
+                    "mitypeTitle": "Дальномеры лазерные",
+                    "number": "501620177"
+                },
+                {
+                    "mitypeNumber": "7055-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384789",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности",
+                    "number": "26202\/21964"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "166474848": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "313",
+                "manufactureYear": 2006,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "ФБУ \"КАЛУЖСКИЙ ЦСМ\"",
+            "vrfDate": "27.06.2022",
+            "vriType": "2",
+            "docTitle": "Антенна измерительная П6-23М Методика поверки УШЯИ.464653.003МП",
+            "inapplicable": {
+                "noticeNum": "И-Т\/27-06-2022\/166474848"
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZТ.0088.2013",
+                    "title": "ГРЭ единицы коэффициента усиления измерительных антенн РЭИА-2",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/423622"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#midba191d77-e81e-4354-88e0-534efa296f9f"
+        }
+    },
+    "163812987": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "305",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОЯРСКОМ КРАЕ, РЕСПУБЛИКЕ ХАКАСИЯ И РЕСПУБЛИКЕ ТЫВА\"(ФБУ \"КРАСНОЯРСКИЙ ЦСМ\")",
+            "signCipher": "АШ",
+            "miOwner": "ЮЛ",
+            "vrfDate": "14.06.2022",
+            "validDate": "13.06.2024",
+            "vriType": "2",
+            "docTitle": "УШЯИ.464653.003-01 МП",
+            "applicable": {
+                "certNum": "С-АШ\/14-06-2022\/163812987",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "53568-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365918",
+                    "mitypeTitle": "Анализаторы цепей векторные",
+                    "number": "MY52241198"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "СИ, применяемые при поверке: Антенна измерительная рупорная П6-127, зав. №150715407; Антенна измерительная рупорная П6-127, зав. №150715408; Антенна измерительная П6-123, зав. №150715389; Антенна измерительная П6-123, зав. №150715390"
+        }
+    },
+    "158904151": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "212",
+                "modification": "П6-23М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "26.05.2022",
+            "validDate": "25.05.2024",
+            "vriType": "2",
+            "docTitle": "УШЯИ.464653.003 МП",
+            "applicable": {
+                "certNum": "С-МА\/26-05-2022\/158904151",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.1Р.17679",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17679",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z235",
+                    "manufactureNum": "101097",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "4b52f2a9-ecb9-4ad2-aad7-110774c1449b"
+        }
+    },
+    "154126260": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "231",
+                "modification": "П6-23М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "11.05.2022",
+            "validDate": "10.05.2024",
+            "vriType": "2",
+            "docTitle": "УШЯИ.464653.003 МП",
+            "applicable": {
+                "certNum": "С-МА\/11-05-2022\/154126260",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.1Р.17679",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17679",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z235",
+                    "manufactureNum": "101097",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "09f9a5bc-1784-490a-8136-db92dba101e2"
+        }
+    },
+    "154066292": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "83",
+                "modification": "П6-23М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФИЛИАЛ ФГУП \"ГРЧЦ\" В ДАЛЬНЕВОСТОЧНОМ ФЕДЕРАЛЬНОМ ОКРУГЕ(ФИЛИАЛ ФГУП \"ГРЧЦ\" В ДАЛЬНЕВОСТОЧНОМ ФЕДЕРАЛЬНОМ ОКРУГЕ)",
+            "signCipher": "ВИД",
+            "miOwner": "ФГУП \"ГРЧЦ\"",
+            "vrfDate": "11.05.2022",
+            "validDate": "10.05.2024",
+            "vriType": "2",
+            "docTitle": "УШЯИ.464653.003-01 МП",
+            "applicable": {
+                "certNum": "С-ВИД\/11-05-2022\/154066292",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "44303.10.РЭ.00279930",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279930",
+                    "mitypeNumber": "44303-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355147",
+                    "mitypeTitle": "Антенны измерительные рупорные",
+                    "notation": "П6-59М",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "380",
+                    "manufactureYear": 2010,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "\"ГСИ. Государственная поверочная схема для средств измерений плотности потока энергии электромагнитного поля в диапазоне частот"
+                },
+                {
+                    "regNumber": "44303.10.РЭ.00279931",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279931",
+                    "mitypeNumber": "44303-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355147",
+                    "mitypeTitle": "Антенны измерительные рупорные",
+                    "notation": "П6-59М",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "381",
+                    "manufactureYear": 2010,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "\"ГСИ. Государственная поверочная схема для средств измерений плотности потока энергии электромагнитного поля в диапазоне частот"
+                },
+                {
+                    "regNumber": "41262.09.4Р.00337593",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/337593",
+                    "mitypeNumber": "41262-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351542",
+                    "mitypeTitle": "Генераторы сигналов измерительные",
+                    "notation": "MG3691B, MG3692B, MG3693B, MG3694B",
+                    "modification": "MG3693B",
+                    "manufactureNum": "102411",
+                    "manufactureYear": 2010,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018 Государственная поверочная схема для средств измерений времени и частоты"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00377246",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/377246",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102246",
+                    "manufactureYear": 2010,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "151509298": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "185",
+                "modification": "П6-23М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "Владелец",
+            "vrfDate": "26.04.2022",
+            "validDate": "25.04.2024",
+            "vriType": "2",
+            "docTitle": "УШЯИ.464653.003 МП",
+            "applicable": {
+                "certNum": "С-МА\/26-04-2022\/151509298",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52112.12.1Р.17679",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/17679",
+                    "mitypeNumber": "52112-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364254",
+                    "mitypeTitle": "Наборы мер коэффициентов передачи и отражения",
+                    "notation": "ZV-Z270, ZV-Z235, ZV-Z224",
+                    "modification": "ZV-Z235",
+                    "manufactureNum": "101097",
+                    "manufactureYear": 2012,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.875-2014"
+                },
+                {
+                    "regNumber": "37008.08.3Р.00535171",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/535171",
+                    "mitypeNumber": "37008-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346459",
+                    "mitypeTitle": "Преобразователи измерительные",
+                    "notation": "NRP-Z11, NRP-Z21, NRP-Z22, NRP-Z23, NRP-Z24, NRP-Z51, NRP-Z55, NRP-Z91",
+                    "modification": "NRP-Z51",
+                    "manufactureNum": "102798",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "a0f4e3d7-4879-402e-b92b-81b9234ba4ac"
+        }
+    },
+    "141499866": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "467.14",
+                "manufactureYear": 2007,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "21.03.2022",
+            "validDate": "20.03.2024",
+            "vriType": "2",
+            "docTitle": "Антенна измерительная П6-23М Методика поверки УШЯИ.464653.003МП",
+            "applicable": {
+                "certNum": "С-Т\/21-03-2022\/141499866",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZТ.0088.2013",
+                    "title": "ГРЭ единицы коэффициента усиления измерительных антенн РЭИА-2",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/423622"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mide7ca7a00-5fd6-41e3-ac64-6dd7903e73b5"
+        }
+    },
+    "141499858": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "20287",
+                "manufactureYear": 2007,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "21.03.2022",
+            "validDate": "20.03.2024",
+            "vriType": "2",
+            "docTitle": "Антенна измерительная П6-23М Методика поверки УШЯИ.464653.003МП",
+            "applicable": {
+                "certNum": "С-Т\/21-03-2022\/141499858",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZТ.0088.2013",
+                    "title": "ГРЭ единицы коэффициента усиления измерительных антенн РЭИА-2",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/423622"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid220f6976-4533-47b4-9510-791eae94021b"
+        }
+    },
+    "135173127": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "24810-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1390289",
+                "mitypeType": "П6-23М",
+                "mitypeTitle": "Антенны измерительные",
+                "manufactureNum": "153",
+                "manufactureYear": 2007,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "АО \"ЗРТО\"",
+            "vrfDate": "28.02.2022",
+            "validDate": "27.02.2024",
+            "vriType": "2",
+            "docTitle": "Антенна измерительная П6-23М Методика поверки УШЯИ.464653.003МП",
+            "applicable": {
+                "certNum": "С-Т\/28-02-2022\/135173127",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZТ.0088.2013",
+                    "title": "ГРЭ единицы коэффициента усиления измерительных антенн РЭИА-2",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/423622"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid346bfb62-8d5c-4021-8192-e9a2462b52ee"
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "164179120": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "6665-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380528",
+                "mitypeType": "ИДЦ-1",
+                "mitypeTitle": "Измерители деформации цифровые",
+                "manufactureNum": "7227",
+                "manufactureYear": 1986,
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В УЛЬЯНОВСКОЙ ОБЛАСТИ\"(ФБУ \"УЛЬЯНОВСКИЙ ЦСМ\")",
+            "signCipher": "ВЬ",
+            "miOwner": "Общество с ограниченной ответственностью \"СКТБ \"ПЛАСТИК\"",
+            "vrfDate": "16.06.2022",
+            "validDate": "15.06.2023",
+            "vriType": "2",
+            "docTitle": "МУ4Т.2.737.007ТО",
+            "applicable": {
+                "certNum": "С-ВЬ\/16-06-2022\/164179120",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "8478-81",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386919",
+                    "mitypeTitle": "Меры электрического сопротивления",
+                    "number": "0242"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "125574938": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "6665-78",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/380528",
+                "mitypeType": "ИДЦ-1",
+                "mitypeTitle": "Измерители деформации цифровые",
+                "manufactureNum": "5311",
+                "manufactureYear": 1983,
+                "modification": "ИДЦ-1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПЕРМСКОМ КРАЕ\"(ФБУ \"ПЕРМСКИЙ ЦСМ\")",
+            "signCipher": "ВН",
+            "miOwner": "АО \"Протон-ПМ\"",
+            "vrfDate": "20.01.2022",
+            "vriType": "2",
+            "docTitle": "Измеритель деформации цифровой ИДЦ-1. Техническое описание и инструкция по эксплуатации 4Т2.737.007 ТО. Приложение 1 Методика по",
+            "inapplicable": {
+                "noticeNum": "И-ВН\/20-01-2022\/125574938"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "8478.04.3Р.00178264",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/178264",
+                    "mitypeNumber": "8478-81",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386919",
+                    "mitypeTitle": "Меры электрического сопротивления",
+                    "notation": "Р3026",
+                    "modification": "Р3026 мод. Р3026-1",
+                    "manufactureNum": "127",
+                    "manufactureYear": 1983,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "8478.91.2Р.00217421",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/217421",
+                    "mitypeNumber": "8478-91",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/386920",
+                    "mitypeTitle": "Меры электрического сопротивления постоянного тока многозначные",
+                    "notation": "Р3026",
+                    "modification": "Р3026-1",
+                    "manufactureNum": "0011",
+                    "manufactureYear": 1996,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

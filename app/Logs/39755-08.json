@@ -1,0 +1,54 @@
+{
+    "162525691": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "39755.08.РЭ.18792",
+                "mitypeNumber": "39755-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349771",
+                "mitypeTitle": "Диоптриметр эталонный автоматический",
+                "mitypeType": "SLM-4000-Э",
+                "modification": "SLM-4000-Э",
+                "manufactureNum": "Z42049A",
+                "manufactureYear": 2008,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "Приказ Росстандарта №2500"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "7727061249 РОСТЕСТ-МОСКВА ФБУ",
+            "vrfDate": "07.06.2022",
+            "validDate": "06.06.2023",
+            "vriType": "2",
+            "docTitle": "МП раздел 10 РЭ \"Диоптриметр эталонный автоматический SLM-4000-Э\"",
+            "applicable": {
+                "certNum": "С-А\/07-06-2022\/162525691",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт205-2013",
+                    "title": "ГПЭ единиц оптической силы очковой оптики",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397893"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "62981-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376549",
+                    "mitypeTitle": "Лупы измерительные",
+                    "number": "1401509"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-162525691\/protocol"
+        }
+    }
+}

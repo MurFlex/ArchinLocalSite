@@ -1,0 +1,47 @@
+{
+    "206504338": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "42437.09.РЭ.00735553",
+                "mitypeNumber": "42437-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/352940",
+                "mitypeTitle": "Комплект светофильтров нейтральных",
+                "mitypeType": "LTOF211",
+                "modification": "Нет модификации",
+                "manufactureNum": "D11101",
+                "manufactureYear": 2008,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 27.11.2018 №2516"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "05.12.2022",
+            "validDate": "04.12.2023",
+            "vriType": "2",
+            "docTitle": "Методика поверки (приложение к РЭ), утв. ГСИ СИ ВНИИОФИ",
+            "applicable": {
+                "certNum": "С-А\/05-12-2022\/206504338",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.1.ZZA.0014.2015",
+                    "title": "Государственный вторичный эталон единиц координат цвета в диапазонах от 2,5 до 109,0 для Х, от 1,4 до 98,0 для Y, от 1,7 до 107,0 для Z и координат цветности в диапазонах от 0,0039 до 0,7347 для x и от 0,0048 до 0,8338 для у",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/446969"
+                }
+            ]
+        },
+        "info": {
+            "structure": "светофильтры №№ LTF511; LTF611; LTF711",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-206504338\/protocol"
+        }
+    }
+}

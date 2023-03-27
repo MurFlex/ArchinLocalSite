@@ -1,0 +1,52 @@
+{
+    "184826547": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "34733-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343663",
+                "mitypeType": "А1-ЕФО-2",
+                "mitypeTitle": "Флуориметры лабораторные",
+                "manufactureNum": "500-11062",
+                "manufactureYear": 2010,
+                "modification": "М 500-50СТ"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В УДМУРТСКОЙ РЕСПУБЛИКЕ\"(ФБУ \"УДМУРТСКИЙ ЦСМ\")",
+            "signCipher": "АО",
+            "miOwner": "Акционерное общество \"ИЖЕВСКИЙ ЗАВОД ПЛАСТМАСС\"",
+            "vrfDate": "06.09.2022",
+            "validDate": "05.09.2023",
+            "vriType": "2",
+            "docTitle": "МП 2301-0133-06",
+            "applicable": {
+                "certNum": "С-АО\/06-09-2022\/184826547",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "67638.17.2Р.00258473",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/258473",
+                    "mitypeNumber": "67638-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381612",
+                    "mitypeTitle": "Динамометры электронные",
+                    "notation": "АЦД",
+                    "modification": "АЦД\/1С-50\/4И-0,5",
+                    "manufactureNum": "7543",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений силы"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "за исключением поддиапазона (0 -5000) Н",
+            "additional_info": "0-16213"
+        }
+    }
+}

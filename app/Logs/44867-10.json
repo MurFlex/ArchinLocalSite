@@ -1,0 +1,531 @@
+{
+    "220941354": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44867.10.1Р.00266574",
+                "mitypeNumber": "44867-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355773",
+                "mitypeTitle": "Меры градиента напряженности постоянного магнитного поля",
+                "mitypeType": "М-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "13001",
+                "manufactureYear": 2013,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Нижегородской области\"",
+            "vrfDate": "03.02.2023",
+            "validDate": "02.02.2024",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422540.101 МП",
+            "applicable": {
+                "certNum": "С-В\/03-02-2023\/220941354",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт12-2021",
+                    "title": "ГПЭ единиц магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390912"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-220941354\/protocol",
+            "additional_info": "#mid0b051e3f-bf23-4ae4-9db1-88f7955a1bc5"
+        }
+    },
+    "204557579": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44867.10.РЭ.00727923",
+                "mitypeNumber": "44867-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355773",
+                "mitypeTitle": "Меры градиента напряженности постоянного магнитного поля",
+                "mitypeType": "М-101",
+                "modification": "М-101",
+                "manufactureNum": "22001",
+                "manufactureYear": 2022,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "перечнем методик поверки согласно протоколу поверки"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "28.11.2022",
+            "validDate": "27.11.2023",
+            "vriType": "1",
+            "docTitle": "МКИЯ.422540.101 МП \"Меры градиента напряженности постоянного магнитного поля М-101. Методика поверки\", утв. ГЦИ СИ ФГУ \"УРАЛТЕСТ",
+            "applicable": {
+                "certNum": "С-СЕ\/28-11-2022\/204557579",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСЕ.1540.2022",
+                    "title": "-",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1400058"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "39702.08.1Р.00292450",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/292450",
+                    "mitypeNumber": "39702-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349702",
+                    "mitypeTitle": "Комплекс измерительно-вычислительный",
+                    "notation": "ММК-С15Э",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0003",
+                    "manufactureYear": 2006,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "33921-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/342661",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "MY47006901"
+                },
+                {
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "number": "226914"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "041"
+                },
+                {
+                    "mitypeNumber": "17805-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318168",
+                    "mitypeTitle": "Измерители градиента напряженности магнитного поля",
+                    "number": "11001"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39507208\/501"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-204557579\/protocol",
+            "additional_info": "коэффициент преобразования (постоянная) меры 38470 м⁻²"
+        }
+    },
+    "185919248": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44867.10.РЭ.00429887",
+                "mitypeNumber": "44867-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355773",
+                "mitypeTitle": "Меры градиента напряженности постоянного магнитного поля",
+                "mitypeType": "М-101",
+                "modification": "М-101",
+                "manufactureNum": "99015",
+                "manufactureYear": 2010,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "перечнем методик поверки согласно протоколу поверки"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Открытое акционерное общество \"Российские железные дороги\"",
+            "vrfDate": "13.09.2022",
+            "validDate": "12.09.2023",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422540.101 МП \"Меры градиента напряженности постоянного магнитного поля М-101. Методика поверки\", утв. ГСИ СИ ФГУ \"УРАЛТЕСТ",
+            "applicable": {
+                "certNum": "С-СЕ\/13-09-2022\/185919248",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСЕ.1540.2022",
+                    "title": "-",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1400058"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "39702.08.1Р.00292450",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/292450",
+                    "mitypeNumber": "39702-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349702",
+                    "mitypeTitle": "Комплекс измерительно-вычислительный",
+                    "notation": "ММК-С15Э",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0003",
+                    "manufactureYear": 2006,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "17805-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318169",
+                    "mitypeTitle": "Измерители градиента напряженности магнитного поля",
+                    "number": "11001"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "041"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-185919248\/protocol",
+            "additional_info": "коэффициент преобразования (постоянная) меры 41850 м⁻²"
+        }
+    },
+    "190983001": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44867.10.РЭ.00455797",
+                "mitypeNumber": "44867-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355773",
+                "mitypeTitle": "Меры градиента напряженности постоянного магнитного поля",
+                "mitypeType": "М-101",
+                "modification": "М-101",
+                "manufactureNum": "08002",
+                "manufactureYear": 2010,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "перечнем методик поверки согласно протоколу поверки"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Красноярский центр метрологии - структурное подразделение Красноярской железной дороги - филиала ОАО",
+            "vrfDate": "30.08.2022",
+            "validDate": "29.08.2023",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422540.101 МП \"Меры градиента напряженности постоянного магнитного поля М-101. Методика поверки\", утв. ГСИ СИ ФГУ \"УРАЛТЕСТ",
+            "applicable": {
+                "certNum": "С-СЕ\/30-08-2022\/182663105",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZСЕ.1540.2022",
+                    "title": "-",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1400058"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "39702.08.1Р.00292450",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/292450",
+                    "mitypeNumber": "39702-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349702",
+                    "mitypeTitle": "Комплекс измерительно-вычислительный",
+                    "notation": "ММК-С15Э",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0003",
+                    "manufactureYear": 2006,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "088"
+                },
+                {
+                    "mitypeNumber": "17805-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318168",
+                    "mitypeTitle": "Измерители градиента напряженности магнитного поля",
+                    "number": "11001"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-190983001\/protocol"
+        }
+    },
+    "157807723": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44867.10.РЭ.00320625",
+                "mitypeNumber": "44867-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355773",
+                "mitypeTitle": "Меры градиента напряженности постоянного магнитного поля",
+                "mitypeType": "М-101",
+                "modification": "М-101",
+                "manufactureNum": "04001",
+                "manufactureYear": 2010,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "перечень методик поверки согласно протоколу поверки"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Самарской области\"",
+            "vrfDate": "23.05.2022",
+            "validDate": "22.05.2023",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422540.101 МП \"Меры градиента напряженности постоянного магнитного поля М-101. Методика поверки\", утв. ГСИ СИ ФГУ \"УРАЛТЕСТ",
+            "applicable": {
+                "certNum": "С-СЕ\/23-05-2022\/157807723",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZCE.0888.2015",
+                    "title": "Государственный рабочий эталон единицы длины в диапазоне значений от 0 до 200 мм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/408183"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "39702.08.1Р.00292450",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/292450",
+                    "mitypeNumber": "39702-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349702",
+                    "mitypeTitle": "Комплекс измерительно-вычислительный",
+                    "notation": "ММК-С15Э",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0003",
+                    "manufactureYear": 2006,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "17805-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318169",
+                    "mitypeTitle": "Измерители градиента напряженности магнитного поля",
+                    "number": "11001"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "041"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-157807723\/protocol",
+            "additional_info": "коэффициент преобразования (постоянная) меры 42032 м⁻²"
+        }
+    },
+    "141735373": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44867.10.1Р.00576493",
+                "mitypeNumber": "44867-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355773",
+                "mitypeTitle": "Меры градиента напряженности постоянного магнитного поля",
+                "mitypeType": "М-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "08001",
+                "manufactureYear": 2010,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "ФБУ \"Новосибирский ЦСМ\"",
+            "vrfDate": "21.03.2022",
+            "validDate": "20.03.2023",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422540.101 МП",
+            "applicable": {
+                "certNum": "С-В\/21-03-2022\/141735373",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт12-2021",
+                    "title": "ГПЭ единиц магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390912"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-141735373\/protocol",
+            "additional_info": "#mida2cc04fb-97fa-4e10-b7fa-a3397253d840"
+        }
+    },
+    "128702168": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44867.10.1Р.00266574",
+                "mitypeNumber": "44867-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355773",
+                "mitypeTitle": "Меры градиента напряженности постоянного магнитного поля",
+                "mitypeType": "М-101",
+                "modification": "Нет модификации",
+                "manufactureNum": "13001",
+                "manufactureYear": 2013,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МЕТРОЛОГИИ ИМ.Д.И.МЕНДЕЛЕЕВА\"(ФГУП \"ВНИИМ ИМ. Д.И.МЕНДЕЛЕЕВА\")",
+            "signCipher": "В",
+            "miOwner": "Федеральное бюджетное учреждение \"Государственный региональный центр стандартизации, метрологии и испытаний в Нижегородской области\"",
+            "vrfDate": "02.02.2022",
+            "validDate": "01.02.2023",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422540.101 МП",
+            "applicable": {
+                "certNum": "С-В\/02-02-2022\/128702168",
+                "stickerNum": "Нет данных",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт12-2021",
+                    "title": "ГПЭ единиц магнитной индукции, магнитного потока, магнитного момента и градиента магнитной индукции",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/1390912"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-128702168\/protocol",
+            "additional_info": "#mid37b7dabd-a9b4-4833-947e-43f88b20fef5"
+        }
+    },
+    "122171564": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "44867.10.РЭ.00526873",
+                "mitypeNumber": "44867-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355773",
+                "mitypeTitle": "Меры градиента напряженности постоянного магнитного поля",
+                "mitypeType": "М-101",
+                "modification": "М-101",
+                "manufactureNum": "98126",
+                "manufactureYear": 2010,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "перечнем методик поверки согласно протоколу поверки"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Павлодарский филиал АО \"Национальный центр экспертизы и сертификации\"",
+            "vrfDate": "11.01.2022",
+            "validDate": "10.01.2023",
+            "vriType": "2",
+            "docTitle": "МКИЯ.422540.101 МП \"Меры градиента напряженности постоянного магнитного поля М-101. Методика поверки\", утв. ГСИ СИ ФГУ \"УРАЛТЕСТ",
+            "applicable": {
+                "certNum": "С-СЕ\/11-01-2022\/122171564",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZCE.0888.2015",
+                    "title": "Государственный рабочий эталон единицы длины в диапазоне значений от 0 до 200 мм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/408183"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "39702.08.1Р.00292450",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/292450",
+                    "mitypeNumber": "39702-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349702",
+                    "mitypeTitle": "Комплекс измерительно-вычислительный",
+                    "notation": "ММК-С15Э",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0003",
+                    "manufactureYear": 2006,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГСИ. Государственная поверочная схема для средств измерений магнитной индукции, магнитного потока,  магнитного момента и градиен"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39507208\/501"
+                },
+                {
+                    "mitypeNumber": "17805-98",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/318169",
+                    "mitypeTitle": "Измерители градиента напряженности магнитного поля",
+                    "number": "11001"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-122171564\/protocol",
+            "additional_info": "коэффициент преобразования (постоянная) меры 43724 м⁻²"
+        }
+    }
+}

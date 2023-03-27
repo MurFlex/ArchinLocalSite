@@ -1,0 +1,125 @@
+{
+    "203818563": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "45366-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356346",
+                "mitypeType": "SPPA-T3000",
+                "mitypeTitle": "Системы измерительные и управляющие",
+                "manufactureNum": "1",
+                "manufactureYear": 2010,
+                "modification": "SPPA-T3000"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПЕРМСКОМ КРАЕ\"(ФБУ \"ПЕРМСКИЙ ЦСМ\")",
+            "signCipher": "ВН",
+            "miOwner": "Филиал \"Яйвинская ГРЭС\" ПАО Юнипро\"",
+            "vrfDate": "16.11.2022",
+            "validDate": "15.11.2023",
+            "vriType": "2",
+            "docTitle": "Системы измерительные и управляющие SPPA-T3000. Методика поверки, ГЦИ СИ  ФГУ Ростест-Москва",
+            "applicable": {
+                "certNum": "С-ВН\/16-11-2022\/203818563",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "56318.14.2Р.00648801",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/648801",
+                    "mitypeNumber": "56318-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368996",
+                    "mitypeTitle": "Калибраторы-измерители унифицированных сигналов прецизионные",
+                    "notation": "ЭЛЕМЕР-ИКСУ-2012",
+                    "modification": "ЭЛЕМЕР-ИКСУ-2012",
+                    "manufactureNum": "2340828",
+                    "manufactureYear": 2020,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 2091 от 01.10.2018"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "141922053": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "45366-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356346",
+                "mitypeType": "SPPA-T3000",
+                "mitypeTitle": "Системы измерительные и управляющие",
+                "manufactureNum": "007",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СИБИРСКИЙ ИНЖЕНЕРНО-АНАЛИТИЧЕСКИЙ ЦЕНТР\"(АО \"СИБИАЦ\")",
+            "signCipher": "ДЖО",
+            "miOwner": "ГТЭС Новокузнецкая АО «Кузбассэнерго»",
+            "vrfDate": "15.03.2022",
+            "validDate": "14.03.2023",
+            "vriType": "2",
+            "docTitle": "Системы измерительные и управляющие SPPA-T3000. Методика поверки",
+            "applicable": {
+                "certNum": "С-ДЖО\/15-03-2022\/141922053",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39151.12.1Р.00386326",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/386326",
+                    "mitypeNumber": "39151-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349070",
+                    "mitypeTitle": "Калибраторы давления портативные",
+                    "notation": "Метран-517",
+                    "modification": "Метран-517",
+                    "manufactureNum": "1038",
+                    "manufactureYear": 2017,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Пр. № 2091 от 01.10.2018 «Государственная поверочная схема для средств измерений силы постоянного электрического тока в диапазон"
+                },
+                {
+                    "regNumber": "64073.16.4Р.00427553",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/427553",
+                    "mitypeNumber": "64073-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/377715",
+                    "mitypeTitle": "Меры электрического сопротивления постоянного тока многозначные",
+                    "notation": "МС 3070М",
+                    "modification": "мод. МС3070М-2.2",
+                    "manufactureNum": "014",
+                    "manufactureYear": 2020,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений электрического сопротивления постоянного и переменного тока» введённа в"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "61806-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/375232",
+                    "mitypeTitle": "Термометры лабораторные электронные",
+                    "number": "801887"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "4070"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "201338229": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "11279-88",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305856",
+                "mitypeType": "АВС132",
+                "mitypeTitle": "Преобразователи виброизмерительные пьезоэлектрические высокочастотные (вибропреобразователи)",
+                "manufactureNum": "615",
+                "modification": "АВС132"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "АО \"МЗ \"САПФИР\"",
+            "vrfDate": "14.11.2022",
+            "validDate": "13.11.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1873-88",
+            "applicable": {
+                "certNum": "С-МА\/14-11-2022\/201338229",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "68875.17.1Р.05053",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/5053",
+                    "mitypeNumber": "68875-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382972",
+                    "mitypeTitle": "Установки для поверки и калибровки виброизмерительных преобразователей",
+                    "notation": "9155",
+                    "modification": "9155-831 и 9155-875",
+                    "manufactureNum": "1901СС8",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 27.12.2018 г. № 2772"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Действительное значение коэффициента преобразования на базовой частоте 160 Гц Кq = 0,310 пКл\/м·с-2 Кu = 0,685 мВ\/м·с-2 52270dc9-f141-4a34-aa83-946810906b30"
+        }
+    }
+}

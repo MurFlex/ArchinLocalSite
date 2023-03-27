@@ -1,0 +1,57 @@
+{
+    "172207027": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "45781-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/356798",
+                "mitypeType": "Permagraph C-300",
+                "mitypeTitle": "Установка магнитоизмерительная",
+                "manufactureNum": "106527",
+                "modification": "Нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ФИЗИКО-ТЕХНИЧЕСКИХ И РАДИОТЕХНИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИФТРИ\")",
+            "signCipher": "Т",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "20.07.2022",
+            "validDate": "19.07.2024",
+            "vriType": "2",
+            "docTitle": "Установка магнитоизмерительная «Permagraph С-300». Методика поверки» С300 МП",
+            "applicable": {
+                "certNum": "С-Т\/20-07-2022\/172207027",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZZТ.0021.2013",
+                    "title": "ГРЭ единицы магнитной индукции постоянного магнитного поля 1 разряда в диапазоне 0,02...2,0 Тл",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/422484"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "54848.13.2Р.00161796",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/161796",
+                    "mitypeNumber": "54848-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367345",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34401A, 34460A, 34461A",
+                    "modification": "34401А",
+                    "manufactureNum": "MY53006884",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы.Приказ 3457"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "#mid9151568b-bf66-4cde-8a07-89142a4f4b94"
+        }
+    }
+}

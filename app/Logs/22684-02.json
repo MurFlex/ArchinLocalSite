@@ -1,0 +1,99 @@
+{
+    "213188385": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "22684-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326715",
+                "mitypeType": "В-08МА \"Н\"",
+                "mitypeTitle": "Калориметры сжигания с бомбой",
+                "manufactureNum": "067",
+                "modification": "В-08МА \"Н\""
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Филиал АО «Татэнерго» Казанская ТЭЦ-2",
+            "vrfDate": "19.12.2022",
+            "validDate": "18.12.2023",
+            "vriType": "2",
+            "docTitle": "МИ 2096-90",
+            "applicable": {
+                "certNum": "С-ДИЭ\/19-12-2022\/213188385",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 5504-90",
+                    "title": "СО УДЕЛЬНОЙ ЭНЕРГИИ СГОРАНИЯ (бензойная кислота К-3)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/393043",
+                    "manufactureYear": 2022
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "181098066": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "22684-02",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/326715",
+                "mitypeType": "В-08МА \"Н\"",
+                "mitypeTitle": "Калориметры сжигания с бомбой",
+                "manufactureNum": "069",
+                "manufactureYear": 2002,
+                "modification": "В-08МА \"Н\""
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ТОМСКОЙ ОБЛАСТИ\"(ФБУ \"ТОМСКИЙ ЦСМ\")",
+            "signCipher": "ВЭ",
+            "miOwner": "АО \"РИР\"",
+            "vrfDate": "04.08.2022",
+            "validDate": "03.08.2023",
+            "vriType": "2",
+            "docTitle": "МИ 2096-2009",
+            "applicable": {
+                "certNum": "С-ВЭ\/04-08-2022\/181098066",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "ses": [
+                {
+                    "number": "ГСО 5504-90",
+                    "title": "СО УДЕЛЬНОЙ ЭНЕРГИИ СГОРАНИЯ (бензойная кислота К-3)",
+                    "seURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/19\/items\/393043",
+                    "manufactureYear": 2021,
+                    "manufactureNum": "125",
+                    "metroChars": "Наименование и аттестованное значение: Удельная энергия сгорания в стандартных (бомбовых) условиях: 26454 кДж\/кг (при взвешивании на воздухе), погрешность и (или) неопределенность: 5 кДж\/к"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "51021-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362978",
+                    "mitypeTitle": "Приборы щитовые цифровые электроизмерительные",
+                    "number": "01479"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "9С42"
+                }
+            ]
+        },
+        "info": {
+            "structure": "бомба калориметрическая № 069",
+            "briefIndicator": false,
+            "additional_info": "бомба № 069"
+        }
+    }
+}

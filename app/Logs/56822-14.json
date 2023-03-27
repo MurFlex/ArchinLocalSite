@@ -1,0 +1,88 @@
+{
+    "156098658": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "56822-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369595",
+                "mitypeType": "УИГ и УИ",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "1401",
+                "modification": "УИГ-25\/50\/70-180"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В КРАСНОЯРСКОМ КРАЕ, РЕСПУБЛИКЕ ХАКАСИЯ И РЕСПУБЛИКЕ ТЫВА\"(ФБУ \"КРАСНОЯРСКИЙ ЦСМ\")",
+            "signCipher": "АШ",
+            "miOwner": "АО \"НТЭК\"",
+            "vrfDate": "25.04.2022",
+            "validDate": "24.04.2024",
+            "vriType": "2",
+            "docTitle": "МП ВНИИМС",
+            "applicable": {
+                "certNum": "С-АШ\/25-04-2022\/156098658",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "38063-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347735",
+                    "mitypeTitle": "Киловольтметры цифровые",
+                    "number": "44"
+                },
+                {
+                    "mitypeNumber": "49266-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/360892",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "N68050671"
+                }
+            ]
+        },
+        "info": {
+            "structure": "-",
+            "briefIndicator": false
+        }
+    },
+    "148354228": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "56822-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369595",
+                "mitypeType": "УИГ и УИ",
+                "mitypeTitle": "Установки измерительные",
+                "manufactureNum": "1801",
+                "modification": "УИГ"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ВОЛГОГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ВОЛГОГРАДСКИЙ ЦСМ\")",
+            "signCipher": "БИ",
+            "miOwner": "Акционерное общество \"Спецэнергомонтаж\"",
+            "vrfDate": "13.04.2022",
+            "validDate": "12.04.2024",
+            "vriType": "2",
+            "docTitle": "56822-14",
+            "applicable": {
+                "certNum": "С-БИ\/13-04-2022\/148354228",
+                "stickerNum": "21018651719",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "59205-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372345",
+                    "mitypeTitle": "Киловольтметры спектральные цифровые",
+                    "number": "4122"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

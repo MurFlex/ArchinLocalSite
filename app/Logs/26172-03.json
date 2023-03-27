@@ -1,0 +1,63 @@
+{
+    "142221515": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "26172-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332167",
+                "mitypeType": "PM6685R\/071, PM6685R\/671",
+                "mitypeTitle": "Частотомеры\/калибраторы универсальные",
+                "manufactureNum": "SM782830",
+                "modification": "PM6685R\/071"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КООРДИНАЦИОННО-ИНФОРМАЦИОННОЕ АГЕНТСТВО\"(ООО \"КИА\")",
+            "signCipher": "ГДИ",
+            "miOwner": "АО «НСН»",
+            "vrfDate": "16.03.2022",
+            "validDate": "15.03.2023",
+            "vriType": "2",
+            "docTitle": "PM6685R\/071\/671-001МП",
+            "applicable": {
+                "certNum": "С-ГДИ\/16-03-2022\/142221515",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "51871.12.3Р.00249309",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/249309",
+                    "mitypeNumber": "51871-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/363962",
+                    "mitypeTitle": "Стандарты частоты рубидиевые",
+                    "notation": "Ч1-2010",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "0028",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерения времени и частоты"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53063-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365347",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "MY53050638"
+                },
+                {
+                    "mitypeNumber": "15963-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/314539",
+                    "mitypeTitle": "Анализаторы цифровых линий связи",
+                    "number": "BG -0088"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

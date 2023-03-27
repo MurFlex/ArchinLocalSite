@@ -1,0 +1,460 @@
+{
+    "204077692": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "41164.09.1Р.00526200",
+                "mitypeNumber": "41164-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351436",
+                "mitypeTitle": "Вольтметры переменного тока эталонные",
+                "mitypeType": "5790A",
+                "modification": "-",
+                "manufactureNum": "8205033",
+                "manufactureYear": 2009,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "Приказ Росстандарта № 1942 от 03.09.2021 г."
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБОРЫ, СЕРВИС, ТОРГОВЛЯ\"(АО \"ПРИСТ\")",
+            "signCipher": "ВЛП",
+            "miOwner": "АО ПриСТ",
+            "vrfDate": "25.11.2022",
+            "validDate": "24.11.2023",
+            "vriType": "2",
+            "docTitle": "МП из РЭ, утвержденной ГЦИ СИ Воентест 32 ГНИИИ МО РФ в марте 2009г.",
+            "applicable": {
+                "certNum": "С-ВЛП\/25-11-2022\/204077692",
+                "stickerNum": "20220016835",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.7.АИЖ.0001.2022",
+                    "title": "Вторичный эталон единицы электрического напряжения в диапазоне значений от 2 мВ до 1000 В в диапазоне частотnот 10 Гц до 1 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1398239"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "25984.14.2Р.58203",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/58203",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Fluke 8508A\/01",
+                    "manufactureNum": "963156099",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "25984.14.1Р.58218",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/58218",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Fluke 8508A\/01",
+                    "manufactureNum": "963156099",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "25984.14.2Р.58220",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/58220",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Fluke 8508A\/01",
+                    "manufactureNum": "963156099",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "описание не найдено"
+                },
+                {
+                    "regNumber": "25984.14.4Р.58244",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/58244",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Fluke 8508A\/01",
+                    "manufactureNum": "963156099",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "25984.14.3Р.58247",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/58247",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Fluke 8508A\/01",
+                    "manufactureNum": "963156099",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "60407.15.2Р.00279776",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279776",
+                    "mitypeNumber": "60407-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373680",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "Fluke 5730А (калибраторы) Fluke 5725A (усилитель)",
+                    "modification": "Fluke 5730A",
+                    "manufactureNum": "2520503",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "60407.15.3Р.00279777",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279777",
+                    "mitypeNumber": "60407-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373680",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "Fluke 5730А (калибраторы) Fluke 5725A (усилитель)",
+                    "modification": "Fluke 5730A",
+                    "manufactureNum": "2520503",
+                    "manufactureYear": 2015,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "60407.15.2Р.00279778",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279778",
+                    "mitypeNumber": "60407-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373680",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "Fluke 5730А (калибраторы) Fluke 5725A (усилитель)",
+                    "modification": "Fluke 5730A",
+                    "manufactureNum": "2520503",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "60407.15.1Р.00279779",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279779",
+                    "mitypeNumber": "60407-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373680",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "Fluke 5730А (калибраторы) Fluke 5725A (усилитель)",
+                    "modification": "Fluke 5730A",
+                    "manufactureNum": "2520503",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "60407.15.1Р.00279780",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279780",
+                    "mitypeNumber": "60407-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373680",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "notation": "Fluke 5730А (калибраторы) Fluke 5725A (усилитель)",
+                    "modification": "Fluke 5730A",
+                    "manufactureNum": "2520503",
+                    "manufactureYear": 2015,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "25984.14.2Р.00452021",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/452021",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Fluke 8508A\/01",
+                    "manufactureNum": "963156099",
+                    "manufactureYear": 2015,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "38206-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347907",
+                    "mitypeTitle": "Преобразователи переменного напряжения прецизионные",
+                    "number": "5150002"
+                },
+                {
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "number": "963156099"
+                },
+                {
+                    "mitypeNumber": "75130-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/615435",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "16430019"
+                },
+                {
+                    "mitypeNumber": "60407-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373680",
+                    "mitypeTitle": "Калибраторы многофункциональные с усилителем",
+                    "number": "2520503"
+                }
+            ]
+        },
+        "info": {
+            "structure": "_",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-204077692\/protocol",
+            "additional_info": "по наряду № 20220016835"
+        }
+    },
+    "186776508": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "41164.09.1Р.00414174",
+                "mitypeNumber": "41164-09",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/351436",
+                "mitypeTitle": "Вольтметры переменного тока эталонные",
+                "mitypeType": "5790A",
+                "modification": "5790A",
+                "manufactureNum": "8582034",
+                "manufactureYear": 2007,
+                "rankCode": "1Р",
+                "rankTitle": "Эталон 1-го разряда",
+                "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 МГц"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРИБОРЫ, СЕРВИС, ТОРГОВЛЯ\"(АО \"ПРИСТ\")",
+            "signCipher": "ВЛП",
+            "miOwner": "Ростест-Москва ФБУ Москва",
+            "vrfDate": "13.09.2022",
+            "validDate": "12.09.2023",
+            "vriType": "2",
+            "docTitle": "МП из РЭ, утвержденной ГЦИ СИ Воентест 32 ГНИИИ МО РФ в марте 2009г.",
+            "applicable": {
+                "certNum": "С-ВЛП\/13-09-2022\/186776508",
+                "stickerNum": "20220011446",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "2.7.АИЖ.0001.2022",
+                    "title": "Вторичный эталон единицы электрического напряжения в диапазоне значений от 2 мВ до 1000 В в диапазоне частотnот 10 Гц до 1 МГц",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/1398239"
+                }
+            ],
+            "mieta": [
+                {
+                    "regNumber": "52495.13.2Р.00149776",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149776",
+                    "mitypeNumber": "52495-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364697",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "Fluke 5700А, Fluke 5720А с усилителем Fluke 5725A",
+                    "modification": "Fluke 5720A",
+                    "manufactureNum": "6025312",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "описание не найдено"
+                },
+                {
+                    "regNumber": "52495.13.1Р.00149783",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149783",
+                    "mitypeNumber": "52495-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364697",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "Fluke 5700А, Fluke 5720А с усилителем Fluke 5725A",
+                    "modification": "Fluke 5720A",
+                    "manufactureNum": "6025312",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "52495.13.2Р.00149794",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149794",
+                    "mitypeNumber": "52495-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364697",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "Fluke 5700А, Fluke 5720А с усилителем Fluke 5725A",
+                    "modification": "Fluke 5720A",
+                    "manufactureNum": "6025312",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "52495.13.1Р.00149825",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/149825",
+                    "mitypeNumber": "52495-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364697",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "Fluke 5700А, Fluke 5720А с усилителем Fluke 5725A",
+                    "modification": "Fluke 5720A",
+                    "manufactureNum": "6025312",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "25984.14.1Р.00160230",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/160230",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Fluke 8508A\/01",
+                    "manufactureNum": "401472820",
+                    "manufactureYear": 2018,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы постоянного электрического тока в диапазоне от 1*10е-16 до 100 А"
+                },
+                {
+                    "regNumber": "25984.14.3Р.00160231",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/160231",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Fluke 8508A\/01",
+                    "manufactureNum": "401472820",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "25984.14.2Р.00160232",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/160232",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Fluke 8508A\/01",
+                    "manufactureNum": "401472820",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений силы переменного электрического тока в диапазоне от 1*10е-8 до 100 А в диап. частот от 0.1 Гц до 1 МГц"
+                },
+                {
+                    "regNumber": "25984.14.2Р.00160238",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/160238",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Fluke 8508A\/01",
+                    "manufactureNum": "401472820",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "описание не найдено"
+                },
+                {
+                    "regNumber": "25984.14.4Р.00160254",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/160254",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Fluke 8508A\/01",
+                    "manufactureNum": "401472820",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "25984.14.2Р.00452006",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/452006",
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "notation": "Fluke 8508А, 8508А\/01",
+                    "modification": "Fluke 8508A\/01",
+                    "manufactureNum": "401472820",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                },
+                {
+                    "regNumber": "52495.13.2Р.00452012",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/452012",
+                    "mitypeNumber": "52495-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364697",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "Fluke 5700А, Fluke 5720А с усилителем Fluke 5725A",
+                    "modification": "Fluke 5720A",
+                    "manufactureNum": "6025312",
+                    "manufactureYear": 2014,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0.1 Гц до 2 ГГц"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "52495-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364697",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "6025312"
+                },
+                {
+                    "mitypeNumber": "38206-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347907",
+                    "mitypeTitle": "Преобразователи переменного напряжения прецизионные",
+                    "number": "5150002"
+                },
+                {
+                    "mitypeNumber": "25984-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331873",
+                    "mitypeTitle": "Мультиметры цифровые прецизионные",
+                    "number": "401472820"
+                },
+                {
+                    "mitypeNumber": "75130-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/615435",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "number": "16430019"
+                }
+            ]
+        },
+        "info": {
+            "structure": "_",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-186776508\/protocol",
+            "additional_info": "по наряду № 20220011446"
+        }
+    }
+}

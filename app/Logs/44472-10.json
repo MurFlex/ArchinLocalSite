@@ -1,0 +1,65 @@
+{
+    "209234365": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "44472-10",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/355309",
+                "mitypeType": "ПРДП-СМ-1",
+                "mitypeTitle": "Сейсмометры трехкомпонентные цифровые",
+                "manufactureNum": "0143169",
+                "manufactureYear": 2010,
+                "modification": "СВК-15Г"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"БЮРО ПОВЕРКИ\"(ООО \"БЮРО ПОВЕРКИ\")",
+            "signCipher": "ДСМ",
+            "miOwner": "Ф.Л. Московская д.20 кв.54",
+            "vrfDate": "19.11.2022",
+            "validDate": "18.11.2028",
+            "vriType": "2",
+            "docTitle": "МИ 1592-2015",
+            "applicable": {
+                "certNum": "С-ДСМ\/19-11-2022\/209234365",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "55964.13.3Р.00066",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/66",
+                    "mitypeNumber": "55964-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368597",
+                    "mitypeTitle": "Установки поверочные переносные",
+                    "notation": "ТЕСТ-ВС",
+                    "modification": "ТЕСТ-ВС",
+                    "manufactureNum": "131",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "приказ 256 от 07.02.2018 г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "44154-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1384160",
+                    "mitypeTitle": "Секундомеры электронные",
+                    "number": "437397"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "74972"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "ПП№074751"
+        }
+    }
+}

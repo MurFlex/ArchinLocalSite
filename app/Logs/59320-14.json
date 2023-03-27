@@ -1,0 +1,47 @@
+{
+    "206732471": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "59320.14.РЭ.55309",
+                "mitypeNumber": "59320-14",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/372465",
+                "mitypeTitle": "Рабочий эталон единиц длины и ослабления в световоде",
+                "mitypeType": "Нет данных",
+                "modification": "",
+                "manufactureNum": "36",
+                "manufactureYear": 2014,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "Приказ Росстандарта от 05.12.2019 №2862"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "5407108720 НОВОСИБИРСКИЙ ЦСМ ФБУ",
+            "vrfDate": "05.12.2022",
+            "validDate": "04.12.2023",
+            "vriType": "2",
+            "docTitle": "МП 37.Д4-14 \"Рабочий эталон единиц длины и ослабления в световоде. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-А\/05-12-2022\/206732471",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт170-2011",
+                    "title": "ГПСЭ единиц длины и времени распространения сигнала в световоде, средней мощности, ослабления и длины волны оптического излучения для волоконно-оптических систем передачи информации",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397854"
+                }
+            ]
+        },
+        "info": {
+            "structure": "оптический генератор №18114",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-206732471\/protocol"
+        }
+    }
+}

@@ -1,0 +1,963 @@
+{
+    "158213223": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15593-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313772",
+                "mitypeType": "Е842\/1М, Е855\/3М, Е855\/5М, Е854\/3М",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "3463",
+                "modification": "Е855\/3М"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПЕРМСКОМ КРАЕ\"(ФБУ \"ПЕРМСКИЙ ЦСМ\")",
+            "signCipher": "ВН",
+            "miOwner": "-",
+            "vrfDate": "24.05.2022",
+            "vriType": "2",
+            "docTitle": "39219051.3.0004 МП Перобразователи Е854\/3М, Е855\/3М, Е855\/5М. Методика поверки.",
+            "inapplicable": {
+                "noticeNum": "И-ВН\/24-05-2022\/158213223"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "31319.07.3Р.00117001",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/117001",
+                    "mitypeNumber": "31319-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339253",
+                    "mitypeTitle": "Калибраторы переменного тока",
+                    "notation": "Ресурс-К2",
+                    "modification": "Ресурс-К2",
+                    "manufactureNum": "0127",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1053 от 29.05.2018"
+                },
+                {
+                    "regNumber": "31319.07.2Р.00117002",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/117002",
+                    "mitypeNumber": "31319-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339253",
+                    "mitypeTitle": "Калибраторы переменного тока",
+                    "notation": "Ресурс-К2",
+                    "modification": "Ресурс-К2",
+                    "manufactureNum": "0127",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 575 от 14.05.2015"
+                },
+                {
+                    "regNumber": "31319.07.2Р.00117003",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/117003",
+                    "mitypeNumber": "31319-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/339253",
+                    "mitypeTitle": "Калибраторы переменного тока",
+                    "notation": "Ресурс-К2",
+                    "modification": "Ресурс-К2",
+                    "manufactureNum": "0127",
+                    "manufactureYear": 2011,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.551-2013"
+                },
+                {
+                    "regNumber": "1162.58.2Р.00217425",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/217425",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р331",
+                    "manufactureNum": "204539",
+                    "manufactureYear": 1971,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 3456 от 30.12.2019"
+                },
+                {
+                    "regNumber": "75631.19.4Р.00375606",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/375606",
+                    "mitypeNumber": "75631-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/717974",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-85",
+                    "modification": "Ч3-85 \/6",
+                    "manufactureNum": "6F9037026",
+                    "manufactureYear": 2021,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "47717.11.3Р.00551442",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551442",
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359043",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34410А, 34411А",
+                    "modification": "Agilent 34410A",
+                    "manufactureNum": "MY53005619",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 1942 от 03.09.2021"
+                },
+                {
+                    "regNumber": "47717.11.3Р.00551444",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/551444",
+                    "mitypeNumber": "47717-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/359043",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34410А, 34411А",
+                    "modification": "Agilent 34410A",
+                    "manufactureNum": "MY53005619",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ 3457 от 30.12.2019"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "Условия проведения поверки: Коэффициент нелинейных искажений 1,2 %"
+        }
+    },
+    "146038881": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15593-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313772",
+                "mitypeType": "Е842\/1М, Е855\/3М, Е855\/5М, Е854\/3М",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "016414",
+                "manufactureYear": 2002,
+                "modification": "Е855\/1-М1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТРАНСНЕФТЬ - БАЛТИКА\"(ООО \"ТРАНСНЕФТЬ - БАЛТИКА\")",
+            "signCipher": "ДБЖ",
+            "miOwner": "ООО \"Транснефть-Балтика\"",
+            "vrfDate": "15.03.2022",
+            "validDate": "14.03.2023",
+            "vriType": "2",
+            "docTitle": "раздел 7 \"Методы и средства поверки\" в руководстве по эксплуатации ОПМ.140.161. РЭ",
+            "applicable": {
+                "certNum": "С-ДБЖ\/15-03-2022\/146038881",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39952.08.2Р.00400113",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/400113",
+                    "mitypeNumber": "39952-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350010",
+                    "mitypeTitle": "Приборы для измерения электроэнергетических величин и показателей качества электрической энергии",
+                    "notation": "Энергомонитор-3.3Т1",
+                    "modification": "мод. энергомонитор-3.3Т1",
+                    "manufactureNum": "2009",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС утв. приказом Росстандарта №1053 от 29.05.2018 г."
+                },
+                {
+                    "regNumber": "69742.17.2Р.00440366",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/440366",
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "B7-78\/1, B7-78\/2, B7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00035872",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 2091 от 01.10.2018 г. «Государственная поверочная схема для средств измерений силы постоянного электрического тока в диап"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "18708"
+                },
+                {
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "TW00035872"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "19 °С"
+        }
+    },
+    "146038885": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15593-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313772",
+                "mitypeType": "Е842\/1М, Е855\/3М, Е855\/5М, Е854\/3М",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "016417",
+                "manufactureYear": 2001,
+                "modification": "Е855\/1-М1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТРАНСНЕФТЬ - БАЛТИКА\"(ООО \"ТРАНСНЕФТЬ - БАЛТИКА\")",
+            "signCipher": "ДБЖ",
+            "miOwner": "ООО \"Транснефть-Балтика\"",
+            "vrfDate": "15.03.2022",
+            "validDate": "14.03.2023",
+            "vriType": "2",
+            "docTitle": "раздел 7 \"Методы и средства поверки\" в руководстве по эксплуатации ОПМ.140.161. РЭ",
+            "applicable": {
+                "certNum": "С-ДБЖ\/15-03-2022\/146038885",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39952.08.2Р.00400113",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/400113",
+                    "mitypeNumber": "39952-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350010",
+                    "mitypeTitle": "Приборы для измерения электроэнергетических величин и показателей качества электрической энергии",
+                    "notation": "Энергомонитор-3.3Т1",
+                    "modification": "мод. энергомонитор-3.3Т1",
+                    "manufactureNum": "2009",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС утв. приказом Росстандарта №1053 от 29.05.2018 г."
+                },
+                {
+                    "regNumber": "69742.17.2Р.00440366",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/440366",
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "B7-78\/1, B7-78\/2, B7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00035872",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 2091 от 01.10.2018 г. «Государственная поверочная схема для средств измерений силы постоянного электрического тока в диап"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "18708"
+                },
+                {
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "TW00035872"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "19 °С"
+        }
+    },
+    "146038827": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15593-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313772",
+                "mitypeType": "Е842\/1М, Е855\/3М, Е855\/5М, Е854\/3М",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "016416",
+                "manufactureYear": 2001,
+                "modification": "Е855\/1-М1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТРАНСНЕФТЬ - БАЛТИКА\"(ООО \"ТРАНСНЕФТЬ - БАЛТИКА\")",
+            "signCipher": "ДБЖ",
+            "miOwner": "ООО \"Транснефть-Балтика\"",
+            "vrfDate": "15.03.2022",
+            "validDate": "14.03.2023",
+            "vriType": "2",
+            "docTitle": "раздел 7 \"Методы и средства поверки\" в руководстве по эксплуатации ОПМ.140.161. РЭ",
+            "applicable": {
+                "certNum": "С-ДБЖ\/15-03-2022\/146038827",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39952.08.2Р.00400113",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/400113",
+                    "mitypeNumber": "39952-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350010",
+                    "mitypeTitle": "Приборы для измерения электроэнергетических величин и показателей качества электрической энергии",
+                    "notation": "Энергомонитор-3.3Т1",
+                    "modification": "мод. энергомонитор-3.3Т1",
+                    "manufactureNum": "2009",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС утв. приказом Росстандарта №1053 от 29.05.2018 г."
+                },
+                {
+                    "regNumber": "69742.17.2Р.00440366",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/440366",
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "B7-78\/1, B7-78\/2, B7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00035872",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 2091 от 01.10.2018 г. «Государственная поверочная схема для средств измерений силы постоянного электрического тока в диап"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "18708"
+                },
+                {
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "TW00035872"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "19 °С"
+        }
+    },
+    "146038833": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15593-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313772",
+                "mitypeType": "Е842\/1М, Е855\/3М, Е855\/5М, Е854\/3М",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "019574",
+                "manufactureYear": 2001,
+                "modification": "Е855\/1-М1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТРАНСНЕФТЬ - БАЛТИКА\"(ООО \"ТРАНСНЕФТЬ - БАЛТИКА\")",
+            "signCipher": "ДБЖ",
+            "miOwner": "ООО \"Транснефть-Балтика\"",
+            "vrfDate": "15.03.2022",
+            "validDate": "14.03.2023",
+            "vriType": "2",
+            "docTitle": "раздел 7 \"Методы и средства поверки\" в руководстве по эксплуатации ОПМ.140.161. РЭ",
+            "applicable": {
+                "certNum": "С-ДБЖ\/15-03-2022\/146038833",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39952.08.2Р.00400113",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/400113",
+                    "mitypeNumber": "39952-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350010",
+                    "mitypeTitle": "Приборы для измерения электроэнергетических величин и показателей качества электрической энергии",
+                    "notation": "Энергомонитор-3.3Т1",
+                    "modification": "мод. энергомонитор-3.3Т1",
+                    "manufactureNum": "2009",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС утв. приказом Росстандарта №1053 от 29.05.2018 г."
+                },
+                {
+                    "regNumber": "69742.17.2Р.00440366",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/440366",
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "B7-78\/1, B7-78\/2, B7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00035872",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 2091 от 01.10.2018 г. «Государственная поверочная схема для средств измерений силы постоянного электрического тока в диап"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "18708"
+                },
+                {
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "TW00035872"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "19 °С"
+        }
+    },
+    "146038836": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15593-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313772",
+                "mitypeType": "Е842\/1М, Е855\/3М, Е855\/5М, Е854\/3М",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "016412",
+                "manufactureYear": 2002,
+                "modification": "Е855\/1-М1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТРАНСНЕФТЬ - БАЛТИКА\"(ООО \"ТРАНСНЕФТЬ - БАЛТИКА\")",
+            "signCipher": "ДБЖ",
+            "miOwner": "ООО \"Транснефть-Балтика\"",
+            "vrfDate": "15.03.2022",
+            "validDate": "14.03.2023",
+            "vriType": "2",
+            "docTitle": "раздел 7 \"Методы и средства поверки\" в руководстве по эксплуатации ОПМ.140.161. РЭ",
+            "applicable": {
+                "certNum": "С-ДБЖ\/15-03-2022\/146038836",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39952.08.2Р.00400113",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/400113",
+                    "mitypeNumber": "39952-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350010",
+                    "mitypeTitle": "Приборы для измерения электроэнергетических величин и показателей качества электрической энергии",
+                    "notation": "Энергомонитор-3.3Т1",
+                    "modification": "мод. энергомонитор-3.3Т1",
+                    "manufactureNum": "2009",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС утв. приказом Росстандарта №1053 от 29.05.2018 г."
+                },
+                {
+                    "regNumber": "69742.17.2Р.00440366",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/440366",
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "B7-78\/1, B7-78\/2, B7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00035872",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 2091 от 01.10.2018 г. «Государственная поверочная схема для средств измерений силы постоянного электрического тока в диап"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "18708"
+                },
+                {
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "TW00035872"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "19 °С"
+        }
+    },
+    "146038810": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15593-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313772",
+                "mitypeType": "Е842\/1М, Е855\/3М, Е855\/5М, Е854\/3М",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "016442",
+                "manufactureYear": 2001,
+                "modification": "Е855\/1-М1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТРАНСНЕФТЬ - БАЛТИКА\"(ООО \"ТРАНСНЕФТЬ - БАЛТИКА\")",
+            "signCipher": "ДБЖ",
+            "miOwner": "ООО \"Транснефть-Балтика\"",
+            "vrfDate": "15.03.2022",
+            "validDate": "14.03.2023",
+            "vriType": "2",
+            "docTitle": "раздел 7 \"Методы и средства поверки\" в руководстве по эксплуатации ОПМ.140.161. РЭ",
+            "applicable": {
+                "certNum": "С-ДБЖ\/15-03-2022\/146038810",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39952.08.2Р.00400113",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/400113",
+                    "mitypeNumber": "39952-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350010",
+                    "mitypeTitle": "Приборы для измерения электроэнергетических величин и показателей качества электрической энергии",
+                    "notation": "Энергомонитор-3.3Т1",
+                    "modification": "мод. энергомонитор-3.3Т1",
+                    "manufactureNum": "2009",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС утв. приказом Росстандарта №1053 от 29.05.2018 г."
+                },
+                {
+                    "regNumber": "69742.17.2Р.00440366",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/440366",
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "B7-78\/1, B7-78\/2, B7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00035872",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 2091 от 01.10.2018 г. «Государственная поверочная схема для средств измерений силы постоянного электрического тока в диап"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "18708"
+                },
+                {
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "TW00035872"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "19 °С"
+        }
+    },
+    "146038859": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15593-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313772",
+                "mitypeType": "Е842\/1М, Е855\/3М, Е855\/5М, Е854\/3М",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "016426",
+                "manufactureYear": 2001,
+                "modification": "Е855\/1-М1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТРАНСНЕФТЬ - БАЛТИКА\"(ООО \"ТРАНСНЕФТЬ - БАЛТИКА\")",
+            "signCipher": "ДБЖ",
+            "miOwner": "ООО \"Транснефть-Балтика\"",
+            "vrfDate": "15.03.2022",
+            "validDate": "14.03.2023",
+            "vriType": "2",
+            "docTitle": "раздел 7 \"Методы и средства поверки\" в руководстве по эксплуатации ОПМ.140.161. РЭ",
+            "applicable": {
+                "certNum": "С-ДБЖ\/15-03-2022\/146038859",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39952.08.2Р.00400113",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/400113",
+                    "mitypeNumber": "39952-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350010",
+                    "mitypeTitle": "Приборы для измерения электроэнергетических величин и показателей качества электрической энергии",
+                    "notation": "Энергомонитор-3.3Т1",
+                    "modification": "мод. энергомонитор-3.3Т1",
+                    "manufactureNum": "2009",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС утв. приказом Росстандарта №1053 от 29.05.2018 г."
+                },
+                {
+                    "regNumber": "69742.17.2Р.00440366",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/440366",
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "B7-78\/1, B7-78\/2, B7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00035872",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 2091 от 01.10.2018 г. «Государственная поверочная схема для средств измерений силы постоянного электрического тока в диап"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "18708"
+                },
+                {
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "TW00035872"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "19 °С"
+        }
+    },
+    "146038784": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15593-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313772",
+                "mitypeType": "Е842\/1М, Е855\/3М, Е855\/5М, Е854\/3М",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "019419",
+                "manufactureYear": 2001,
+                "modification": "Е855\/1-М1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТРАНСНЕФТЬ - БАЛТИКА\"(ООО \"ТРАНСНЕФТЬ - БАЛТИКА\")",
+            "signCipher": "ДБЖ",
+            "miOwner": "ООО \"Транснефть-Балтика\"",
+            "vrfDate": "15.03.2022",
+            "validDate": "14.03.2023",
+            "vriType": "2",
+            "docTitle": "раздел 7 \"Методы и средства поверки\" в руководстве по эксплуатации ОПМ.140.161. РЭ",
+            "applicable": {
+                "certNum": "С-ДБЖ\/15-03-2022\/146038784",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "39952.08.2Р.00400113",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/400113",
+                    "mitypeNumber": "39952-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350010",
+                    "mitypeTitle": "Приборы для измерения электроэнергетических величин и показателей качества электрической энергии",
+                    "notation": "Энергомонитор-3.3Т1",
+                    "modification": "мод. энергомонитор-3.3Т1",
+                    "manufactureNum": "2009",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС утв. приказом Росстандарта №1053 от 29.05.2018 г."
+                },
+                {
+                    "regNumber": "69742.17.2Р.00440366",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/440366",
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "B7-78\/1, B7-78\/2, B7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00035872",
+                    "manufactureYear": 2018,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 2091 от 01.10.2018 г. «Государственная поверочная схема для средств измерений силы постоянного электрического тока в диап"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "18708"
+                },
+                {
+                    "mitypeNumber": "69742-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/383898",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "TW00035872"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "19 °С"
+        }
+    },
+    "139005632": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15593-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313772",
+                "mitypeType": "Е842\/1М, Е855\/3М, Е855\/5М, Е854\/3М",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "7572",
+                "manufactureYear": 1998,
+                "modification": "Е854\/3-м"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСНЕФТЬ - СИБИРЬ\"(АО \"ТРАНСНЕФТЬ - СИБИРЬ\")",
+            "signCipher": "БЖА",
+            "miOwner": "АО \"Транснефть-Сибирь\"",
+            "vrfDate": "10.02.2022",
+            "validDate": "09.02.2023",
+            "vriType": "2",
+            "docTitle": "МП.ВТ.176-2007",
+            "applicable": {
+                "certNum": "С-БЖА\/10-02-2022\/139005632",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.БЖА.0126.2018",
+                    "title": "Рабочий эталон единиц:nэлектрического напряжения 3 разряда в диапазоне значений (0…10) В; nсилы постоянного электрического тока 2 разряда в диапазоне значений (0…24) мА.",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/599491"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "34284-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343115",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "E1006E7"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "807С"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "21,2 °С"
+        }
+    },
+    "139005866": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15593-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313772",
+                "mitypeType": "Е842\/1М, Е855\/3М, Е855\/5М, Е854\/3М",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "7635",
+                "manufactureYear": 1998,
+                "modification": "Е854\/3-м"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСНЕФТЬ - СИБИРЬ\"(АО \"ТРАНСНЕФТЬ - СИБИРЬ\")",
+            "signCipher": "БЖА",
+            "miOwner": "АО \"Транснефть-Сибирь\"",
+            "vrfDate": "02.02.2022",
+            "validDate": "01.02.2023",
+            "vriType": "2",
+            "docTitle": "МП.ВТ.176-2007",
+            "applicable": {
+                "certNum": "С-БЖА\/02-02-2022\/139005866",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.БЖА.0126.2018",
+                    "title": "Рабочий эталон единиц:nэлектрического напряжения 3 разряда в диапазоне значений (0…10) В; nсилы постоянного электрического тока 2 разряда в диапазоне значений (0…24) мА.",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/599491"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "34284-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343115",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "E1006E7"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "807С"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "22,3 °С"
+        }
+    },
+    "139005899": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15593-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313772",
+                "mitypeType": "Е842\/1М, Е855\/3М, Е855\/5М, Е854\/3М",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "7570",
+                "manufactureYear": 1998,
+                "modification": "Е854\/3-м"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСНЕФТЬ - СИБИРЬ\"(АО \"ТРАНСНЕФТЬ - СИБИРЬ\")",
+            "signCipher": "БЖА",
+            "miOwner": "АО \"Транснефть-Сибирь\"",
+            "vrfDate": "02.02.2022",
+            "validDate": "01.02.2023",
+            "vriType": "2",
+            "docTitle": "МП.ВТ.176-2007",
+            "applicable": {
+                "certNum": "С-БЖА\/02-02-2022\/139005899",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.БЖА.0126.2018",
+                    "title": "Рабочий эталон единиц:nэлектрического напряжения 3 разряда в диапазоне значений (0…10) В; nсилы постоянного электрического тока 2 разряда в диапазоне значений (0…24) мА.",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/599491"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "34284-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343115",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "E1006E7"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "807С"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "22,3 °С"
+        }
+    },
+    "139005833": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "15593-96",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/313772",
+                "mitypeType": "Е842\/1М, Е855\/3М, Е855\/5М, Е854\/3М",
+                "mitypeTitle": "Преобразователи измерительные",
+                "manufactureNum": "7571",
+                "manufactureYear": 1998,
+                "modification": "Е854\/3-м"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСНЕФТЬ - СИБИРЬ\"(АО \"ТРАНСНЕФТЬ - СИБИРЬ\")",
+            "signCipher": "БЖА",
+            "miOwner": "АО \"Транснефть-Сибирь\"",
+            "vrfDate": "02.02.2022",
+            "validDate": "01.02.2023",
+            "vriType": "2",
+            "docTitle": "МП.ВТ.176-2007",
+            "applicable": {
+                "certNum": "С-БЖА\/02-02-2022\/139005833",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.2.БЖА.0126.2018",
+                    "title": "Рабочий эталон единиц:nэлектрического напряжения 3 разряда в диапазоне значений (0…10) В; nсилы постоянного электрического тока 2 разряда в диапазоне значений (0…24) мА.",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/599491"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "34284-07",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/343115",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "number": "E1006E7"
+                },
+                {
+                    "mitypeNumber": "46434-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011261",
+                    "mitypeTitle": "Термогигрометры",
+                    "number": "807С"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "22,3 °С"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "196936477": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "2006-64",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/322221",
+                "mitypeType": "В3-14",
+                "mitypeTitle": "Милливольтметры ламповые",
+                "manufactureNum": "6196",
+                "manufactureYear": 1972,
+                "modification": "В3-13"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АВИАКОМПАНИЯ \"АНГАРА\"(АО \"Авиакомпания \"Ангара\")",
+            "signCipher": "АЧИ",
+            "miOwner": "АО \"Авиакомпания \"Ангара\"",
+            "vrfDate": "18.10.2022",
+            "validDate": "17.10.2023",
+            "vriType": "2",
+            "docTitle": "ГОСТ 8.497-83 «ГСОЕИ.Амперметры, вольтметры, ваттметры, варметры. Методика Поверки»",
+            "applicable": {
+                "certNum": "С-АЧИ\/18-10-2022\/196936477",
+                "signPass": true,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "7438.79.2Р.00519970",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/519970",
+                    "mitypeNumber": "7438-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385504",
+                    "mitypeTitle": "Установки для поверки вольтметров",
+                    "notation": "В1-16",
+                    "modification": "В1-16",
+                    "manufactureNum": "4009",
+                    "manufactureYear": 1991,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "№ 1053 «ГПС для средств измерений переменного электрического напряжения до 1000 В в диапазоне частот от 0,01 Гц до 2 ГГц»»"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

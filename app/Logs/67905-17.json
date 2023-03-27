@@ -1,0 +1,177 @@
+{
+    "202213234": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "67905-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381905",
+                "mitypeType": "УИС-252",
+                "mitypeTitle": "Система измерительная стенда",
+                "manufactureNum": "Р001.01АТ-16",
+                "modification": "без модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "САНКТ-ПЕТЕРБУРГСКОЕ ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"КРАСНЫЙ ОКТЯБРЬ\"(СПБ ОАО \"КРАСНЫЙ ОКТЯБРЬ\")",
+            "signCipher": "ГСШ",
+            "miOwner": "СПБ ОАО \"КРАСНЫЙ ОКТЯБРЬ\"",
+            "vrfDate": "09.11.2022",
+            "validDate": "08.11.2023",
+            "vriType": "2",
+            "docTitle": "МП-206-0003-2017",
+            "applicable": {
+                "certNum": "С-ГСШ\/09-11-2022\/202213234",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "19916.10.3Р.38131",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/38131",
+                    "mitypeNumber": "19916-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/321944",
+                    "mitypeTitle": "Термометры сопротивления эталонные",
+                    "notation": "ЭТС-100",
+                    "modification": "ЭТС-100, исп. ЭТС-100\/1",
+                    "manufactureNum": "12-02",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений температуры. ГОСТ 8.558-2009"
+                },
+                {
+                    "regNumber": "55497.13.4Р.38590",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/38590",
+                    "mitypeNumber": "55497-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368079",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "АКИП-3413\/1, АКИП-3413\/2, АКИП-3413\/3",
+                    "modification": "АКИП-3413\/2",
+                    "manufactureNum": "NDG50DAX2R0276",
+                    "manufactureYear": 2017,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "49876.12.3Р.00252433",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/252433",
+                    "mitypeNumber": "49876-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361598",
+                    "mitypeTitle": "Калибраторы процессов документирующие",
+                    "notation": "Fluke 753 и Fluke 754",
+                    "modification": "Fluke 754",
+                    "manufactureNum": "4117003",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "49876.12.4Р.00252437",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/252437",
+                    "mitypeNumber": "49876-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/361598",
+                    "mitypeTitle": "Калибраторы процессов документирующие",
+                    "notation": "Fluke 753 и Fluke 754",
+                    "modification": "Fluke 754",
+                    "manufactureNum": "4117003",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "46432.11.3Р.00298362",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/298362",
+                    "mitypeNumber": "46432-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357464",
+                    "mitypeTitle": "Измерители температуры двухканальные прецизионные",
+                    "notation": "МИТ2",
+                    "modification": "МИТ2, мод. МИТ 2.05",
+                    "manufactureNum": "185",
+                    "manufactureYear": 2011,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 №3456"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "ИК частоты вращения – 5 каналов, ИК температуры масла – 12 каналов, ИК давления масла – 7 каналов, ИК расхода масла - 6 каналов, ИК силы - 12 каналов, ИК крутящего момента силы - 2 канала, ИК крутящего момента силы (вторичная часть) – 2 канала, ИК электрической мощности – 2 канала",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-202213234\/protocol"
+        }
+    },
+    "204520404": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "67905-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381905",
+                "mitypeType": "УИС-252",
+                "mitypeTitle": "Система измерительная стенда",
+                "manufactureNum": "Р001.01АТ-16",
+                "modification": "нет модификации"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ АВТОНОМНОЕ УЧРЕЖДЕНИЕ \"ЦЕНТРАЛЬНЫЙ ИНСТИТУТ АВИАЦИОННОГО МОТОРОСТРОЕНИЯ ИМЕНИ П.И.БАРАНОВА\"(ФАУ \"ЦИАМ ИМ. П.И. БАРАНОВА\")",
+            "signCipher": "БДЦ",
+            "miOwner": "СПб ОАО «Красный Октябрь»",
+            "vrfDate": "09.11.2022",
+            "validDate": "08.11.2023",
+            "vriType": "2",
+            "docTitle": "МП-206-0003-2017",
+            "applicable": {
+                "certNum": "С-БДЦ\/09-11-2022\/204520404",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "70345.18.2Р.00336777",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/336777",
+                    "mitypeNumber": "70345-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384560",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "Fluke 5522A",
+                    "modification": "Fluke 5522A",
+                    "manufactureNum": "5348901",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы. Приказ 3457"
+                },
+                {
+                    "regNumber": "70345.18.2Р.00647861",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/647861",
+                    "mitypeNumber": "70345-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/384560",
+                    "mitypeTitle": "Калибраторы многофункциональные",
+                    "notation": "Fluke 5522A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "5348901",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для СИ силы переменного электрического тока 1·10^-8 - 100 А частот 1·10^-1 - 1·10^6 Гц. Приказ № 668 от 17.03.2022"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39525154\/0920"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "По ИК виброускорения - 9 шт."
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "197564932": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "47409-11",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/358660",
+                "mitypeType": "RWP-VIS",
+                "mitypeTitle": "Система ультразвукового контроля",
+                "manufactureNum": "773173",
+                "modification": "RWP-VIS"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НОВОСИБИРСКОЙ ОБЛАСТИ\"(ФБУ \"НОВОСИБИРСКИЙ ЦСМ\")",
+            "signCipher": "НН",
+            "miOwner": "Акционерное общество АЛТАЙСКОГО ВАГОНОСТРОЕНИЯ",
+            "vrfDate": "24.10.2022",
+            "validDate": "23.10.2023",
+            "vriType": "2",
+            "docTitle": "Документ \"Система ультразвукового контроля \"RWP-VIS\". Методика поверки\", утвержден ГЦИ СИ ФГУП \"ВНИИОФИ\" 30.05.2011 г.",
+            "applicable": {
+                "certNum": "С-НН\/24-10-2022\/197564932",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "20674.00.РЭ.09046",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/9046",
+                    "mitypeNumber": "20674-00",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/323259",
+                    "mitypeTitle": "Аттенюаторы широкополосные",
+                    "notation": "АТТ-90-0,1-95\/2",
+                    "modification": "-",
+                    "manufactureNum": "030-04-10",
+                    "manufactureYear": 2010,
+                    "rankCode": "РЭ",
+                    "rankTitle": "Рабочий эталон",
+                    "schemaTitle": "Локальная ПС  057-0351 утв. ФБУ «Новосибирский ЦСМ» в 2013 г."
+                },
+                {
+                    "regNumber": "63388.16.3Р.00181180",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/181180",
+                    "mitypeNumber": "63388-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376976",
+                    "mitypeTitle": "Комплекты мер ультразвуковых",
+                    "notation": "ККО-3",
+                    "modification": "ККО-3",
+                    "manufactureNum": "19-027, 19-030, 19-027",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 2842 от 29.12.2018"
+                },
+                {
+                    "regNumber": "26209.08.4Р.00289373",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/289373",
+                    "mitypeNumber": "26209-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332215",
+                    "mitypeTitle": "Генераторы сигналов произвольной формы",
+                    "notation": "33250A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY40023326",
+                    "manufactureYear": 2009,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "24019.06.2Р.00321188",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/321188",
+                    "mitypeNumber": "24019-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328868",
+                    "mitypeTitle": "Осциллографы цифровые запоминающие",
+                    "notation": "TDS1001, TDS1002, TDS1012",
+                    "modification": "TDS1002",
+                    "manufactureNum": "C075560",
+                    "manufactureYear": 2006,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ 3463 от 30.12.2019"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

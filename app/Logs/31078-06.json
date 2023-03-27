@@ -1,0 +1,50 @@
+{
+    "163130944": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "31078-06",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338932",
+                "mitypeType": "EMBSIN 301 и EMBSIN 391",
+                "mitypeTitle": "Преобразователи измерительные переменного тока программируемые",
+                "manufactureNum": "091025373",
+                "modification": "СВК-15-1,5"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АКВАТЕХНИКА\"(ООО \"АКВАТЕХНИКА\")",
+            "signCipher": "ДКИ",
+            "miOwner": "0",
+            "vrfDate": "09.06.2022",
+            "validDate": "08.06.2028",
+            "vriType": "2",
+            "docTitle": "МИ 1592-2015 Рекомендация ГСИ Счетчики воды методика поверки Раздел 2",
+            "applicable": {
+                "certNum": "С-ДКИ\/09-06-2022\/163130944",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "60661.15.3Р.00530491",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/530491",
+                    "mitypeNumber": "60661-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373953",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "ВПУ - Энерго М",
+                    "modification": "ВПУ-Энерго М-00-00-0-03",
+                    "manufactureNum": "020.15.201",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "часть 1 Государственной поверочной схемы для средств измерений массы и объёма жидкости в потоке, объёма жидкости и вместимости"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "от 0,06 до 0,95"
+        }
+    }
+}

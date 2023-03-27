@@ -1,0 +1,78 @@
+{
+    "201331175": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "36830.08.2Р.00467499",
+                "mitypeNumber": "36830-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/346254",
+                "mitypeTitle": "Виброустановка поверочная",
+                "mitypeType": "Нет данных",
+                "modification": "Без модификации",
+                "manufactureNum": "6",
+                "manufactureYear": 2008,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "рабочего эталона 2 разряда по ГПС утв. приказом Росстандарта № 2772 от 27.12.2018"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ  УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В НИЖЕГОРОДСКОЙ ОБЛАСТИ\"(ФБУ \"НИЖЕГОРОДСКИЙ ЦСМ\")",
+            "signCipher": "БН",
+            "miOwner": "Сведения отсутствуют",
+            "vrfDate": "09.11.2022",
+            "validDate": "08.11.2023",
+            "vriType": "2",
+            "docTitle": "МИ 1929-2007 \"ГСИ. Установки вибрационные поверочные. Методика поверки\"",
+            "applicable": {
+                "certNum": "С-БН\/09-11-2022\/201331175",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "10227.85.2Р.54709",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/54709",
+                    "mitypeNumber": "10227-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304413",
+                    "mitypeTitle": "Измерители нелинейных искажений",
+                    "notation": "СК6-13",
+                    "modification": "СК6-13",
+                    "manufactureNum": "9112056",
+                    "manufactureYear": 1993,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.762-2011"
+                },
+                {
+                    "regNumber": "77778.20.ВЭ.00154491",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/154491",
+                    "mitypeNumber": "77778-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1177845",
+                    "mitypeTitle": "Установка для поверки и калибровки виброизмерительных преобразователей",
+                    "notation": "CS18P VLF HF",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "201811",
+                    "manufactureYear": 2017,
+                    "rankCode": "ВЭ",
+                    "rankTitle": "Вторичный эталон",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений виброперемещения, виброскорости, виброускорения и углового ускорения"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "60418-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373692",
+                    "mitypeTitle": "Акселерометры",
+                    "number": "LW170543"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Усилитель мощности тип 2719 зав. № В271902037 ; Вольтметр тип 2427 зав. № 713901 ; Вольтметр тип 2427 зав. № 1134549 ; Генератор управляющий 1047 зав. № 1197493 ; Вибростенд тип 4808 зав. № 2252929 ; Усилитель измерительный тип 2626 зав. № 1171726 ; Вибропреобразователь ускорения тип ВДО-101 зав. № 20",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-201331175\/protocol"
+        }
+    }
+}

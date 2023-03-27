@@ -1,0 +1,1788 @@
+{
+    "218620995": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36527-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345893",
+                "mitypeType": "МЦЕ-24А",
+                "mitypeTitle": "Приборы для измерения емкости и тангенса угла потерь конденсаторов",
+                "manufactureNum": "09",
+                "manufactureYear": 2008,
+                "modification": "МЦЕ-24А1"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО - ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ГИРИКОНД\"(АО\"НИИ\"ГИРИКОНД\")",
+            "signCipher": "ГСП",
+            "miOwner": "АО\"НИИ\"ГИРИКОНД\"",
+            "vrfDate": "18.01.2023",
+            "validDate": "17.01.2024",
+            "vriType": "2",
+            "docTitle": "УБМ2.675.054 РЭ, раздел 7. Методика поверки",
+            "applicable": {
+                "certNum": "С-ГСП\/18-01-2023\/218620995",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52147.12.3Р.00110745",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/110745",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00026462",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "2224.66.4Р.00227569",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/227569",
+                    "mitypeNumber": "2224-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325965",
+                    "mitypeTitle": "Магазины сопротивлений рычажные",
+                    "notation": "Р4002",
+                    "modification": "Р4002",
+                    "manufactureNum": "12228",
+                    "manufactureYear": 1982,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "2751.71.4Р.00279696",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279696",
+                    "mitypeNumber": "2751-71",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334133",
+                    "mitypeTitle": "Магазины сопротивления измерительные",
+                    "notation": "МСР-60М",
+                    "modification": "МСР-60М",
+                    "manufactureNum": "03049",
+                    "manufactureYear": 1980,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "11918.89.3Р.00290287",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/290287",
+                    "mitypeNumber": "11918-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306741",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "96",
+                    "manufactureYear": 1990,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "7473.79.2Р.00387303",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/387303",
+                    "mitypeNumber": "7473-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385547",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000, М10000",
+                    "modification": "М10000",
+                    "manufactureNum": "85",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "5480.76.4Р.00558336",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/558336",
+                    "mitypeNumber": "5480-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367290",
+                    "mitypeTitle": "Частотомеры электронно-счетные с преобразователями",
+                    "notation": "Ч3-54, Я3Ч-72, Я3Ч-87, Я3Ч-88",
+                    "modification": "Ч3-54",
+                    "manufactureNum": "106623",
+                    "manufactureYear": 1981,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 31.07.2018 № 1621 «ГПС для средств измерений времени и частоты»"
+                },
+                {
+                    "regNumber": "11786.89.3Р.00633071",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/633071",
+                    "mitypeNumber": "11786-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306550",
+                    "mitypeTitle": "Меры параметров емкости и тангенса угла потерь",
+                    "notation": "МПЕТ-1А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "02",
+                    "manufactureYear": 1989,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "7473.79.3Р.00661316",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/661316",
+                    "mitypeNumber": "7473-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385547",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000, М10000",
+                    "modification": "М10000",
+                    "manufactureNum": "85",
+                    "manufactureYear": 1988,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "9081.83.2Р.00686483",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/686483",
+                    "mitypeNumber": "9081-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387752",
+                    "mitypeTitle": "Измерители нелинейных искажений автоматические",
+                    "notation": "С6-11",
+                    "modification": "С6-11",
+                    "manufactureNum": "9103281",
+                    "manufactureYear": 1991,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.762-2011"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "12001-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306872",
+                    "mitypeTitle": "Приборы цифровые автоматические",
+                    "number": "87"
+                },
+                {
+                    "mitypeNumber": "11519-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306186",
+                    "mitypeTitle": "Секундомеры механические",
+                    "number": "9663"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39529488\/0721"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Поверен на поддиапазонах 2000 нФ, 2000 мкФ ... 2000 мФ",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-218620995\/protocol"
+        }
+    },
+    "218620996": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36527-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345893",
+                "mitypeType": "МЦЕ-24А",
+                "mitypeTitle": "Приборы для измерения емкости и тангенса угла потерь конденсаторов",
+                "manufactureNum": "03",
+                "manufactureYear": 2006,
+                "modification": "МЦЕ-24А1"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО - ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ГИРИКОНД\"(АО\"НИИ\"ГИРИКОНД\")",
+            "signCipher": "ГСП",
+            "miOwner": "АО\"НИИ\"ГИРИКОНД\"",
+            "vrfDate": "17.01.2023",
+            "validDate": "16.01.2024",
+            "vriType": "2",
+            "docTitle": "УБМ2.675.054 РЭ, раздел 7. Методика поверки",
+            "applicable": {
+                "certNum": "С-ГСП\/17-01-2023\/218620996",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52147.12.3Р.00110745",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/110745",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00026462",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "2224.66.4Р.00227569",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/227569",
+                    "mitypeNumber": "2224-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325965",
+                    "mitypeTitle": "Магазины сопротивлений рычажные",
+                    "notation": "Р4002",
+                    "modification": "Р4002",
+                    "manufactureNum": "12228",
+                    "manufactureYear": 1982,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "2751.71.4Р.00279696",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279696",
+                    "mitypeNumber": "2751-71",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334133",
+                    "mitypeTitle": "Магазины сопротивления измерительные",
+                    "notation": "МСР-60М",
+                    "modification": "МСР-60М",
+                    "manufactureNum": "03049",
+                    "manufactureYear": 1980,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "11918.89.3Р.00290287",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/290287",
+                    "mitypeNumber": "11918-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306741",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "96",
+                    "manufactureYear": 1990,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "7473.79.2Р.00387303",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/387303",
+                    "mitypeNumber": "7473-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385547",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000, М10000",
+                    "modification": "М10000",
+                    "manufactureNum": "85",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "5480.76.4Р.00558336",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/558336",
+                    "mitypeNumber": "5480-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367290",
+                    "mitypeTitle": "Частотомеры электронно-счетные с преобразователями",
+                    "notation": "Ч3-54, Я3Ч-72, Я3Ч-87, Я3Ч-88",
+                    "modification": "Ч3-54",
+                    "manufactureNum": "106623",
+                    "manufactureYear": 1981,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 31.07.2018 № 1621 «ГПС для средств измерений времени и частоты»"
+                },
+                {
+                    "regNumber": "11786.89.3Р.00633071",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/633071",
+                    "mitypeNumber": "11786-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306550",
+                    "mitypeTitle": "Меры параметров емкости и тангенса угла потерь",
+                    "notation": "МПЕТ-1А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "02",
+                    "manufactureYear": 1989,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "7473.79.3Р.00661316",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/661316",
+                    "mitypeNumber": "7473-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385547",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000, М10000",
+                    "modification": "М10000",
+                    "manufactureNum": "85",
+                    "manufactureYear": 1988,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "9081.83.2Р.00686483",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/686483",
+                    "mitypeNumber": "9081-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387752",
+                    "mitypeTitle": "Измерители нелинейных искажений автоматические",
+                    "notation": "С6-11",
+                    "modification": "С6-11",
+                    "manufactureNum": "9103281",
+                    "manufactureYear": 1991,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.762-2011"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "12001-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306872",
+                    "mitypeTitle": "Приборы цифровые автоматические",
+                    "number": "87"
+                },
+                {
+                    "mitypeNumber": "11519-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306186",
+                    "mitypeTitle": "Секундомеры механические",
+                    "number": "9663"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39529488\/0721"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Поверен на поддиапазонах 2000 нФ, 2000 мкФ ... 2000 мФ",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-218620996\/protocol"
+        }
+    },
+    "204837245": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36527-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345893",
+                "mitypeType": "МЦЕ-24А",
+                "mitypeTitle": "Приборы для измерения емкости и тангенса угла потерь конденсаторов",
+                "manufactureNum": "16",
+                "modification": "МЦЕ-24А1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В РЕСПУБЛИКЕ БАШКОРТОСТАН\"(ФБУ \"ЦСМ РЕСПУБЛИКИ БАШКОРТОСТАН\")",
+            "signCipher": "АБ",
+            "miOwner": "Юр.лицо",
+            "vrfDate": "29.11.2022",
+            "validDate": "28.11.2023",
+            "vriType": "2",
+            "docTitle": "МП, изложенной в разделе 7 УБМ2.675.054 РЭ, согласованной ГЦИ СИ Тест-С.Петербург в октябре 2007 г.",
+            "applicable": {
+                "certNum": "С-АБ\/29-11-2022\/204837245",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "11326.90.4Р.00105488",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/105488",
+                    "mitypeNumber": "11326-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305921",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "notation": "Р4834",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "19476",
+                    "manufactureYear": 1990,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ №3456 от 30.12.2019 ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "2224.66.4Р.00154681",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/154681",
+                    "mitypeNumber": "2224-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325965",
+                    "mitypeTitle": "Магазины сопротивлений рычажные",
+                    "notation": "Р4002",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "1738",
+                    "manufactureYear": 1969,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ №3456 от 30.12.2019 ГПС для средств измерений электрического сопротивления постоянного и переменного тока"
+                },
+                {
+                    "regNumber": "63371.16.3Р.00244586",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/244586",
+                    "mitypeNumber": "63371-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376958",
+                    "mitypeTitle": "Мультиметры цифровые",
+                    "notation": "34465А, 34470А",
+                    "modification": "34465А",
+                    "manufactureNum": "MY57506384",
+                    "manufactureYear": 2018,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ №3457 от 30.12.2019 ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы"
+                },
+                {
+                    "regNumber": "2684.70.2Р.00290927",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/290927",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/10",
+                    "manufactureNum": "68307",
+                    "manufactureYear": 1971,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80"
+                },
+                {
+                    "regNumber": "2684.70.2Р.00290928",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/290928",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/9",
+                    "manufactureNum": "806",
+                    "manufactureYear": 1990,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80"
+                },
+                {
+                    "regNumber": "2684.70.2Р.00290929",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/290929",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/8",
+                    "manufactureNum": "68270",
+                    "manufactureYear": 1971,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80"
+                },
+                {
+                    "regNumber": "2684.70.2Р.00290930",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/290930",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/7",
+                    "manufactureNum": "68248",
+                    "manufactureYear": 1971,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80"
+                },
+                {
+                    "regNumber": "2684.70.2Р.00337269",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/337269",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/18",
+                    "manufactureNum": "68372",
+                    "manufactureYear": 1971,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 \"ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерения электрической емкости\""
+                },
+                {
+                    "regNumber": "2684.70.2Р.00337270",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/337270",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/16",
+                    "manufactureNum": "68408",
+                    "manufactureYear": 1971,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 \"ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерения электрической емкости\""
+                },
+                {
+                    "regNumber": "2684.70.2Р.00337293",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/337293",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/15",
+                    "manufactureNum": "68443",
+                    "manufactureYear": 1971,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 \"ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерения электрической емкости\""
+                },
+                {
+                    "regNumber": "2684.70.2Р.00337299",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/337299",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/6",
+                    "manufactureNum": "68219",
+                    "manufactureYear": 1971,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 \"ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерения электрической емкости\""
+                },
+                {
+                    "regNumber": "2684.70.2Р.00337300",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/337300",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/5",
+                    "manufactureNum": "68187",
+                    "manufactureYear": 1971,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 \"ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерения электрической емкости\""
+                },
+                {
+                    "regNumber": "2684.70.2Р.00337301",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/337301",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/4",
+                    "manufactureNum": "68160",
+                    "manufactureYear": 1971,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 \"ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерения электрической емкости\""
+                },
+                {
+                    "regNumber": "2684.70.2Р.00337302",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/337302",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/2",
+                    "manufactureNum": "67965",
+                    "manufactureYear": 1971,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 \"ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерения электрической емкости\""
+                },
+                {
+                    "regNumber": "2684.70.2Р.00337303",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/337303",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/1",
+                    "manufactureNum": "67983",
+                    "manufactureYear": 1971,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 \"ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерения электрической емкости\""
+                },
+                {
+                    "regNumber": "40676.09.2Р.00428836",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/428836",
+                    "mitypeNumber": "40676-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/350875",
+                    "mitypeTitle": "Измерители",
+                    "notation": "LCR мод. Е4980А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY46208200",
+                    "manufactureYear": 2012,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической емкости»"
+                },
+                {
+                    "regNumber": "2684.70.3Р.00621660",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/621660",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/13",
+                    "manufactureNum": "68482",
+                    "manufactureYear": 1971,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической емкости."
+                },
+                {
+                    "regNumber": "2684.70.3Р.00621666",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/621666",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/11",
+                    "manufactureNum": "68549",
+                    "manufactureYear": 1971,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической емкости."
+                },
+                {
+                    "regNumber": "2684.70.3Р.00621674",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/621674",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/19",
+                    "manufactureNum": "68346",
+                    "manufactureYear": 1971,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической емкости."
+                },
+                {
+                    "regNumber": "2684.70.3Р.00621675",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/621675",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/14",
+                    "manufactureNum": "68474",
+                    "manufactureYear": 1971,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической емкости."
+                },
+                {
+                    "regNumber": "2684.70.3Р.00621676",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/621676",
+                    "mitypeNumber": "2684-70",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333202",
+                    "mitypeTitle": "Меры емкости образцовые",
+                    "notation": "Р597",
+                    "modification": "Р597\/12",
+                    "manufactureNum": "68517",
+                    "manufactureYear": 1971,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической емкости."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "5395-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366344",
+                    "mitypeTitle": "Магазины емкости",
+                    "number": "1218"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "в режиме измерения электрической емкости 0,1 нФ - 200 мкФ",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-204837245\/protocol"
+        }
+    },
+    "204508891": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36527-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345893",
+                "mitypeType": "МЦЕ-24А",
+                "mitypeTitle": "Приборы для измерения емкости и тангенса угла потерь конденсаторов",
+                "manufactureNum": "15",
+                "modification": "МЦЕ-24А1"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"ПСКОВСКИЙ ЦСМ\")",
+            "signCipher": "ВО",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "28.11.2022",
+            "validDate": "27.11.2023",
+            "vriType": "2",
+            "docTitle": "Раздел 7 УБМ2.675.054 РЭ",
+            "applicable": {
+                "certNum": "С-ВО\/28-11-2022\/204508891",
+                "stickerNum": "20015968185",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "11326.90.4Р.00210882",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/210882",
+                    "mitypeNumber": "11326-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/305921",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "notation": "Р4834",
+                    "modification": "Р4834",
+                    "manufactureNum": "0490",
+                    "manufactureYear": 2011,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ ФАТРиМ от 30.12.2019 № 3456  «Государственная поверочная схема для средств измерений электрического сопротивления постоян"
+                },
+                {
+                    "regNumber": "5395.76.3Р.00299508",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/299508",
+                    "mitypeNumber": "5395-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366344",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "Р5025",
+                    "modification": "Р5025",
+                    "manufactureNum": "577",
+                    "manufactureYear": 1980,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "44154-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/354976",
+                    "mitypeTitle": "Секундомеры электронные",
+                    "number": "416051"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "201152600": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36527-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345893",
+                "mitypeType": "МЦЕ-24А",
+                "mitypeTitle": "Приборы для измерения емкости и тангенса угла потерь конденсаторов",
+                "manufactureNum": "18",
+                "manufactureYear": 2011,
+                "modification": "МЦЕ-24А1"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО - ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ГИРИКОНД\"(АО\"НИИ\"ГИРИКОНД\")",
+            "signCipher": "ГСП",
+            "miOwner": "АО\"НИИ\"ГИРИКОНД\"",
+            "vrfDate": "10.11.2022",
+            "validDate": "09.11.2023",
+            "vriType": "2",
+            "docTitle": "УБМ2.675.054 РЭ, раздел 7. Методика поверки",
+            "applicable": {
+                "certNum": "С-ГСП\/10-11-2022\/201152600",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52147.12.3Р.00110745",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/110745",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00026462",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "2224.66.4Р.00227569",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/227569",
+                    "mitypeNumber": "2224-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325965",
+                    "mitypeTitle": "Магазины сопротивлений рычажные",
+                    "notation": "Р4002",
+                    "modification": "Р4002",
+                    "manufactureNum": "12228",
+                    "manufactureYear": 1982,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "2751.71.4Р.00279696",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279696",
+                    "mitypeNumber": "2751-71",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334133",
+                    "mitypeTitle": "Магазины сопротивления измерительные",
+                    "notation": "МСР-60М",
+                    "modification": "МСР-60М",
+                    "manufactureNum": "03049",
+                    "manufactureYear": 1980,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "11918.89.3Р.00290287",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/290287",
+                    "mitypeNumber": "11918-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306741",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "96",
+                    "manufactureYear": 1990,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "7473.79.2Р.00387303",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/387303",
+                    "mitypeNumber": "7473-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385547",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000, М10000",
+                    "modification": "М10000",
+                    "manufactureNum": "85",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "5480.76.4Р.00558336",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/558336",
+                    "mitypeNumber": "5480-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367290",
+                    "mitypeTitle": "Частотомеры электронно-счетные с преобразователями",
+                    "notation": "Ч3-54, Я3Ч-72, Я3Ч-87, Я3Ч-88",
+                    "modification": "Ч3-54",
+                    "manufactureNum": "106623",
+                    "manufactureYear": 1981,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 31.07.2018 № 1621 «ГПС для средств измерений времени и частоты»"
+                },
+                {
+                    "regNumber": "11786.89.3Р.00633071",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/633071",
+                    "mitypeNumber": "11786-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306550",
+                    "mitypeTitle": "Меры параметров емкости и тангенса угла потерь",
+                    "notation": "МПЕТ-1А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "02",
+                    "manufactureYear": 1989,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "7473.79.3Р.00661316",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/661316",
+                    "mitypeNumber": "7473-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385547",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000, М10000",
+                    "modification": "М10000",
+                    "manufactureNum": "85",
+                    "manufactureYear": 1988,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "9081.83.2Р.00686483",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/686483",
+                    "mitypeNumber": "9081-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387752",
+                    "mitypeTitle": "Измерители нелинейных искажений автоматические",
+                    "notation": "С6-11",
+                    "modification": "С6-11",
+                    "manufactureNum": "9103281",
+                    "manufactureYear": 1991,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.762-2011"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "12001-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306872",
+                    "mitypeTitle": "Приборы цифровые автоматические",
+                    "number": "87"
+                },
+                {
+                    "mitypeNumber": "11519-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306186",
+                    "mitypeTitle": "Секундомеры механические",
+                    "number": "9663"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39529488\/0721"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Поверен на поддиапазонах 2000 нФ, 2000 мкФ ... 2000 мФ",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-201152600\/protocol"
+        }
+    },
+    "197803324": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36527-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345893",
+                "mitypeType": "МЦЕ-24А",
+                "mitypeTitle": "Приборы для измерения емкости и тангенса угла потерь конденсаторов",
+                "manufactureNum": "17",
+                "manufactureYear": 2011,
+                "modification": "МЦЕ-24А1"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО - ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ГИРИКОНД\"(АО\"НИИ\"ГИРИКОНД\")",
+            "signCipher": "ГСП",
+            "miOwner": "АО\"НИИ\"ГИРИКОНД\"",
+            "vrfDate": "14.10.2022",
+            "validDate": "13.10.2023",
+            "vriType": "2",
+            "docTitle": "УБМ.675.054 РЭ, раздел 7. Методика поверки",
+            "applicable": {
+                "certNum": "С-ГСП\/14-10-2022\/197803324",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52147.12.3Р.00110745",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/110745",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00026462",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "2224.66.4Р.00227569",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/227569",
+                    "mitypeNumber": "2224-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325965",
+                    "mitypeTitle": "Магазины сопротивлений рычажные",
+                    "notation": "Р4002",
+                    "modification": "Р4002",
+                    "manufactureNum": "12228",
+                    "manufactureYear": 1982,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "2751.71.4Р.00279696",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279696",
+                    "mitypeNumber": "2751-71",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334133",
+                    "mitypeTitle": "Магазины сопротивления измерительные",
+                    "notation": "МСР-60М",
+                    "modification": "МСР-60М",
+                    "manufactureNum": "03049",
+                    "manufactureYear": 1980,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "11918.89.3Р.00290287",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/290287",
+                    "mitypeNumber": "11918-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306741",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "96",
+                    "manufactureYear": 1990,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "7473.79.2Р.00387303",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/387303",
+                    "mitypeNumber": "7473-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385547",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000, М10000",
+                    "modification": "М10000",
+                    "manufactureNum": "85",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "9081.83.2Р.00476695",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/476695",
+                    "mitypeNumber": "9081-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387752",
+                    "mitypeTitle": "Измерители нелинейных искажений автоматические",
+                    "notation": "С6-11",
+                    "modification": "С6-11",
+                    "manufactureNum": "8604145",
+                    "manufactureYear": 1986,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.762-2011"
+                },
+                {
+                    "regNumber": "5480.76.4Р.00558336",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/558336",
+                    "mitypeNumber": "5480-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367290",
+                    "mitypeTitle": "Частотомеры электронно-счетные с преобразователями",
+                    "notation": "Ч3-54, Я3Ч-72, Я3Ч-87, Я3Ч-88",
+                    "modification": "Ч3-54",
+                    "manufactureNum": "106623",
+                    "manufactureYear": 1981,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 31.07.2018 № 1621 «ГПС для средств измерений времени и частоты»"
+                },
+                {
+                    "regNumber": "11786.89.3Р.00633071",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/633071",
+                    "mitypeNumber": "11786-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306550",
+                    "mitypeTitle": "Меры параметров емкости и тангенса угла потерь",
+                    "notation": "МПЕТ-1А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "02",
+                    "manufactureYear": 1989,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "7473.79.3Р.00661316",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/661316",
+                    "mitypeNumber": "7473-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385547",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000, М10000",
+                    "modification": "М10000",
+                    "manufactureNum": "85",
+                    "manufactureYear": 1988,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "12001-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306872",
+                    "mitypeTitle": "Приборы цифровые автоматические",
+                    "number": "87"
+                },
+                {
+                    "mitypeNumber": "11519-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306186",
+                    "mitypeTitle": "Секундомеры механические",
+                    "number": "9663"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39529488\/0721"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Поверен на поддиапазонах 2000 нФ, 2000 мкФ ... 2000 мФ",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-197803324\/protocol"
+        }
+    },
+    "193795944": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36527-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345893",
+                "mitypeType": "МЦЕ-24А",
+                "mitypeTitle": "Приборы для измерения емкости и тангенса угла потерь конденсаторов",
+                "manufactureNum": "06",
+                "manufactureYear": 2008,
+                "modification": "МЦЕ-24А1"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО - ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ГИРИКОНД\"(АО\"НИИ\"ГИРИКОНД\")",
+            "signCipher": "ГСП",
+            "miOwner": "АО\"НИИ\"ГИРИКОНД\"",
+            "vrfDate": "04.10.2022",
+            "validDate": "03.10.2023",
+            "vriType": "2",
+            "docTitle": "УБМ.675.054 РЭ, раздел 7. Методика поверки",
+            "applicable": {
+                "certNum": "С-ГСП\/04-10-2022\/193795944",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52147.12.3Р.00110745",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/110745",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00026462",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "2224.66.4Р.00227569",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/227569",
+                    "mitypeNumber": "2224-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325965",
+                    "mitypeTitle": "Магазины сопротивлений рычажные",
+                    "notation": "Р4002",
+                    "modification": "Р4002",
+                    "manufactureNum": "12228",
+                    "manufactureYear": 1982,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "2751.71.4Р.00279696",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/279696",
+                    "mitypeNumber": "2751-71",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334133",
+                    "mitypeTitle": "Магазины сопротивления измерительные",
+                    "notation": "МСР-60М",
+                    "modification": "МСР-60М",
+                    "manufactureNum": "03049",
+                    "manufactureYear": 1980,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "11918.89.3Р.00290287",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/290287",
+                    "mitypeNumber": "11918-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306741",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "96",
+                    "manufactureYear": 1990,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "7473.79.2Р.00387303",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/387303",
+                    "mitypeNumber": "7473-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385547",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000, М10000",
+                    "modification": "М10000",
+                    "manufactureNum": "85",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "9081.83.2Р.00476695",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/476695",
+                    "mitypeNumber": "9081-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387752",
+                    "mitypeTitle": "Измерители нелинейных искажений автоматические",
+                    "notation": "С6-11",
+                    "modification": "С6-11",
+                    "manufactureNum": "8604145",
+                    "manufactureYear": 1986,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.762-2011"
+                },
+                {
+                    "regNumber": "5480.76.4Р.00558336",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/558336",
+                    "mitypeNumber": "5480-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367290",
+                    "mitypeTitle": "Частотомеры электронно-счетные с преобразователями",
+                    "notation": "Ч3-54, Я3Ч-72, Я3Ч-87, Я3Ч-88",
+                    "modification": "Ч3-54",
+                    "manufactureNum": "106623",
+                    "manufactureYear": 1981,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 31.07.2018 № 1621 «ГПС для средств измерений времени и частоты»"
+                },
+                {
+                    "regNumber": "11786.89.3Р.00633071",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/633071",
+                    "mitypeNumber": "11786-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306550",
+                    "mitypeTitle": "Меры параметров емкости и тангенса угла потерь",
+                    "notation": "МПЕТ-1А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "02",
+                    "manufactureYear": 1989,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "7473.79.3Р.00661316",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/661316",
+                    "mitypeNumber": "7473-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385547",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000, М10000",
+                    "modification": "М10000",
+                    "manufactureNum": "85",
+                    "manufactureYear": 1988,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "12001-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306872",
+                    "mitypeTitle": "Приборы цифровые автоматические",
+                    "number": "87"
+                },
+                {
+                    "mitypeNumber": "53505-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365842",
+                    "mitypeTitle": "Приборы комбинированные",
+                    "number": "39529488\/0721"
+                },
+                {
+                    "mitypeNumber": "11519-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306186",
+                    "mitypeTitle": "Секундомеры механические",
+                    "number": "9663"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": true,
+            "briefCharacteristics": "Поверен на поддиапазонах 20 нФ, 2000 мкФ ... 2000 мФ",
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-193795944\/protocol"
+        }
+    },
+    "158775218": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36527-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345893",
+                "mitypeType": "МЦЕ-24А",
+                "mitypeTitle": "Приборы для измерения емкости и тангенса угла потерь конденсаторов",
+                "manufactureNum": "14",
+                "manufactureYear": 2011,
+                "modification": "МЦЕ-24А"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. САНКТ-ПЕТЕРБУРГЕ И ЛЕНИНГРАДСКОЙ ОБЛАСТИ\"(ФБУ \"ТЕСТ-С.-ПЕТЕРБУРГ\")",
+            "signCipher": "СП",
+            "miOwner": "Акционерное общество \"РОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ЭЛЕКТРОНСТАНДАРТ\"",
+            "vrfDate": "23.05.2022",
+            "vriType": "2",
+            "docTitle": "раздел 7 УБМ2.675.054 РЭ",
+            "inapplicable": {
+                "noticeNum": "И-СП\/23-05-2022\/158775218"
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "5395.76.2Р.47587",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/47587",
+                    "mitypeNumber": "5395-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/366344",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "Р5025",
+                    "modification": "Р5025",
+                    "manufactureNum": "1627",
+                    "manufactureYear": 1989,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80"
+                },
+                {
+                    "regNumber": "11919.89.2Р.00169604",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/169604",
+                    "mitypeNumber": "11919-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306742",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М10000",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "11",
+                    "manufactureYear": 1979,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "7473.79.2Р.00169605",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/169605",
+                    "mitypeNumber": "7473-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385547",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000, М10000",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "10",
+                    "manufactureYear": 1979,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "11786.89.2Р.00169679",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/169679",
+                    "mitypeNumber": "11786-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306550",
+                    "mitypeTitle": "Меры параметров емкости и тангенса угла потерь",
+                    "notation": "МПЕТ-1А",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "7",
+                    "manufactureYear": 1989,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "9381.83.3Р.00218677",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/218677",
+                    "mitypeNumber": "9381-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388217",
+                    "mitypeTitle": "Магазины сопротивления",
+                    "notation": "Р40105, Р40106, Р40107, Р40108",
+                    "modification": "Р40108",
+                    "manufactureNum": "059",
+                    "manufactureYear": 1990,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "16688.97.3Р.00234580",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/234580",
+                    "mitypeNumber": "16688-97",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/316003",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "В7-64, В7-64\/1",
+                    "modification": "В7-64\/1",
+                    "manufactureNum": "1967",
+                    "manufactureYear": 2014,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "4614.74.4Р.00358864",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/358864",
+                    "mitypeNumber": "4614-74",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/357219",
+                    "mitypeTitle": "Магазины электрического сопротивления",
+                    "notation": "МСР Р4830\/1, Р4830\/2, Р4830\/3",
+                    "modification": "Р4830\/2",
+                    "manufactureNum": "6488",
+                    "manufactureYear": 1986,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "143032299": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36527-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345893",
+                "mitypeType": "МЦЕ-24А",
+                "mitypeTitle": "Приборы для измерения емкости и тангенса угла потерь конденсаторов",
+                "manufactureNum": "05",
+                "manufactureYear": 2008,
+                "modification": "МЦЕ-24А1"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО - ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ГИРИКОНД\"(АО\"НИИ\"ГИРИКОНД\")",
+            "signCipher": "ГСП",
+            "miOwner": "АО\"НИИ\"ГИРИКОНД\"",
+            "vrfDate": "23.03.2022",
+            "validDate": "22.03.2023",
+            "vriType": "2",
+            "docTitle": "УБМ.675.054 РЭ, раздел 7. Методика поверки",
+            "applicable": {
+                "certNum": "С-ГСП\/23-03-2022\/143032299",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52147.12.3Р.00110745",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/110745",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00026462",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "2224.66.4Р.00227569",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/227569",
+                    "mitypeNumber": "2224-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325965",
+                    "mitypeTitle": "Магазины сопротивлений рычажные",
+                    "notation": "Р4002",
+                    "modification": "Р4002",
+                    "manufactureNum": "12228",
+                    "manufactureYear": 1982,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "11918.89.3Р.00290287",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/290287",
+                    "mitypeNumber": "11918-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306741",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "96",
+                    "manufactureYear": 1990,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "7473.79.2Р.00387303",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/387303",
+                    "mitypeNumber": "7473-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385547",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000, М10000",
+                    "modification": "М10000",
+                    "manufactureNum": "85",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "2751.71.4Р.00388133",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/388133",
+                    "mitypeNumber": "2751-71",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334133",
+                    "mitypeTitle": "Магазины сопротивления измерительные",
+                    "notation": "МСР-60М",
+                    "modification": "МСР-60М",
+                    "manufactureNum": "3608",
+                    "manufactureYear": 1969,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "5480.76.4Р.00429482",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/429482",
+                    "mitypeNumber": "5480-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367290",
+                    "mitypeTitle": "Частотомеры электронно-счетные с преобразователями",
+                    "notation": "Ч3-54, Я3Ч-72, Я3Ч-87, Я3Ч-88",
+                    "modification": "Ч3-54",
+                    "manufactureNum": "8707017",
+                    "manufactureYear": 1987,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "9081.83.2Р.00476695",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/476695",
+                    "mitypeNumber": "9081-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387752",
+                    "mitypeTitle": "Измерители нелинейных искажений автоматические",
+                    "notation": "С6-11",
+                    "modification": "С6-11",
+                    "manufactureNum": "8604145",
+                    "manufactureYear": 1986,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.762-2011"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "12001-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306872",
+                    "mitypeTitle": "Приборы цифровые автоматические",
+                    "number": "87"
+                },
+                {
+                    "mitypeNumber": "11786-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306550",
+                    "mitypeTitle": "Меры параметров емкости и тангенса угла потерь",
+                    "number": "02"
+                },
+                {
+                    "mitypeNumber": "11519-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306186",
+                    "mitypeTitle": "Секундомеры механические",
+                    "number": "9663"
+                },
+                {
+                    "mitypeNumber": "10069-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304176",
+                    "mitypeTitle": "Психрометры аспирационные",
+                    "number": "3611"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "224"
+                },
+                {
+                    "mitypeNumber": "2370-68",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328400",
+                    "mitypeTitle": "Магазины емкости",
+                    "number": "581"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    },
+    "131352307": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "36527-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/345893",
+                "mitypeType": "МЦЕ-24А",
+                "mitypeTitle": "Приборы для измерения емкости и тангенса угла потерь конденсаторов",
+                "manufactureNum": "09",
+                "manufactureYear": 2008,
+                "modification": "МЦЕ-24А1"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО - ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ГИРИКОНД\"(АО\"НИИ\"ГИРИКОНД\")",
+            "signCipher": "ГСП",
+            "miOwner": "АО\"НИИ\"ГИРИКОНД\"",
+            "vrfDate": "18.01.2022",
+            "validDate": "17.01.2023",
+            "vriType": "2",
+            "docTitle": "УБМ.675.054 РЭ, раздел 7. Методика поверки",
+            "applicable": {
+                "certNum": "С-ГСП\/18-01-2022\/131352307",
+                "signPass": false,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "52147.12.3Р.00110745",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/110745",
+                    "mitypeNumber": "52147-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/364291",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "notation": "В7-78\/1, В7-78\/2, В7-78\/3",
+                    "modification": "В7-78\/1",
+                    "manufactureNum": "TW00026462",
+                    "manufactureYear": 2016,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3457"
+                },
+                {
+                    "regNumber": "5480.76.4Р.00205485",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/205485",
+                    "mitypeNumber": "5480-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367290",
+                    "mitypeTitle": "Частотомеры электронно-счетные с преобразователями",
+                    "notation": "Ч3-54, Я3Ч-72, Я3Ч-87, Я3Ч-88",
+                    "modification": "Ч3-54",
+                    "manufactureNum": "106623",
+                    "manufactureYear": 1981,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "2224.66.4Р.00227569",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/227569",
+                    "mitypeNumber": "2224-66",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325965",
+                    "mitypeTitle": "Магазины сопротивлений рычажные",
+                    "notation": "Р4002",
+                    "modification": "Р4002",
+                    "manufactureNum": "12228",
+                    "manufactureYear": 1982,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "11918.89.3Р.00290287",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/290287",
+                    "mitypeNumber": "11918-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306741",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "96",
+                    "manufactureYear": 1990,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "7473.79.2Р.00387303",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/387303",
+                    "mitypeNumber": "7473-79",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385547",
+                    "mitypeTitle": "Магазины емкости",
+                    "notation": "М1000, М10000",
+                    "modification": "М10000",
+                    "manufactureNum": "85",
+                    "manufactureYear": 1988,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ 8.371-80 «ГСИ. Государственный первичный эталон и общесоюзная поверочная схема для средств измерений электрической ёмкости»"
+                },
+                {
+                    "regNumber": "2751.71.4Р.00388133",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/388133",
+                    "mitypeNumber": "2751-71",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/334133",
+                    "mitypeTitle": "Магазины сопротивления измерительные",
+                    "notation": "МСР-60М",
+                    "modification": "МСР-60М",
+                    "manufactureNum": "3608",
+                    "manufactureYear": 1969,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ от 30.12.2019 № 3456"
+                },
+                {
+                    "regNumber": "9081.83.2Р.00476695",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/476695",
+                    "mitypeNumber": "9081-83",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387752",
+                    "mitypeTitle": "Измерители нелинейных искажений автоматические",
+                    "notation": "С6-11",
+                    "modification": "С6-11",
+                    "manufactureNum": "8604145",
+                    "manufactureYear": 1986,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГОСТ Р 8.762-2011"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "12001-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306872",
+                    "mitypeTitle": "Приборы цифровые автоматические",
+                    "number": "87"
+                },
+                {
+                    "mitypeNumber": "11786-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306550",
+                    "mitypeTitle": "Меры параметров емкости и тангенса угла потерь",
+                    "number": "02"
+                },
+                {
+                    "mitypeNumber": "11519-01",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306184",
+                    "mitypeTitle": "Секундомеры механические",
+                    "number": "9663"
+                },
+                {
+                    "mitypeNumber": "10069-85",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/304176",
+                    "mitypeTitle": "Психрометры аспирационные",
+                    "number": "3611"
+                },
+                {
+                    "mitypeNumber": "5738-76",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1178300",
+                    "mitypeTitle": "Барометры-анероиды метеорологические",
+                    "number": "224"
+                },
+                {
+                    "mitypeNumber": "2370-68",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/328400",
+                    "mitypeTitle": "Магазины емкости",
+                    "number": "581"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

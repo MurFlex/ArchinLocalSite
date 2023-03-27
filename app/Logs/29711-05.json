@@ -1,0 +1,61 @@
+{
+    "203231404": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "29711.05.РЭ.99228",
+                "mitypeNumber": "29711-05",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/337143",
+                "mitypeTitle": "Рабочий эталон единицы средней мощности в волоконно-оптических системах передачи",
+                "mitypeType": "РЭСМ-2-3",
+                "modification": "",
+                "manufactureNum": "0504\/13",
+                "manufactureYear": 2005,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "Приказ Росстандарта от 05.12.2019 №2862"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "Юридическое лицо",
+            "vrfDate": "21.11.2022",
+            "validDate": "20.11.2023",
+            "vriType": "2",
+            "docTitle": "МП Раздел 4 РЭ РЭСМ-2-3",
+            "applicable": {
+                "certNum": "С-А\/21-11-2022\/203231404",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт170-2011",
+                    "title": "ГПСЭ единиц длины и времени распространения сигнала в световоде, средней мощности, ослабления и длины волны оптического излучения для волоконно-оптических систем передачи информации",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397854"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "50576-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362452",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "019923019"
+                },
+                {
+                    "mitypeNumber": "27468-04",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1011276",
+                    "mitypeTitle": "Приборы контроля параметров воздушной среды",
+                    "number": "6157"
+                }
+            ]
+        },
+        "info": {
+            "structure": "ОТ-2-3 № 0504\/13, ОЭП-2 № 13, ПР-2 № 05",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-203231404\/protocol"
+        }
+    }
+}

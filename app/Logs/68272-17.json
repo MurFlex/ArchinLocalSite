@@ -1,0 +1,61 @@
+{
+    "170689579": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "68272.17.РЭ.00354028",
+                "mitypeNumber": "68272-17",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/382313",
+                "mitypeTitle": "Рабочий эталон средней мощности оптического излучения в волоконно-оптических системах передачи",
+                "mitypeType": "РЭСМ-В",
+                "modification": "",
+                "manufactureNum": "18",
+                "manufactureYear": 2017,
+                "rankCode": "РЭ",
+                "rankTitle": "Рабочий эталон",
+                "schemaTitle": "ГПС утвержденная Приказом Росстандарта от 05.12.2019 №2862"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ОПТИКО-ФИЗИЧЕСКИХ ИЗМЕРЕНИЙ\"(ФГУП \"ВНИИОФИ\")",
+            "signCipher": "А",
+            "miOwner": "7809018702 Тест-С.-Петербург ФБУ",
+            "vrfDate": "11.07.2022",
+            "validDate": "10.07.2023",
+            "vriType": "2",
+            "docTitle": "Р 50.2.084-2013",
+            "applicable": {
+                "certNum": "С-А\/11-07-2022\/170689579",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "npe": [
+                {
+                    "number": "гэт170-2011",
+                    "title": "ГПСЭ единиц длины и времени распространения сигнала в световоде, средней мощности, ослабления и длины волны оптического излучения для волоконно-оптических систем передачи информации",
+                    "npeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/12\/items\/397854"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "50576-12",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/362452",
+                    "mitypeTitle": "Вольтметры универсальные",
+                    "number": "019923019"
+                },
+                {
+                    "mitypeNumber": "32014-06",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/340204",
+                    "mitypeTitle": "Измерители параметров микроклимата",
+                    "number": "73610"
+                }
+            ]
+        },
+        "info": {
+            "structure": "измерители оптической мощности менее 10 мВт  и менее 300 мВт №18М, комплект источников оптического излучения",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-170689579\/protocol"
+        }
+    }
+}

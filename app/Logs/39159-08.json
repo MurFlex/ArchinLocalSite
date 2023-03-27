@@ -1,0 +1,80 @@
+{
+    "179841959": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "39159-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1396569",
+                "mitypeType": "СИБН",
+                "mitypeTitle": "Система измерительная стенда для испытаний блока насосов",
+                "manufactureNum": "01",
+                "manufactureYear": 2008,
+                "modification": "СИБН"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В ПЕРМСКОМ КРАЕ\"(ФБУ \"ПЕРМСКИЙ ЦСМ\")",
+            "signCipher": "ВН",
+            "miOwner": "-",
+            "vrfDate": "02.08.2022",
+            "validDate": "01.08.2023",
+            "vriType": "2",
+            "docTitle": "СТ3-008.01 МП",
+            "applicable": {
+                "certNum": "С-ВН\/02-08-2022\/179841959",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "53064.13.4Р.00134144",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/134144",
+                    "mitypeNumber": "53064-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/365348",
+                    "mitypeTitle": "Генераторы сигналов специальной формы",
+                    "notation": "АКИП-3409\/1, АКИП-3409\/2, АКИП-3409\/3, АКИП-3409\/4, АКИП-3409\/5",
+                    "modification": "АКИП-3409\/1",
+                    "manufactureNum": "NDG10GAD1R0924",
+                    "manufactureYear": 2018,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "9084.90.4Р.00163529",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/163529",
+                    "mitypeNumber": "9084-90",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/387757",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "notation": "Ч3-63\/1",
+                    "modification": "Ч3-63\/1",
+                    "manufactureNum": "9002019",
+                    "manufactureYear": 1990,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "Приказ 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "16347.03.1Р.00213733",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/213733",
+                    "mitypeNumber": "16347-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/315299",
+                    "mitypeTitle": "Калибраторы давления",
+                    "notation": "DPI",
+                    "modification": "DPI мод. DPI 610",
+                    "manufactureNum": "61017369",
+                    "manufactureYear": 2004,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1339 от 29.06.2018"
+                }
+            ]
+        },
+        "info": {
+            "structure": "МИДА-ДИ-13П, № 11209341; МИДА-ДИ-12П, № 10416270; МИДА-ДИ-12П, № 10416629",
+            "briefIndicator": false,
+            "additional_info": "Протокол поверки № 38755\/1 на 4 листах прилагается."
+        }
+    }
+}

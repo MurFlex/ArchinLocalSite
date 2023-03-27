@@ -1,0 +1,113 @@
+{
+    "179824400": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "38016-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/347685",
+                "mitypeType": "АТС DAS-2A8D",
+                "mitypeTitle": "Система информационно-измерительная для определения параметров устойчивости, управляемости и торможения",
+                "manufactureNum": "855-7004",
+                "modification": "АТС DAS-2A8D"
+            }
+        },
+        "vriInfo": {
+            "organization": "Общество с ограниченной ответственностью «МетрЛифтСервис»(ООО «МетрЛифтСервис»)",
+            "signCipher": "ЕВЧ",
+            "miOwner": "ЮР. ЛИЦО",
+            "vrfDate": "12.08.2022",
+            "validDate": "11.08.2023",
+            "vriType": "2",
+            "docTitle": "МП РТ 1321-2008",
+            "applicable": {
+                "certNum": "С-ЕВЧ\/12-08-2022\/179824400",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "9773.89.1Р.53952",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/53952",
+                    "mitypeNumber": "9773-89",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/388777",
+                    "mitypeTitle": "Призмы многогранные",
+                    "notation": "ПМ6...ПМ36",
+                    "modification": "ПМ36",
+                    "manufactureNum": "15-89",
+                    "manufactureYear": 1989,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 26 ноября 2018 г. № 2482"
+                },
+                {
+                    "regNumber": "26906.15.4Р.64948",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/64948",
+                    "mitypeNumber": "26906-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/333303",
+                    "mitypeTitle": "Головки делительные оптические",
+                    "notation": "ОДГЭ",
+                    "modification": "ОДГЭ-5",
+                    "manufactureNum": "5529",
+                    "manufactureYear": 2015,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "«Государственная поверочная схема для средств измерений плоского угла»"
+                },
+                {
+                    "regNumber": "64545.16.2Р.00226312",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/226312",
+                    "mitypeNumber": "64545-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378230",
+                    "mitypeTitle": "Измерители крутящего момента силы",
+                    "notation": "TTT-FMT, TTT-STB, TTT-STT, TTT-ATT, TTT-RTT",
+                    "modification": "TTT-FMT25",
+                    "manufactureNum": "180039\/180211",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений крутящего момента силы"
+                },
+                {
+                    "regNumber": "64545.16.2Р.00226351",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/226351",
+                    "mitypeNumber": "64545-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378230",
+                    "mitypeTitle": "Измерители крутящего момента силы",
+                    "notation": "TTT-FMT, TTT-STB, TTT-STT, TTT-ATT, TTT-RTT",
+                    "modification": "TTT-FMT400",
+                    "manufactureNum": "180039\/180179",
+                    "manufactureYear": 2019,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государственная поверочная схема для средств измерений крутящего момента силы"
+                },
+                {
+                    "regNumber": "67638.17.2Р.00377893",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/377893",
+                    "mitypeNumber": "67638-17",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/381612",
+                    "mitypeTitle": "Динамометры электронные",
+                    "notation": "АЦД",
+                    "modification": "АЦД\/1С-0,1\/1И-0,5",
+                    "manufactureNum": "7877",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Государсвтенной поверочной схемой для средств измерений силы"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "56478-14",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/369187",
+                    "mitypeTitle": "Частотомеры электронно-счетные",
+                    "number": "6СС086013"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

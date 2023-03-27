@@ -1,0 +1,77 @@
+{
+    "178743991": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "38362-08",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1396987",
+                "mitypeType": "Agilent N5766A",
+                "mitypeTitle": "Источники питания постоянного тока",
+                "manufactureNum": "US15N4704P",
+                "modification": "N5766A"
+            }
+        },
+        "vriInfo": {
+            "organization": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"ИСТОК\" ИМЕНИ А. И. ШОКИНА\"(АО \"НПП \"ИСТОК\" ИМ. ШОКИНА\")",
+            "signCipher": "АБТ",
+            "miOwner": "АО \"НПП \"Исток\" им. Шокина\"",
+            "vrfDate": "26.07.2022",
+            "validDate": "25.07.2023",
+            "vriType": "2",
+            "docTitle": "МП 36420-07",
+            "applicable": {
+                "certNum": "С-АБТ\/26-07-2022\/178743991",
+                "signPass": true,
+                "signMi": true
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "25900.03.2Р.00297329",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/297329",
+                    "mitypeNumber": "25900-03",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/331748",
+                    "mitypeTitle": "Мультиметры",
+                    "notation": "3458A",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "MY45049824",
+                    "manufactureYear": 2013,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "ГПС для средств измерений постоянного электрического напряжения и электродвижущей силы. Приказ 3457"
+                },
+                {
+                    "regNumber": "1162.58.3Р.00445697",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/445697",
+                    "mitypeNumber": "1162-58",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306319",
+                    "mitypeTitle": "Катушки электрического сопротивления измерительные",
+                    "notation": "Р310, Р321, Р331",
+                    "modification": "Р310",
+                    "manufactureNum": "000368",
+                    "manufactureYear": 1984,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ Росстандарта № 3456 от 30.12.2019г."
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "7657-80",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/385811",
+                    "mitypeTitle": "Микровольтметры",
+                    "number": "4620"
+                },
+                {
+                    "mitypeNumber": "62972-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/376540",
+                    "mitypeTitle": "Нагрузки электронные программируемые",
+                    "number": "2885690295"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

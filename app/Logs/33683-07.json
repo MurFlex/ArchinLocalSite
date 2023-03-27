@@ -1,0 +1,47 @@
+{
+    "199992722": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "33683-07",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1396932",
+                "mitypeType": "Thermo Tracer TH7700",
+                "mitypeTitle": "Камера инфракрасная",
+                "manufactureNum": "9110831",
+                "modification": "Thermo Tracer TH7700"
+            }
+        },
+        "vriInfo": {
+            "organization": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНЭКС СЕРТ\"(ООО \"ИНЭКС СЕРТ\")",
+            "signCipher": "ДИЭ",
+            "miOwner": "Юр. Лицо",
+            "vrfDate": "07.11.2022",
+            "validDate": "06.11.2023",
+            "vriType": "2",
+            "docTitle": "\"Камера инфракрасная Thermo Tracer TH7700.Методика поверки\"",
+            "applicable": {
+                "certNum": "С-ДИЭ\/07-11-2022\/199992722",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mis": [
+                {
+                    "mitypeNumber": "22249-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/325979",
+                    "mitypeTitle": "Излучатели",
+                    "number": "1412"
+                },
+                {
+                    "mitypeNumber": "26476-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332667",
+                    "mitypeTitle": "Излучатели - протяженное черное тело",
+                    "number": "006"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false
+        }
+    }
+}

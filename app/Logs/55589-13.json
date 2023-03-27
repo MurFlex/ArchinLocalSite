@@ -1,0 +1,91 @@
+{
+    "199666732": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "55589-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/368175",
+                "mitypeType": "NI PXIe-5663E, NI PXIe-5665",
+                "mitypeTitle": "Анализаторы сигналов модульные многоканальные",
+                "manufactureNum": "00EF7E07\/00F43FCA\/00F3F0B6",
+                "manufactureYear": 2014,
+                "modification": "NI PXIe-5665"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В СВЕРДЛОВСКОЙ ОБЛАСТИ\"(ФБУ \"УРАЛТЕСТ\")",
+            "signCipher": "СЕ",
+            "miOwner": "Акционерное общество \"Уральское производственное предприятие \"Вектор\"",
+            "vrfDate": "07.11.2022",
+            "validDate": "06.11.2023",
+            "vriType": "2",
+            "docTitle": "МП РТ 1970-2013",
+            "applicable": {
+                "certNum": "С-СЕ\/07-11-2022\/199666732",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "13444.92.3Р.00293265",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/293265",
+                    "mitypeNumber": "13444-92",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/308997",
+                    "mitypeTitle": "Стандарты частоты и времени",
+                    "notation": "Ч1-83",
+                    "modification": "Ч1-83 модификации Ч1-83\/3",
+                    "manufactureNum": "055",
+                    "manufactureYear": 1997,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Государственная поверочная схема, утв. приказом Росстандарта № 1621 от 31.07.2018"
+                },
+                {
+                    "regNumber": "64926.16.2Р.00619453",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/619453",
+                    "mitypeNumber": "64926-16",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/378636",
+                    "mitypeTitle": "Ваттметры поглощаемой мощности СВЧ",
+                    "notation": "NRP6A, NRP6AN, NRP18A, NRP18AN, NRP40S, NRP40SN, NRP50S, NRP50SN",
+                    "modification": "NRP18AN",
+                    "manufactureNum": "101040",
+                    "manufactureYear": 2021,
+                    "rankCode": "2Р",
+                    "rankTitle": "Эталон 2-го разряда",
+                    "schemaTitle": "Приказ Росстандарта от 30.12.2019 г. № 3461"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "42593-09",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/353142",
+                    "mitypeTitle": "Анализаторы спектра",
+                    "number": "101410"
+                },
+                {
+                    "mitypeNumber": "39230-08",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/349152",
+                    "mitypeTitle": "Генераторы сигналов",
+                    "number": "102994"
+                },
+                {
+                    "mitypeNumber": "76455-19",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/953415",
+                    "mitypeTitle": "Приборы комбинированные для контроля параметров окружающей среды",
+                    "number": "017"
+                },
+                {
+                    "mitypeNumber": "46199-10",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1397360",
+                    "mitypeTitle": "Синтезаторы частот ",
+                    "number": "11008024"
+                }
+            ]
+        },
+        "info": {
+            "structure": "NI PXIe-5622 00EF7E07,NI PXIe-5605 00F43FCA,NI PXIe-5653 00F3F0B6",
+            "briefIndicator": false
+        }
+    }
+}

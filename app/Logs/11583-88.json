@@ -1,0 +1,64 @@
+{
+    "183915320": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "11583-88",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/306268",
+                "mitypeType": "С9-28",
+                "mitypeTitle": "Осциллографы специальные",
+                "manufactureNum": "0013091",
+                "modification": "С9-28"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ФБУ \"Ростест-Москва\"",
+            "vrfDate": "06.09.2022",
+            "validDate": "05.09.2024",
+            "vriType": "2",
+            "docTitle": "Раздел \"Методика поверки\" Технического описания Тг2.044.035ТО",
+            "applicable": {
+                "certNum": "С-МА\/06-09-2022\/183915320",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "30374.13.4Р.00103938",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/103938",
+                    "mitypeNumber": "30374-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338035",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "118770706",
+                    "manufactureYear": 2014,
+                    "rankCode": "4Р",
+                    "rankTitle": "Эталон 4-го разряда",
+                    "schemaTitle": "ГПС для средств измерений времени и частоты, приказ № 1621"
+                },
+                {
+                    "regNumber": "30374.13.1Р.00103949",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/103949",
+                    "mitypeNumber": "30374-13",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/338035",
+                    "mitypeTitle": "Калибраторы осциллографов",
+                    "notation": "9500B",
+                    "modification": "Нет модификации",
+                    "manufactureNum": "118770706",
+                    "manufactureYear": 2014,
+                    "rankCode": "1Р",
+                    "rankTitle": "Эталон 1-го разряда",
+                    "schemaTitle": "ГПС для средств измерений измерений импульсного электрического напряжения, приказ № 3463"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "additional_info": "a2e352f1-793f-41ad-8863-be72b1777097"
+        }
+    }
+}

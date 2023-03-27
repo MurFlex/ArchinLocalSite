@@ -1,0 +1,70 @@
+{
+    "205277813": {
+        "miInfo": {
+            "singleMI": {
+                "mitypeNumber": "54635-13",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/367109",
+                "mitypeType": "MicroNet",
+                "mitypeTitle": "Контроллеры измерительные программируемые",
+                "manufactureNum": "0101082460",
+                "modification": "СВК-15Г"
+            }
+        },
+        "vriInfo": {
+            "organization": "Индивидуальный Предприниматель Субоч Андрей Михайлович(ИП Субоч А.М.)",
+            "signCipher": "ДЭЗ",
+            "miOwner": "ФЛ",
+            "vrfDate": "01.12.2022",
+            "validDate": "03.11.2026",
+            "vriType": "2",
+            "docTitle": "МИ 1592-2015 «Рекомендация. ГСИ. Счетчики воды. Методика поверки.»",
+            "applicable": {
+                "certNum": "С-ДЭЗ\/01-12-2022\/205277813",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "mieta": [
+                {
+                    "regNumber": "60661.15.3Р.00561067",
+                    "mietaURL": "https:\/\/fgis.gost.ru\/fundmetrology\/cm\/etalons\/561067",
+                    "mitypeNumber": "60661-15",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/373953",
+                    "mitypeTitle": "Установки поверочные",
+                    "notation": "ВПУ - Энерго М",
+                    "modification": "ВПУ - Энерго М",
+                    "manufactureNum": "020.15.861",
+                    "manufactureYear": 2019,
+                    "rankCode": "3Р",
+                    "rankTitle": "Эталон 3-го разряда",
+                    "schemaTitle": "Приказ  от 07.02.2018  №256"
+                }
+            ],
+            "mis": [
+                {
+                    "mitypeNumber": "299-11",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/337417",
+                    "mitypeTitle": "Термометры ртутные стеклянные лабораторные",
+                    "number": "32"
+                },
+                {
+                    "mitypeNumber": "44154-20",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/1384160",
+                    "mitypeTitle": "Секундомеры электронные",
+                    "number": "428357"
+                },
+                {
+                    "mitypeNumber": "71394-18",
+                    "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/492623",
+                    "mitypeTitle": "Измерители влажности и температуры",
+                    "number": "75345"
+                }
+            ]
+        },
+        "info": {
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-205277813\/protocol"
+        }
+    }
+}

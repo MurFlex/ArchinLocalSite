@@ -1,0 +1,48 @@
+{
+    "204475142": {
+        "miInfo": {
+            "etaMI": {
+                "regNumber": "26249.03.2Р.00727394",
+                "mitypeNumber": "26249-03",
+                "mitypeURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/4\/items\/332278",
+                "mitypeTitle": "Установка поверочная",
+                "mitypeType": "ИУП",
+                "modification": "ИУП",
+                "manufactureNum": "1",
+                "manufactureYear": 2003,
+                "rankCode": "2Р",
+                "rankTitle": "Эталон 2-го разряда",
+                "schemaTitle": "по Приказу Росстандарта от 30.12.2019г. №3459"
+            }
+        },
+        "vriInfo": {
+            "organization": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"ГОСУДАРСТВЕННЫЙ РЕГИОНАЛЬНЫЙ ЦЕНТР СТАНДАРТИЗАЦИИ, МЕТРОЛОГИИ И ИСПЫТАНИЙ В Г. МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ\"(ФБУ \"РОСТЕСТ-МОСКВА\")",
+            "signCipher": "МА",
+            "miOwner": "ООО \"НТЦ Экофизприбор\"",
+            "vrfDate": "16.11.2022",
+            "validDate": "15.11.2023",
+            "vriType": "2",
+            "docTitle": "Раздел 2. \"Поверка\" паспорта КЗРС.407890.033 ПС",
+            "applicable": {
+                "certNum": "С-МА\/16-11-2022\/204475142",
+                "signPass": false,
+                "signMi": false
+            }
+        },
+        "means": {
+            "uve": [
+                {
+                    "number": "3.1.ZMA.0136.2012",
+                    "title": "ГЭЕ длины 2 разряда в диапазоне значений от 0 до 24000 мм",
+                    "uveURL": "https:\/\/fgis.gost.ru\/fundmetrology\/registry\/11\/items\/428257"
+                }
+            ]
+        },
+        "info": {
+            "structure": "Рулетка измерительная металлическая Fisco мод. UM3M № 106",
+            "briefIndicator": false,
+            "protocol_url": "https:\/\/fgis.gost.ru\/fundmetrology\/eapi\/vri\/1-204475142\/protocol",
+            "additional_info": "c18d306e-40f1-4c8a-8bb5-157e20106f40"
+        }
+    }
+}
