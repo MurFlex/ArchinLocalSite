@@ -16,9 +16,9 @@ class CreateSinglemiDevicesTable extends Migration
         Schema::create('singlemi_devices', function (Blueprint $table) {
             $table->id('device_id');
             $table->string('mitypeNumber');
-            $table->string('mitypeURL');
-            $table->string('mitypeType');
-            $table->string('mitypeTitle');
+            $table->text('mitypeURL');
+            $table->text('mitypeType');
+            $table->text('mitypeTitle');
             $table->string('manufactureNum')->nullable();
             $table->string('inventoryNum')->nullable();
             $table->string('manufactureYear')->nullable();

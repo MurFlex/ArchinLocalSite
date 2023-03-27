@@ -91,7 +91,7 @@ class ProductController extends Controller
                     'device_id', '=', $id)->first()->toArray());
         }
 
-        return view('device_info', [
+        return view('pages.device_info', [
             'device' => $device,
             'decoding' => $decoding
         ]);

@@ -16,8 +16,10 @@ class CreateStoragesTable extends Migration
         Schema::create('storages', function (Blueprint $table) {
             $table->id();
             $table->string('company_id');
-            $table->string('type')->nullable();
-            $table->string('modification')->nullable();
+            $table->string('category_id');
+            $table->text('type')->nullable();
+            $table->text('modification')->nullable();
+            $table->text('year')->nullable();
             $table->integer('count');
             $table->integer('inapplicable');
             $table->timestamps();

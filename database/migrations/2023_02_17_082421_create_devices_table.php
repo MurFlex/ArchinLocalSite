@@ -17,8 +17,8 @@ class CreateDevicesTable extends Migration
             $table->id('device_id');
             $table->string('category_id');
             $table->integer('company_id')->nullable();
-            $table->string('mitypeType')->nullable();
-            $table->string('modification')->nullable();
+            $table->text('mitypeType')->nullable();
+            $table->text('modification')->nullable();
             $table->string('miInfoType')->nullable();
             $table->string('applicable')->nullable();
             $table->timestamps();

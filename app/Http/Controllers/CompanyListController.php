@@ -2,7 +2,10 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Category;
+use App\Models\Company;
 use App\Models\Device;
+use App\Models\Storage;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Foundation\Validation\ValidatesRequests;
@@ -13,76 +16,47 @@ class CompanyListController extends Controller
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
-    public function index($name, Request $request) {
-        $name = trim($name);
+    public function index($id, Request $request)
+    {
+        $storages = Storage::where('company_id', '=', $id)->leftJoin('categories', function($join){
+            $join->on('storages.category_id', '=', 'categories.category_id');
+        })->get();
+
         $count = 0;
         $inapplicableCount = 0;
 
-        // todo change query to a one
-        try {
-            $company_id = DB::select(DB::raw(
-                'SELECT
-                            company_id
-                        FROM
-                             companies
-                        WHERE
-                              LOWER(company_name) = ' . "'" . $name . "'")
-            )[0]->company_id;
-        } catch (\Exception $e) {
-            abort(404);
-        } catch (\Error $e) {
-            abort(404);
-        }
+        $company_name = Company::where('company_id', '=', $storages->first()->company_id)->first()->company_name;
 
         $categories = array();
-        $applicable = array();
-        $inapplicable = array();
-        $category_type = array();
 
-        $queryResult = Device::where(
-            'company_id', '=', $company_id)->rightJoin(
-                'categories', function($join) {
-           $join->on('devices.category_id', '=', 'categories.category_id');
-        })->get()->toArray();
-
-//        dd($queryResult);
-
-//        dd($queryResult);
-        //todo convert into an obj
-        foreach($queryResult as $result) {
-            if(!isset($categories[$result['category_id']])) {
-                $categories[$result['category_id']] =  $result['category_title'];
-                $category_type[$result['category_id']] = $result['category_type'];
-                if($result['applicable'] == 'Y') {
-                    $applicable[$result['category_id']] = 1;
-                    $inapplicable[$result['category_id']] = 0;
-                } else {
-                    $applicable[$result['category_id']] = 0;
-                    $inapplicable[$result['category_id']] = 1;
-                }
+        foreach($storages as $storage) {
+            if(!isset($categories[$storage->category_id])) {
+                $categories[$storage->category_id] = [
+                    'category_title' => $storage->category_title,
+                    'category_type' => $storage->type,
+                    'count' => $storage->count,
+                    'inapplicable' => $storage->inapplicable,
+                ];
             } else {
-                if ($result['applicable'] == 'Y')
-                    $applicable[$result['category_id']]++;
-                else
-                    $inapplicable[$result['category_id']]++;
+                $categories[$storage->category_id]['count'] += $storage->count;
+                $categories[$storage->category_id]['inapplicable'] += $storage->inapplicable;
             }
+            $count += $storage->count;
+            $inapplicableCount += $storage->inapplicable;
         }
 
-//        dd($inapplicable);
+//        dd($storages);
 
-        $count = array_sum($applicable);
-        $inapplicableCount = array_sum($inapplicable);
+        uasort($categories, fn($a, $b) => $b['count'] <=> $a['count']);
 
-//        dd($applicable);
+//        dd($categories);
 
-        return view('company_categories', [
-            'count'             => $count,
+        return view('pages.company_categories', [
             'inapplicableCount' => $inapplicableCount,
-            'category_types'    => $category_type,
-            'applicable'        => $applicable,
-            'inapplicable'      => $inapplicable,
+            'count'             => $count,
             'categories'        => $categories,
-            'name'              => $name,
+            'name'              => $company_name,
+            'company_id'        => $id,
         ]);
     }
 }

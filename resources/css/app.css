@@ -1,0 +1,24 @@
+.btn-up {
+    position: fixed;
+    background-color: #125ea8;
+    right: 20%;
+    bottom: 0;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 50px;
+}
+
+.btn-up_hide {
+    display: none;
+}
+
+@media (hover: hover) and (pointer: fine) {
+    .btn-up:hover {
+        background-color: #125ee0;
+    }
+}

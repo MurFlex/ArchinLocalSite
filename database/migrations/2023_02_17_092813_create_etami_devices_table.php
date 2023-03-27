@@ -19,7 +19,7 @@ class CreateEtamiDevicesTable extends Migration
             $table->string('mitypeNumber');
             $table->string('mitypeURL')->nullable();
             $table->string('mitypeTitle');
-            $table->string('mitypeType')->nullable();
+            $table->text('mitypeType')->nullable();
             $table->string('modification')->nullable();
             $table->string('manufactureNum')->nullable();
             $table->string('manufactureYear')->nullable();

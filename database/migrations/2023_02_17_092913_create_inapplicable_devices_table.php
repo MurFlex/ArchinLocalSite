@@ -16,7 +16,7 @@ class CreateInapplicableDevicesTable extends Migration
         Schema::create('inapplicable_devices', function (Blueprint $table) {
             $table->id('device_id');
             $table->integer('company_id')->nullable();
-            $table->string('noticeNum')->nullable();
+            $table->text('noticeNum')->nullable();
             $table->timestamps();
         });
     }

@@ -21,11 +21,27 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// todo group by controllers using middlewares
+
 Route::get('/', [Auth::class, 'checkIp']);
 
-Route::get('/dev', [SearchController::class, 'index']);
+// Search controller routes
+
+Route::get('/search', [SearchController::class, 'index']);
+
+Route::post('/api/delete', [SearchController::class, 'banCompany']);
+
+Route::post('/api/return', [SearchController::class, 'unbanCompany']);
+
+Route::post('/api/rename/', [SearchController::class, 'renameCompany']);
+
+// Product controller routes
 
 Route::get('/device/{id}', [ProductController::class, 'index']);
+
+// Parse controller routes
+
+Route::get('/temp', [ParseController::class, 'temp']);
 
 Route::get('/parse', [ParseController::class, 'index']);
 
@@ -33,8 +49,14 @@ Route::get('/updateStorage', [ParseController::class, 'updateStorage']);
 
 Route::post('/api/device/{id}', [ParseController::class, 'insertDevice']);
 
-Route::get('/company/{name}', [CompanyListController::class, 'index']);
+// Company list controller routes
 
-Route::get('/company/{name}/{category_id}', [CompanyCategoriesController::class, 'index']);
+Route::get('/company/{id}', [CompanyListController::class, 'index']);
+
+// Company categories controller routes
+
+Route::get('/company/{id}/{category_id}', [CompanyCategoriesController::class, 'index']);
+
+// Transition routes
 
 Route::get('/trans', [FilesToDbTransition::class, 'index']);
