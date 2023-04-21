@@ -5,11 +5,12 @@ namespace App\Http\Controllers;
 use App\Models\ApplicableDevice;
 use App\Models\Device;
 use App\Models\InapplicableDevice;
-use Illuminate\Http\Request;
 
 class ProductController extends Controller
 {
     /**
+     * Controller for displaying single device information
+     *
      * @param $id
      * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
      */

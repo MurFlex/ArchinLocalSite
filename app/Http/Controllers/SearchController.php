@@ -7,11 +7,8 @@ use App\Models\Changes;
 use App\Models\Company;
 use App\Models\Device;
 use App\Models\InapplicableDevice;
-use App\Models\PartymiDevice;
 use App\Models\Storage;
-use App\Models\VriInfo;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\DB;
 
 class SearchController extends Controller
 {
@@ -144,6 +141,7 @@ class SearchController extends Controller
 
     /**
      * Main search controller
+     *
      * @param Request $request
      * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
      */
@@ -171,6 +169,10 @@ class SearchController extends Controller
                 ['company_name', 'LIKE', '%' . $request['company_name'] . '%'],
             ])->get();
 
+            if(count($data) == 0){
+                $data = Company::where('company_name', 'LIKE', '%' . $request['company_name'] . '%')->get();
+            }
+
         } elseif ($request['device_name'] !== null) {
             $swapWords = [
                 'С' => 'C', # Ru to eng
@@ -183,12 +185,11 @@ class SearchController extends Controller
                 'Х' => 'X',
                 'В' => 'B',
                 'Т' => 'T',
+                'О' => 'O'
             ];
 
-            $request['device_name'] = strtr(mb_strtoupper($request['device_name']), $swapWords);
-
             $data = Storage::where([
-                ['type', 'LIKE', '%' . $request['device_name'] . '%'],
+                ['type', 'LIKE', '%' . strtr(mb_strtoupper($request['device_name']), $swapWords) . '%'],
                 ['year', 'LIKE', $request['years']]
             ])->leftJoin('companies', function($join) {
                 $join->on('storages.company_id', '=', 'companies.company_id');
@@ -206,12 +207,11 @@ class SearchController extends Controller
                 'X' => 'Х',
                 'B' => 'В',
                 'T' => 'Т',
+                'O' => 'О'
             ];
 
-            $request['device_name'] = strtr(mb_strtoupper($request['device_name']), $swapWords);
-
             $addtionalData = Storage::where([
-                ['type', 'LIKE', '%' . $request['device_name'] . '%'],
+                ['type', 'LIKE', '%' . strtr(mb_strtoupper($request['device_name']), $swapWords) . '%'],
                 ['year', 'LIKE', $request['years']]
             ])->leftJoin('companies', function($join) {
                 $join->on('storages.company_id', '=', 'companies.company_id');
@@ -239,12 +239,12 @@ class SearchController extends Controller
                     if (!isset($companies[$storage->company_id])) {
                         $companies[$storage->company_id] = [
                             'name' => $storage->company_name,
-                            'count' => $storage->count,
-                            'inapplicable' => $storage->inapplicable,
+                            'count' => $storage->count ?? 0,
+                            'inapplicable' => $storage->inapplicable ?? 0,
                         ];
                     } else {
-                        $companies[$storage->company_id]['count'] += $storage->count;
-                        $companies[$storage->company_id]['inapplicable'] += $storage->inapplicable;
+                        $companies[$storage->company_id]['count'] += $storage->count ?? 0;
+                        $companies[$storage->company_id]['inapplicable'] += $storage->inapplicable ?? 0;
                     }
                 } else {
                     $bannedCompanies[$storage->company_id] = $storage->company_name;

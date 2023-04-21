@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ArchinController;
 use App\Http\Controllers\Auth;
 use App\Http\Controllers\CompanyCategoriesController;
 use App\Http\Controllers\CompanyListController;
@@ -27,7 +28,7 @@ Route::get('/', [Auth::class, 'checkIp']);
 
 // Search controller routes
 
-Route::get('/search', [SearchController::class, 'index']);
+Route::get('/dev', [SearchController::class, 'index']);
 
 Route::post('/api/delete', [SearchController::class, 'banCompany']);
 
@@ -60,3 +61,7 @@ Route::get('/company/{id}/{category_id}', [CompanyCategoriesController::class, '
 // Transition routes
 
 Route::get('/trans', [FilesToDbTransition::class, 'index']);
+
+// Archin page
+
+Route::get('/archin', [ArchinController::class, 'index']);

@@ -2,21 +2,24 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Category;
 use App\Models\Company;
-use App\Models\Device;
 use App\Models\Storage;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\DB;
 
 class CompanyListController extends Controller
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
-    public function index($id, Request $request)
+    /**
+     * Controller for displaying categories of requested company
+     *
+     * @param $id
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
+     */
+    public function index($id)
     {
         $storages = Storage::where('company_id', '=', $id)->leftJoin('categories', function($join){
             $join->on('storages.category_id', '=', 'categories.category_id');
@@ -45,11 +48,7 @@ class CompanyListController extends Controller
             $inapplicableCount += $storage->inapplicable;
         }
 
-//        dd($storages);
-
         uasort($categories, fn($a, $b) => $b['count'] <=> $a['count']);
-
-//        dd($categories);
 
         return view('pages.company_categories', [
             'inapplicableCount' => $inapplicableCount,

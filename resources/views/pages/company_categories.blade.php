@@ -16,7 +16,7 @@
                 <input type="text" class="form-control pull-right" id="search" placeholder="Поиск по таблице">
             </div>
         </div>
-            <table id="mytable" style="margin-right: 20px" class="table table-striped table-bordered table-sm mt-2">
+            <table id="mytable" style="margin-right: 20px" class="table align-middle mt-2">
                 <thead>
                 <tr style="font-weight: bold;">
                     <td>Название категории</td>
