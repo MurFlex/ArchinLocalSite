@@ -30,29 +30,36 @@
                 <a data-bs-toggle="modal" href="#exampleModalToggle" role="button"> <h6>Скрытые компании</h6></a>
             @endif
         </div>
-        <table style="margin-right: 20px" class="table table-striped table-bordered table-sm">
+        <table style="margin-right: 20px" class="table align-middle">
             <thead>
             <tr>
                 <th scope="col">id</th>
-                <th scope="col">Имя компании</th>
-                <th class="text-center" scope="col">Кол-во</th>
-                <th class="text-center" scope="col">Не прошло</th>
+                <th>Имя компании</th>
+                <th class="text-center">Кол-во</th>
+                <th class="text-center">Не прошло</th>
+                <th></th>
             </tr>
             </thead>
             <tbody>
-            @foreach ($companies as $id => $company)
-                <tr id="{{ $id }}">
-                    <th width="10%" scope="row">{{ $id }}</th>
-                    <td width="60%">{{ $company['name'] }}</td>
-                    <td class="text-center" width="10%"> {{ $company['count'] ?? 'Нет данных' }}</td>
-                    <td class="text-center" width="10%"> {{ $company['inapplicable'] ?? 'Нет данных' }}</td>
-                    <td height="100%" class="d-flex">
-                        <button style="margin-right: 5px" type="button" data-bs-toggle="modal" href="#editing_form" class="btn edit-button btn-outline-primary btn-small">Ред.</button>
-                        <button onclick="window.location = '/company/'.concat($(this).closest('tr').attr('id'));" style="margin-right: 5px" type="button" class="btn btn-outline-info btn-small">Инф.</button>
-                        <button type="button" class="btn btn-outline-danger btn-small" data-bs-toggle="modal" data-bs-target="#exampleModal" onclick="setCookie('id', $(this).closest('tr').attr('id'), 1)">Удл.</button>
-                    </td>
-                </tr>
-            @endforeach
+            @if(!empty($companies))
+                @foreach ($companies as $id => $company)
+                    <tr id="{{ $id }}">
+                        <th width="10%" scope="row">{{ $id }}</th>
+                        <td width="60%">{{ $company['name'] }}</td>
+                        <td class="text-center" width="10%"> {{ $company['count'] ?? 0}}</td>
+                        <td class="text-center" width="10%"> {{ $company['inapplicable'] ?? 0}}</td>
+                        <td height="100%">
+                            <div class="d-flex">
+                                <button style="margin-right: 5px" type="button" data-bs-toggle="modal" href="#editing_form" class="btn edit-button btn-outline-primary btn-small">Ред.</button>
+                                <button onclick="window.location = '/company/'.concat($(this).closest('tr').attr('id'));" style="margin-right: 5px" type="button" class="btn btn-outline-info btn-small">Инф.</button>
+                                <button type="button" class="btn btn-outline-danger btn-small" data-bs-toggle="modal" data-bs-target="#exampleModal" onclick="setCookie('id', $(this).closest('tr').attr('id'), 1)">Удл.</button>
+                            </div>
+                        </td>
+                    </tr>
+                @endforeach
+            @elseif($request['device_name'] !== null || $request['years'] !== null || $request['company_name'] !== null)
+                <p> Ничего не найдено. @if($request['device_name'] !== null) <a href='https://fgis.gost.ru/fundmetrology/cm/results?filter_mi_mitype={{ $request['device_name'] }}&activeYear=Все'> Перейти в аршин </a> @endif</p>
+            @endif
             </tbody>
         </table>
     </div>
@@ -164,16 +171,15 @@
         });
 
         $('.edit-button').click(function () {
-            editing_name = $(this).parent().parent().find("td:eq(0)").text();
-            editing_id = $(this).parent().parent().attr('id');
-
+            editing_name = $(this).parent().parent().parent().find('td:eq(0)').text();
+            editing_id = $(this).parent().parent().parent().attr('id');
             $('#edit-from-cname').val(editing_name);
         });
 
         // todo make an inspection if response was bad
         $('.banned_company').ready(function () {
             $('.deleting_button').click(function () {
-                let deleted_id = $(this).parent().attr('id');
+                // let deleted_id = $(this).parent().attr('id');
                 let unbanData = {
                     'id':$(this).parent().attr('id'),
                 };
@@ -185,7 +191,7 @@
                     encode: true,
                     success: $(this).text('\u{2713}')
                 });
-                return false;
+
             })
         });
 
@@ -202,7 +208,7 @@
                 encode: true,
                 success: location.reload()
             });
-            return false;
+
         });
 
         $('.btn').click(function () {

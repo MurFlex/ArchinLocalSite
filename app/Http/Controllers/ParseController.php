@@ -13,11 +13,13 @@ use App\Models\SinglemiDevice;
 use App\Models\Storage;
 use App\Models\VriInfo;
 use Illuminate\Http\Request;
-use Illuminate\Session\Store;
 use Illuminate\Support\Facades\DB;
 
 class ParseController extends Controller
     {
+        /**
+         * Method for testing some things
+         */
         public function temp() {
             $categories = Category::get('category_id')->toArray();
             $data = json_decode(file_get_contents('../app/Helpers/sample.json'), true);
@@ -40,6 +42,8 @@ class ParseController extends Controller
         }
 
         /**
+         * Getting json data from fgis
+         *
          * @param $id
          * @return string
          */
@@ -67,6 +71,7 @@ class ParseController extends Controller
         }
 
         /**
+         * Useless
          * @param array $array
          */
         private function printData (array $array)
@@ -85,11 +90,14 @@ class ParseController extends Controller
         }
 
         /**
+         * Updating storage table
+         *
          * @return \Illuminate\Http\JsonResponse
          */
         public function updateStorage () {
             DB::table('storages')->truncate();
 
+            // Getting all devices
             $singleMiDevices = Device::leftJoin('vri_infos', function($join) {
                 $join->on('devices.device_id', '=', 'vri_infos.device_id');
             })->Join('singlemi_devices', function($join) {
@@ -108,9 +116,11 @@ class ParseController extends Controller
                 $join->on('devices.device_id', '=', 'partymi_devices.device_id');
             })->get();
 
+            // Merging into one collection
             $devices = collect($singleMiDevices)->merge($etaMiDevices)->merge($partyMiDevices)->sortByDesc('device_id');
             $results = array();
 
+            // Getting data with unique certificate num (every match overwrite certficate num)
             foreach($devices as $device) {
                 if(!isset($results[$device->company_id][$device->category_id][$device->mitypeType][$device->modification][substr($device->vrfDate, -4)][$device->manufactureNum])){
                     if(isset($results[$device->company_id][$device->category_id][$device->mitypeType][$device->modification])){
@@ -124,6 +134,7 @@ class ParseController extends Controller
                 }
             }
 
+            // Creating db records
             foreach($results as $companyId => $companyCategories) {
                 foreach($companyCategories as $companyCategory => $companyTypes) {
                     foreach($companyTypes as $type => $modifications) {
@@ -151,6 +162,8 @@ class ParseController extends Controller
         }
 
         /**
+         * Inserting device for API
+         *
          * @param $id
          * @return \Illuminate\Http\JsonResponse
          */
@@ -318,10 +331,10 @@ class ParseController extends Controller
         {
             $request = $request->all();
             $current_time = time();
-            $delay = 30 * 60;
-            $data = json_decode(file_get_contents('../app/Helpers/new_result.json'));
+            $delay = 30 /** <-- change here in minutes */ * 60;
 
             if(!empty($request)) {
+                $data = json_decode(file_get_contents('../app/Helpers/new_result.json'));
                 file_put_contents(
                     '../app/Logs/result-' . date(
                         "Y-m-d H-i-s") . ' Started' . '.json', '');
@@ -344,7 +357,7 @@ class ParseController extends Controller
                                 if($data !== 'Bad response!') {
                                     $result[$id] = $device_data;
                                 } else {
-                                    print('Bad Response!');
+                                    file_put_contents('../helpers/error.txt', $id . PHP_EOL, FILE_APPEND);
                                 }
 
                                 if((time() - $current_time) > $delay) {

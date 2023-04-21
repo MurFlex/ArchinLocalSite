@@ -10,14 +10,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
 <style>
-    /** {*/
-    /*    max-height: 100vh;*/
-    /*}*/
-
-    /*.table-responsive {*/
-    /*    max-height: 75%;*/
-    /*}*/
-
     .btn-up {
         position: fixed;
         background-color: #125ea8;

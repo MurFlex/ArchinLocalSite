@@ -5,8 +5,6 @@ namespace App\Http\Controllers;
 use App\Models\Category;
 use App\Models\Company;
 use App\Models\Device;
-use Illuminate\Http\Request;
-use Illuminate\Support\Facades\DB;
 
 class CompanyCategoriesController extends Controller
 {
@@ -49,22 +47,20 @@ class CompanyCategoriesController extends Controller
         $devices = array_merge(
             array_merge($singleMiDevices, $etaMiDevices), $partyMiDevices);
 
-//        dd($devices);
         array_multisort(array_column($devices, 'manufactureNum'), SORT_DESC,
-            array_column($devices, 'device_id'),SORT_ASC, SORT_NUMERIC,
-            $devices);
-
-        $prevId = null;
-        foreach($devices as $deviceId => $device) {
-            if(isset($devices[$prevId]) && $devices[$prevId]['manufactureNum'] == $device['manufactureNum']) {
-                unset($devices[$prevId]);
-            }
-            $prevId = $deviceId;
-        }
-
-        array_multisort(
             array_column($devices, 'device_id'),SORT_DESC, SORT_NUMERIC,
             $devices);
+
+        foreach($devices as $deviceId => $device) {
+            if(isset($device['manufactureNum'])) {
+                $devices[$device['manufactureNum']][] = $device;
+            } else {
+                $devices['noNum'][] = $device;
+            }
+            unset($devices[$deviceId]);
+        }
+
+        // Not sorting here because there is one on java script in template
 
         return view('pages.company', [
             'category_id'       => $category_info[0]['category_id'],

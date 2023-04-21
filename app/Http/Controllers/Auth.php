@@ -16,7 +16,7 @@ class Auth extends BaseController
      */
     public function checkIp() {
         if(request()->ip()){
-            return redirect('/search');
+            return redirect('/dev');
         } else {
             return view('hello');
         }

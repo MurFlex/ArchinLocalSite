@@ -11,8 +11,6 @@ use App\Models\PartymiDevice;
 use App\Models\EtamiDevice;
 use App\Models\Company;
 use App\Models\VriInfo;
-use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Redirect;
 
 class FilesToDbTransition extends Controller
 {
@@ -111,6 +109,8 @@ class FilesToDbTransition extends Controller
     }
 
     /**
+     * Contoller to copy data from files to database
+     *
      * @return \Illuminate\Http\RedirectResponse|\Illuminate\Routing\Redirector
      */
     public function index()
@@ -118,19 +118,19 @@ class FilesToDbTransition extends Controller
             $dir = '../app/Logs/';
             $files = scandir($dir);
 
-            $categories_data = json_decode(
-                file_get_contents('../app/Helpers/new_result.json'),
-                1);
-
-            foreach ($categories_data as $category => $data) {
-                if (!count(Category::where('category_id', '=', $category)->get())) {
-                    $category_db = new Category();
-                    $category_db->category_id = $category;
-                    $category_db->category_title = $data['name'];
-                    $category_db->category_type = $data['type'];
-                    $category_db->save();
-                }
-            }
+//            $categories_data = json_decode(
+//                file_get_contents('../app/Helpers/new_result.json'),
+//                1);
+//
+//            foreach ($categories_data as $category => $data) {
+//                if (!count(Category::where('category_id', '=', $category)->get())) {
+//                    $category_db = new Category();
+//                    $category_db->category_id = $category;
+//                    $category_db->category_title = $data['name'];
+//                    $category_db->category_type = $data['type'];
+//                    $category_db->save();
+//                }
+//            }
 
             $filtered_files = array();
             foreach (array_slice($files, 2) as $file) {
